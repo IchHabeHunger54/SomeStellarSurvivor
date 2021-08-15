@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pamhc2foodextended:supremepizzaitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2foodextended:pizzasliceitem",
+    "count": 10
+  }
+}

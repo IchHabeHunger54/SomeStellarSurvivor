@@ -1,0 +1,18 @@
+{
+  "parent": "root.json",
+  "text": "link_example.txt",
+  "title": "Link Example",
+  "title_locale": "book.citadel_book.link_example",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
+  "entity_renders": [
+  ]
+}

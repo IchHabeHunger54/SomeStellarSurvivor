@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "inspirations:block/nether_portal_tinted"
+    },
+    "axis=z": {
+      "model": "inspirations:block/nether_portal_tinted",
+      "y": 90
+    }
+  }
+}

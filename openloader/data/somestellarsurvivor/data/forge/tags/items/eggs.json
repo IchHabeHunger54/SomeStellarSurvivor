@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:egg",
+    "alexsmobs:crocodile_egg",
+    "alexsmobs:emu_egg"
+  ]
+}

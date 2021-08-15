@@ -1,0 +1,30 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "roughtweaks:isconfigenabled",
+          "config_setting": "enable_plaster"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "roughtweaks:salve"
+          },
+          {
+            "item": "minecraft:string"
+          },
+          {
+            "item": "minecraft:paper"
+          }
+        ],
+        "result": {
+          "item": "roughtweaks:plaster"
+        }
+      }
+    }
+  ]
+}

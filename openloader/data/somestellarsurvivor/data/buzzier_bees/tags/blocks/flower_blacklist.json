@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wither_rose"
+  ],
+  "optional": [
+    "#botania:mystical_flowers",
+    "#botania:special_flowers"
+  ]
+}
