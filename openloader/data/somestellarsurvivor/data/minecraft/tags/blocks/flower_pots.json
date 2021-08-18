@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#inspirations:flower_pots",
     "minecraft:flower_pot",

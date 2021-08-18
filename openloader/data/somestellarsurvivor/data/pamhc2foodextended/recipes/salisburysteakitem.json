@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:rawbeef"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:salisburysteakitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

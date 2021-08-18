@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    },
+    {
+      "item": "pamhc2foodcore:mashedpotatoesitem"
+    },
+    {
+      "tag": "forge:rawchicken"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:mashedpotatoeschickenbiscuititem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

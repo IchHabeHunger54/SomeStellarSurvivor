@@ -1,0 +1,7 @@
+{
+  "entity": {
+    "type": "minecraft:husk"
+  },
+  "result": "tconstruct:husk_head",
+  "type": "tconstruct:severing"
+}

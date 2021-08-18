@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "chute",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:rods/wooden"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
   "pattern": [
     "WWW",
     "SWS",
     " S "
   ],
-  "key": {
-    "W": {
-      "tag": "minecraft:planks"
-    },
-    "S": {
-      "tag": "forge:rods/wooden"
-    }
-  },
   "result": {
     "item": "quark:chute"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "chute"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:gears",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "forge:gears"
   },
   "cast_consumed": true,
-  "switch_slots": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:gears",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 57,
   "fluid": {
-    "tag": "tconstruct:molten_gold",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_gold"
   },
   "result": "tconstruct:gear_cast",
-  "cooling_time": 57
+  "switch_slots": true,
+  "type": "tconstruct:casting_table"
 }

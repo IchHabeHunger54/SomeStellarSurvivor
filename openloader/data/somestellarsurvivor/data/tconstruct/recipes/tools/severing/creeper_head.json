@@ -1,7 +1,7 @@
 {
-  "type": "tconstruct:severing",
   "entity": {
     "type": "minecraft:creeper"
   },
-  "result": "minecraft:creeper_head"
+  "result": "minecraft:creeper_head",
+  "type": "tconstruct:severing"
 }

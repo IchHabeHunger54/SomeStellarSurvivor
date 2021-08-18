@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "potato_crate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:potato"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
     "item": "quark:potato_crate"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "potato_crate"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

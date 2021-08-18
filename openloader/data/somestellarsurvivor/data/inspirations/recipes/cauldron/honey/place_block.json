@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,12 +10,12 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "minecraft:honey_block",
+      "type": "inspirations:custom"
+    },
     "item": {
       "item": "minecraft:honey_block"
-    },
-    "contents": {
-      "type": "inspirations:custom",
-      "name": "minecraft:honey_block"
     },
     "level": {
       "max": 0
@@ -24,12 +23,13 @@
   },
   "output": {
     "contents": {
-      "type": "inspirations:custom",
-      "name": "minecraft:honey_block"
+      "name": "minecraft:honey_block",
+      "type": "inspirations:custom"
     },
     "level": {
       "set": 12
     }
   },
-  "sound": "minecraft:block.honey_block.place"
+  "sound": "minecraft:block.honey_block.place",
+  "type": "inspirations:cauldron"
 }

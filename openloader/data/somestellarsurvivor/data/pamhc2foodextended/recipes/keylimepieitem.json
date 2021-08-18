@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/lime"
+    },
+    {
+      "tag": "forge:meringue"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:keylimepieitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

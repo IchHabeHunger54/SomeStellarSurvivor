@@ -1,14 +1,14 @@
 {
+  "effects": [
+    "Your tool is now unbreakable",
+    "Single Level",
+    "Requires 1 Ability Slot, Reinforced 5, Netherite",
+    "Some modifiers are not affected by unbreaking, examples include tasty, and glowing"
+  ],
   "modifier_id": "tconstruct:unbreakable",
   "text": [
     {
       "text": "Broken things are not fun, thankfully things can be made unbreakable."
     }
-  ],
-  "effects": [
-     "Your tool is now unbreakable",
-    "Single Level",
-    "Requires 1 Ability Slot, Reinforced 5, Netherite",
-	"Some modifiers are not affected by unbreaking, examples include tasty, and glowing"
   ]
 }

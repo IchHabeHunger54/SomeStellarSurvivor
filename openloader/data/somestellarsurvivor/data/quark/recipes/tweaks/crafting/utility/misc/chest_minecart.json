@@ -1,10 +1,11 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "chest_minecart",
-  "pattern": [
-    "#X#",
-    "###"
+  "conditions": [
+    {
+      "flag": "minecart_upgrade",
+      "type": "quark:flag"
+    }
   ],
+  "group": "chest_minecart",
   "key": {
     "#": {
       "item": "minecraft:iron_ingot"
@@ -13,13 +14,12 @@
       "tag": "forge:chests/wooden"
     }
   },
+  "pattern": [
+    "#X#",
+    "###"
+  ],
   "result": {
     "item": "minecraft:chest_minecart"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "minecart_upgrade"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

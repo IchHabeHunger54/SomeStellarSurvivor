@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:batter"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:cookedpork"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:baconpancakesitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

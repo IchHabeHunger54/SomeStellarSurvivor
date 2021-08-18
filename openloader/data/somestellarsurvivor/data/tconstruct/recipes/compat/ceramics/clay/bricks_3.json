@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
       "modid": "ceramics",
@@ -11,18 +10,19 @@
       "tag": "ceramics:terracotta_cisterns"
     },
     {
-      "type": "forge:nbt",
-      "item": "ceramics:clay_bucket"
+      "item": "ceramics:clay_bucket",
+      "type": "forge:nbt"
     },
     {
-      "type": "forge:nbt",
-      "item": "ceramics:cracked_clay_bucket"
+      "item": "ceramics:cracked_clay_bucket",
+      "type": "forge:nbt"
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_clay",
-    "amount": 750
+    "amount": 750,
+    "fluid": "tconstruct:molten_clay"
   },
   "temperature": 450,
-  "time": 80
+  "time": 80,
+  "type": "tconstruct:melting"
 }

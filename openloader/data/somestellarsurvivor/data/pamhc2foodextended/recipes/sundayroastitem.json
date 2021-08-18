@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "item": "pamhc2foodextended:roastchickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:roastpotatoesitem"
+    },
+    {
+      "tag": "forge:vegetables"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:sundayroastitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

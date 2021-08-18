@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:condiments/mustard"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:spicymustardporkitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

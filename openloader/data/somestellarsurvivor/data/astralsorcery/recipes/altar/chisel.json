@@ -1,14 +1,9 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 1,
   "duration": 200,
-  "starlight": 800,
-  "pattern": [
-    "_____",
-    "__BC_",
-    "__AB_",
-    "_A___",
-    "B____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -23,12 +18,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:chisel",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:chisel"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "_____",
+    "__BC_",
+    "__AB_",
+    "_A___",
+    "B____"
+  ],
+  "starlight": 800,
+  "type": "astralsorcery:altar"
 }

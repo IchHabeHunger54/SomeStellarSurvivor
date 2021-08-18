@@ -1,14 +1,12 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 2,
   "duration": 400,
-  "starlight": 2000,
-  "pattern": [
-    "AB_BA",
-    "__A__",
-    "_DED_",
-    "_____",
-    "AC_CA"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -29,15 +27,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:colored_lens_growth",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:colored_lens_growth"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "AB_BA",
+    "__A__",
+    "_DED_",
+    "_____",
+    "AC_CA"
+  ],
+  "starlight": 2000,
+  "type": "astralsorcery:altar"
 }

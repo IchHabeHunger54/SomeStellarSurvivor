@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#tconstruct:casts/gold",
     "#tconstruct:casts/sand",

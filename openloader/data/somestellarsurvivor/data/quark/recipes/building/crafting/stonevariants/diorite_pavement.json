@@ -1,32 +1,32 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "stone_pavement",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "diorite",
+          "type": "quark:flag"
+        }
+      ]
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:polished_diorite"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:diorite_pavement",
-    "count": 9
+    "count": 9,
+    "item": "quark:diorite_pavement"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "stone_pavement"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "diorite"
-        }
-      ]
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

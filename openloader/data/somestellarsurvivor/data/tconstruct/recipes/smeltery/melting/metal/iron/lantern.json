@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": [
     {
       "item": "minecraft:lantern"
@@ -9,9 +8,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_iron",
-    "amount": 128
+    "amount": 128,
+    "fluid": "tconstruct:molten_iron"
   },
   "temperature": 800,
-  "time": 57
+  "time": 57,
+  "type": "tconstruct:melting"
 }

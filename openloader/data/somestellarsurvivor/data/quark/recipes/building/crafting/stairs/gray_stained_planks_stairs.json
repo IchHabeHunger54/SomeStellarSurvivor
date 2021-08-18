@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "stained_planks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:gray_stained_planks"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:gray_stained_planks_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:gray_stained_planks_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "stained_planks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

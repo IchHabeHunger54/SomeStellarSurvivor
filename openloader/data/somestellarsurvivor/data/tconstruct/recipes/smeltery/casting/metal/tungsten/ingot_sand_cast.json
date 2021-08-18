@@ -1,24 +1,24 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:ingots/tungsten",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/single_use/ingot"
   },
   "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/tungsten",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 65,
   "fluid": {
-    "tag": "tconstruct:molten_tungsten",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_tungsten"
   },
   "result": {
     "tag": "forge:ingots/tungsten"
   },
-  "cooling_time": 65
+  "type": "tconstruct:casting_table"
 }

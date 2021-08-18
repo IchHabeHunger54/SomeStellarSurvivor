@@ -1,16 +1,11 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "hanami"
+      "modid": "hanami",
+      "type": "forge:mod_loaded"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "large_boat",
-  "pattern": [
-    "#W#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "hanami:sakura_planks"
@@ -19,7 +14,12 @@
       "item": "hanami:sakura_boat"
     }
   },
+  "pattern": [
+    "#W#",
+    "###"
+  ],
   "result": {
     "item": "extraboats:large_sakura_boat"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

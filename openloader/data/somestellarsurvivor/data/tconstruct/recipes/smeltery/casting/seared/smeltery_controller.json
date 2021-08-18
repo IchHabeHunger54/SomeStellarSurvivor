@@ -1,13 +1,13 @@
 {
-  "type": "tconstruct:casting_basin",
   "cast": {
     "item": "tconstruct:seared_heater"
   },
   "cast_consumed": true,
+  "cooling_time": 100,
   "fluid": {
-    "name": "tconstruct:molten_copper",
-    "amount": 576
+    "amount": 576,
+    "name": "tconstruct:molten_copper"
   },
   "result": "tconstruct:smeltery_controller",
-  "cooling_time": 100
+  "type": "tconstruct:casting_basin"
 }

@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "stained_planks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:purple_stained_planks"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:purple_stained_planks_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:purple_stained_planks_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "stained_planks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,10 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
   "group": "tconstruct:slime_boots",
-  "pattern": [
-    "X X",
-    "# #"
-  ],
   "key": {
     "#": {
       "item": "tconstruct:earth_congealed_slime"
@@ -13,7 +8,12 @@
       "tag": "forge:slimeball/green"
     }
   },
+  "pattern": [
+    "X X",
+    "# #"
+  ],
   "result": {
     "item": "tconstruct:earth_slime_boots"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

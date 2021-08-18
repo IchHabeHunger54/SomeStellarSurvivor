@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:dyes/green"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:greeneggsandhamitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

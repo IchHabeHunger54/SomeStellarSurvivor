@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##"
+  "conditions": [
+    {
+      "flag": "shingles",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:terracotta"
     }
   },
+  "pattern": [
+    "##"
+  ],
   "result": {
-    "item": "quark:shingles",
-    "count": 2
+    "count": 2,
+    "item": "quark:shingles"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "shingles"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

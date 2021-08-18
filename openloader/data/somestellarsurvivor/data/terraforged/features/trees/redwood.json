@@ -14,103 +14,103 @@
   ],
   "replace": {
     "config": {
+      "decorator": {
+        "config": {
+          "filter": "biome",
+          "placement": {
+            "config": {
+              "biome_fade": 0.3,
+              "density_scale": 250,
+              "density_variation": 0.75,
+              "jitter": 0.8,
+              "radius": 6,
+              "scale": 0.3
+            },
+            "type": "terraforged:fast_poisson_surface"
+          }
+        },
+        "type": "terraforged:filter"
+      },
       "feature": {
         "config": {
           "features": [
             {
+              "context": {
+                "biome": {
+                  "exclusive": false,
+                  "from": 0.1,
+                  "to": 0.3
+                },
+                "chance": 0.4,
+                "elevation": {
+                  "exclusive": false,
+                  "from": 0.15,
+                  "to": 0.0
+                }
+              },
               "feature": {
                 "config": {
                   "template": "terraforged:redwood_huge"
                 },
                 "type": "terraforged:template"
-              },
-              "context": {
-                "chance": 0.4,
-                "elevation": {
-                  "from": 0.15,
-                  "to": 0.0,
-                  "exclusive": false
-                },
-                "biome": {
-                  "from": 0.1,
-                  "to": 0.3,
-                  "exclusive": false
-                }
               }
             },
             {
+              "context": {
+                "biome": {
+                  "exclusive": false,
+                  "from": 0.05,
+                  "to": 0.25
+                },
+                "chance": 0.2,
+                "elevation": {
+                  "exclusive": false,
+                  "from": 0.25,
+                  "to": 0.0
+                }
+              },
               "feature": {
                 "config": {
                   "template": "terraforged:redwood_large"
                 },
                 "type": "terraforged:template"
-              },
-              "context": {
-                "chance": 0.2,
-                "elevation": {
-                  "from": 0.25,
-                  "to": 0.0,
-                  "exclusive": false
-                },
-                "biome": {
-                  "from": 0.05,
-                  "to": 0.25,
-                  "exclusive": false
-                }
               }
             },
             {
+              "context": {
+                "chance": 0.4,
+                "elevation": {
+                  "exclusive": false,
+                  "from": 0.35,
+                  "to": 0.15
+                }
+              },
               "feature": {
                 "config": {
                   "template": "terraforged:spruce_large"
                 },
                 "type": "terraforged:template"
-              },
-              "context": {
-                "chance": 0.4,
-                "elevation": {
-                  "from": 0.35,
-                  "to": 0.15,
-                  "exclusive": false
-                }
               }
             },
             {
+              "context": {
+                "chance": 0.2,
+                "elevation": {
+                  "exclusive": false,
+                  "from": 0.5,
+                  "to": 0.2
+                }
+              },
               "feature": {
                 "config": {
                   "template": "terraforged:spruce_small"
                 },
                 "type": "terraforged:template"
-              },
-              "context": {
-                "chance": 0.2,
-                "elevation": {
-                  "from": 0.5,
-                  "to": 0.2,
-                  "exclusive": false
-                }
               }
             }
           ]
         },
         "type": "terraforged:context_selector"
-      },
-      "decorator": {
-        "config": {
-          "placement": {
-            "config": {
-              "radius": 6,
-              "scale": 0.3,
-              "jitter": 0.8,
-              "biome_fade": 0.3,
-              "density_scale": 250,
-              "density_variation": 0.75
-            },
-            "type": "terraforged:fast_poisson_surface"
-          },
-          "filter": "biome"
-        },
-        "type": "terraforged:filter"
       }
     },
     "type": "minecraft:decorated"

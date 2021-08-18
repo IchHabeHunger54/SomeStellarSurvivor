@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:rawbeef"
+    },
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "tag": "forge:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:mushroomsteakitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

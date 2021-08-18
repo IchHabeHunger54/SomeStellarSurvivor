@@ -1,5 +1,4 @@
 {
-  "modid": "storagedrawers",
   "kitchenConnectors": [
     "storagedrawers:controller_slave",
     "storagedrawers:controller",
@@ -15,5 +14,6 @@
     "storagedrawers:standard_drawers_2",
     "storagedrawers:standard_drawers_4",
     "storagedrawers:fractional_drawers_3"
-  ]
+  ],
+  "modid": "storagedrawers"
 }

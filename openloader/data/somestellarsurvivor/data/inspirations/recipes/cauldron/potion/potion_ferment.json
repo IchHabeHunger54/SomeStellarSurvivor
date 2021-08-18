@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron_potion_ferment",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -10,5 +9,6 @@
       "type": "inspirations:config"
     }
   ],
-  "time": 600
+  "time": 600,
+  "type": "inspirations:cauldron_potion_ferment"
 }

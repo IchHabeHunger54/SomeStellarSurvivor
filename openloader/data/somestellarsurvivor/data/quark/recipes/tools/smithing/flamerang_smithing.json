@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:smithing",
-  "base": {
-    "item": "quark:pickarang"
-  },
   "addition": {
     "item": "minecraft:netherite_ingot"
   },
+  "base": {
+    "item": "quark:pickarang"
+  },
   "result": {
     "item": "quark:flamerang"
-  }
+  },
+  "type": "minecraft:smithing"
 }

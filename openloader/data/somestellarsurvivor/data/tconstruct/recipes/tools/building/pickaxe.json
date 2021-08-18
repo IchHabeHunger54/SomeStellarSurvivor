@@ -1,4 +1,4 @@
 {
-  "type": "tconstruct:tool_building",
-  "result": "tconstruct:pickaxe"
+  "result": "tconstruct:pickaxe",
+  "type": "tconstruct:tool_building"
 }

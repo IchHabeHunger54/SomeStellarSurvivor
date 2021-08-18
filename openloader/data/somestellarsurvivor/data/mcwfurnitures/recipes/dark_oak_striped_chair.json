@@ -1,0 +1,23 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:dark_oak_plate"
+    },
+    "B": {
+      "item": "minecraft:dark_oak_fence"
+    },
+    "C": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  A",
+    " AC",
+    " BB"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:dark_oak_striped_chair"
+  },
+  "type": "minecraft:crafting_shaped"
+}

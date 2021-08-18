@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "cookingforblockheads:recipe_book",
     "cookingforblockheads:crafting_book",

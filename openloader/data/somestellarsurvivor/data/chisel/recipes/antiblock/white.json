@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "S": {
+      "tag": "forge:stone"
+    }
+  },
   "pattern": [
     "SSS",
     "SGS",
     "SSS"
   ],
-  "key": {
-    "S": {
-      "tag": "forge:stone"
-    },
-    "G": {
-      "tag": "forge:dusts/glowstone"
-    }
-  },
   "result": {
-    "item": "chisel:antiblock/white",
-    "count": 8
-  }
+    "count": 8,
+    "item": "chisel:antiblock/white"
+  },
+  "type": "minecraft:crafting_shaped"
 }

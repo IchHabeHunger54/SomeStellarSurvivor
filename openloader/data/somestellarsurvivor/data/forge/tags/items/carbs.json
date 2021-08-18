@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:carbs/barley",
     "#forge:carbs/corn",

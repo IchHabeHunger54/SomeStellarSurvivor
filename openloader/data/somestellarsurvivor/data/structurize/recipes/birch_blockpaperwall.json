@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "PPP",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "minecraft:birch_planks"
@@ -13,8 +7,14 @@
       "item": "minecraft:paper"
     }
   },
+  "pattern": [
+    "###",
+    "PPP",
+    "###"
+  ],
   "result": {
-    "item": "structurize:birch_blockpaperwall",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:birch_blockpaperwall"
+  },
+  "type": "minecraft:crafting_shaped"
 }

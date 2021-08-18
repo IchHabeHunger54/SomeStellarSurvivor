@@ -1,28 +1,23 @@
 {
-  "parent": "root.json",
-  "text": "mungus.txt",
-  "title": "Mungus",
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-  ],
-  "tabula_renders": [
-  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:mungus",
-      "x": 95,
-      "y": 120,
+      "follow_cursor": false,
       "page": 0,
-      "scale": 2.2,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "follow_cursor": false
+      "scale": 2.2,
+      "x": 95,
+      "y": 120
     }
-  ]
+  ],
+  "images": [],
+  "item_renders": [],
+  "linked_page_buttons": [],
+  "parent": "root.json",
+  "recipes": [],
+  "tabula_renders": [],
+  "text": "mungus.txt",
+  "title": "Mungus"
 }

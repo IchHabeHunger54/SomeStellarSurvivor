@@ -1,20 +1,20 @@
 {
-  "title":"Advertisements",
   "text": [
     {
       "text": "Coming soon to bookshelves near you."
     },
     {
-      "text": "ALRIGHT YOU TINKERS LISTEN UP. I am the one and only §lTHRUUL M'GON§r and my two new upcoming books §oPuny Smelting§r and §oMighty Smelting§r will teach you how to use much better materials, melt your metals, alloy, and SO MUCH MORE.",
-	  "paragraph": true
+      "paragraph": true,
+      "text": "ALRIGHT YOU TINKERS LISTEN UP. I am the one and only \u00c2\u00a7lTHRUUL M'GON\u00c2\u00a7r and my two new upcoming books \u00c2\u00a7oPuny Smelting\u00c2\u00a7r and \u00c2\u00a7oMighty Smelting\u00c2\u00a7r will teach you how to use much better materials, melt your metals, alloy, and SO MUCH MORE."
     },
     {
-      "text": "I've got a whole lot of stuff made out of slime, gunpowder, and all the weirdest stuff that you could possibly think of! Coming soon in §oTinker's Gadgetry§r by Melvin",
-      "paragraph": true
+      "paragraph": true,
+      "text": "I've got a whole lot of stuff made out of slime, gunpowder, and all the weirdest stuff that you could possibly think of! Coming soon in \u00c2\u00a7oTinker's Gadgetry\u00c2\u00a7r by Melvin"
     },
-	 {
-      "text": "There is nothing quite as fantastic as a foundry. Learn more in  §oFantastic Foundry§r by Namea",
-      "paragraph": true
+    {
+      "paragraph": true,
+      "text": "There is nothing quite as fantastic as a foundry. Learn more in  \u00c2\u00a7oFantastic Foundry\u00c2\u00a7r by Namea"
     }
-  ]
+  ],
+  "title": "Advertisements"
 }

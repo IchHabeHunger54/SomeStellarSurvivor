@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "myalite",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 1,
   "ingredient": {
     "item": "quark:myalite_bricks"
   },
   "result": "quark:myalite_bricks_stairs",
-  "count": 1,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "myalite"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

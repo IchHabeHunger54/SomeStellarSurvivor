@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "basalt",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:polished_basalt"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:polished_basalt_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:polished_basalt_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "basalt"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

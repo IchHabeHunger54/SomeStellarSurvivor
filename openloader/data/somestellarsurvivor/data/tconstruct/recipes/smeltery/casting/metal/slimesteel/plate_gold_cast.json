@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:plates/slimesteel",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/plate"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:plates/slimesteel",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 63,
   "fluid": {
-    "tag": "tconstruct:molten_slimesteel",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_slimesteel"
   },
   "result": {
     "tag": "forge:plates/slimesteel"
   },
-  "cooling_time": 63
+  "type": "tconstruct:casting_table"
 }

@@ -1,10 +1,11 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "hopper_minecart",
-  "pattern": [
-    "#X#",
-    "###"
+  "conditions": [
+    {
+      "flag": "minecart_upgrade",
+      "type": "quark:flag"
+    }
   ],
+  "group": "hopper_minecart",
   "key": {
     "#": {
       "item": "minecraft:iron_ingot"
@@ -13,13 +14,12 @@
       "item": "minecraft:hopper"
     }
   },
+  "pattern": [
+    "#X#",
+    "###"
+  ],
   "result": {
     "item": "minecraft:hopper_minecart"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "minecart_upgrade"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

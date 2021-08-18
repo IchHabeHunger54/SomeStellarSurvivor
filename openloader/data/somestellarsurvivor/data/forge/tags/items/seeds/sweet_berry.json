@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "berry_good:sweet_berry_pips"
   ]

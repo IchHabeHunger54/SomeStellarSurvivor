@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "turf",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:turf"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:turf_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:turf_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "turf"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

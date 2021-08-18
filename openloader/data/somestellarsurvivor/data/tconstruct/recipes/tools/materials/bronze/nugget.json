@@ -1,18 +1,18 @@
 {
-  "type": "tconstruct:material",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:nuggets/bronze",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:nuggets/bronze"
   },
-  "value": 1,
+  "material": "tconstruct:bronze",
   "needed": 9,
-  "material": "tconstruct:bronze"
+  "type": "tconstruct:material",
+  "value": 1
 }

@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "#B#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "tconstruct:scorched_brick"
@@ -13,7 +7,13 @@
       "tag": "forge:gems/quartz"
     }
   },
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
   "result": {
     "item": "tconstruct:scorched_fuel_tank"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

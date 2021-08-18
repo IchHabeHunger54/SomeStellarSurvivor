@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:firmtofu"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:crops/scallion"
+    },
+    {
+      "item": "pamhc2foodextended:taiyakiitem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:misosoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

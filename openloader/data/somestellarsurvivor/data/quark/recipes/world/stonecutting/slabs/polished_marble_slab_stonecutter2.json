@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "marble",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 2,
   "ingredient": {
     "item": "quark:marble"
   },
   "result": "quark:polished_marble_slab",
-  "count": 2,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "marble"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

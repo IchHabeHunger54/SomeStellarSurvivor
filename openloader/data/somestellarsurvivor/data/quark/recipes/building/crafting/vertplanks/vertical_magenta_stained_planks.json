@@ -1,32 +1,32 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#",
-    "#",
-    "#"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "vertical_planks",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "stained_planks",
+          "type": "quark:flag"
+        }
+      ]
+    }
   ],
   "key": {
     "#": {
       "item": "quark:magenta_stained_planks"
     }
   },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
   "result": {
-    "item": "quark:vertical_magenta_stained_planks",
-    "count": 3
+    "count": 3,
+    "item": "quark:vertical_magenta_stained_planks"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "vertical_planks"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "stained_planks"
-        }
-      ]
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

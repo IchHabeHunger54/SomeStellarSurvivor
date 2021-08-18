@@ -1,0 +1,36 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:crops/orange"
+    },
+    {
+      "tag": "forge:crops/ginger"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:spices/blackpepper"
+    },
+    {
+      "tag": "forge:crops/peanut"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:kungpaochickenitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

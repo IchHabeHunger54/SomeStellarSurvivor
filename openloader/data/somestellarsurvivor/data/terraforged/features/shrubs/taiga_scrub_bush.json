@@ -11,31 +11,8 @@
     "terraforged:snowy_taiga_scrub",
     "terraforged:taiga_scrub"
   ],
-  "match": [],
-  "stage": "VEGETAL_DECORATION",
   "head": {
     "config": {
-      "feature": {
-        "config": {
-          "trunk": {
-            "Properties": {
-              "axis": "y"
-            },
-            "Name": "minecraft:spruce_log"
-          },
-          "leaves": {
-            "Properties": {
-              "persistent": "false",
-              "distance": "7"
-            },
-            "Name": "minecraft:spruce_leaves"
-          },
-          "air_chance": 0.05,
-          "leaf_chance": 0.05,
-          "size_chance": 0.6
-        },
-        "type": "terraforged:bush"
-      },
       "decorator": {
         "config": {
           "count": 0,
@@ -43,8 +20,31 @@
           "extra_count": 1
         },
         "type": "minecraft:count_extra"
+      },
+      "feature": {
+        "config": {
+          "air_chance": 0.05,
+          "leaf_chance": 0.05,
+          "leaves": {
+            "Name": "minecraft:spruce_leaves",
+            "Properties": {
+              "distance": "7",
+              "persistent": "false"
+            }
+          },
+          "size_chance": 0.6,
+          "trunk": {
+            "Name": "minecraft:spruce_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "type": "terraforged:bush"
       }
     },
     "type": "minecraft:decorated"
-  }
+  },
+  "match": [],
+  "stage": "VEGETAL_DECORATION"
 }

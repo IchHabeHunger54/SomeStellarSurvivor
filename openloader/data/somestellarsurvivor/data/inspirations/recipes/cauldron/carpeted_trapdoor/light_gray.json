@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -15,12 +14,12 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "light_gray",
+      "type": "inspirations:dye"
+    },
     "item": {
       "tag": "inspirations:carpeted_trapdoors"
-    },
-    "contents": {
-      "type": "inspirations:dye",
-      "name": "light_gray"
     },
     "level": {
       "min": 4
@@ -33,5 +32,6 @@
     "level": {
       "add": -4
     }
-  }
+  },
+  "type": "inspirations:cauldron"
 }

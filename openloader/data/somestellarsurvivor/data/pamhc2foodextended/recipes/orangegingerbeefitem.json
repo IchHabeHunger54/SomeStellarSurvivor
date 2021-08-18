@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:rawbeef"
+    },
+    {
+      "tag": "forge:crops/orange"
+    },
+    {
+      "tag": "forge:crops/ginger"
+    },
+    {
+      "tag": "forge:crops/scallion"
+    },
+    {
+      "tag": "forge:condiments/soysauce"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:orangegingerbeefitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

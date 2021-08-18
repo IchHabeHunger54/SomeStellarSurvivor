@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "SXS",
-    "X X",
-    "SXS"
-  ],
   "key": {
     "S": {
       "tag": "forge:stone"
@@ -13,8 +7,14 @@
       "tag": "forge:ingots/iron"
     }
   },
+  "pattern": [
+    "SXS",
+    "X X",
+    "SXS"
+  ],
   "result": {
-    "item": "chisel:factory/dots",
-    "count": 32
-  }
+    "count": 32,
+    "item": "chisel:factory/dots"
+  },
+  "type": "minecraft:crafting_shaped"
 }

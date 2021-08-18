@@ -1,20 +1,20 @@
 {
-  "type": "tconstruct:casting_basin",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:storage_blocks/electrum",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
+  "cooling_time": 177,
   "fluid": {
-    "name": "tconstruct:molten_electrum",
-    "amount": 1296
+    "amount": 1296,
+    "name": "tconstruct:molten_electrum"
   },
   "result": {
     "tag": "forge:storage_blocks/electrum"
   },
-  "cooling_time": 177
+  "type": "tconstruct:casting_basin"
 }

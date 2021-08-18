@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "utility_module",
@@ -10,10 +9,6 @@
       "type": "inspirations:config"
     }
   ],
-  "pattern": [
-    "T",
-    "S"
-  ],
   "key": {
     "S": {
       "tag": "forge:cobblestone"
@@ -22,7 +17,12 @@
       "item": "minecraft:torch"
     }
   },
+  "pattern": [
+    "T",
+    "S"
+  ],
   "result": {
     "item": "inspirations:torch_lever"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

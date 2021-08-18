@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:modifier",
+  "ability_slots": 1,
   "inputs": [
     {
       "tag": "forge:ingots/copper"
@@ -17,13 +17,13 @@
       "tag": "forge:storage_blocks/lapis"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:luck"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/melee_or_harvest"
   },
-  "result": {
-    "name": "tconstruct:luck",
-    "level": 1
-  },
-  "max_level": 1,
-  "ability_slots": 1
+  "type": "tconstruct:modifier"
 }

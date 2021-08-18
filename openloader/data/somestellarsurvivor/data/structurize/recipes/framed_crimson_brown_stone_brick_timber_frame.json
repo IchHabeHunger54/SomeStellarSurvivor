@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:double_crossed_crimson_brown_stone_brick_timber_frame"
@@ -7,5 +6,6 @@
   ],
   "result": {
     "item": "structurize:framed_crimson_brown_stone_brick_timber_frame"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

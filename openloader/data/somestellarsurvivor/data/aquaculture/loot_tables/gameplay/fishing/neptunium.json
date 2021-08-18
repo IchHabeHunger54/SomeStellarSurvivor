@@ -1,29 +1,29 @@
 {
-  "type": "minecraft:fishing",
   "pools": [
     {
-      "rolls": 1.0,
       "entries": [
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_contents",
               "entries": [
                 {
-                  "type": "minecraft:loot_table",
-                  "name": "aquaculture:box/neptunes_bounty"
+                  "name": "aquaculture:box/neptunes_bounty",
+                  "type": "minecraft:loot_table"
                 }
-              ]
+              ],
+              "function": "minecraft:set_contents"
             }
           ],
-          "name": "aquaculture:neptunes_bounty"
+          "name": "aquaculture:neptunes_bounty",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:loot_table",
-          "name": "aquaculture:gameplay/fishing/fish"
+          "name": "aquaculture:gameplay/fishing/fish",
+          "type": "minecraft:loot_table"
         }
-      ]
+      ],
+      "rolls": 1.0
     }
-  ]
+  ],
+  "type": "minecraft:fishing"
 }

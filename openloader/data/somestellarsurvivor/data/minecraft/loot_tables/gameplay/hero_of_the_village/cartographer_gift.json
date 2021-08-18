@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:map"
+          "name": "minecraft:map",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
-          "name": "minecraft:paper"
+          "name": "minecraft:paper",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:gift"
 }

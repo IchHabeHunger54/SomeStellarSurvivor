@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "values": [
+    "#forge:berries/blackberry",
+    "#forge:berries/blueberry",
+    "#forge:berries/candleberry",
+    "#forge:berries/cranberry",
+    "#forge:berries/elderberry",
+    "#forge:berries/gooseberry",
+    "#forge:berries/huckleberry",
+    "#forge:berries/juniperberry",
+    "#forge:berries/mulberry",
+    "#forge:berries/raspberry",
+    "#forge:berries/strawberry",
+    "#forge:berries/sweetberry"
+  ]
+}

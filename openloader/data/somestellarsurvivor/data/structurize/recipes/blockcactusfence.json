@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "structurize:blockcactusplank"
+    },
+    "-": {
+      "tag": "forge:rods/wooden"
+    }
+  },
   "pattern": [
     "#-#",
     "#-#"
   ],
-  "key": {
-    "-": {
-      "tag": "forge:rods/wooden"
-    },
-    "#": {
-      "item": "structurize:blockcactusplank"
-    }
-  },
   "result": {
-    "item": "structurize:blockcactusfence",
-    "count": 3
-  }
+    "count": 3,
+    "item": "structurize:blockcactusfence"
+  },
+  "type": "minecraft:crafting_shaped"
 }

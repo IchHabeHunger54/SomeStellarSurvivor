@@ -1,19 +1,19 @@
 {
-  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/single_use/ingot"
+  },
+  "cast_consumed": true,
   "conditions": [
     {
       "modid": "ceramics",
       "type": "forge:mod_loaded"
     }
   ],
-  "cast": {
-    "tag": "tconstruct:casts/single_use/ingot"
-  },
-  "cast_consumed": true,
+  "cooling_time": 75,
   "fluid": {
-    "tag": "tconstruct:molten_porcelain",
-    "amount": 250
+    "amount": 250,
+    "tag": "tconstruct:molten_porcelain"
   },
   "result": "ceramics:porcelain_brick",
-  "cooling_time": 75
+  "type": "tconstruct:casting_table"
 }

@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "tconstruct:seared_heater",
     "#tconstruct:seared_tanks",

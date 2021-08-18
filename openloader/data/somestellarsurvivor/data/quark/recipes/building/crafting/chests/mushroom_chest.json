@@ -1,24 +1,24 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "mushroom_chest",
-  "pattern": [
-    "###",
-    "# #",
-    "###"
+  "conditions": [
+    {
+      "flag": "variant_chests",
+      "type": "quark:flag"
+    }
   ],
+  "group": "mushroom_chest",
   "key": {
     "#": {
       "item": "minecraft:red_mushroom_block"
     }
   },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
   "result": {
-    "item": "quark:mushroom_chest",
-    "count": 1
+    "count": 1,
+    "item": "quark:mushroom_chest"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

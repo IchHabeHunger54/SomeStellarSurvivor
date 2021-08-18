@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:diorite/cracked",
     "chisel:diorite/solid_bricks",

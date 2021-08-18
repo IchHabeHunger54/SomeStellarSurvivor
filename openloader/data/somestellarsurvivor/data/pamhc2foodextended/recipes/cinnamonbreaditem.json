@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:spices/groundcinnamon"
+    },
+    {
+      "tag": "forge:butter"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cinnamonbreaditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

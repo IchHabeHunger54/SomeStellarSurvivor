@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:sunflowerseedsitem"
+    },
+    {
+      "tag": "forge:crops/broccoli"
+    },
+    {
+      "tag": "forge:condiments/mayonaise"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:rawpork"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:sunflowerbroccolisaladitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

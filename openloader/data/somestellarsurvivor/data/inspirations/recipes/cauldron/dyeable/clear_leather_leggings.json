@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron_clear_dyeable",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -12,5 +11,6 @@
   ],
   "ingredient": {
     "item": "minecraft:leather_leggings"
-  }
+  },
+  "type": "inspirations:cauldron_clear_dyeable"
 }

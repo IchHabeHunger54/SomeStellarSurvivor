@@ -1,15 +1,9 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:better_vanilla",
-      "object": "better_stairs"
+      "object": "better_stairs",
+      "type": "vanillatweaks:better_vanilla"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
   ],
   "key": {
     "#": [
@@ -24,8 +18,14 @@
       }
     ]
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:quartz_stairs",
-    "count": 8
-  }
+    "count": 8,
+    "item": "minecraft:quartz_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
 }

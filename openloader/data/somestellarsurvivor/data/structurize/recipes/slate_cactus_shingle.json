@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:cobblestone"
+    },
+    "P": {
+      "item": "structurize:blockcactusplank"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
   "pattern": [
     "I  ",
     "SI ",
     "PSI"
   ],
-  "key": {
-    "I": {
-      "item": "minecraft:cobblestone"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    },
-    "P": {
-      "item": "structurize:blockcactusplank"
-    }
-  },
   "result": {
-    "item": "structurize:slate_cactus_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:slate_cactus_shingle"
+  },
+  "type": "minecraft:crafting_shaped"
 }

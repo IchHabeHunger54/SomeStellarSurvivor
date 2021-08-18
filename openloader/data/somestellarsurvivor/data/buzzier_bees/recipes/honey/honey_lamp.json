@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:end_rod"
@@ -12,7 +11,8 @@
     }
   ],
   "result": {
-    "item": "buzzier_bees:honey_lamp",
-    "count": 1
-  }
+    "count": 1,
+    "item": "buzzier_bees:honey_lamp"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

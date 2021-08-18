@@ -1,19 +1,19 @@
 {
-  "type": "vanillatweaks:sugarblock",
   "pools": [
     {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "vanillatweaks:sugarblock"
-        }
-      ],
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
         }
-      ]
+      ],
+      "entries": [
+        {
+          "name": "vanillatweaks:sugarblock",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "vanillatweaks:sugarblock"
 }

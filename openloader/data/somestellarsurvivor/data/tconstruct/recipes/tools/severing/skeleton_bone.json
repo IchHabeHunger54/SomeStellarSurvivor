@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:severing",
   "entity": {
     "types": [
       "minecraft:skeleton",
@@ -8,7 +7,8 @@
     ]
   },
   "result": {
-    "item": "minecraft:bone",
-    "count": 2
-  }
+    "count": 2,
+    "item": "minecraft:bone"
+  },
+  "type": "tconstruct:severing"
 }

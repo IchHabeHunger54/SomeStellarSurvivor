@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
-      "name": "almond0",
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "pamhc2trees:cinnamon_sapling"
-        }
-      ],
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
         }
-      ]
+      ],
+      "entries": [
+        {
+          "name": "pamhc2trees:cinnamon_sapling",
+          "type": "minecraft:item"
+        }
+      ],
+      "name": "almond0",
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

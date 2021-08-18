@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:alloy",
   "conditions": [
     {
       "modid": "ceramics",
@@ -8,17 +7,18 @@
   ],
   "inputs": [
     {
-      "tag": "tconstruct:molten_clay",
-      "amount": 750
+      "amount": 750,
+      "tag": "tconstruct:molten_clay"
     },
     {
-      "tag": "tconstruct:molten_quartz",
-      "amount": 144
+      "amount": 144,
+      "tag": "tconstruct:molten_quartz"
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_porcelain",
-    "amount": 1000
+    "amount": 1000,
+    "fluid": "tconstruct:molten_porcelain"
   },
-  "temperature": 700
+  "temperature": 700,
+  "type": "tconstruct:alloy"
 }

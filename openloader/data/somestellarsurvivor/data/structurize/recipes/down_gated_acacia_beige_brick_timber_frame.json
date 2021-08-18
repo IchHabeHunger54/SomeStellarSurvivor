@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:up_gated_acacia_beige_brick_timber_frame"
@@ -7,5 +6,6 @@
   ],
   "result": {
     "item": "structurize:down_gated_acacia_beige_brick_timber_frame"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

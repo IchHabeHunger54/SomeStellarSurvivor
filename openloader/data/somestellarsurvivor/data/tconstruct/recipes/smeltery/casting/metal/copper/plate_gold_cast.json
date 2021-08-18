@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:plates/copper",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/plate"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:plates/copper",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 50,
   "fluid": {
-    "tag": "tconstruct:molten_copper",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_copper"
   },
   "result": {
     "tag": "forge:plates/copper"
   },
-  "cooling_time": 50
+  "type": "tconstruct:casting_table"
 }

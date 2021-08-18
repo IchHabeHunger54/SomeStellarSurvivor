@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,11 +10,6 @@
     }
   ],
   "group": "stained_glass",
-  "pattern": [
-    "###",
-    "#x#",
-    "###"
-  ],
   "key": {
     "#": {
       "tag": "forge:glass/colorless"
@@ -24,8 +18,14 @@
       "item": "inspirations:light_blue_dyed_bottle"
     }
   },
+  "pattern": [
+    "###",
+    "#x#",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:light_blue_stained_glass",
-    "count": 8
-  }
+    "count": 8,
+    "item": "minecraft:light_blue_stained_glass"
+  },
+  "type": "minecraft:crafting_shaped"
 }

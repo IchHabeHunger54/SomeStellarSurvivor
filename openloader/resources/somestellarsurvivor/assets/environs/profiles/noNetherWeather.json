@@ -2,9 +2,9 @@
   "dimensions": [
     {
       "dimId": -1,
-      "weather": false,
       "fog": false,
-      "haze": false
+      "haze": false,
+      "weather": false
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XTX",
-    "XSX",
-    "XXX"
-  ],
   "key": {
-    "X": {
-      "tag": "minecraft:planks"
-    },
     "S": {
       "item": "minecraft:shears"
     },
     "T": {
       "item": "structurize:sceptergold"
+    },
+    "X": {
+      "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "XTX",
+    "XSX",
+    "XXX"
+  ],
   "result": {
     "item": "minecolonies:blockhutshepherd"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

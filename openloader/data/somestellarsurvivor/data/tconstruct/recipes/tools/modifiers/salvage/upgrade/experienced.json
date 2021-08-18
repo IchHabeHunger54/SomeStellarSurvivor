@@ -1,0 +1,18 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:experienced",
+  "salvage": [
+    {
+      "item": "minecraft:experience_bottle",
+      "max": 3,
+      "min": 0
+    }
+  ],
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee_or_harvest"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#",
-    "#",
-    "#"
+  "conditions": [
+    {
+      "flag": "speleothems",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:stone"
     }
   },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
   "result": {
-    "item": "quark:stone_speleothem",
-    "count": 6
+    "count": 6,
+    "item": "quark:stone_speleothem"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "speleothems"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

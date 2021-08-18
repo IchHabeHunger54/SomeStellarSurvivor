@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "charred_nether_bricks",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "minecraft:nether_bricks"
@@ -15,13 +20,8 @@
     }
   ],
   "result": {
-    "item": "quark:charred_nether_bricks",
-    "count": 3
+    "count": 3,
+    "item": "quark:charred_nether_bricks"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "charred_nether_bricks"
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

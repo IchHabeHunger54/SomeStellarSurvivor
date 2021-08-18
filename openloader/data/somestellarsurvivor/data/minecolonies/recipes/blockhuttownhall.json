@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "structurize:sceptergold"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
   "pattern": [
     "XBX",
     "XBX",
     "XXX"
   ],
-  "key": {
-    "X": {
-      "tag": "minecraft:planks"
-    },
-    "B": {
-      "item": "structurize:sceptergold"
-    }
-  },
   "result": {
     "item": "minecolonies:blockhuttownhall"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

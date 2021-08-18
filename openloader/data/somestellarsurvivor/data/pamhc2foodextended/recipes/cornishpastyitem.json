@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:rawbeef"
+    },
+    {
+      "tag": "forge:crops/potato"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:crops/rutabaga"
+    },
+    {
+      "tag": "forge:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cornishpastyitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

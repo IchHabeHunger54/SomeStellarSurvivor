@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "abb",
-    " bb",
-    "   "
-  ],
   "key": {
     "a": {
       "tag": "forge:rods/wooden"
@@ -13,7 +7,13 @@
       "item": "minecraft:brick"
     }
   },
+  "pattern": [
+    "abb",
+    " bb",
+    "   "
+  ],
   "result": {
     "item": "pamhc2foodcore:potitem"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

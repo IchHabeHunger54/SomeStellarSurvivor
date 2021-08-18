@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "extended_cauldron_recipes",
@@ -12,8 +11,8 @@
   ],
   "input": {
     "contents": {
-      "type": "inspirations:custom",
-      "name": "rats:cheese"
+      "name": "rats:cheese",
+      "type": "inspirations:custom"
     },
     "level": {
       "min": 3
@@ -27,5 +26,6 @@
       "set": 0
     }
   },
-  "sound": "minecraft:block.slime_block.break"
+  "sound": "minecraft:block.slime_block.break",
+  "type": "inspirations:cauldron"
 }

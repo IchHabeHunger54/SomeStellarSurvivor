@@ -1,24 +1,24 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:rods/manyullyn",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/single_use/rod"
   },
   "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:rods/manyullyn",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 51,
   "fluid": {
-    "tag": "tconstruct:molten_manyullyn",
-    "amount": 72
+    "amount": 72,
+    "tag": "tconstruct:molten_manyullyn"
   },
   "result": {
     "tag": "forge:rods/manyullyn"
   },
-  "cooling_time": 51
+  "type": "tconstruct:casting_table"
 }

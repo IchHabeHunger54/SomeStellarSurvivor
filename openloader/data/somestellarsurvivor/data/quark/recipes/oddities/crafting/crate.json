@@ -1,28 +1,28 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "crate",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:chests/wooden"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
   "pattern": [
     "IWI",
     "WCW",
     "IWI"
   ],
-  "key": {
-    "W": {
-      "tag": "minecraft:planks"
-    },
-    "I": {
-      "tag": "forge:ingots/iron"
-    },
-    "C": {
-      "tag": "forge:chests/wooden"
-    }
-  },
   "result": {
     "item": "quark:crate"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "crate"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "tconstruct:scorched_fuel_tank",
     "tconstruct:scorched_fuel_gauge",

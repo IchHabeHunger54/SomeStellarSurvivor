@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:modifier",
+  "ability_slots": 1,
   "inputs": [
     {
       "item": "minecraft:piston"
@@ -17,12 +17,12 @@
       "tag": "forge:slimeball/ichor"
     }
   ],
+  "result": {
+    "level": 1,
+    "name": "tconstruct:expanded"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/aoe"
   },
-  "result": {
-    "name": "tconstruct:expanded",
-    "level": 1
-  },
-  "ability_slots": 1
+  "type": "tconstruct:modifier"
 }

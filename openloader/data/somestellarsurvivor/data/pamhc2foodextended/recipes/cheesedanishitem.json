@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:cream"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cheesedanishitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

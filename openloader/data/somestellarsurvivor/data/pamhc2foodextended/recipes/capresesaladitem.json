@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:capresesaladitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

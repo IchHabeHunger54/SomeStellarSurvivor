@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "group": "dyed_hammock",
   "ingredients": [
     {
@@ -11,5 +10,6 @@
   ],
   "result": {
     "item": "comforts:hammock_yellow"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

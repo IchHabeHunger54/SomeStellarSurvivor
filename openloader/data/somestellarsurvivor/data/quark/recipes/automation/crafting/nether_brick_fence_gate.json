@@ -1,8 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#W#",
-    "#W#"
+  "conditions": [
+    {
+      "flag": "nether_brick_fence_gate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -12,13 +13,12 @@
       "item": "minecraft:nether_bricks"
     }
   },
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
   "result": {
     "item": "quark:nether_brick_fence_gate"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "nether_brick_fence_gate"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

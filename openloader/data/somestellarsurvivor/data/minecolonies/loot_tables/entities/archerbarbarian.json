@@ -1,8 +1,6 @@
 {
   "pools": [
     {
-      "name": "minecolonies:archerbarbarian",
-      "rolls": 1,
       "bonus_rolls": 1,
       "entries": [
         {
@@ -10,16 +8,18 @@
           "weight": 80
         },
         {
+          "name": "minecraft:bow",
           "type": "item",
-          "weight": 40,
-          "name": "minecraft:bow"
+          "weight": 40
         },
         {
+          "name": "minecolonies:ancienttome",
           "type": "item",
-          "weight": 10,
-          "name": "minecolonies:ancienttome"
+          "weight": 10
         }
-      ]
+      ],
+      "name": "minecolonies:archerbarbarian",
+      "rolls": 1
     }
   ]
 }

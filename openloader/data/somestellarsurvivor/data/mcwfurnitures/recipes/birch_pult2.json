@@ -1,0 +1,19 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:birch_plate"
+    },
+    "B": {
+      "item": "mcwfurnitures:birch_box_2"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:birch_pult_2"
+  },
+  "type": "minecraft:crafting_shaped"
+}

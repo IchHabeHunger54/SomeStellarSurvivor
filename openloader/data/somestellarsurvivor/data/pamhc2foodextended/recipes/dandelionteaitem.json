@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/tealeaf"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "item": "minecraft:dandelion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:dandelionteaitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

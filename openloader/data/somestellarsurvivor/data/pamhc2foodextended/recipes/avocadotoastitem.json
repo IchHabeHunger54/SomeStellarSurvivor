@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:crops/avocado"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:avocadotoastitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

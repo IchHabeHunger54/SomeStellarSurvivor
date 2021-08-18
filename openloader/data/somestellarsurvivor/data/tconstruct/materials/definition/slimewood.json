@@ -1,7 +1,7 @@
 {
   "craftable": true,
-  "tier": 2,
+  "hidden": false,
   "sortOrder": 3,
   "textColor": "#82C873",
-  "hidden": false
+  "tier": 2
 }

@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:plates/zinc",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/plate"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:plates/zinc",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 47,
   "fluid": {
-    "tag": "tconstruct:molten_zinc",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_zinc"
   },
   "result": {
     "tag": "forge:plates/zinc"
   },
-  "cooling_time": 47
+  "type": "tconstruct:casting_table"
 }

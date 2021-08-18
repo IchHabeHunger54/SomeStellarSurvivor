@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:spices/groundcinnamon"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:zeppoleitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

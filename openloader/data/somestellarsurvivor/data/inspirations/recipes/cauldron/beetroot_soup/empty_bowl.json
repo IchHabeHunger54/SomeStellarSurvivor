@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,31 +10,32 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "inspirations:beetroot_soup",
+      "type": "inspirations:fluid"
+    },
     "item": {
       "item": "minecraft:beetroot_soup"
-    },
-    "contents": {
-      "type": "inspirations:fluid",
-      "name": "inspirations:beetroot_soup"
     },
     "level": {
       "max": 11
     }
   },
   "output": {
-    "item": {
-      "item": "minecraft:bowl"
-    },
     "container": {
       "empty": true
     },
     "contents": {
-      "type": "inspirations:fluid",
-      "name": "inspirations:beetroot_soup"
+      "name": "inspirations:beetroot_soup",
+      "type": "inspirations:fluid"
+    },
+    "item": {
+      "item": "minecraft:bowl"
     },
     "level": {
       "add": 4
     }
   },
-  "sound": "minecraft:item.bottle.empty"
+  "sound": "minecraft:item.bottle.empty",
+  "type": "inspirations:cauldron"
 }

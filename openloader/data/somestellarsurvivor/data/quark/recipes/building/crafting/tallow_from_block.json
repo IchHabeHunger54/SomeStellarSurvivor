@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "tallow_and_candles",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:tallow_block"
     }
   ],
   "result": {
-    "item": "quark:tallow",
-    "count": 9
+    "count": 9,
+    "item": "quark:tallow"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "tallow_and_candles"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

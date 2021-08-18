@@ -1,15 +1,9 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:vanilla",
-      "object": "nametag"
+      "object": "nametag",
+      "type": "vanillatweaks:vanilla"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "  I",
-    " P ",
-    "P  "
   ],
   "key": {
     "I": {
@@ -19,7 +13,13 @@
       "item": "minecraft:paper"
     }
   },
+  "pattern": [
+    "  I",
+    " P ",
+    "P  "
+  ],
   "result": {
     "item": "minecraft:name_tag"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

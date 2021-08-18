@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:crops/corn"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:cream"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:creamedcornitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

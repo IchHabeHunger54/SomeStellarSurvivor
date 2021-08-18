@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:clay_cactus_shingle"
@@ -30,7 +29,8 @@
     }
   ],
   "result": {
-    "item": "structurize:light_gray_clay_cactus_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:light_gray_clay_cactus_shingle"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

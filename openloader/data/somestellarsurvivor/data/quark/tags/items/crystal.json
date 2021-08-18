@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "quark:red_crystal",
     "quark:orange_crystal",

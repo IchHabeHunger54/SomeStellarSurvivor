@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:batter"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:friedgreentomatoesitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

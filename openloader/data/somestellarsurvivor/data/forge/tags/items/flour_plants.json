@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:flour_plants/wheat",
     "#forge:flour_plants/apple",

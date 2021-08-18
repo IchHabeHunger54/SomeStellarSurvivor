@@ -1,31 +1,31 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "stone_bricks",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "andesite",
+          "type": "quark:flag"
+        }
+      ]
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:polished_andesite"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:andesite_bricks",
-    "count": 4
+    "count": 4,
+    "item": "quark:andesite_bricks"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "stone_bricks"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "andesite"
-        }
-      ]
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

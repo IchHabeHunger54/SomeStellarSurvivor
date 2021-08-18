@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:plates/platinum",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/plate"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:plates/platinum",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 65,
   "fluid": {
-    "tag": "tconstruct:molten_platinum",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_platinum"
   },
   "result": {
     "tag": "forge:plates/platinum"
   },
-  "cooling_time": 65
+  "type": "tconstruct:casting_table"
 }

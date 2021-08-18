@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:ingots/brick",
     "#forge:ingots/copper",

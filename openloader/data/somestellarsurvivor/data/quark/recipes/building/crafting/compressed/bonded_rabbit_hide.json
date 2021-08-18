@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "bonded_rabbit_hide",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:rabbit_hide"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
     "item": "quark:bonded_rabbit_hide"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "bonded_rabbit_hide"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

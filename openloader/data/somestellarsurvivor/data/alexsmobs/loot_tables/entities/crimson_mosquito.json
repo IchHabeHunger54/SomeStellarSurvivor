@@ -1,22 +1,22 @@
 {
   "pools": [
     {
-      "name": "crimson_mosquito",
       "conditions": [
         {
-          "condition": "random_chance_with_looting",
           "chance": 0.1,
+          "condition": "random_chance_with_looting",
           "looting_multiplier": 0.01
         }
       ],
-      "rolls": 1,
       "entries": [
         {
-          "type": "item",
           "name": "alexsmobs:mosquito_proboscis",
+          "type": "item",
           "weight": 1
         }
-      ]
+      ],
+      "name": "crimson_mosquito",
+      "rolls": 1
     }
   ]
 }

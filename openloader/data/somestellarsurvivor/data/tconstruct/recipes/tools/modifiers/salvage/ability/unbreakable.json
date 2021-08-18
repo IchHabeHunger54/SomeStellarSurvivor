@@ -1,0 +1,23 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:unbreakable",
+  "salvage": [
+    {
+      "item": "minecraft:netherite_ingot",
+      "max": 2,
+      "min": 2
+    },
+    {
+      "item": "minecraft:shulker_shell",
+      "max": 2,
+      "min": 0
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

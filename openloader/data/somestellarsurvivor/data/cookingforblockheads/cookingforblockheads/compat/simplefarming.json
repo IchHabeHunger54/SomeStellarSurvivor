@@ -1,5 +1,4 @@
 {
-  "modid": "simplefarming",
   "foods": {
     "INGREDIENTS": [
       "simplefarming:curry_powder",
@@ -12,5 +11,6 @@
       "simplefarming:cheese_block",
       "simplefarming:sprinkles"
     ]
-  }
+  },
+  "modid": "simplefarming"
 }

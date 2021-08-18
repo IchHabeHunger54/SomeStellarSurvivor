@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "structurize:brown_bricks"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "structurize:brown_brick_stairs",
-    "count": 4
-  }
+    "count": 4,
+    "item": "structurize:brown_brick_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
 }

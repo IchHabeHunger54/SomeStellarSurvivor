@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#cfm:fences/picket",
     "cfm:oak_upgraded_fence",

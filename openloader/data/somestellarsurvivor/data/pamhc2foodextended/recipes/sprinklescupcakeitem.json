@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:batter"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:cream"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "tag": "forge:dyes"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:sprinklescupcakeitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

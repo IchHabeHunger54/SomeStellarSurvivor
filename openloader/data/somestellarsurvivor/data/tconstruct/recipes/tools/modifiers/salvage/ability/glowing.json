@@ -1,0 +1,26 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:glowing",
+  "salvage": [
+    {
+      "chance": 0.9,
+      "item": "minecraft:daylight_detector"
+    },
+    {
+      "chance": 0.4,
+      "item": "minecraft:shroomlight"
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "max": 4,
+      "min": 1
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/durability"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

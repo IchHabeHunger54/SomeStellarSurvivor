@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "structurize:floating_carpets"
@@ -30,7 +29,8 @@
     }
   ],
   "result": {
-    "item": "structurize:black_floating_carpet",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:black_floating_carpet"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

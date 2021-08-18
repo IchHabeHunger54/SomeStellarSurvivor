@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "tag": "forge:obsidian"
   },
   "result": {
-    "fluid": "tconstruct:molten_obsidian",
-    "amount": 1000
+    "amount": 1000,
+    "fluid": "tconstruct:molten_obsidian"
   },
   "temperature": 1000,
-  "time": 133
+  "time": 133,
+  "type": "tconstruct:melting"
 }

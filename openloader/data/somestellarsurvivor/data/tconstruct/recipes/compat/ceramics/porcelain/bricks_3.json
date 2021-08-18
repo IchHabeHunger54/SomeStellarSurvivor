@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
       "modid": "ceramics",
@@ -10,9 +9,10 @@
     "tag": "ceramics:porcelain_cisterns"
   },
   "result": {
-    "fluid": "tconstruct:molten_porcelain",
-    "amount": 750
+    "amount": 750,
+    "fluid": "tconstruct:molten_porcelain"
   },
   "temperature": 700,
-  "time": 95
+  "time": 95,
+  "type": "tconstruct:melting"
 }

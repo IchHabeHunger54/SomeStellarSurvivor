@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "PPP",
-    "###"
+  "conditions": [
+    {
+      "flag": "paper_decor",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -13,14 +13,14 @@
       "item": "minecraft:paper"
     }
   },
+  "pattern": [
+    "###",
+    "PPP",
+    "###"
+  ],
   "result": {
-    "item": "quark:paper_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:paper_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "paper_decor"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

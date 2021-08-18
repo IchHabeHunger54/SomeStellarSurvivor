@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:crops/orange"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "tag": "forge:crops/broccoli"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:orangechickenitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

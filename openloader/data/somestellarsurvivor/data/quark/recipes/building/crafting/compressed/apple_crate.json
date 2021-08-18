@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "apple_crate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:apple"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
     "item": "quark:apple_crate"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "apple_crate"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

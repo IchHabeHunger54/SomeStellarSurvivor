@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "BPB",
-    "PPP",
-    "BPB"
+  "conditions": [
+    {
+      "flag": "blaze_lantern",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "B": {
@@ -13,13 +13,13 @@
       "item": "minecraft:blaze_powder"
     }
   },
+  "pattern": [
+    "BPB",
+    "PPP",
+    "BPB"
+  ],
   "result": {
     "item": "quark:blaze_lantern"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "blaze_lantern"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

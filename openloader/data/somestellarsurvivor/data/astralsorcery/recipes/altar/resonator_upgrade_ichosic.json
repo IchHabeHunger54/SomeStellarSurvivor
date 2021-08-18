@@ -1,15 +1,16 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 3,
   "duration": 600,
-  "starlight": 6400,
-  "pattern": [
-    "__B__",
-    "A_D_A",
-    "_AEA_",
-    "__A__",
-    "_CCC_"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
+  "focus_constellation": "astralsorcery:octans",
   "key": {
     "A": {
       "tag": "astralsorcery:stardust"
@@ -24,23 +25,15 @@
       "item": "astralsorcery:resonator"
     },
     "E": {
-      "type": "astralsorcery:fluid",
       "fluid": [
         {
-          "fluid": "astralsorcery:liquid_starlight",
-          "amount": 1000
+          "amount": 1000,
+          "fluid": "astralsorcery:liquid_starlight"
         }
-      ]
+      ],
+      "type": "astralsorcery:fluid"
     }
   },
-  "recipe_class": "astralsorcery:nbt_copy",
-  "output": [
-    {
-      "item": "astralsorcery:resonator",
-      "count": 1,
-      "nbt": "{astralsorcery:{upgrades:[0,1],selected_upgrade:1}}"
-    }
-  ],
   "options": {
     "copy_nbt_from_items_matching": [
       {
@@ -48,14 +41,21 @@
       }
     ]
   },
-  "focus_constellation": "astralsorcery:octans",
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "output": [
+    {
+      "count": 1,
+      "item": "astralsorcery:resonator",
+      "nbt": "{astralsorcery:{upgrades:[0,1],selected_upgrade:1}}"
+    }
+  ],
+  "pattern": [
+    "__B__",
+    "A_D_A",
+    "_AEA_",
+    "__A__",
+    "_CCC_"
+  ],
+  "recipe_class": "astralsorcery:nbt_copy",
+  "starlight": 6400,
+  "type": "astralsorcery:altar"
 }

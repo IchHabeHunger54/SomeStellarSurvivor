@@ -1,0 +1,15 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:oak_plant_pot_right"
+    }
+  },
+  "pattern": [
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:oak_plant_pot_left"
+  },
+  "type": "minecraft:crafting_shaped"
+}

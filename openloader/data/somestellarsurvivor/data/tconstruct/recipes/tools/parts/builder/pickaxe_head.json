@@ -1,8 +1,8 @@
 {
-  "type": "tconstruct:part_builder",
-  "pattern": "tconstruct:pickaxe_head",
   "cost": 2,
+  "pattern": "tconstruct:pickaxe_head",
   "result": {
     "item": "tconstruct:pickaxe_head"
-  }
+  },
+  "type": "tconstruct:part_builder"
 }

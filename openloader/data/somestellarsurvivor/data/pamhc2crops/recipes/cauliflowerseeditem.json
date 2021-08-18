@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "pamhc2crops:caulifloweritem"
@@ -7,5 +6,6 @@
   ],
   "result": {
     "item": "pamhc2crops:cauliflowerseeditem"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

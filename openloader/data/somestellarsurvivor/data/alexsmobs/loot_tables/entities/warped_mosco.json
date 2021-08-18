@@ -1,49 +1,49 @@
 {
   "pools": [
     {
-      "name": "warped_mosco_1",
       "conditions": [
         {
-          "condition": "random_chance_with_looting",
           "chance": 0.7,
+          "condition": "random_chance_with_looting",
           "looting_multiplier": 0.1
         }
       ],
-      "rolls": 1,
       "entries": [
         {
-          "type": "item",
           "name": "alexsmobs:warped_muscle",
+          "type": "item",
           "weight": 1
         }
-      ]
+      ],
+      "name": "warped_mosco_1",
+      "rolls": 1
     },
     {
-      "name": "warped_mosco_2",
-      "rolls": 1,
       "entries": [
         {
-          "type": "item",
-          "name": "alexsmobs:hemolymph_sac",
-          "weight": 1,
           "functions": [
             {
-              "function": "set_count",
               "count": {
-                "min": 1,
-                "max": 5
-              }
+                "max": 5,
+                "min": 1
+              },
+              "function": "set_count"
             },
             {
-              "function": "looting_enchant",
               "count": {
-                "min": 0,
-                "max": 1
-              }
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
             }
-          ]
+          ],
+          "name": "alexsmobs:hemolymph_sac",
+          "type": "item",
+          "weight": 1
         }
-      ]
+      ],
+      "name": "warped_mosco_2",
+      "rolls": 1
     }
   ]
 }

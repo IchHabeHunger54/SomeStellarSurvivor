@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:meringue"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "tag": "forge:crops/apple"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:applesnowitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

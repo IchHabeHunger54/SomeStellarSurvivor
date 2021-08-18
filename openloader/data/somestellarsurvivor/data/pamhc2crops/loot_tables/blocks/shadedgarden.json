@@ -1,14 +1,88 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
-      "name": "shadedgarden0",
+      "entries": [
+        {
+          "name": "pamhc2crops:beanitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:blackberryitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:garlicitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:juteitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:leekitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:radishitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:rhubarbitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:scallionitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:spiceleafitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:sweetpotatoitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:tealeafitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:tomatoitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:turnipitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:whitemushroomitem",
+          "type": "item",
+          "weight": 1
+        },
+        {
+          "name": "pamhc2crops:zucchiniitem",
+          "type": "item",
+          "weight": 1
+        }
+      ],
       "functions": [
         {
-          "function": "minecraft:apply_bonus",
           "enchantment": "minecraft:fortune",
           "formula": "minecraft:uniform_bonus_count",
+          "function": "minecraft:apply_bonus",
           "parameters": {
             "bonusMultiplier": 2
           }
@@ -17,83 +91,9 @@
           "function": "minecraft:explosion_decay"
         }
       ],
-      "entries": [
-        {
-          "type": "item",
-          "name": "pamhc2crops:beanitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:blackberryitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:garlicitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:juteitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:leekitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:radishitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:rhubarbitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:scallionitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:spiceleafitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:sweetpotatoitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:tealeafitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:tomatoitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:turnipitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:whitemushroomitem",
-          "weight": 1
-        },
-        {
-          "type": "item",
-          "name": "pamhc2crops:zucchiniitem",
-          "weight": 1
-        }
-      ]
+      "name": "shadedgarden0",
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

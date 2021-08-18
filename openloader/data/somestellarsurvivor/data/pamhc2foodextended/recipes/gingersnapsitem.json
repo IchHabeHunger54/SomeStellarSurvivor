@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/ginger"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:gingersnapsitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

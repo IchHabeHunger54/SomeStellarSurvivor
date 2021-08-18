@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:crops/walnut"
+    },
+    {
+      "tag": "forge:spices/groundcinnamon"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "tag": "forge:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:baklavaitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

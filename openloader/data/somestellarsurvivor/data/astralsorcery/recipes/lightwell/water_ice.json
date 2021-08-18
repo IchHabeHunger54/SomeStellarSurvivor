@@ -1,10 +1,10 @@
 {
-  "type": "astralsorcery:lightwell",
+  "color": -11310593,
   "input": {
     "item": "minecraft:ice"
   },
   "output": "minecraft:water",
   "productionMultiplier": 1.0,
   "shatterMultiplier": 30.0,
-  "color": -11310593
+  "type": "astralsorcery:lightwell"
 }

@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:plates/uranium",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/plate"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:plates/uranium",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 61,
   "fluid": {
-    "tag": "tconstruct:molten_uranium",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_uranium"
   },
   "result": {
     "tag": "forge:plates/uranium"
   },
-  "cooling_time": 61
+  "type": "tconstruct:casting_table"
 }

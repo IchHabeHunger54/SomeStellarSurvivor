@@ -1,14 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "GIG",
-    "ICI",
-    "IBI"
-  ],
   "key": {
-    "I": {
-      "tag": "forge:ingots/iron"
-    },
     "B": {
       "tag": "forge:storage_blocks/iron"
     },
@@ -17,9 +8,18 @@
     },
     "G": {
       "tag": "aquaculture:tackle_box_green"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
     }
   },
+  "pattern": [
+    "GIG",
+    "ICI",
+    "IBI"
+  ],
   "result": {
     "item": "aquaculture:tackle_box"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 0.35,
   "ingredient": {
     "tag": "forge:crops/peanut"
   },
   "result": "pamhc2crops:roastedpeanutitem",
-  "experience": 0.35,
-  "cookingtime": 600
+  "type": "minecraft:campfire_cooking"
 }

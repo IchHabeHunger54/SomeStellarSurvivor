@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "item": "minecraft:lodestone"
   },
   "result": {
-    "fluid": "tconstruct:molten_netherite",
-    "amount": 144
+    "amount": 144,
+    "fluid": "tconstruct:molten_netherite"
   },
   "temperature": 1250,
-  "time": 74
+  "time": 74,
+  "type": "tconstruct:melting"
 }

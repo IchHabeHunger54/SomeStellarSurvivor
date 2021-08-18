@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "bread",
-  "pattern": [
-    "##",
-    "# "
+  "conditions": [
+    {
+      "flag": "bent_recipes",
+      "type": "quark:flag"
+    }
   ],
+  "group": "bread",
   "key": {
     "#": {
       "item": "minecraft:wheat"
     }
   },
+  "pattern": [
+    "##",
+    "# "
+  ],
   "result": {
     "item": "minecraft:bread"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "bent_recipes"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

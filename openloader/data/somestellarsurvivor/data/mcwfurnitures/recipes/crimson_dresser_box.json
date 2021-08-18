@@ -1,0 +1,15 @@
+{
+  "key": {
+    "B": {
+      "item": "mcwfurnitures:crimson_box_2"
+    }
+  },
+  "pattern": [
+    "BB"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:crimson_dresser_box"
+  },
+  "type": "minecraft:crafting_shaped"
+}

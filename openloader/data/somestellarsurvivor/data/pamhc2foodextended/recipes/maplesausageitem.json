@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:rawmeats"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    },
+    {
+      "tag": "forge:crops/maple"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:maplesausageitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

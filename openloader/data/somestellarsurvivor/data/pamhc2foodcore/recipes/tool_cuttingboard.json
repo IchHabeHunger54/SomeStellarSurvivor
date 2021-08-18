@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "a  ",
-    " b ",
-    "  c"
-  ],
   "key": {
     "a": {
       "item": "minecraft:brick"
@@ -16,7 +10,13 @@
       "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "a  ",
+    " b ",
+    "  c"
+  ],
   "result": {
     "item": "pamhc2foodcore:cuttingboarditem"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

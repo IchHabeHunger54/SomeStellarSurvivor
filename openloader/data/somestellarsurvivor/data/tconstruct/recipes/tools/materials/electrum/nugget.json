@@ -1,18 +1,18 @@
 {
-  "type": "tconstruct:material",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:nuggets/electrum",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:nuggets/electrum"
   },
-  "value": 1,
+  "material": "tconstruct:electrum",
   "needed": 9,
-  "material": "tconstruct:electrum"
+  "type": "tconstruct:material",
+  "value": 1
 }

@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "# #",
-    "###"
+  "conditions": [
+    {
+      "flag": "iron_plates",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "tag": "forge:ingots/iron"
     }
   },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
   "result": {
-    "item": "quark:iron_plate",
-    "count": 24
+    "count": 24,
+    "item": "quark:iron_plate"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "iron_plates"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

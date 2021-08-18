@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:rods/electrum",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:rods/electrum"
   },
   "result": {
-    "fluid": "tconstruct:molten_electrum",
-    "amount": 72
+    "amount": 72,
+    "fluid": "tconstruct:molten_electrum"
   },
   "temperature": 760,
-  "time": 12
+  "time": 12,
+  "type": "tconstruct:melting"
 }

@@ -1,6 +1,1 @@
-{
-  "replace": false,
-  "values": [
-    "#minecraft:fishes"
-  ]
-}
+{"replace":true,"values":["#minecraft:fishes"]}

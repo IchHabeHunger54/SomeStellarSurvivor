@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:meringue"
+    },
+    {
+      "tag": "forge:crops/strawberry"
+    },
+    {
+      "tag": "forge:jellies/strawberryjelly"
+    },
+    {
+      "tag": "forge:crops/mango"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:meringuerouladeitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

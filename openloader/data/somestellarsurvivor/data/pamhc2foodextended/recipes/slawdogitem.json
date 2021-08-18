@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:hotdogitem"
+    },
+    {
+      "tag": "forge:condiments/ketchup"
+    },
+    {
+      "tag": "forge:condiments/mustard"
+    },
+    {
+      "tag": "forge:condiments/relish"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:slawdogitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,14 +1,14 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 2,
   "duration": 400,
-  "starlight": 2800,
-  "pattern": [
-    "A___A",
-    "BC_CB",
-    "_D_D_",
-    "BEEEB",
-    "F___F"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_lightbeams",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle",
+    "astralsorcery:altar_random_sparkle"
   ],
   "key": {
     "A": {
@@ -32,17 +32,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:refraction_table",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:refraction_table"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:altar_default_lightbeams",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle",
-    "astralsorcery:altar_random_sparkle"
-  ]
+  "pattern": [
+    "A___A",
+    "BC_CB",
+    "_D_D_",
+    "BEEEB",
+    "F___F"
+  ],
+  "starlight": 2800,
+  "type": "astralsorcery:altar"
 }

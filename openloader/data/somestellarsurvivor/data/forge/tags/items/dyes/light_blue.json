@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "minecraft:light_blue_dye",
     "inspirations:light_blue_dyed_bottle"

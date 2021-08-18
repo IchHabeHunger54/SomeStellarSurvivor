@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:condiments/ketchup"
+    },
+    {
+      "tag": "forge:honey"
+    },
+    {
+      "tag": "forge:condiments/soysauce"
+    },
+    {
+      "tag": "forge:crops/ginger"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:sweetandsoursauceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

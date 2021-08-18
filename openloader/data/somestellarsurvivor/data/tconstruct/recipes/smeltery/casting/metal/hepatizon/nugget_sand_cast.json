@@ -1,15 +1,15 @@
 {
-  "type": "tconstruct:casting_table",
   "cast": {
     "tag": "tconstruct:casts/single_use/nugget"
   },
   "cast_consumed": true,
+  "cooling_time": 26,
   "fluid": {
-    "tag": "tconstruct:molten_hepatizon",
-    "amount": 16
+    "amount": 16,
+    "tag": "tconstruct:molten_hepatizon"
   },
   "result": {
     "tag": "forge:nuggets/hepatizon"
   },
-  "cooling_time": 26
+  "type": "tconstruct:casting_table"
 }

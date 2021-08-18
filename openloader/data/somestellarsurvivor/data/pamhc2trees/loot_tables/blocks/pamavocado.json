@@ -1,15 +1,10 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
-      "name": "pamavocado0",
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
               "conditions": [
                 {
                   "condition": "minecraft:alternative",
@@ -36,20 +31,25 @@
                   ]
                 }
               ],
-              "name": "pamhc2trees:pamavocado"
+              "name": "pamhc2trees:pamavocado",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
-              "name": "pamhc2trees:avocadoitem"
+              "name": "pamhc2trees:avocadoitem",
+              "type": "minecraft:item"
             }
           ],
           "conditions": [
             {
               "condition": "minecraft:survives_explosion"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
-      ]
+      ],
+      "name": "pamavocado0",
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

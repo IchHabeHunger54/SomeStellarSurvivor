@@ -1,0 +1,18 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:dark_oak_box_2"
+    },
+    "B": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": [
+    "BA"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:dark_oak_nightstand_8"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,5 +1,4 @@
 {
-  "type": "bookshelf:crafting_shapeless_with_damage",
   "damageAmount": 1,
   "ignoreUnbreaking": false,
   "ingredients": [
@@ -15,5 +14,6 @@
   ],
   "result": {
     "item": "additionalbanners:snowflake"
-  }
+  },
+  "type": "bookshelf:crafting_shapeless_with_damage"
 }

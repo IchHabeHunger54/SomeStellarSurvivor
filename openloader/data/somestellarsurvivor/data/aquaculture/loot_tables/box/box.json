@@ -1,310 +1,310 @@
 {
   "pools": [
     {
-      "name": "aquaculture:box_loot",
-      "rolls": 1,
       "entries": [
         {
-          "type": "item",
-          "name": "minecraft:stone",
           "entryName": "stone",
+          "name": "minecraft:stone",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:granite",
           "entryName": "granite",
+          "name": "minecraft:granite",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:diorite",
           "entryName": "diorite",
+          "name": "minecraft:diorite",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:andesite",
           "entryName": "andesite",
+          "name": "minecraft:andesite",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:dirt",
           "entryName": "dirt",
+          "name": "minecraft:dirt",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:gravel",
           "entryName": "gravel",
+          "name": "minecraft:gravel",
+          "type": "item",
           "weight": 5
         },
         {
-          "type": "item",
-          "name": "minecraft:cobblestone",
           "entryName": "cobblestone",
+          "name": "minecraft:cobblestone",
+          "type": "item",
           "weight": 5
         },
         {
-          "type": "item",
-          "name": "minecraft:oak_planks",
           "entryName": "oak_planks",
+          "name": "minecraft:oak_planks",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:spruce_planks",
           "entryName": "spruce_planks",
+          "name": "minecraft:spruce_planks",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:birch_planks",
           "entryName": "birch_planks",
+          "name": "minecraft:birch_planks",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:jungle_planks",
           "entryName": "jungle_planks",
+          "name": "minecraft:jungle_planks",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:acacia_planks",
           "entryName": "acacia_planks",
+          "name": "minecraft:acacia_planks",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:dark_oak_planks",
           "entryName": "dark_oak_planks",
+          "name": "minecraft:dark_oak_planks",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:oak_sapling",
           "entryName": "oak_sapling",
+          "name": "minecraft:oak_sapling",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:spruce_sapling",
           "entryName": "spruce_sapling",
+          "name": "minecraft:spruce_sapling",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:birch_sapling",
           "entryName": "birch_sapling",
+          "name": "minecraft:birch_sapling",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:jungle_sapling",
           "entryName": "jungle_sapling",
+          "name": "minecraft:jungle_sapling",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:acacia_sapling",
           "entryName": "acacia_sapling",
+          "name": "minecraft:acacia_sapling",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:dark_oak_sapling",
           "entryName": "dark_oak_sapling",
+          "name": "minecraft:dark_oak_sapling",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:oak_log",
           "entryName": "oak_log",
+          "name": "minecraft:oak_log",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:spruce_log",
           "entryName": "spruce_log",
+          "name": "minecraft:spruce_log",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:birch_log",
           "entryName": "birch_log",
+          "name": "minecraft:birch_log",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:jungle_log",
           "entryName": "jungle_log",
+          "name": "minecraft:jungle_log",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:acacia_log",
           "entryName": "acacia_log",
+          "name": "minecraft:acacia_log",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:dark_oak_log",
           "entryName": "dark_oak_log",
+          "name": "minecraft:dark_oak_log",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:coal",
           "entryName": "coal",
+          "name": "minecraft:coal",
+          "type": "item",
           "weight": 3
         },
         {
-          "type": "item",
-          "name": "minecraft:charcoal",
           "entryName": "charcoal",
+          "name": "minecraft:charcoal",
+          "type": "item",
           "weight": 3
         },
         {
-          "type": "item",
-          "name": "minecraft:wheat_seeds",
           "entryName": "wheat_seeds",
+          "name": "minecraft:wheat_seeds",
+          "type": "item",
           "weight": 3
         },
         {
-          "type": "item",
-          "name": "minecraft:stick",
           "entryName": "stick",
+          "name": "minecraft:stick",
+          "type": "item",
           "weight": 5
         },
         {
-          "type": "item",
-          "name": "minecraft:bowl",
           "entryName": "bowl",
+          "name": "minecraft:bowl",
+          "type": "item",
           "weight": 3
         },
         {
-          "type": "item",
-          "name": "minecraft:leather_helmet",
           "entryName": "leather_helmet",
+          "name": "minecraft:leather_helmet",
+          "type": "item",
           "weight": 2
         },
         {
-          "type": "item",
-          "name": "minecraft:leather_chestplate",
           "entryName": "leather_chestplate",
+          "name": "minecraft:leather_chestplate",
+          "type": "item",
           "weight": 2
         },
         {
-          "type": "item",
-          "name": "minecraft:leather_leggings",
           "entryName": "leather_leggings",
+          "name": "minecraft:leather_leggings",
+          "type": "item",
           "weight": 2
         },
         {
-          "type": "item",
-          "name": "minecraft:leather_boots",
           "entryName": "leather_boots",
+          "name": "minecraft:leather_boots",
+          "type": "item",
           "weight": 2
         },
         {
-          "type": "item",
-          "name": "minecraft:flint",
           "entryName": "flint",
+          "name": "minecraft:flint",
+          "type": "item",
           "weight": 4
         },
         {
-          "type": "item",
-          "name": "minecraft:clay_ball",
           "entryName": "clay_ball",
+          "name": "minecraft:clay_ball",
+          "type": "item",
           "weight": 4
         },
         {
-          "type": "item",
-          "name": "minecraft:bucket",
           "entryName": "bucket",
+          "name": "minecraft:bucket",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:leather",
           "entryName": "leather",
+          "name": "minecraft:leather",
+          "type": "item",
           "weight": 4
         },
         {
-          "type": "item",
-          "name": "minecraft:slime_ball",
           "entryName": "slime_ball",
+          "name": "minecraft:slime_ball",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:sugar_cane",
           "entryName": "sugar_cane",
+          "name": "minecraft:sugar_cane",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:bone",
           "entryName": "bone",
+          "name": "minecraft:bone",
+          "type": "item",
           "weight": 5
         },
         {
-          "type": "item",
-          "name": "minecraft:rotten_flesh",
           "entryName": "rotten_flesh",
+          "name": "minecraft:rotten_flesh",
+          "type": "item",
           "weight": 5
         },
         {
-          "type": "item",
-          "name": "minecraft:glass_bottle",
           "entryName": "glass_bottle",
+          "name": "minecraft:glass_bottle",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:carrot",
           "entryName": "carrot",
+          "name": "minecraft:carrot",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:potato",
           "entryName": "potato",
+          "name": "minecraft:potato",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:vine",
           "entryName": "vine",
+          "name": "minecraft:vine",
+          "type": "item",
           "weight": 1
         },
         {
-          "type": "item",
-          "name": "minecraft:tall_grass",
           "entryName": "tall_grass",
+          "name": "minecraft:tall_grass",
+          "type": "item",
           "weight": 3
         },
         {
-          "type": "item",
-          "name": "minecraft:string",
           "entryName": "string",
+          "name": "minecraft:string",
+          "type": "item",
           "weight": 3
         },
         {
-          "type": "item",
-          "name": "minecraft:feather",
           "entryName": "feather",
+          "name": "minecraft:feather",
+          "type": "item",
           "weight": 4
         },
         {
-          "type": "item",
-          "name": "minecraft:apple",
           "entryName": "apple",
+          "name": "minecraft:apple",
+          "type": "item",
           "weight": 1
         }
-      ]
+      ],
+      "name": "aquaculture:box_loot",
+      "rolls": 1
     }
   ]
 }

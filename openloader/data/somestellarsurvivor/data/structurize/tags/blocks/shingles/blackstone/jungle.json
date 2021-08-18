@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "structurize:blackstone_jungle_shingle"
   ]

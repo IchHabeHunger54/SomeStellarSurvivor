@@ -1,14 +1,4 @@
 {
-  "type": "recipe",
-  "crafter": "sifter_custom",
-  "inputs": [
-    {
-      "item": "minecraft:sand"
-    },
-    {
-      "item": "minecolonies:sifter_mesh_diamond"
-    }
-  ],
   "additional-output": [
     {
       "item": "minecolonies:sifter_mesh_diamond"
@@ -26,7 +16,17 @@
       "item": "minecraft:cocoa_beans"
     }
   ],
+  "crafter": "sifter_custom",
+  "inputs": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecolonies:sifter_mesh_diamond"
+    }
+  ],
+  "intermediate": "minecraft:air",
   "loot-table": "minecolonies:recipes/diamond/sand",
   "min-building-level": 5,
-  "intermediate": "minecraft:air"
+  "type": "recipe"
 }

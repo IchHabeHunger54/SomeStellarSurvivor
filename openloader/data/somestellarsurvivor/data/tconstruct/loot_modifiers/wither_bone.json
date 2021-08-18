@@ -1,5 +1,4 @@
 {
-  "type": "mantle:replace_item",
   "conditions": [
     {
       "condition": "forge:loot_table_id",
@@ -11,5 +10,6 @@
     }
   ],
   "original": "minecraft:bone",
-  "replacement": "tconstruct:necrotic_bone"
+  "replacement": "tconstruct:necrotic_bone",
+  "type": "mantle:replace_item"
 }

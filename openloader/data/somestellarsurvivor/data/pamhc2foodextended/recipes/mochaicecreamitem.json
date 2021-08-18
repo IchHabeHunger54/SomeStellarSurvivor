@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:icecream"
+    },
+    {
+      "tag": "forge:crops/coffeebean"
+    },
+    {
+      "tag": "forge:cocoapowder"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:mochaicecreamitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "realistictorches:unlit_torch"
@@ -10,5 +9,6 @@
   ],
   "result": {
     "item": "realistictorches:lit_torch"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

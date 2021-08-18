@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "myalite",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:myalite"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:myalite_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:myalite_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "myalite"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

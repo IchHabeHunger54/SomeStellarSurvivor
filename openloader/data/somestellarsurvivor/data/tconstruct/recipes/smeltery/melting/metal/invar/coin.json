@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:coins/invar",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:coins/invar"
   },
   "result": {
-    "fluid": "tconstruct:molten_invar",
-    "amount": 48
+    "amount": 48,
+    "fluid": "tconstruct:molten_invar"
   },
   "temperature": 900,
-  "time": 42
+  "time": 42,
+  "type": "tconstruct:melting"
 }

@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:cocoapowder"
+    },
+    {
+      "tag": "forge:ices"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:chocolatemilkshakeitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

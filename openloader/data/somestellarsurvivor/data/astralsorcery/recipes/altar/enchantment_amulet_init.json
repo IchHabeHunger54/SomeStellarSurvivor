@@ -1,14 +1,13 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 2,
   "duration": 400,
-  "starlight": 2800,
-  "pattern": [
-    "_____",
-    "_CDC_",
-    "_BEB_",
-    "B_A_B",
-    "_B_B_"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:large_dust_swirl",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -29,16 +28,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:enchantment_amulet",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:enchantment_amulet"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:large_dust_swirl",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "_____",
+    "_CDC_",
+    "_BEB_",
+    "B_A_B",
+    "_B_B_"
+  ],
+  "starlight": 2800,
+  "type": "astralsorcery:altar"
 }

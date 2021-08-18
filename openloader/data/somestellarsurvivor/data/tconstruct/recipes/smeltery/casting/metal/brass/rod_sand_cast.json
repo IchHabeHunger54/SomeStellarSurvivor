@@ -1,24 +1,24 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:rods/brass",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/single_use/rod"
   },
   "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:rods/brass",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 38,
   "fluid": {
-    "tag": "tconstruct:molten_brass",
-    "amount": 72
+    "amount": 72,
+    "tag": "tconstruct:molten_brass"
   },
   "result": {
     "tag": "forge:rods/brass"
   },
-  "cooling_time": 38
+  "type": "tconstruct:casting_table"
 }

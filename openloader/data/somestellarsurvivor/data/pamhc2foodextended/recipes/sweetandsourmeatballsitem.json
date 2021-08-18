@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:groundmeats/groundbeef"
+    },
+    {
+      "item": "pamhc2foodextended:sweetandsoursauceitem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:sweetandsourmeatballsitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

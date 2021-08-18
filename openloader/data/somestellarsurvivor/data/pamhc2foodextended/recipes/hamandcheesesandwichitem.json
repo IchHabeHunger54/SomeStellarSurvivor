@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:hamandcheesesandwichitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

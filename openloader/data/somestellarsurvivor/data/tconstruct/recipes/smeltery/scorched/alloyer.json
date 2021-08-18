@@ -1,10 +1,8 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "BGB",
-    "BBB"
-  ],
   "key": {
+    "B": {
+      "item": "tconstruct:scorched_brick"
+    },
     "G": [
       {
         "item": "tconstruct:scorched_ingot_gauge"
@@ -12,12 +10,14 @@
       {
         "item": "tconstruct:scorched_fuel_gauge"
       }
-    ],
-    "B": {
-      "item": "tconstruct:scorched_brick"
-    }
+    ]
   },
+  "pattern": [
+    "BGB",
+    "BBB"
+  ],
   "result": {
     "item": "tconstruct:scorched_alloyer"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

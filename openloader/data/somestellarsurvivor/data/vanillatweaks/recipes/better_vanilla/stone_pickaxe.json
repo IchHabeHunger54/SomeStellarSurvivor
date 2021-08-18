@@ -3,16 +3,10 @@
     {
       "type": "forge:not",
       "value": {
-        "type": "vanillatweaks:better_vanilla",
-        "object": "better_stone_tools"
+        "object": "better_stone_tools",
+        "type": "vanillatweaks:better_vanilla"
       }
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XXX",
-    " # ",
-    " # "
   ],
   "key": {
     "#": {
@@ -22,7 +16,13 @@
       "tag": "forge:cobblestone"
     }
   },
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
   "result": {
     "item": "minecraft:stone_pickaxe"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

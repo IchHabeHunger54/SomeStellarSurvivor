@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:cornmeal"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:gritsitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

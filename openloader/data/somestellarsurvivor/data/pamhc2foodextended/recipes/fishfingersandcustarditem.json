@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:groundmeats/groundfish"
+    },
+    {
+      "tag": "forge:batter"
+    },
+    {
+      "tag": "forge:condiments/mayonaise"
+    },
+    {
+      "tag": "forge:condiments/mustard"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    },
+    {
+      "tag": "forge:crops/lemon"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:fishfingersandcustarditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

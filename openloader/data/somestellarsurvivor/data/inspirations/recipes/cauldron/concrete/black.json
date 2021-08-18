@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,12 +10,12 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "minecraft:water",
+      "type": "inspirations:fluid"
+    },
     "item": {
       "item": "minecraft:black_concrete_powder"
-    },
-    "contents": {
-      "type": "inspirations:fluid",
-      "name": "minecraft:water"
     },
     "level": {
       "min": 4
@@ -29,5 +28,6 @@
     "level": {
       "add": -4
     }
-  }
+  },
+  "type": "inspirations:cauldron"
 }

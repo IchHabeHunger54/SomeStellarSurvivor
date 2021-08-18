@@ -1,8 +1,6 @@
 {
-  "type": "minecraft:entity",
   "pools": [
     {
-      "name": "shell",
       "conditions": [
         {
           "condition": "quark:flag",
@@ -12,59 +10,61 @@
           "condition": "killed_by_player"
         },
         {
-          "condition": "random_chance_with_looting",
           "chance": 0.25,
+          "condition": "random_chance_with_looting",
           "looting_multiplier": 0.03
         }
       ],
-      "rolls": 1,
       "entries": [
         {
-          "type": "item",
-          "name": "quark:crab_shell"
+          "name": "quark:crab_shell",
+          "type": "item"
         }
-      ]
+      ],
+      "name": "shell",
+      "rolls": 1
     },
     {
-      "rolls": 1,
-      "name": "legs",
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "quark:crab_leg",
           "functions": [
             {
-              "function": "set_count",
               "count": {
-                "min": 0,
                 "max": 1,
+                "min": 0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "set_count"
             },
             {
-              "function": "minecraft:furnace_smelt",
               "conditions": [
                 {
                   "condition": "minecraft:entity_properties",
+                  "entity": "this",
                   "predicate": {
                     "flags": {
                       "is_on_fire": true
                     }
-                  },
-                  "entity": "this"
+                  }
                 }
-              ]
+              ],
+              "function": "minecraft:furnace_smelt"
             },
             {
-              "function": "looting_enchant",
               "count": {
-                "min": 0,
-                "max": 1
-              }
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
             }
-          ]
+          ],
+          "name": "quark:crab_leg",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "name": "legs",
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

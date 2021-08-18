@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:paper_plants"
@@ -9,7 +8,8 @@
     }
   ],
   "result": {
-    "item": "minecraft:paper",
-    "count": 2
-  }
+    "count": 2,
+    "item": "minecraft:paper"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

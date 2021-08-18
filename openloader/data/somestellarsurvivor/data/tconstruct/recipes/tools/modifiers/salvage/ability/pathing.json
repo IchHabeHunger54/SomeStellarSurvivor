@@ -1,0 +1,28 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:pathing",
+  "salvage": [
+    {
+      "chance": 0.35,
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "base": {
+      "tag": "tconstruct:modifiable/harvest/primary"
+    },
+    "type": "mantle:without",
+    "without": [
+      {
+        "item": "tconstruct:mattock"
+      },
+      {
+        "item": "tconstruct:excavator"
+      }
+    ]
+  },
+  "type": "tconstruct:modifier_salvage"
+}

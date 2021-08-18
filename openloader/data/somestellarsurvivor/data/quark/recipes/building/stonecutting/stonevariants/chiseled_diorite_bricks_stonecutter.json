@@ -1,27 +1,27 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:diorite"
-  },
-  "result": "quark:chiseled_diorite_bricks",
-  "count": 1,
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "stone_bricks"
+          "flag": "stone_bricks",
+          "type": "quark:flag"
         },
         {
-          "type": "quark:flag",
-          "flag": "stone_chiseled"
+          "flag": "stone_chiseled",
+          "type": "quark:flag"
         },
         {
-          "type": "quark:flag",
-          "flag": "diorite"
+          "flag": "diorite",
+          "type": "quark:flag"
         }
       ]
     }
-  ]
+  ],
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": "quark:chiseled_diorite_bricks",
+  "type": "minecraft:stonecutting"
 }

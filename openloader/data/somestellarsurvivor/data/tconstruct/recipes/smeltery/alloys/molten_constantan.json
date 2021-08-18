@@ -1,34 +1,34 @@
 {
-  "type": "tconstruct:alloy",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/constantan",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     },
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/nickel",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "inputs": [
     {
-      "tag": "tconstruct:molten_copper",
-      "amount": 144
+      "amount": 144,
+      "tag": "tconstruct:molten_copper"
     },
     {
-      "tag": "tconstruct:molten_nickel",
-      "amount": 144
+      "amount": 144,
+      "tag": "tconstruct:molten_nickel"
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_constantan",
-    "amount": 288
+    "amount": 288,
+    "fluid": "tconstruct:molten_constantan"
   },
-  "temperature": 920
+  "temperature": 920,
+  "type": "tconstruct:alloy"
 }

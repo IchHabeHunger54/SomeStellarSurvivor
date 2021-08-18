@@ -1,8 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "WWW"
+  "conditions": [
+    {
+      "flag": "stools",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -12,14 +13,13 @@
       "tag": "minecraft:wooden_slabs"
     }
   },
+  "pattern": [
+    "###",
+    "WWW"
+  ],
   "result": {
-    "item": "quark:light_blue_stool",
-    "count": 1
+    "count": 1,
+    "item": "quark:light_blue_stool"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "stools"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

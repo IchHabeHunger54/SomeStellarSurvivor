@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "item": "minecraft:enchanted_golden_apple"
   },
   "result": {
-    "fluid": "tconstruct:molten_gold",
-    "amount": 10368
+    "amount": 10368,
+    "fluid": "tconstruct:molten_gold"
   },
   "temperature": 700,
-  "time": 483
+  "time": 483,
+  "type": "tconstruct:melting"
 }

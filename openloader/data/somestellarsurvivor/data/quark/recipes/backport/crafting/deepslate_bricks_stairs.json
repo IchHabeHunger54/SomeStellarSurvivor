@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "deepslate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:deepslate_bricks"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:deepslate_bricks_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:deepslate_bricks_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "deepslate"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

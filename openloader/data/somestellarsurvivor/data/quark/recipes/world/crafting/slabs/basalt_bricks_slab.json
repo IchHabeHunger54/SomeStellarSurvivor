@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "more_stone_variants",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:basalt_bricks"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:basalt_bricks_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:basalt_bricks_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "more_stone_variants"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

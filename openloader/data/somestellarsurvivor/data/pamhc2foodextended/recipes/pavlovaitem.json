@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/lemon"
+    },
+    {
+      "tag": "forge:meringue"
+    },
+    {
+      "tag": "forge:crops/strawberry"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:pavlovaitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

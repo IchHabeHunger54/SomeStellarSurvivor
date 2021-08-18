@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:crops/cashew"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "tag": "forge:peppers"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cashewchickenitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

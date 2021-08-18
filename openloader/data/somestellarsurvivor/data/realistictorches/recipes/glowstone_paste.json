@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:glowstone_dust"
@@ -13,5 +12,6 @@
   ],
   "result": {
     "item": "realistictorches:glowstone_paste"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,32 +1,32 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "stone_pavement",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "myalite",
+          "type": "quark:flag"
+        }
+      ]
+    }
   ],
   "key": {
     "#": {
       "item": "quark:polished_myalite"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:myalite_pavement",
-    "count": 9
+    "count": 9,
+    "item": "quark:myalite_pavement"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "stone_pavement"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "myalite"
-        }
-      ]
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " C ",
-    " I ",
-    "EIE"
-  ],
   "key": {
     "C": {
       "item": "alexsmobs:capsid"
@@ -16,8 +10,14 @@
       "tag": "forge:nuggets/iron"
     }
   },
+  "pattern": [
+    " C ",
+    " I ",
+    "EIE"
+  ],
   "result": {
-    "item": "alexsmobs:enderiophage_rocket",
-    "count": 3
-  }
+    "count": 3,
+    "item": "alexsmobs:enderiophage_rocket"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:sandstone/cracked",
     "chisel:sandstone/solid_bricks",

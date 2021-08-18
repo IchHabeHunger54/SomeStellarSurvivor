@@ -5,8 +5,8 @@
     ],
     "effects": [
       {
-        "effect": "fire",
-        "chance": 200
+        "chance": 200,
+        "effect": "fire"
       }
     ]
   },
@@ -16,8 +16,8 @@
     ],
     "effects": [
       {
-        "effect": "dust",
-        "chance": 500
+        "chance": 500,
+        "effect": "dust"
       }
     ]
   },
@@ -27,8 +27,8 @@
     ],
     "effects": [
       {
-        "effect": "fire",
-        "chance": 1800
+        "chance": 1800,
+        "effect": "fire"
       }
     ]
   },
@@ -38,16 +38,16 @@
     ],
     "effects": [
       {
-        "effect": "bubble",
-        "chance": 1800
+        "chance": 1800,
+        "effect": "bubble"
       },
       {
-        "effect": "steam",
-        "chance": 0
+        "chance": 0,
+        "effect": "steam"
       },
       {
-        "effect": "splash",
-        "chance": 0
+        "chance": 0,
+        "effect": "splash"
       }
     ]
   },
@@ -57,60 +57,60 @@
     ],
     "effects": [
       {
-        "effect": "steam",
-        "chance": 0
+        "chance": 0,
+        "effect": "steam"
       }
     ]
   },
   {
-    "blocks": [
-      "minecraft:ice",
-      "minecraft:packed_ice"
-    ],
-    "chance": 10000,
     "acoustics": [
       {
         "acoustic": "environs:ice"
       }
-    ]
+    ],
+    "blocks": [
+      "minecraft:ice",
+      "minecraft:packed_ice"
+    ],
+    "chance": 10000
   },
   {
-    "blocks": [
-      "minecraft:lily_pad"
-    ],
-    "chance": 25,
     "acoustics": [
       {
         "acoustic": "waterlily/frog",
         "conditions": "!state.isInside() && !weather.canWaterFreeze()"
       }
-    ]
+    ],
+    "blocks": [
+      "minecraft:lily_pad"
+    ],
+    "chance": 25
   },
   {
-    "blocks": [
-      "minecraft:soul_sand"
-    ],
-    "chance": 8000,
     "acoustics": [
       {
         "acoustic": "soulsand/laughter",
         "conditions": "dim.getId() == 'minecraft:the_nether'"
       }
-    ]
+    ],
+    "blocks": [
+      "minecraft:soul_sand"
+    ],
+    "chance": 8000
   },
   {
-    "blocks": [
-      "minecraft:nether_bricks",
-      "minecraft:nether_brick_fence",
-      "minecraft:nether_brick_stairs"
-    ],
-    "chance": 8000,
     "acoustics": [
       {
         "acoustic": "netherbrick/breathing",
         "conditions": "dim.getId() == 'minecraft:the_nether'"
       }
-    ]
+    ],
+    "blocks": [
+      "minecraft:nether_bricks",
+      "minecraft:nether_brick_fence",
+      "minecraft:nether_brick_stairs"
+    ],
+    "chance": 8000
   },
   {
     "blocks": [
@@ -122,9 +122,9 @@
     ],
     "effects": [
       {
-        "effect": "firefly",
+        "chance": 30,
         "conditions": "weather.isNotRaining() && (diurnal.isNight() || diurnal.isSunset()) && !(biome.is('hot') || weather.canWaterFreeze())",
-        "chance": 30
+        "effect": "firefly"
       }
     ]
   }

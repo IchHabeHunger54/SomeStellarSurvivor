@@ -3,16 +3,10 @@
     {
       "type": "forge:not",
       "value": {
-        "type": "vanillatweaks:better_vanilla",
-        "object": "better_stairs"
+        "object": "better_stairs",
+        "type": "vanillatweaks:better_vanilla"
       }
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
   ],
   "key": {
     "#": [
@@ -24,8 +18,14 @@
       }
     ]
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:purpur_stairs",
-    "count": 4
-  }
+    "count": 4,
+    "item": "minecraft:purpur_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
 }

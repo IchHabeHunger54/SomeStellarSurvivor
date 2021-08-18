@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:bricks"
@@ -15,7 +14,8 @@
     }
   ],
   "result": {
-    "item": "structurize:beige_bricks",
-    "count": 4
-  }
+    "count": 4,
+    "item": "structurize:beige_bricks"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

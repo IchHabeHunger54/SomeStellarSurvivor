@@ -1,9 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " D",
-    "S "
-  ],
   "key": {
     "D": {
       "tag": "forge:gems/diamond"
@@ -12,7 +7,12 @@
       "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    " D",
+    "S "
+  ],
   "result": {
     "item": "chisel:diamond_chisel"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

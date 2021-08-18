@@ -13,28 +13,28 @@
   ],
   "replace": {
     "config": {
+      "decorator": {
+        "config": {
+          "filter": "biome",
+          "placement": {
+            "config": {
+              "biome_fade": 0.25,
+              "density_scale": 250,
+              "density_variation": 0.75,
+              "jitter": 0.8,
+              "radius": 7,
+              "scale": 0.3
+            },
+            "type": "terraforged:fast_poisson_surface"
+          }
+        },
+        "type": "terraforged:filter"
+      },
       "feature": {
         "config": {
           "template": "terraforged:pine"
         },
         "type": "terraforged:template"
-      },
-      "decorator": {
-        "config": {
-          "placement": {
-            "config": {
-              "radius": 7,
-              "scale": 0.3,
-              "jitter": 0.8,
-              "biome_fade": 0.25,
-              "density_scale": 250,
-              "density_variation": 0.75
-            },
-            "type": "terraforged:fast_poisson_surface"
-          },
-          "filter": "biome"
-        },
-        "type": "terraforged:filter"
       }
     },
     "type": "minecraft:decorated"

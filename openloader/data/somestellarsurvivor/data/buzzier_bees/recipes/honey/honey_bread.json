@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:honey_bottle"
@@ -9,7 +8,8 @@
     }
   ],
   "result": {
-    "item": "buzzier_bees:honey_bread",
-    "count": 1
-  }
+    "count": 1,
+    "item": "buzzier_bees:honey_bread"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

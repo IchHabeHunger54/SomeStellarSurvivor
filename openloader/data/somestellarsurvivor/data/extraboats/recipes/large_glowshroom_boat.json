@@ -1,20 +1,15 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "enhanced_mushrooms"
+      "modid": "enhanced_mushrooms",
+      "type": "forge:mod_loaded"
     },
     {
-      "type": "forge:mod_loaded",
-      "modid": "quark"
+      "modid": "quark",
+      "type": "forge:mod_loaded"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "large_boat",
-  "pattern": [
-    "#W#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "enhanced_mushrooms:glowshroom_planks"
@@ -23,7 +18,12 @@
       "item": "enhanced_mushrooms:glowshroom_boat"
     }
   },
+  "pattern": [
+    "#W#",
+    "###"
+  ],
   "result": {
     "item": "extraboats:large_glowshroom_boat"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

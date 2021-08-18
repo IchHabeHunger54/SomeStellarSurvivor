@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "slate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:slate"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:slate_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:slate_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "slate"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "ravager_hide",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:bonded_ravager_hide"
     }
   ],
   "result": {
-    "item": "quark:ravager_hide",
-    "count": 9
+    "count": 9,
+    "item": "quark:ravager_hide"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "ravager_hide"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

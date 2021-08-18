@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "F",
-    "C",
-    "S"
-  ],
   "key": {
-    "F": {
-      "item": "minecraft:crimson_planks"
-    },
     "C": {
       "item": "minecraft:cyan_terracotta"
+    },
+    "F": {
+      "item": "minecraft:crimson_planks"
     },
     "S": {
       "item": "structurize:sceptergold"
     }
   },
+  "pattern": [
+    "F",
+    "C",
+    "S"
+  ],
   "result": {
-    "item": "structurize:plain_crimson_cyan_terracotta_timber_frame",
-    "count": 4
-  }
+    "count": 4,
+    "item": "structurize:plain_crimson_cyan_terracotta_timber_frame"
+  },
+  "type": "minecraft:crafting_shaped"
 }

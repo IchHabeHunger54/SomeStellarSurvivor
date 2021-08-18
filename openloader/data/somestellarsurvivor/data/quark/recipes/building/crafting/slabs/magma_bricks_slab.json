@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "magma_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:magma_bricks"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:magma_bricks_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:magma_bricks_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "magma_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

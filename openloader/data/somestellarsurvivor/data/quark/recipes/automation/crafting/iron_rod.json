@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "iron_rod",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "R": {
+      "item": "minecraft:end_rod"
+    }
+  },
   "pattern": [
     "I",
     "I",
     "R"
   ],
-  "key": {
-    "R": {
-      "item": "minecraft:end_rod"
-    },
-    "I": {
-      "tag": "forge:ingots/iron"
-    }
-  },
   "result": {
     "item": "quark:iron_rod"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "iron_rod"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

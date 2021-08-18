@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_bakeware"
@@ -18,7 +17,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodextended:pepperonipizzaitem",
-    "count": 1
-  }
+    "count": 1,
+    "item": "pamhc2foodextended:pepperonipizzaitem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

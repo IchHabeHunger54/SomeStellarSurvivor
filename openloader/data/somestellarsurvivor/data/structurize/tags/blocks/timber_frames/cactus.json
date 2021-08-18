@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#structurize:timber_frames/cactus/oak",
     "#structurize:timber_frames/cactus/spruce",

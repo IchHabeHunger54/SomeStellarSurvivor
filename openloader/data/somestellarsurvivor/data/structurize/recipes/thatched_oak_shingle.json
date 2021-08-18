@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:wheat"
+    },
+    "P": {
+      "item": "minecraft:oak_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
   "pattern": [
     "I  ",
     "SI ",
     "PSI"
   ],
-  "key": {
-    "I": {
-      "item": "minecraft:wheat"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    },
-    "P": {
-      "item": "minecraft:oak_planks"
-    }
-  },
   "result": {
-    "item": "structurize:thatched_oak_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:thatched_oak_shingle"
+  },
+  "type": "minecraft:crafting_shaped"
 }

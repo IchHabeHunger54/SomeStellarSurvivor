@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "item": "minecraft:chain"
   },
   "result": {
-    "fluid": "tconstruct:molten_iron",
-    "amount": 176
+    "amount": 176,
+    "fluid": "tconstruct:molten_iron"
   },
   "temperature": 800,
-  "time": 66
+  "time": 66,
+  "type": "tconstruct:melting"
 }

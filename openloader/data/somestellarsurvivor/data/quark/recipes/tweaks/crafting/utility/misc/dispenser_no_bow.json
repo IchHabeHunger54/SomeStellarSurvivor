@@ -1,29 +1,29 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "dropper_upgrade",
+      "type": "quark:flag"
+    }
+  ],
   "group": "dispenser",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "D": {
+      "item": "minecraft:dropper"
+    },
+    "X": {
+      "item": "minecraft:string"
+    }
+  },
   "pattern": [
     " #X",
     "#DX",
     " #X"
   ],
-  "key": {
-    "#": {
-      "tag": "forge:rods/wooden"
-    },
-    "X": {
-      "item": "minecraft:string"
-    },
-    "D": {
-      "item": "minecraft:dropper"
-    }
-  },
   "result": {
     "item": "minecraft:dispenser"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "dropper_upgrade"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

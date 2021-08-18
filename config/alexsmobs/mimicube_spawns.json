@@ -1,16 +1,1 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "end"
-      },
-      {
-        "type": "REGISTRY_NAME",
-        "negate": true,
-        "value": "minecraft:the_end"
-      }
-    ]
-  ]
-}
+{"biomes":[[{"negate":false,"type":"BIOME_DICT","value":"end"},{"negate":true,"type":"REGISTRY_NAME","value":"minecraft:the_end"}]]}

@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " P ",
-    "PRP",
-    " S "
-  ],
   "key": {
     "P": {
       "tag": "minecraft:planks"
@@ -16,8 +10,14 @@
       "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    " P ",
+    "PRP",
+    " S "
+  ],
   "result": {
-    "item": "alexsmobs:maraca",
-    "count": 1
-  }
+    "count": 1,
+    "item": "alexsmobs:maraca"
+  },
+  "type": "minecraft:crafting_shaped"
 }

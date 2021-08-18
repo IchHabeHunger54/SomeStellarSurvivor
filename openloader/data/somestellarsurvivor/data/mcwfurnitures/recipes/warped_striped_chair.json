@@ -1,0 +1,23 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:warped_plate"
+    },
+    "B": {
+      "item": "minecraft:warped_fence"
+    },
+    "C": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  A",
+    " AC",
+    " BB"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:warped_striped_chair"
+  },
+  "type": "minecraft:crafting_shaped"
+}

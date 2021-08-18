@@ -1,14 +1,14 @@
 {
   "condition": {
+    "type": "forge:not",
     "value": {
       "tag": "forge:ingots/constantan",
       "type": "forge:tag_empty"
-    },
-    "type": "forge:not"
+    }
   },
   "craftable": false,
-  "tier": 3,
+  "hidden": false,
   "sortOrder": 5,
   "textColor": "#9C5643",
-  "hidden": false
+  "tier": 3
 }

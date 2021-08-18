@@ -1,5 +1,7 @@
 {
-  "type": "inspirations:cauldron_fill_potion",
+  "bottle": {
+    "tag": "forge:lingering_bottles"
+  },
   "conditions": [
     {
       "prop": "recipes_module",
@@ -10,8 +12,6 @@
       "type": "inspirations:config"
     }
   ],
-  "bottle": {
-    "tag": "forge:lingering_bottles"
-  },
-  "potion": "minecraft:lingering_potion"
+  "potion": "minecraft:lingering_potion",
+  "type": "inspirations:cauldron_fill_potion"
 }

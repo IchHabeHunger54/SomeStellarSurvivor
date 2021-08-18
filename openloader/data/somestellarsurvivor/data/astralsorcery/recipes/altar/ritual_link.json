@@ -1,14 +1,12 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 2,
   "duration": 400,
-  "starlight": 1600,
-  "pattern": [
-    "_A_A_",
-    "_ABA_",
-    "_CDC_",
-    "_EFE_",
-    "_E_E_"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -32,15 +30,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:ritual_link",
-      "count": 2
+      "count": 2,
+      "item": "astralsorcery:ritual_link"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "_A_A_",
+    "_ABA_",
+    "_CDC_",
+    "_EFE_",
+    "_E_E_"
+  ],
+  "starlight": 1600,
+  "type": "astralsorcery:altar"
 }

@@ -1,28 +1,23 @@
 {
-  "parent": "root.json",
-  "text": "gorilla.txt",
-  "title": "Gorilla",
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-  ],
-  "tabula_renders": [
-  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:gorilla",
-      "x": 90,
-      "y": 80,
+      "follow_cursor": false,
       "page": 0,
-      "scale": 1.4,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "follow_cursor": false
+      "scale": 1.4,
+      "x": 90,
+      "y": 80
     }
-  ]
+  ],
+  "images": [],
+  "item_renders": [],
+  "linked_page_buttons": [],
+  "parent": "root.json",
+  "recipes": [],
+  "tabula_renders": [],
+  "text": "gorilla.txt",
+  "title": "Gorilla"
 }

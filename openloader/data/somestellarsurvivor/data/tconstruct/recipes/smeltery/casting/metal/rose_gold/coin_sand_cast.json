@@ -1,24 +1,24 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:coins/rose_gold",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/single_use/coin"
   },
   "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:coins/rose_gold",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 30,
   "fluid": {
-    "tag": "tconstruct:molten_rose_gold",
-    "amount": 48
+    "amount": 48,
+    "tag": "tconstruct:molten_rose_gold"
   },
   "result": {
     "tag": "forge:coins/rose_gold"
   },
-  "cooling_time": 30
+  "type": "tconstruct:casting_table"
 }

@@ -1,11 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
   "group": "tconstruct:hepatizon_ingot",
-  "pattern": [
-    "###",
-    "#*#",
-    "###"
-  ],
   "key": {
     "#": {
       "tag": "forge:nuggets/hepatizon"
@@ -14,7 +8,13 @@
       "item": "tconstruct:hepatizon_nugget"
     }
   },
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
   "result": {
     "item": "tconstruct:hepatizon_ingot"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

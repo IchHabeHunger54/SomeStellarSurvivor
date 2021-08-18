@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:brick"
+    },
+    "P": {
+      "item": "minecraft:birch_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
   "pattern": [
     "I  ",
     "SI ",
     "PSI"
   ],
-  "key": {
-    "I": {
-      "item": "minecraft:brick"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    },
-    "P": {
-      "item": "minecraft:birch_planks"
-    }
-  },
   "result": {
-    "item": "structurize:clay_birch_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:clay_birch_shingle"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:modifier",
   "inputs": [
     {
       "tag": "forge:ingots/rose_gold"
@@ -17,17 +16,18 @@
       "item": "minecraft:name_tag"
     }
   ],
+  "max_level": 3,
+  "requirements": {
+    "error": "recipe.tconstruct.modifier.luck.level_3",
+    "level": 2,
+    "name": "tconstruct:luck"
+  },
+  "result": {
+    "level": 1,
+    "name": "tconstruct:luck"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/melee_or_harvest"
   },
-  "requirements": {
-    "name": "tconstruct:luck",
-    "level": 2,
-    "error": "recipe.tconstruct.modifier.luck.level_3"
-  },
-  "result": {
-    "name": "tconstruct:luck",
-    "level": 1
-  },
-  "max_level": 3
+  "type": "tconstruct:modifier"
 }

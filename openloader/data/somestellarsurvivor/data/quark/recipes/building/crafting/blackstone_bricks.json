@@ -1,8 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "C#",
-    "##"
+  "conditions": [
+    {
+      "flag": "blackstone_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -12,14 +13,13 @@
       "item": "quark:cobblestone_bricks"
     }
   },
+  "pattern": [
+    "C#",
+    "##"
+  ],
   "result": {
-    "item": "quark:blackstone_bricks",
-    "count": 4
+    "count": 4,
+    "item": "quark:blackstone_bricks"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "blackstone_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

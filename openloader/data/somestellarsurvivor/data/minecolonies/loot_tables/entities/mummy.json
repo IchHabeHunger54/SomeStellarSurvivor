@@ -1,8 +1,6 @@
 {
   "pools": [
     {
-      "name": "minecolonies:mummy",
-      "rolls": 1,
       "bonus_rolls": 1,
       "entries": [
         {
@@ -10,11 +8,13 @@
           "weight": 80
         },
         {
+          "name": "minecolonies:ancienttome",
           "type": "item",
-          "weight": 30,
-          "name": "minecolonies:ancienttome"
+          "weight": 30
         }
-      ]
+      ],
+      "name": "minecolonies:mummy",
+      "rolls": 1
     }
   ]
 }

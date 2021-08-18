@@ -1,5 +1,19 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "soul_compass",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "wraith",
+          "type": "quark:flag"
+        }
+      ]
+    }
+  ],
   "ingredients": [
     {
       "item": "minecraft:compass"
@@ -9,22 +23,8 @@
     }
   ],
   "result": {
-    "item": "quark:soul_compass",
-    "count": 1
+    "count": 1,
+    "item": "quark:soul_compass"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "soul_compass"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "wraith"
-        }
-      ]
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

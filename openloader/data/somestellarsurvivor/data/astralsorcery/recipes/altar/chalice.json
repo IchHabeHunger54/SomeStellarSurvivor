@@ -1,14 +1,14 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 3,
   "duration": 600,
-  "starlight": 4000,
-  "pattern": [
-    "_____",
-    "A___A",
-    "ABCBA",
-    "_DCD_",
-    "_BCB_"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -26,9 +26,16 @@
   },
   "output": [
     {
-      "item": "astralsorcery:chalice",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:chalice"
     }
+  ],
+  "pattern": [
+    "_____",
+    "A___A",
+    "ABCBA",
+    "_DCD_",
+    "_BCB_"
   ],
   "relay_inputs": [
     {
@@ -47,13 +54,6 @@
       "item": "astralsorcery:aquamarine"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "starlight": 4000,
+  "type": "astralsorcery:altar"
 }

@@ -1,16 +1,11 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "nether_extension"
+      "modid": "nether_extension",
+      "type": "forge:mod_loaded"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "large_boat",
-  "pattern": [
-    "#W#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "minecraft:crimson_planks"
@@ -19,7 +14,12 @@
       "item": "nether_extension:crimson_boat"
     }
   },
+  "pattern": [
+    "#W#",
+    "###"
+  ],
   "result": {
     "item": "extraboats:large_crimson_boat"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

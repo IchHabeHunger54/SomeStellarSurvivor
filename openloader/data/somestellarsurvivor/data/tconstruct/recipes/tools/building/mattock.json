@@ -1,4 +1,4 @@
 {
-  "type": "tconstruct:tool_building",
-  "result": "tconstruct:mattock"
+  "result": "tconstruct:mattock",
+  "type": "tconstruct:tool_building"
 }

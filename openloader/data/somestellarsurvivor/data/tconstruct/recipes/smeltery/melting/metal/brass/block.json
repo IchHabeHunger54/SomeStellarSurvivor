@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:storage_blocks/brass",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:storage_blocks/brass"
   },
   "result": {
-    "fluid": "tconstruct:molten_brass",
-    "amount": 1296
+    "amount": 1296,
+    "fluid": "tconstruct:molten_brass"
   },
   "temperature": 605,
-  "time": 161
+  "time": 161,
+  "type": "tconstruct:melting"
 }

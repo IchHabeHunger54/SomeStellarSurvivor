@@ -1,16 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " # ",
-    "# #",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "minecraft:leather"
     }
   },
+  "pattern": [
+    " # ",
+    "# #",
+    "###"
+  ],
   "result": {
     "item": "toughasnails:empty_canteen"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

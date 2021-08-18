@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:damagable_melting",
   "ingredient": [
     {
       "item": "minecraft:diamond_sword"
@@ -9,9 +8,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_diamond",
-    "amount": 288
+    "amount": 288,
+    "fluid": "tconstruct:molten_diamond"
   },
   "temperature": 1450,
-  "time": 112
+  "time": 112,
+  "type": "tconstruct:damagable_melting"
 }

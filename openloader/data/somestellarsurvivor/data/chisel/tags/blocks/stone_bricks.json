@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:stone_bricks/cracked",
     "chisel:stone_bricks/solid_bricks",

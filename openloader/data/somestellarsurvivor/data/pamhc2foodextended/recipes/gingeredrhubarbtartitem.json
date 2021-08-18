@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:crops/rhubarb"
+    },
+    {
+      "tag": "forge:crops/ginger"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:egg"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:gingeredrhubarbtartitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

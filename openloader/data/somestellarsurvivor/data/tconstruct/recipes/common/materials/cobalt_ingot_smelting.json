@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:blasting",
+  "cookingtime": 200,
+  "experience": 1.5,
   "ingredient": {
     "item": "tconstruct:cobalt_ore"
   },
   "result": "tconstruct:cobalt_ingot",
-  "experience": 1.5,
-  "cookingtime": 200
+  "type": "minecraft:blasting"
 }

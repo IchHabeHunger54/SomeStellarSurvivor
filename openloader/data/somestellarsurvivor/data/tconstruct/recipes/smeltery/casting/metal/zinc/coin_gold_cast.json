@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:coins/zinc",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/coin"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:coins/zinc",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 27,
   "fluid": {
-    "tag": "tconstruct:molten_zinc",
-    "amount": 48
+    "amount": 48,
+    "tag": "tconstruct:molten_zinc"
   },
   "result": {
     "tag": "forge:coins/zinc"
   },
-  "cooling_time": 27
+  "type": "tconstruct:casting_table"
 }

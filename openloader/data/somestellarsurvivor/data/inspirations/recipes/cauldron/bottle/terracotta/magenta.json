@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,11 +10,6 @@
     }
   ],
   "group": "stained_terracotta",
-  "pattern": [
-    "###",
-    "#x#",
-    "###"
-  ],
   "key": {
     "#": {
       "tag": "inspirations:terracotta"
@@ -24,8 +18,14 @@
       "item": "inspirations:magenta_dyed_bottle"
     }
   },
+  "pattern": [
+    "###",
+    "#x#",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:magenta_terracotta",
-    "count": 8
-  }
+    "count": 8,
+    "item": "minecraft:magenta_terracotta"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:meringue"
+    },
+    {
+      "tag": "forge:berries"
+    },
+    {
+      "tag": "forge:berries"
+    },
+    {
+      "tag": "forge:berries"
+    },
+    {
+      "tag": "forge:yogurt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:berrymeringuenestitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

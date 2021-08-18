@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:modifier",
+  "ability_slots": 1,
   "inputs": [
     {
       "item": "minecraft:fire_charge"
@@ -17,13 +17,13 @@
       "item": "tconstruct:blazewood"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:autosmelt"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/harvest/primary"
   },
-  "result": {
-    "name": "tconstruct:autosmelt",
-    "level": 1
-  },
-  "max_level": 1,
-  "ability_slots": 1
+  "type": "tconstruct:modifier"
 }

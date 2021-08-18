@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_skillet"
@@ -21,7 +20,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodcore:baconcheeseburgeritem",
-    "count": 1
-  }
+    "count": 1,
+    "item": "pamhc2foodcore:baconcheeseburgeritem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

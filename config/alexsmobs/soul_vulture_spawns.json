@@ -1,18 +1,1 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:soul_sand_valley"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "byg:warped_desert"
-      }
-    ]
-  ]
-}
+{"biomes":[[{"negate":false,"type":"REGISTRY_NAME","value":"minecraft:soul_sand_valley"}],[{"negate":false,"type":"REGISTRY_NAME","value":"byg:warped_desert"}]]}

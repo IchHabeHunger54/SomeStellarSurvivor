@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": [
     {
       "tag": "forge:storage_blocks/quartz"
@@ -23,9 +22,10 @@
     ]
   ],
   "result": {
-    "fluid": "tconstruct:molten_quartz",
-    "amount": 576
+    "amount": 576,
+    "fluid": "tconstruct:molten_quartz"
   },
   "temperature": 637,
-  "time": 110
+  "time": 110,
+  "type": "tconstruct:melting"
 }

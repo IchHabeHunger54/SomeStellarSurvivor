@@ -1,5 +1,10 @@
 {
-  "type": "tconstruct:melting",
+  "byproducts": [
+    {
+      "amount": 2,
+      "fluid": "tconstruct:molten_gold"
+    }
+  ],
   "conditions": [
     {
       "modid": "ceramics",
@@ -18,15 +23,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_porcelain",
-    "amount": 1000
+    "amount": 1000,
+    "fluid": "tconstruct:molten_porcelain"
   },
   "temperature": 700,
   "time": 114,
-  "byproducts": [
-    {
-      "fluid": "tconstruct:molten_gold",
-      "amount": 2
-    }
-  ]
+  "type": "tconstruct:melting"
 }

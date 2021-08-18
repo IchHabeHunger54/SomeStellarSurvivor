@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "S S",
-    "SSS",
-    "SSS"
-  ],
   "key": {
     "S": {
       "item": "alexsmobs:crocodile_scute"
     }
   },
+  "pattern": [
+    "S S",
+    "SSS",
+    "SSS"
+  ],
   "result": {
-    "item": "alexsmobs:crocodile_chestplate",
-    "count": 1
-  }
+    "count": 1,
+    "item": "alexsmobs:crocodile_chestplate"
+  },
+  "type": "minecraft:crafting_shaped"
 }

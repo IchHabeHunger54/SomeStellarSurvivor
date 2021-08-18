@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "aquaculture:fish_fillet_raw"
@@ -10,5 +9,6 @@
   ],
   "result": {
     "item": "aquaculture:sushi"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,14 +1,9 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 1,
   "duration": 200,
-  "starlight": 200,
-  "pattern": [
-    "A___A",
-    "_____",
-    "_BCB_",
-    "_____",
-    "A___A"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -23,12 +18,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:perk_seal",
-      "count": 4
+      "count": 4,
+      "item": "astralsorcery:perk_seal"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "A___A",
+    "_____",
+    "_BCB_",
+    "_____",
+    "A___A"
+  ],
+  "starlight": 200,
+  "type": "astralsorcery:altar"
 }

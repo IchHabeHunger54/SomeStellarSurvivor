@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "flag": "grate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:iron_bars"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:grate",
-    "count": 1
+    "count": 1,
+    "item": "quark:grate"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "grate"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

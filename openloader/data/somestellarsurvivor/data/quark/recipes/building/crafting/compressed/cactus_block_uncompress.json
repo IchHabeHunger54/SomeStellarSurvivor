@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "cactus_block",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:cactus_block"
     }
   ],
   "result": {
-    "item": "minecraft:cactus",
-    "count": 9
+    "count": 9,
+    "item": "minecraft:cactus"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "cactus_block"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

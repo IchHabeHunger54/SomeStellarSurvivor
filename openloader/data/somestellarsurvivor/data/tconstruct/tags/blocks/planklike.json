@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "#minecraft:planks",
+    "tconstruct:lavawood",
+    "tconstruct:blazewood",
+    "tconstruct:nahuatl"
+  ]
+}

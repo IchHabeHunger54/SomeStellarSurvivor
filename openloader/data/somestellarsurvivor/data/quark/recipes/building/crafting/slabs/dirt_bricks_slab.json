@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "dirt_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:dirt_bricks"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:dirt_bricks_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:dirt_bricks_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "dirt_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,24 +1,24 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "oak_chest",
-  "pattern": [
-    "###",
-    "# #",
-    "###"
+  "conditions": [
+    {
+      "flag": "variant_chests",
+      "type": "quark:flag"
+    }
   ],
+  "group": "oak_chest",
   "key": {
     "#": {
       "item": "minecraft:oak_planks"
     }
   },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
   "result": {
-    "item": "quark:oak_chest",
-    "count": 1
+    "count": 1,
+    "item": "quark:oak_chest"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

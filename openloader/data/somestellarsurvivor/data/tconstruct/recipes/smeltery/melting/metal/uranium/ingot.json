@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/uranium",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:ingots/uranium"
   },
   "result": {
-    "fluid": "tconstruct:molten_uranium",
-    "amount": 144
+    "amount": 144,
+    "fluid": "tconstruct:molten_uranium"
   },
   "temperature": 830,
-  "time": 61
+  "time": 61,
+  "type": "tconstruct:melting"
 }

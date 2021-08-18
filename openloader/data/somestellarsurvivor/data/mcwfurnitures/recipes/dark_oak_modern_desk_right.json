@@ -1,0 +1,19 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:dark_oak_plate"
+    },
+    "B": {
+      "item": "minecraft:dark_oak_log"
+    }
+  },
+  "pattern": [
+    " AA",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:dark_oak_modern_desk_right"
+  },
+  "type": "minecraft:crafting_shaped"
+}

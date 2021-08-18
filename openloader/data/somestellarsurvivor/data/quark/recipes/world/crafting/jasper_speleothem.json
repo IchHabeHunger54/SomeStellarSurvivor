@@ -1,32 +1,32 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#",
-    "#",
-    "#"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "speleothems",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "jasper",
+          "type": "quark:flag"
+        }
+      ]
+    }
   ],
   "key": {
     "#": {
       "item": "quark:jasper"
     }
   },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
   "result": {
-    "item": "quark:jasper_speleothem",
-    "count": 6
+    "count": 6,
+    "item": "quark:jasper_speleothem"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "speleothems"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "jasper"
-        }
-      ]
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

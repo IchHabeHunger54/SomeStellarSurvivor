@@ -1,15 +1,15 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:items",
-      "object": "fried_egg"
+      "object": "fried_egg",
+      "type": "vanillatweaks:items"
     }
   ],
-  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.35,
   "ingredient": {
     "item": "minecraft:egg"
   },
   "result": "vanillatweaks:friedegg",
-  "experience": 0.35,
-  "cookingtime": 200
+  "type": "minecraft:smelting"
 }

@@ -1,26 +1,26 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "duskbound_blocks",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "P": {
+      "item": "minecraft:purpur_block"
+    }
+  },
   "pattern": [
     "PPP",
     "POP",
     "PPP"
   ],
-  "key": {
-    "P": {
-      "item": "minecraft:purpur_block"
-    },
-    "O": {
-      "item": "minecraft:obsidian"
-    }
-  },
   "result": {
-    "item": "quark:duskbound_block",
-    "count": 16
+    "count": 16,
+    "item": "quark:duskbound_block"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "duskbound_blocks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

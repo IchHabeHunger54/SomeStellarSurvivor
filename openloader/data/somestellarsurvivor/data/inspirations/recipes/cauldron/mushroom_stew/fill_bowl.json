@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,12 +10,12 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "inspirations:mushroom_stew",
+      "type": "inspirations:fluid"
+    },
     "item": {
       "item": "minecraft:bowl"
-    },
-    "contents": {
-      "type": "inspirations:fluid",
-      "name": "inspirations:mushroom_stew"
     },
     "level": {
       "min": 4
@@ -30,5 +29,6 @@
       "add": -4
     }
   },
-  "sound": "minecraft:item.bottle.fill"
+  "sound": "minecraft:item.bottle.fill",
+  "type": "inspirations:cauldron"
 }

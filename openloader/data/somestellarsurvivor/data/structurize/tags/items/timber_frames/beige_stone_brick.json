@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#structurize:timber_frames/beige_stone_brick/oak",
     "#structurize:timber_frames/beige_stone_brick/spruce",

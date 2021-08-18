@@ -1,20 +1,20 @@
 {
-  "type": "astralsorcery:block_transmutation",
+  "display": {
+    "count": 1,
+    "item": "minecraft:lapis_block"
+  },
   "input": [
     {
       "block": "minecraft:sea_lantern",
       "display": {
-        "item": "minecraft:sea_lantern",
-        "count": 1
+        "count": 1,
+        "item": "minecraft:sea_lantern"
       }
     }
   ],
   "output": {
     "block": "minecraft:lapis_block"
   },
-  "display": {
-    "item": "minecraft:lapis_block",
-    "count": 1
-  },
-  "starlight": 200.0
+  "starlight": 200.0,
+  "type": "astralsorcery:block_transmutation"
 }

@@ -1,15 +1,9 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:items",
-      "object": "binoculars"
+      "object": "binoculars",
+      "type": "vanillatweaks:items"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " I ",
-    "IPI",
-    " I "
   ],
   "key": {
     "I": {
@@ -19,7 +13,13 @@
       "item": "minecraft:glass_pane"
     }
   },
+  "pattern": [
+    " I ",
+    "IPI",
+    " I "
+  ],
   "result": {
     "item": "vanillatweaks:lens"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

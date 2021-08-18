@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron_fill_dyed_bottle",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -9,5 +8,6 @@
       "prop": "cauldron_dyeing",
       "type": "inspirations:config"
     }
-  ]
+  ],
+  "type": "inspirations:cauldron_fill_dyed_bottle"
 }

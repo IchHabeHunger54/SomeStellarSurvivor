@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "flag": "nether_wart_sack",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:nether_wart"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
     "item": "minecraft:nether_wart_block"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "nether_wart_sack"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

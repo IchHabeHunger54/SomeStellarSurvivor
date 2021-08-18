@@ -1,8 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "C#",
-    "##"
+  "conditions": [
+    {
+      "flag": "basalt_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -12,14 +13,13 @@
       "item": "quark:cobblestone_bricks"
     }
   },
+  "pattern": [
+    "C#",
+    "##"
+  ],
   "result": {
-    "item": "quark:vanilla_basalt_bricks",
-    "count": 4
+    "count": 4,
+    "item": "quark:vanilla_basalt_bricks"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "basalt_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

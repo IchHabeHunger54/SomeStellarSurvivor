@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:rootvegetables/arrowroot",
     "#forge:rootvegetables/cassava",

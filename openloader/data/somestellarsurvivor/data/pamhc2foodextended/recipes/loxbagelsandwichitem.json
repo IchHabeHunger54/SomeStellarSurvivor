@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:rawfish"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:cream"
+    },
+    {
+      "tag": "forge:crops/scallion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:loxbagelsandwichitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

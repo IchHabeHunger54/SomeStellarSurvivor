@@ -1,9 +1,9 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:stonecutting",
+  "count": 1,
   "ingredient": {
     "item": "notreepunching:granite_cobblestone"
   },
   "result": "notreepunching:granite_cobblestone_stairs",
-  "count": 1
+  "type": "minecraft:stonecutting"
 }

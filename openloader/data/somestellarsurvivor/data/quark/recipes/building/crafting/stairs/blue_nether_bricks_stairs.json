@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "blue_nether_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:blue_nether_bricks"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:blue_nether_bricks_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:blue_nether_bricks_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "blue_nether_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

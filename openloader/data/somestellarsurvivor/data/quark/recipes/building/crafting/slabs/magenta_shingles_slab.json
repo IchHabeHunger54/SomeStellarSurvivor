@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "shingles",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:magenta_shingles"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:magenta_shingles_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:magenta_shingles_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "shingles"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

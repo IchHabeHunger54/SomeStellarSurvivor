@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:modifier",
+  "ability_slots": 1,
   "inputs": [
     {
       "item": "minecraft:blaze_rod"
@@ -17,13 +17,13 @@
       "item": "minecraft:lava_bucket"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:melting"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/melee_or_harvest"
   },
-  "result": {
-    "name": "tconstruct:melting",
-    "level": 1
-  },
-  "max_level": 1,
-  "ability_slots": 1
+  "type": "tconstruct:modifier"
 }

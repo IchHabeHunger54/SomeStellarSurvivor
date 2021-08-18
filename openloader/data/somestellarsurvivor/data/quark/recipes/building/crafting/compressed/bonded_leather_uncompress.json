@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "bonded_leather",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:bonded_leather"
     }
   ],
   "result": {
-    "item": "minecraft:leather",
-    "count": 9
+    "count": 9,
+    "item": "minecraft:leather"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "bonded_leather"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

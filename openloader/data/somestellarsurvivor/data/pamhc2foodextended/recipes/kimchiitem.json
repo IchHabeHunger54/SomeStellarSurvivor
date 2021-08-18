@@ -1,0 +1,36 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:crops/cabbage"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    },
+    {
+      "tag": "forge:crops/ginger"
+    },
+    {
+      "tag": "forge:crops/radish"
+    },
+    {
+      "tag": "forge:crops/scallion"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    },
+    {
+      "tag": "forge:crops/sesameseeds"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:kimchiitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

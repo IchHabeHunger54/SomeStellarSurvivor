@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,24 +10,25 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "cyan",
+      "type": "inspirations:dye"
+    },
     "item": {
       "tag": "inspirations:shulker_boxes"
-    },
-    "contents": {
-      "type": "inspirations:dye",
-      "name": "cyan"
     },
     "level": {
       "min": 4
     }
   },
   "output": {
+    "copy_nbt": true,
     "item": {
       "item": "minecraft:cyan_shulker_box"
     },
-    "copy_nbt": true,
     "level": {
       "add": -4
     }
-  }
+  },
+  "type": "inspirations:cauldron"
 }

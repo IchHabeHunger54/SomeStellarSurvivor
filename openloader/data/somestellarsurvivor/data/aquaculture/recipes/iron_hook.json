@@ -1,16 +1,16 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "  I",
-    "I I",
-    " I "
-  ],
   "key": {
     "I": {
       "tag": "forge:nuggets/iron"
     }
   },
+  "pattern": [
+    "  I",
+    "I I",
+    " I "
+  ],
   "result": {
     "item": "aquaculture:iron_hook"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

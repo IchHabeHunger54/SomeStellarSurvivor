@@ -1,11 +1,14 @@
 {
-  "type": "astralsorcery:block_transmutation",
+  "display": {
+    "count": 1,
+    "item": "minecraft:cake"
+  },
   "input": [
     {
       "block": "minecraft:pumpkin",
       "display": {
-        "item": "minecraft:pumpkin",
-        "count": 1
+        "count": 1,
+        "item": "minecraft:pumpkin"
       }
     }
   ],
@@ -18,9 +21,6 @@
       }
     ]
   },
-  "display": {
-    "item": "minecraft:cake",
-    "count": 1
-  },
-  "starlight": 500.0
+  "starlight": 500.0,
+  "type": "astralsorcery:block_transmutation"
 }

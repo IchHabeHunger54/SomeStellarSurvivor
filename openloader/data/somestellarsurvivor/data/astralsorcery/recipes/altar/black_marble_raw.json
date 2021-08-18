@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 40,
-  "starlight": 100,
-  "pattern": [
-    "_____",
-    "_AAA_",
-    "_ABA_",
-    "_AAA_",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -20,11 +14,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:black_marble_raw",
-      "count": 8
+      "count": 8,
+      "item": "astralsorcery:black_marble_raw"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "_AAA_",
+    "_ABA_",
+    "_AAA_",
+    "_____"
+  ],
+  "starlight": 100,
+  "type": "astralsorcery:altar"
 }

@@ -1,20 +1,20 @@
 {
-  "type": "astralsorcery:block_transmutation",
+  "display": {
+    "count": 1,
+    "item": "minecraft:end_stone"
+  },
   "input": [
     {
       "block": "minecraft:sandstone",
       "display": {
-        "item": "minecraft:sandstone",
-        "count": 1
+        "count": 1,
+        "item": "minecraft:sandstone"
       }
     }
   ],
   "output": {
     "block": "minecraft:end_stone"
   },
-  "display": {
-    "item": "minecraft:end_stone",
-    "count": 1
-  },
-  "starlight": 200.0
+  "starlight": 200.0,
+  "type": "astralsorcery:block_transmutation"
 }

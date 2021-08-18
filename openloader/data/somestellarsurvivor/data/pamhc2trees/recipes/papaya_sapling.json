@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "pamhc2trees:papayaitem"
@@ -31,5 +30,6 @@
   ],
   "result": {
     "item": "pamhc2trees:papaya_sapling"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

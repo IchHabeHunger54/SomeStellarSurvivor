@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "spider_nest_underground_biome",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:cobbedstone"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:cobbedstone_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:cobbedstone_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "spider_nest_underground_biome"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

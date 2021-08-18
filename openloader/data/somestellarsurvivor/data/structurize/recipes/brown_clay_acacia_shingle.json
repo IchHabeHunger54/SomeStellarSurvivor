@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:clay_acacia_shingle"
@@ -30,7 +29,8 @@
     }
   ],
   "result": {
-    "item": "structurize:brown_clay_acacia_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:brown_clay_acacia_shingle"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

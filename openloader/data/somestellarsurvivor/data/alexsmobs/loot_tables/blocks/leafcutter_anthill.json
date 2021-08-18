@@ -1,27 +1,6 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "function": "minecraft:copy_nbt",
-              "source": "block_entity",
-              "ops": [
-                {
-                  "source": "Ants",
-                  "target": "BlockEntityTag.Ants",
-                  "op": "replace"
-                }
-              ]
-            }
-          ],
-          "name": "alexsmobs:leafcutter_anthill"
-        }
-      ],
       "conditions": [
         {
           "condition": "minecraft:match_tool",
@@ -36,7 +15,28 @@
             ]
           }
         }
-      ]
+      ],
+      "entries": [
+        {
+          "functions": [
+            {
+              "function": "minecraft:copy_nbt",
+              "ops": [
+                {
+                  "op": "replace",
+                  "source": "Ants",
+                  "target": "BlockEntityTag.Ants"
+                }
+              ],
+              "source": "block_entity"
+            }
+          ],
+          "name": "alexsmobs:leafcutter_anthill",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

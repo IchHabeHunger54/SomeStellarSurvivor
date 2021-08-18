@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "tools_module",
@@ -20,5 +19,6 @@
   ],
   "result": {
     "item": "inspirations:redstone_charger"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

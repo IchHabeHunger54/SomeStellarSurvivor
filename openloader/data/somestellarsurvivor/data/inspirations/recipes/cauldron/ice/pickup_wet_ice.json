@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -12,21 +11,22 @@
   ],
   "input": {
     "contents": {
-      "type": "inspirations:custom",
-      "name": "inspirations:wet_ice"
+      "name": "inspirations:wet_ice",
+      "type": "inspirations:custom"
     },
     "level": {
       "min": 12
     }
   },
   "output": {
+    "contents": {
+      "name": "minecraft:water",
+      "type": "inspirations:fluid"
+    },
     "item": {
       "item": "minecraft:ice"
-    },
-    "contents": {
-      "type": "inspirations:fluid",
-      "name": "minecraft:water"
     }
   },
-  "sound": "minecraft:block.glass.break"
+  "sound": "minecraft:block.glass.break",
+  "type": "inspirations:cauldron"
 }

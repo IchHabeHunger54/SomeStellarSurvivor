@@ -1,9 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "S",
-    "T",
-    "T"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "tallow_and_candles",
+          "type": "quark:flag"
+        },
+        {
+          "type": "forge:not",
+          "value": {
+            "modid": "buzzier_bees",
+            "type": "forge:mod_loaded"
+          }
+        }
+      ]
+    }
   ],
   "key": {
     "S": {
@@ -13,26 +25,14 @@
       "tag": "forge:tallow"
     }
   },
+  "pattern": [
+    "S",
+    "T",
+    "T"
+  ],
   "result": {
-    "item": "quark:white_candle",
-    "count": 2
+    "count": 2,
+    "item": "quark:white_candle"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "tallow_and_candles"
-        },
-        {
-          "type": "forge:not",
-          "value": {
-            "type": "forge:mod_loaded",
-            "modid": "buzzier_bees"
-          }
-        }
-      ]
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

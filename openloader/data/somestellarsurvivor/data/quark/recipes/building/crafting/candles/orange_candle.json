@@ -1,5 +1,22 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "tallow_and_candles",
+          "type": "quark:flag"
+        },
+        {
+          "type": "forge:not",
+          "value": {
+            "modid": "buzzier_bees",
+            "type": "forge:mod_loaded"
+          }
+        }
+      ]
+    }
+  ],
   "ingredients": [
     {
       "tag": "quark:candles"
@@ -9,25 +26,8 @@
     }
   ],
   "result": {
-    "item": "quark:orange_candle",
-    "count": 1
+    "count": 1,
+    "item": "quark:orange_candle"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "tallow_and_candles"
-        },
-        {
-          "type": "forge:not",
-          "value": {
-            "type": "forge:mod_loaded",
-            "modid": "buzzier_bees"
-          }
-        }
-      ]
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

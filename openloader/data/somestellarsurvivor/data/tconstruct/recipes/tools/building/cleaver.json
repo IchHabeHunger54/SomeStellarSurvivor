@@ -1,4 +1,4 @@
 {
-  "type": "tconstruct:tool_building",
-  "result": "tconstruct:cleaver"
+  "result": "tconstruct:cleaver",
+  "type": "tconstruct:tool_building"
 }

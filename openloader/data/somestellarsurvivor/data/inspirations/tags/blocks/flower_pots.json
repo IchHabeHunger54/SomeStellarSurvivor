@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "inspirations:potted_cyan",
     "inspirations:potted_syringa",

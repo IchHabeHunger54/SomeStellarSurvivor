@@ -1,11 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
   "group": "tconstruct:tinkers_bronze_ingot",
-  "pattern": [
-    "###",
-    "#*#",
-    "###"
-  ],
   "key": {
     "#": {
       "tag": "forge:nuggets/silicon_bronze"
@@ -14,7 +8,13 @@
       "item": "tconstruct:tinkers_bronze_nugget"
     }
   },
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
   "result": {
     "item": "tconstruct:tinkers_bronze_ingot"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

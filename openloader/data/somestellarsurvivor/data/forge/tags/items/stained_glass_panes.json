@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:glass_panes/black",
     "#forge:glass_panes/blue",

@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": [
     {
       "item": "minecraft:soul_sand"
@@ -9,9 +8,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:liquid_soul",
-    "amount": 1000
+    "amount": 1000,
+    "fluid": "tconstruct:liquid_soul"
   },
   "temperature": 400,
-  "time": 69
+  "time": 69,
+  "type": "tconstruct:melting"
 }

@@ -1,24 +1,24 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:better_vanilla",
-      "object": "better_stairs"
+      "object": "better_stairs",
+      "type": "vanillatweaks:better_vanilla"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "wooden_stairs",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "minecraft:jungle_planks"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:jungle_stairs",
-    "count": 8
-  }
+    "count": 8,
+    "item": "minecraft:jungle_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
 }

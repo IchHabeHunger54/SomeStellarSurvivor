@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "# #",
-    "#W#",
-    "# #"
+  "conditions": [
+    {
+      "flag": "variant_ladders",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -13,14 +13,14 @@
       "item": "minecraft:crimson_planks"
     }
   },
+  "pattern": [
+    "# #",
+    "#W#",
+    "# #"
+  ],
   "result": {
-    "item": "quark:crimson_ladder",
-    "count": 4
+    "count": 4,
+    "item": "quark:crimson_ladder"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_ladders"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,69 +1,11 @@
 {
-  "armor.light_walk": {
-    "category": "footsteps",
-    "credits": [
-      "§aFoley",
-      "Samulis"
-    ],
-    "sounds": [
-      "mobeffects:footsteps/armor/light_1",
-      "mobeffects:footsteps/armor/light_2",
-      "mobeffects:footsteps/armor/light_3"
-    ]
-  },
-  "armor.light_run": {
-    "category": "footsteps",
-    "credits": [
-      "§aFoley",
-      "Samulis"
-    ],
-    "sounds": [
-      "mobeffects:footsteps/armor/light_1",
-      "mobeffects:footsteps/armor/light_2",
-      "mobeffects:footsteps/armor/light_3"
-    ]
-  },
-  "armor.medium_walk": {
-    "category": "footsteps",
-    "credits": [
-      "§aFoley",
-      "Samulis",
-      "",
-      "§achain drop",
-      "satanicupsman",
-      "Creative Commons 0"
-    ],
-    "sounds": [
-      "mobeffects:footsteps/armor/medium_walk1",
-      "mobeffects:footsteps/armor/medium_walk2",
-      "mobeffects:footsteps/armor/medium_walk3"
-    ]
-  },
-  "armor.medium_run": {
+  "armor.crystal_foot": {
     "category": "footsteps",
     "sounds": [
-      "mobeffects:footsteps/armor/medium_walk1",
-      "mobeffects:footsteps/armor/medium_walk2",
-      "mobeffects:footsteps/armor/medium_walk3"
-    ]
-  },
-  "armor.medium_foot": {
-    "category": "footsteps",
-    "sounds": [
-      "mobeffects:footsteps/armor/medium_walk1",
-      "mobeffects:footsteps/armor/medium_walk2",
-      "mobeffects:footsteps/armor/medium_walk3"
-    ]
-  },
-  "armor.crystal_walk": {
-    "category": "footsteps",
-    "sounds": [
-      "mobeffects:footsteps/armor/crystal_walk1",
-      "mobeffects:footsteps/armor/crystal_walk2",
-      "mobeffects:footsteps/armor/crystal_walk3",
-      "mobeffects:footsteps/armor/crystal_walk4",
-      "mobeffects:footsteps/armor/crystal_walk5",
-      "mobeffects:footsteps/armor/crystal_walk6"
+      "mobeffects:footsteps/armor/crystal_foot1",
+      "mobeffects:footsteps/armor/crystal_foot2",
+      "mobeffects:footsteps/armor/crystal_foot3",
+      "mobeffects:footsteps/armor/crystal_foot4"
     ]
   },
   "armor.crystal_run": {
@@ -77,35 +19,29 @@
       "mobeffects:footsteps/armor/crystal_run6"
     ]
   },
-  "armor.crystal_foot": {
+  "armor.crystal_walk": {
     "category": "footsteps",
     "sounds": [
-      "mobeffects:footsteps/armor/crystal_foot1",
-      "mobeffects:footsteps/armor/crystal_foot2",
-      "mobeffects:footsteps/armor/crystal_foot3",
-      "mobeffects:footsteps/armor/crystal_foot4"
+      "mobeffects:footsteps/armor/crystal_walk1",
+      "mobeffects:footsteps/armor/crystal_walk2",
+      "mobeffects:footsteps/armor/crystal_walk3",
+      "mobeffects:footsteps/armor/crystal_walk4",
+      "mobeffects:footsteps/armor/crystal_walk5",
+      "mobeffects:footsteps/armor/crystal_walk6"
     ]
   },
-  "armor.heavy_walk": {
+  "armor.heavy_foot": {
     "category": "footsteps",
-    "credits": [
-      "§aClanking Armor",
-      "LordSane",
-      "Attribution"
-    ],
     "sounds": [
-      "mobeffects:footsteps/armor/heavy_walk1",
-      "mobeffects:footsteps/armor/heavy_walk2",
-      "mobeffects:footsteps/armor/heavy_walk3",
-      "mobeffects:footsteps/armor/heavy_walk4",
-      "mobeffects:footsteps/armor/heavy_walk5",
-      "mobeffects:footsteps/armor/heavy_walk6"
+      "mobeffects:footsteps/armor/heavy_foot1",
+      "mobeffects:footsteps/armor/heavy_foot2",
+      "mobeffects:footsteps/armor/heavy_foot3"
     ]
   },
   "armor.heavy_run": {
     "category": "footsteps",
     "credits": [
-      "§aClanking Armor",
+      "\u00c2\u00a7aClanking Armor",
       "LordSane",
       "Attribution"
     ],
@@ -121,12 +57,87 @@
       "mobeffects:footsteps/armor/heavy_run9"
     ]
   },
-  "armor.heavy_foot": {
+  "armor.heavy_walk": {
+    "category": "footsteps",
+    "credits": [
+      "\u00c2\u00a7aClanking Armor",
+      "LordSane",
+      "Attribution"
+    ],
+    "sounds": [
+      "mobeffects:footsteps/armor/heavy_walk1",
+      "mobeffects:footsteps/armor/heavy_walk2",
+      "mobeffects:footsteps/armor/heavy_walk3",
+      "mobeffects:footsteps/armor/heavy_walk4",
+      "mobeffects:footsteps/armor/heavy_walk5",
+      "mobeffects:footsteps/armor/heavy_walk6"
+    ]
+  },
+  "armor.light_run": {
+    "category": "footsteps",
+    "credits": [
+      "\u00c2\u00a7aFoley",
+      "Samulis"
+    ],
+    "sounds": [
+      "mobeffects:footsteps/armor/light_1",
+      "mobeffects:footsteps/armor/light_2",
+      "mobeffects:footsteps/armor/light_3"
+    ]
+  },
+  "armor.light_walk": {
+    "category": "footsteps",
+    "credits": [
+      "\u00c2\u00a7aFoley",
+      "Samulis"
+    ],
+    "sounds": [
+      "mobeffects:footsteps/armor/light_1",
+      "mobeffects:footsteps/armor/light_2",
+      "mobeffects:footsteps/armor/light_3"
+    ]
+  },
+  "armor.medium_foot": {
     "category": "footsteps",
     "sounds": [
-      "mobeffects:footsteps/armor/heavy_foot1",
-      "mobeffects:footsteps/armor/heavy_foot2",
-      "mobeffects:footsteps/armor/heavy_foot3"
+      "mobeffects:footsteps/armor/medium_walk1",
+      "mobeffects:footsteps/armor/medium_walk2",
+      "mobeffects:footsteps/armor/medium_walk3"
+    ]
+  },
+  "armor.medium_run": {
+    "category": "footsteps",
+    "sounds": [
+      "mobeffects:footsteps/armor/medium_walk1",
+      "mobeffects:footsteps/armor/medium_walk2",
+      "mobeffects:footsteps/armor/medium_walk3"
+    ]
+  },
+  "armor.medium_walk": {
+    "category": "footsteps",
+    "credits": [
+      "\u00c2\u00a7aFoley",
+      "Samulis",
+      "",
+      "\u00c2\u00a7achain drop",
+      "satanicupsman",
+      "Creative Commons 0"
+    ],
+    "sounds": [
+      "mobeffects:footsteps/armor/medium_walk1",
+      "mobeffects:footsteps/armor/medium_walk2",
+      "mobeffects:footsteps/armor/medium_walk3"
+    ]
+  },
+  "armor.slimey_run": {
+    "category": "footsteps",
+    "sounds": [
+      "mobeffects:footsteps/armor/slime_run1",
+      "mobeffects:footsteps/armor/slime_run2",
+      "mobeffects:footsteps/armor/slime_run3",
+      "mobeffects:footsteps/armor/slime_run4",
+      "mobeffects:footsteps/armor/slime_run5",
+      "mobeffects:footsteps/armor/slime_run6"
     ]
   },
   "armor.slimey_walk": {
@@ -140,15 +151,20 @@
       "mobeffects:footsteps/armor/slime_walk6"
     ]
   },
-  "armor.slimey_run": {
-    "category": "footsteps",
+  "blunt.equip": {
+    "category": "player",
     "sounds": [
-      "mobeffects:footsteps/armor/slime_run1",
-      "mobeffects:footsteps/armor/slime_run2",
-      "mobeffects:footsteps/armor/slime_run3",
-      "mobeffects:footsteps/armor/slime_run4",
-      "mobeffects:footsteps/armor/slime_run5",
-      "mobeffects:footsteps/armor/slime_run6"
+      "mobeffects:items/blunt_draw"
+    ]
+  },
+  "blunt.swing": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/blunt_swing1",
+      "mobeffects:items/blunt_swing2",
+      "mobeffects:items/blunt_swing3",
+      "mobeffects:items/blunt_swing4",
+      "mobeffects:items/blunt_swing5"
     ]
   },
   "bluntwood.bluntwood_walk": {
@@ -175,6 +191,31 @@
       "mobeffects:footsteps/bluntwood/bluntwood_wander3",
       "mobeffects:footsteps/bluntwood/bluntwood_wander4",
       "mobeffects:footsteps/bluntwood/bluntwood_wander5"
+    ]
+  },
+  "bow.equip": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/bow_draw"
+    ]
+  },
+  "bow.loose": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/bow_loose1",
+      "mobeffects:items/bow_loose2",
+      "mobeffects:items/bow_loose3",
+      "mobeffects:items/bow_loose4"
+    ]
+  },
+  "bow.pull": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/bow_pull1",
+      "mobeffects:items/bow_pull2",
+      "mobeffects:items/bow_pull3",
+      "mobeffects:items/bow_pull4",
+      "mobeffects:items/bow_pull5"
     ]
   },
   "brush.brush_through": {
@@ -300,6 +341,14 @@
       "mobeffects:footsteps/dirt/dirt_wander3",
       "mobeffects:footsteps/dirt/dirt_wander4",
       "mobeffects:footsteps/dirt/dirt_wander5"
+    ]
+  },
+  "floorsqueak": {
+    "category": "footsteps",
+    "sounds": [
+      "mobeffects:footsteps/wood/floorsqueak1",
+      "mobeffects:footsteps/wood/floorsqueak2",
+      "mobeffects:footsteps/wood/floorsqueak3"
     ]
   },
   "glass.glass_hard": {
@@ -599,6 +648,23 @@
       "mobeffects:footsteps/muffledice/muffledice_walk9"
     ]
   },
+  "pageflip": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/pageflip1",
+      "mobeffects:items/pageflip2",
+      "mobeffects:items/pageflip3"
+    ]
+  },
+  "potion.equip": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/potion_slosh1",
+      "mobeffects:items/potion_slosh2",
+      "mobeffects:items/potion_slosh3",
+      "mobeffects:items/potion_slosh4"
+    ]
+  },
   "quicksand.quicksand_walk": {
     "category": "footsteps",
     "sounds": [
@@ -661,6 +727,18 @@
       "mobeffects:footsteps/sand/sand_walk7",
       "mobeffects:footsteps/sand/sand_walk8",
       "mobeffects:footsteps/sand/sand_walk9"
+    ]
+  },
+  "shield.equip": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/tool_draw"
+    ]
+  },
+  "shield.use": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/tool_draw"
     ]
   },
   "snow.snow_run": {
@@ -775,6 +853,50 @@
       "mobeffects:footsteps/stone/stone_wander5"
     ]
   },
+  "sword.equip": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/sword_draw"
+    ]
+  },
+  "sword.swing": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/sword_swing1",
+      "mobeffects:items/sword_swing2",
+      "mobeffects:items/sword_swing3",
+      "mobeffects:items/sword_swing4",
+      "mobeffects:items/sword_swing5",
+      "mobeffects:items/sword_swing6",
+      "mobeffects:items/sword_swing7",
+      "mobeffects:items/sword_swing8",
+      "mobeffects:items/sword_swing9"
+    ]
+  },
+  "tool.equip": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/tool_draw"
+    ]
+  },
+  "tool.swing": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/swoosh1",
+      "mobeffects:items/swoosh2",
+      "mobeffects:items/swoosh3",
+      "mobeffects:items/swoosh4",
+      "mobeffects:items/swoosh5",
+      "mobeffects:items/swoosh6",
+      "mobeffects:items/swoosh7"
+    ]
+  },
+  "utility.equip": {
+    "category": "player",
+    "sounds": [
+      "mobeffects:items/utility_draw"
+    ]
+  },
   "water.water_through": {
     "category": "footsteps",
     "sounds": [
@@ -842,22 +964,6 @@
       "mobeffects:footsteps/weakice/weakice_walk9"
     ]
   },
-  "wood.wood_walk": {
-    "category": "footsteps",
-    "sounds": [
-      "mobeffects:footsteps/wood/wood_walk1",
-      "mobeffects:footsteps/wood/wood_walk10",
-      "mobeffects:footsteps/wood/wood_walk11",
-      "mobeffects:footsteps/wood/wood_walk2",
-      "mobeffects:footsteps/wood/wood_walk3",
-      "mobeffects:footsteps/wood/wood_walk4",
-      "mobeffects:footsteps/wood/wood_walk5",
-      "mobeffects:footsteps/wood/wood_walk6",
-      "mobeffects:footsteps/wood/wood_walk7",
-      "mobeffects:footsteps/wood/wood_walk8",
-      "mobeffects:footsteps/wood/wood_walk9"
-    ]
-  },
   "wood.log_walk": {
     "category": "footsteps",
     "sounds": [
@@ -874,126 +980,20 @@
       "mobeffects:footsteps/wood/log_walk9"
     ]
   },
-  "floorsqueak": {
+  "wood.wood_walk": {
     "category": "footsteps",
     "sounds": [
-      "mobeffects:footsteps/wood/floorsqueak1",
-      "mobeffects:footsteps/wood/floorsqueak2",
-      "mobeffects:footsteps/wood/floorsqueak3"
-    ]
-  },
-  "pageflip": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/pageflip1",
-      "mobeffects:items/pageflip2",
-      "mobeffects:items/pageflip3"
-    ]
-  },
-  "blunt.equip": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/blunt_draw"
-    ]
-  },
-  "blunt.swing": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/blunt_swing1",
-      "mobeffects:items/blunt_swing2",
-      "mobeffects:items/blunt_swing3",
-      "mobeffects:items/blunt_swing4",
-      "mobeffects:items/blunt_swing5"
-    ]
-  },
-  "bow.equip": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/bow_draw"
-    ]
-  },
-  "bow.pull": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/bow_pull1",
-      "mobeffects:items/bow_pull2",
-      "mobeffects:items/bow_pull3",
-      "mobeffects:items/bow_pull4",
-      "mobeffects:items/bow_pull5"
-    ]
-  },
-  "bow.loose": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/bow_loose1",
-      "mobeffects:items/bow_loose2",
-      "mobeffects:items/bow_loose3",
-      "mobeffects:items/bow_loose4"
-    ]
-  },
-  "sword.equip": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/sword_draw"
-    ]
-  },
-  "sword.swing": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/sword_swing1",
-      "mobeffects:items/sword_swing2",
-      "mobeffects:items/sword_swing3",
-      "mobeffects:items/sword_swing4",
-      "mobeffects:items/sword_swing5",
-      "mobeffects:items/sword_swing6",
-      "mobeffects:items/sword_swing7",
-      "mobeffects:items/sword_swing8",
-      "mobeffects:items/sword_swing9"
-    ]
-  },
-  "tool.equip": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/tool_draw"
-    ]
-  },
-  "tool.swing": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/swoosh1",
-      "mobeffects:items/swoosh2",
-      "mobeffects:items/swoosh3",
-      "mobeffects:items/swoosh4",
-      "mobeffects:items/swoosh5",
-      "mobeffects:items/swoosh6",
-      "mobeffects:items/swoosh7"
-    ]
-  },
-  "utility.equip": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/utility_draw"
-    ]
-  },
-  "shield.equip": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/tool_draw"
-    ]
-  },
-  "shield.use": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/tool_draw"
-    ]
-  },
-  "potion.equip": {
-    "category": "player",
-    "sounds": [
-      "mobeffects:items/potion_slosh1",
-      "mobeffects:items/potion_slosh2",
-      "mobeffects:items/potion_slosh3",
-      "mobeffects:items/potion_slosh4"
+      "mobeffects:footsteps/wood/wood_walk1",
+      "mobeffects:footsteps/wood/wood_walk10",
+      "mobeffects:footsteps/wood/wood_walk11",
+      "mobeffects:footsteps/wood/wood_walk2",
+      "mobeffects:footsteps/wood/wood_walk3",
+      "mobeffects:footsteps/wood/wood_walk4",
+      "mobeffects:footsteps/wood/wood_walk5",
+      "mobeffects:footsteps/wood/wood_walk6",
+      "mobeffects:footsteps/wood/wood_walk7",
+      "mobeffects:footsteps/wood/wood_walk8",
+      "mobeffects:footsteps/wood/wood_walk9"
     ]
   }
 }

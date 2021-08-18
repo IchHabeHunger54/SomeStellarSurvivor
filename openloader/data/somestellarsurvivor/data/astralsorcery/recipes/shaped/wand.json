@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "astralsorcery:aquamarine"
+    },
+    "E": {
+      "tag": "forge:ender_pearls"
+    },
+    "M": {
+      "item": "astralsorcery:marble_raw"
+    }
+  },
   "pattern": [
     " AE",
     " MA",
     "M  "
   ],
-  "key": {
-    "A": {
-      "item": "astralsorcery:aquamarine"
-    },
-    "M": {
-      "item": "astralsorcery:marble_raw"
-    },
-    "E": {
-      "tag": "forge:ender_pearls"
-    }
-  },
   "result": {
-    "item": "astralsorcery:wand",
-    "count": 1
-  }
+    "count": 1,
+    "item": "astralsorcery:wand"
+  },
+  "type": "minecraft:crafting_shaped"
 }

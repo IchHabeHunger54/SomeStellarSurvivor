@@ -1,13 +1,4 @@
 {
-  "result": {
-    "item": "cookingforblockheads:white_kitchen_floor",
-    "count": 12
-  },
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "BW",
-    "WB"
-  ],
   "key": {
     "B": {
       "item": "minecraft:coal_block"
@@ -15,5 +6,14 @@
     "W": {
       "item": "minecraft:quartz_block"
     }
-  }
+  },
+  "pattern": [
+    "BW",
+    "WB"
+  ],
+  "result": {
+    "count": 12,
+    "item": "cookingforblockheads:white_kitchen_floor"
+  },
+  "type": "minecraft:crafting_shaped"
 }

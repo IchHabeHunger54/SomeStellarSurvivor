@@ -1,19 +1,19 @@
 {
-  "type": "vanillatweaks:flintblock",
   "pools": [
     {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "vanillatweaks:flintblock"
-        }
-      ],
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
         }
-      ]
+      ],
+      "entries": [
+        {
+          "name": "vanillatweaks:flintblock",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "vanillatweaks:flintblock"
 }

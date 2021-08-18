@@ -1,8 +1,4 @@
 {
-  "result": {
-    "item": "cookingforblockheads:fridge"
-  },
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:chests/wooden"
@@ -10,5 +6,9 @@
     {
       "item": "minecraft:iron_door"
     }
-  ]
+  ],
+  "result": {
+    "item": "cookingforblockheads:fridge"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

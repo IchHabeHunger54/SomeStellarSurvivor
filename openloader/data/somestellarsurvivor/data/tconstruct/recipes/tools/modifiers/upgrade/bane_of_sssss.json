@@ -1,17 +1,17 @@
 {
-  "type": "tconstruct:incremental_modifier",
+  "amount_per_item": 1,
   "input": {
     "item": "minecraft:fermented_spider_eye"
   },
-  "amount_per_item": 1,
+  "max_level": 5,
   "needed_per_level": 15,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:bane_of_sssss"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/melee"
   },
-  "result": {
-    "name": "tconstruct:bane_of_sssss",
-    "level": 1
-  },
-  "max_level": 5,
+  "type": "tconstruct:incremental_modifier",
   "upgrade_slots": 1
 }

@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "building_module",
@@ -18,5 +17,6 @@
   ],
   "result": {
     "item": "minecraft:cyan_dye"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

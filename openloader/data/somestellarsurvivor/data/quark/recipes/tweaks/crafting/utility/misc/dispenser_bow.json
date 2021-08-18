@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "dropper_upgrade",
+      "type": "quark:flag"
+    }
+  ],
   "group": "dispenser",
   "ingredients": [
     {
@@ -12,10 +17,5 @@
   "result": {
     "item": "minecraft:dispenser"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "dropper_upgrade"
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

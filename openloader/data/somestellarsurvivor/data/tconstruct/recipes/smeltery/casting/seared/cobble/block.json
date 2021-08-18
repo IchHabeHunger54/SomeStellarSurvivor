@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:casting_basin",
   "cast": [
     {
       "tag": "forge:cobblestone"
@@ -9,10 +8,11 @@
     }
   ],
   "cast_consumed": true,
+  "cooling_time": 90,
   "fluid": {
-    "tag": "tconstruct:molten_clay",
-    "amount": 500
+    "amount": 500,
+    "tag": "tconstruct:molten_clay"
   },
   "result": "tconstruct:seared_cobble",
-  "cooling_time": 90
+  "type": "tconstruct:casting_basin"
 }

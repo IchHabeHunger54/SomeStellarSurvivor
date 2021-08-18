@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:boiledegg"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "item": "pamhc2foodextended:potatocakesitem"
+    },
+    {
+      "item": "pamhc2foodextended:chocolatemilkitem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:heartybreakfastitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,5 +1,4 @@
 {
-  "title":"Features",
   "text": [
     {
       "text": "Since my foundry can't alloy I have created a solution for you that is simple to use."
@@ -8,14 +7,14 @@
       "text": "\n"
     },
     {
-      "text": "• Requires a fuel tank or a heater, better fuel allows making better alloys"
+      "text": "\u00e2\u20ac\u00a2 Requires a fuel tank or a heater, better fuel allows making better alloys"
     },
     {
       "text": "\n"
     },
     {
-      "text": "• Takes input from tanks around the alloyer, adding more tanks gives you more metals to alloy with at once"
+      "text": "\u00e2\u20ac\u00a2 Takes input from tanks around the alloyer, adding more tanks gives you more metals to alloy with at once"
     }
-    
-  ]
+  ],
+  "title": "Features"
 }

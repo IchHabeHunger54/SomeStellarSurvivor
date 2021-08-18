@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "flag": "soul_sandstone",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:soul_sandstone"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:cut_soul_sandstone",
-    "count": 4
+    "count": 4,
+    "item": "quark:cut_soul_sandstone"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "soul_sandstone"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,24 +1,24 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:ingots/silver",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/single_use/ingot"
   },
   "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:ingots/silver",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 60,
   "fluid": {
-    "tag": "tconstruct:molten_silver",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_silver"
   },
   "result": {
     "tag": "forge:ingots/silver"
   },
-  "cooling_time": 60
+  "type": "tconstruct:casting_table"
 }

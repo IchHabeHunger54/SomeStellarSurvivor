@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XSX",
-    "XEX",
-    "XXX"
-  ],
   "key": {
-    "X": {
-      "tag": "minecraft:planks"
-    },
     "E": {
       "item": "minecraft:egg"
     },
     "S": {
       "item": "structurize:sceptergold"
+    },
+    "X": {
+      "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "XSX",
+    "XEX",
+    "XXX"
+  ],
   "result": {
     "item": "minecolonies:blockhutchickenherder"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

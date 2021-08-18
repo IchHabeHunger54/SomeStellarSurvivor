@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_mixingbowl"
@@ -24,7 +23,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodextended:deluxenachoesitem",
-    "count": 1
-  }
+    "count": 1,
+    "item": "pamhc2foodextended:deluxenachoesitem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

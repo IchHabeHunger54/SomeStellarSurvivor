@@ -1,22 +1,22 @@
 [
   {
+    "data": "alloyer/alloyer.json",
     "name": "alloyer",
-    "type": "image with text below",
-    "data": "alloyer/alloyer.json"
+    "type": "image with text below"
   },
   {
+    "data": "alloyer/features.json",
     "name": "alloy",
-    "type": "text",
-    "data": "alloyer/features.json"
+    "type": "text"
   },
   {
+    "data": "alloyer/gui1.json",
     "name": "alloyergui1",
-    "type": "imageText2",
-    "data": "alloyer/gui1.json"
+    "type": "imageText2"
   },
   {
+    "data": "alloyer/gui2.json",
     "name": "alloyergui2",
-    "type": "text",
-    "data": "alloyer/gui2.json"
+    "type": "text"
   }
 ]

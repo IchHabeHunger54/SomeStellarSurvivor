@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "brimstone_underground_biome",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:brimstone"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:brimstone_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:brimstone_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "brimstone_underground_biome"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

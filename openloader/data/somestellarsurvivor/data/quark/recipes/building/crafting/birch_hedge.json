@@ -1,8 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "L",
-    "W"
+  "conditions": [
+    {
+      "flag": "hedges",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "L": {
@@ -12,14 +13,13 @@
       "tag": "minecraft:birch_logs"
     }
   },
+  "pattern": [
+    "L",
+    "W"
+  ],
   "result": {
-    "item": "quark:birch_hedge",
-    "count": 2
+    "count": 2,
+    "item": "quark:birch_hedge"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "hedges"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

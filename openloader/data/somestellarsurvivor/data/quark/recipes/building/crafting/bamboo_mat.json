@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "SBS",
-    "BBB",
-    "SBS"
+  "conditions": [
+    {
+      "flag": "bamboo_mat",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "B": {
@@ -13,14 +13,14 @@
       "item": "minecraft:stick"
     }
   },
+  "pattern": [
+    "SBS",
+    "BBB",
+    "SBS"
+  ],
   "result": {
-    "item": "quark:bamboo_mat",
-    "count": 2
+    "count": 2,
+    "item": "quark:bamboo_mat"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "bamboo_mat"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "vertical_slabs",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:orange_stained_planks_vertical_slab"
     }
   ],
   "result": {
-    "item": "quark:orange_stained_planks_slab",
-    "count": 1
+    "count": 1,
+    "item": "quark:orange_stained_planks_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "vertical_slabs"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

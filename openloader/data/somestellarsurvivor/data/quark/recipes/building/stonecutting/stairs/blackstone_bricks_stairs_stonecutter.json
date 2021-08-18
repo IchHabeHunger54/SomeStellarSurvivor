@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "blackstone_bricks",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 1,
   "ingredient": {
     "item": "quark:blackstone_bricks"
   },
   "result": "quark:blackstone_bricks_stairs",
-  "count": 1,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "blackstone_bricks"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

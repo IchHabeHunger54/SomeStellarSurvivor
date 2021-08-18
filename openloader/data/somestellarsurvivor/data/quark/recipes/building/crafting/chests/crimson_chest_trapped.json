@@ -1,5 +1,15 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "variant_chests",
+          "type": "quark:flag"
+        }
+      ]
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:crimson_chest"
@@ -11,15 +21,5 @@
   "result": {
     "item": "quark:crimson_trapped_chest"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "variant_chests"
-        }
-      ]
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

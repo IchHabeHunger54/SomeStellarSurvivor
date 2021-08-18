@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "utility_module",
@@ -10,23 +9,24 @@
       "type": "inspirations:config"
     }
   ],
+  "key": {
+    "C": {
+      "tag": "forge:cobblestone"
+    },
+    "F": {
+      "item": "minecraft:fishing_rod"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
   "pattern": [
     "CCC",
     "CFC",
     "CRC"
   ],
-  "key": {
-    "C": {
-      "tag": "forge:cobblestone"
-    },
-    "R": {
-      "tag": "forge:dusts/redstone"
-    },
-    "F": {
-      "item": "minecraft:fishing_rod"
-    }
-  },
   "result": {
     "item": "inspirations:collector"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

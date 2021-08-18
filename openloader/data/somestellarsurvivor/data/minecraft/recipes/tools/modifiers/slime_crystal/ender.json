@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:blasting",
+  "cookingtime": 400,
+  "experience": 1.0,
   "ingredient": {
     "item": "tconstruct:ender_slime_ball"
   },
   "result": "tconstruct:ender_slime_crystal",
-  "experience": 1.0,
-  "cookingtime": 400
+  "type": "minecraft:blasting"
 }

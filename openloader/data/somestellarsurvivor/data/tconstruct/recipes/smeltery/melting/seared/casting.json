@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": [
     {
       "item": "tconstruct:seared_basin"
@@ -9,9 +8,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:seared_stone",
-    "amount": 1008
+    "amount": 1008,
+    "fluid": "tconstruct:seared_stone"
   },
   "temperature": 600,
-  "time": 134
+  "time": 134,
+  "type": "tconstruct:melting"
 }

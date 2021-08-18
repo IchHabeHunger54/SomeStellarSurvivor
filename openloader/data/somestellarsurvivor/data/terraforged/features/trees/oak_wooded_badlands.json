@@ -11,53 +11,53 @@
   ],
   "replace": {
     "config": {
+      "decorator": {
+        "config": {
+          "filter": "biome",
+          "placement": {
+            "config": {
+              "biome_fade": 0.25,
+              "density_scale": 150,
+              "density_variation": 0.75,
+              "jitter": 0.8,
+              "radius": 8,
+              "scale": 0.2
+            },
+            "type": "terraforged:fast_poisson_surface"
+          }
+        },
+        "type": "terraforged:filter"
+      },
       "feature": {
         "config": {
-          "features": [
-            {
-              "feature": {
-                "config": {
-                  "template": "terraforged:oak_small"
-                },
-                "type": "terraforged:template"
-              },
-              "chance": 0.3
-            },
-            {
-              "feature": {
-                "config": {
-                  "template": "terraforged:acacia_bush"
-                },
-                "type": "terraforged:template"
-              },
-              "chance": 0.2
-            }
-          ],
           "default": {
             "config": {
               "template": "terraforged:oak_small"
             },
             "type": "terraforged:template"
-          }
+          },
+          "features": [
+            {
+              "chance": 0.3,
+              "feature": {
+                "config": {
+                  "template": "terraforged:oak_small"
+                },
+                "type": "terraforged:template"
+              }
+            },
+            {
+              "chance": 0.2,
+              "feature": {
+                "config": {
+                  "template": "terraforged:acacia_bush"
+                },
+                "type": "terraforged:template"
+              }
+            }
+          ]
         },
         "type": "minecraft:random_selector"
-      },
-      "decorator": {
-        "config": {
-          "placement": {
-            "config": {
-              "radius": 8,
-              "scale": 0.2,
-              "jitter": 0.8,
-              "biome_fade": 0.25,
-              "density_scale": 150,
-              "density_variation": 0.75
-            },
-            "type": "terraforged:fast_poisson_surface"
-          },
-          "filter": "biome"
-        },
-        "type": "terraforged:filter"
       }
     },
     "type": "minecraft:decorated"

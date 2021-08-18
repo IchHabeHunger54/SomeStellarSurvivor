@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "#D#",
-    "###"
+  "conditions": [
+    {
+      "flag": "elder_prismarine_underground_biome",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -13,14 +13,14 @@
       "tag": "forge:dyes/black"
     }
   },
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
   "result": {
-    "item": "quark:dark_elder_prismarine",
-    "count": 4
+    "count": 4,
+    "item": "quark:dark_elder_prismarine"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "elder_prismarine_underground_biome"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

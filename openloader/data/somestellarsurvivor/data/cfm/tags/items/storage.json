@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "cfm:oak_cabinet",
     "cfm:spruce_cabinet",

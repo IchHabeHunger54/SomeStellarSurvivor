@@ -1,0 +1,28 @@
+{
+  "inputs": [
+    {
+      "tag": "forge:ingots/netherite_scrap"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:firestarter"
+  },
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "base": {
+      "tag": "tconstruct:modifiable/durability"
+    },
+    "type": "mantle:without",
+    "without": {
+      "item": "tconstruct:flint_and_bronze"
+    }
+  },
+  "type": "tconstruct:modifier"
+}

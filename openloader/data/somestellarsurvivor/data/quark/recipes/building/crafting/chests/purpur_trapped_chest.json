@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "variant_chests",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:purpur_chest"
@@ -11,10 +16,5 @@
   "result": {
     "item": "quark:purpur_trapped_chest"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

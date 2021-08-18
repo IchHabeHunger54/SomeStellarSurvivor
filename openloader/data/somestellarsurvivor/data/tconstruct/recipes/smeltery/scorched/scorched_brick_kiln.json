@@ -1,5 +1,4 @@
 {
-  "type": "forge:conditional",
   "recipes": [
     {
       "conditions": [
@@ -9,13 +8,13 @@
         }
       ],
       "recipe": {
-        "type": "ceramics:kiln",
+        "cookingtime": 100,
+        "experience": 0.3,
         "ingredient": {
           "item": "tconstruct:nether_grout"
         },
         "result": "tconstruct:scorched_brick",
-        "experience": 0.3,
-        "cookingtime": 100
+        "type": "ceramics:kiln"
       }
     },
     {
@@ -25,14 +24,15 @@
         }
       ],
       "recipe": {
-        "type": "minecraft:blasting",
+        "cookingtime": 100,
+        "experience": 0.3,
         "ingredient": {
           "item": "tconstruct:nether_grout"
         },
         "result": "tconstruct:scorched_brick",
-        "experience": 0.3,
-        "cookingtime": 100
+        "type": "minecraft:blasting"
       }
     }
-  ]
+  ],
+  "type": "forge:conditional"
 }

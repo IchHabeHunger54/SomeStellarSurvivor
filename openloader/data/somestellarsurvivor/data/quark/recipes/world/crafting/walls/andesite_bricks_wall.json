@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "more_stone_variants",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:andesite_bricks"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:andesite_bricks_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:andesite_bricks_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "more_stone_variants"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

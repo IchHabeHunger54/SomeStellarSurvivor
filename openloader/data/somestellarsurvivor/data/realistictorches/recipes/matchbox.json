@@ -1,9 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "PPP",
-    "SSS"
-  ],
   "key": {
     "P": {
       "item": "minecraft:paper"
@@ -12,7 +7,12 @@
       "tag": "minecraft:wooden_slabs"
     }
   },
+  "pattern": [
+    "PPP",
+    "SSS"
+  ],
   "result": {
     "item": "realistictorches:matchbox"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

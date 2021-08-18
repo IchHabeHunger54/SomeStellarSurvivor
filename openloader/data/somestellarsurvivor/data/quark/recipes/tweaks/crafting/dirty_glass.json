@@ -1,6 +1,10 @@
 {
-  "type": "quark:exclusion",
-  "true_type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "glass_shard",
+      "type": "quark:flag"
+    }
+  ],
   "exclusions": [
     "quark:tweaks/crafting/clear_glass",
     "quark:tweaks/crafting/black_glass",
@@ -20,23 +24,19 @@
     "quark:tweaks/crafting/white_glass",
     "quark:tweaks/crafting/yellow_glass"
   ],
-  "pattern": [
-    "##",
-    "##"
-  ],
+  "group": "quark:glass_shard",
   "key": {
     "#": {
       "tag": "quark:shards"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
     "item": "quark:dirty_glass"
   },
-  "group": "quark:glass_shard",
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "glass_shard"
-    }
-  ]
-} 
+  "true_type": "minecraft:crafting_shaped",
+  "type": "quark:exclusion"
+}

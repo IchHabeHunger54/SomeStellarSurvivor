@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "biotite",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 2,
   "ingredient": {
     "item": "quark:biotite_block"
   },
   "result": "quark:biotite_block_slab",
-  "count": 2,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "biotite"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

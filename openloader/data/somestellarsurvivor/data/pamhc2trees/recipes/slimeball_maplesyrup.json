@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:crops/maple"
@@ -12,7 +11,8 @@
     }
   ],
   "result": {
-    "item": "minecraft:slime_ball",
-    "count": 1
-  }
+    "count": 1,
+    "item": "minecraft:slime_ball"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

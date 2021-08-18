@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/constantan",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:ingots/constantan"
   },
   "result": {
-    "fluid": "tconstruct:molten_constantan",
-    "amount": 144
+    "amount": 144,
+    "fluid": "tconstruct:molten_constantan"
   },
   "temperature": 920,
-  "time": 64
+  "time": 64,
+  "type": "tconstruct:melting"
 }

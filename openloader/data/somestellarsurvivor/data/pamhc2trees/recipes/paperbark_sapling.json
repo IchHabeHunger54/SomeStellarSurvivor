@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:paper"
@@ -31,5 +30,6 @@
   ],
   "result": {
     "item": "pamhc2trees:paperbark_sapling"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

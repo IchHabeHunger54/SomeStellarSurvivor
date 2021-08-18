@@ -1,14 +1,14 @@
 {
   "condition": {
+    "type": "forge:not",
     "value": {
       "tag": "forge:ingots/lead",
       "type": "forge:tag_empty"
-    },
-    "type": "forge:not"
+    }
   },
   "craftable": false,
-  "tier": 2,
+  "hidden": false,
   "sortOrder": 5,
   "textColor": "#575E79",
-  "hidden": false
+  "tier": 2
 }

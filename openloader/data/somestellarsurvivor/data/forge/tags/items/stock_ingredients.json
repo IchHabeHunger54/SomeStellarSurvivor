@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:stock_ingredients/bone",
     "#forge:stock_ingredients/rawbeef",

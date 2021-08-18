@@ -1,0 +1,7 @@
+{
+  "container": "minecraft:sponge",
+  "ingredient": {
+    "item": "minecraft:wet_sponge"
+  },
+  "type": "tconstruct:remove_modifier"
+}

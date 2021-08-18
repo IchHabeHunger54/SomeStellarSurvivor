@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/banana"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:nuts"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:banananutbreaditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

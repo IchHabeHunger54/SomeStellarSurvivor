@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:ores/aquamarine",
     "#forge:ores/coal",

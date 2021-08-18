@@ -1,15 +1,13 @@
 {
-  "type": "forge:conditional",
   "recipes": [
     {
       "conditions": [
         {
-          "type": "roughtweaks:isconfigenabled",
-          "config_setting": "enable_salve"
+          "config_setting": "enable_salve",
+          "type": "roughtweaks:isconfigenabled"
         }
       ],
       "recipe": {
-        "type": "minecraft:crafting_shapeless",
         "ingredients": [
           {
             "item": "minecraft:cactus"
@@ -23,8 +21,10 @@
         ],
         "result": {
           "item": "roughtweaks:salve"
-        }
+        },
+        "type": "minecraft:crafting_shapeless"
       }
     }
-  ]
+  ],
+  "type": "forge:conditional"
 }

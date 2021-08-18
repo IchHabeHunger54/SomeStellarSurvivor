@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
-              "name": "inspirations:rose",
               "conditions": [
                 {
                   "condition": "inspirations:config",
@@ -25,29 +25,29 @@
                     "item": "minecraft:shears"
                   }
                 }
-              ]
+              ],
+              "name": "inspirations:rose",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
-              "name": "minecraft:rose_bush",
               "conditions": [
                 {
-                  "condition": "minecraft:block_state_property",
                   "block": "minecraft:rose_bush",
+                  "condition": "minecraft:block_state_property",
                   "properties": {
                     "half": "lower"
                   }
                 }
-              ]
+              ],
+              "name": "minecraft:rose_bush",
+              "type": "minecraft:item"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
       ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ]
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#",
-    "#"
+  "conditions": [
+    {
+      "flag": "biotite",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:biotite_block"
     }
   },
+  "pattern": [
+    "#",
+    "#"
+  ],
   "result": {
-    "item": "quark:biotite_pillar",
-    "count": 2
+    "count": 2,
+    "item": "quark:biotite_pillar"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "biotite"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,5 +1,8 @@
 {
-  "type": "inspirations:cauldron_fill_potion",
+  "bottle": {
+    "amount_needed": 16,
+    "item": "minecraft:arrow"
+  },
   "conditions": [
     {
       "prop": "recipes_module",
@@ -10,9 +13,6 @@
       "type": "inspirations:config"
     }
   ],
-  "bottle": {
-    "item": "minecraft:arrow",
-    "amount_needed": 16
-  },
-  "potion": "minecraft:tipped_arrow"
+  "potion": "minecraft:tipped_arrow",
+  "type": "inspirations:cauldron_fill_potion"
 }

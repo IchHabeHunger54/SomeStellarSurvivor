@@ -1,5 +1,7 @@
 {
-  "type": "inspirations:cauldron_fill_potion",
+  "bottle": {
+    "tag": "forge:splash_bottles"
+  },
   "conditions": [
     {
       "prop": "recipes_module",
@@ -10,8 +12,6 @@
       "type": "inspirations:config"
     }
   ],
-  "bottle": {
-    "tag": "forge:splash_bottles"
-  },
-  "potion": "minecraft:splash_potion"
+  "potion": "minecraft:splash_potion",
+  "type": "inspirations:cauldron_fill_potion"
 }

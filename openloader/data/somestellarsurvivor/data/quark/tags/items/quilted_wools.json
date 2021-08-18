@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "quark:black_quilted_wool",
     "quark:blue_quilted_wool",

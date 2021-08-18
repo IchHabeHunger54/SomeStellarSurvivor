@@ -1,28 +1,23 @@
 {
-  "parent": "root.json",
-  "text": "gazelle.txt",
-  "title": "Gazelle",
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-  ],
-  "tabula_renders": [
-  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:gazelle",
-      "x": 90,
-      "y": 95,
+      "follow_cursor": false,
       "page": 0,
-      "scale": 1.5,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "follow_cursor": false
+      "scale": 1.5,
+      "x": 90,
+      "y": 95
     }
-  ]
+  ],
+  "images": [],
+  "item_renders": [],
+  "linked_page_buttons": [],
+  "parent": "root.json",
+  "recipes": [],
+  "tabula_renders": [],
+  "text": "gazelle.txt",
+  "title": "Gazelle"
 }

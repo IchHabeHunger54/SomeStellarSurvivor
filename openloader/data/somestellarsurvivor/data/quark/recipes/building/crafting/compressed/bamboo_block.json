@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "bamboo_block",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:bamboo"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
     "item": "quark:bamboo_block"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "bamboo_block"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

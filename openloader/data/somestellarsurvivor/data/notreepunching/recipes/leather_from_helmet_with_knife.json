@@ -1,6 +1,5 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:leather_helmet"
@@ -12,5 +11,6 @@
   "result": {
     "count": 4,
     "item": "minecraft:leather"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "duskbound_blocks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:duskbound_block"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:duskbound_block_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:duskbound_block_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "duskbound_blocks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

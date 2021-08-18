@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,11 +10,6 @@
     }
   ],
   "group": "carpet",
-  "pattern": [
-    "###",
-    "#x#",
-    "###"
-  ],
   "key": {
     "#": {
       "tag": "inspirations:carpets"
@@ -24,8 +18,14 @@
       "item": "inspirations:blue_dyed_bottle"
     }
   },
+  "pattern": [
+    "###",
+    "#x#",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:blue_carpet",
-    "count": 8
-  }
+    "count": 8,
+    "item": "minecraft:blue_carpet"
+  },
+  "type": "minecraft:crafting_shaped"
 }

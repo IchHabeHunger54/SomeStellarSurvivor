@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/strawberry"
+    },
+    {
+      "tag": "forge:crops/rhubarb"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:strawberryrhubarbpieitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "XXX",
-    "###"
+  "conditions": [
+    {
+      "flag": "variant_bookshelves",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -13,14 +13,14 @@
       "item": "minecraft:book"
     }
   },
+  "pattern": [
+    "###",
+    "XXX",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:bookshelf",
-    "count": 1
+    "count": 1,
+    "item": "minecraft:bookshelf"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_bookshelves"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

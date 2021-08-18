@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:biscuititem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:chickenbiscuititem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

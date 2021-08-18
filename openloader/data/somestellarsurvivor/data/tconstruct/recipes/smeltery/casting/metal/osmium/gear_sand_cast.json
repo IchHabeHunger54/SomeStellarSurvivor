@@ -1,24 +1,24 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:gears/osmium",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/single_use/gear"
   },
   "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:gears/osmium",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 131,
   "fluid": {
-    "tag": "tconstruct:molten_osmium",
-    "amount": 576
+    "amount": 576,
+    "tag": "tconstruct:molten_osmium"
   },
   "result": {
     "tag": "forge:gears/osmium"
   },
-  "cooling_time": 131
+  "type": "tconstruct:casting_table"
 }

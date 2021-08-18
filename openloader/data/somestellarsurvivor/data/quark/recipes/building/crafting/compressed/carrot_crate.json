@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "carrot_crate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:carrot"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
     "item": "quark:carrot_crate"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "carrot_crate"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

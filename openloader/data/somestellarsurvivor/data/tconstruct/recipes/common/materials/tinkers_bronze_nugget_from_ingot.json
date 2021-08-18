@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "group": "tconstruct:tinkers_bronze_nugget",
   "ingredients": [
     {
@@ -7,7 +6,8 @@
     }
   ],
   "result": {
-    "item": "tconstruct:tinkers_bronze_nugget",
-    "count": 9
-  }
+    "count": 9,
+    "item": "tconstruct:tinkers_bronze_nugget"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

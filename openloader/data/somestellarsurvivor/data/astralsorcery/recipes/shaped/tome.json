@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " P ",
-    "ABA",
-    " A "
-  ],
   "key": {
     "A": {
       "item": "astralsorcery:aquamarine"
@@ -16,8 +10,14 @@
       "item": "astralsorcery:parchment"
     }
   },
+  "pattern": [
+    " P ",
+    "ABA",
+    " A "
+  ],
   "result": {
-    "item": "astralsorcery:tome",
-    "count": 1
-  }
+    "count": 1,
+    "item": "astralsorcery:tome"
+  },
+  "type": "minecraft:crafting_shaped"
 }

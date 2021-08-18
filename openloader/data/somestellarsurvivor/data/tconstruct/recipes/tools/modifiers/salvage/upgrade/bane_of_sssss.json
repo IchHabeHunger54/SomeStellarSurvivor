@@ -1,0 +1,15 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:bane_of_sssss",
+  "salvage": {
+    "full": false,
+    "item": "minecraft:fermented_spider_eye"
+  },
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee"
+  },
+  "type": "tconstruct:incremental_modifier_salvage"
+}

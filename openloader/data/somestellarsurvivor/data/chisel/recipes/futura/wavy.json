@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "tag": "forge:dusts/redstone"
+    },
+    "S": {
+      "tag": "forge:stone"
+    }
+  },
   "pattern": [
     "SSS",
     "SGS",
     "SSS"
   ],
-  "key": {
-    "S": {
-      "tag": "forge:stone"
-    },
-    "G": {
-      "tag": "forge:dusts/redstone"
-    }
-  },
   "result": {
-    "item": "chisel:futura/wavy",
-    "count": 8
-  }
+    "count": 8,
+    "item": "chisel:futura/wavy"
+  },
+  "type": "minecraft:crafting_shaped"
 }

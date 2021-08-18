@@ -1,20 +1,20 @@
 {
-  "type": "astralsorcery:block_transmutation",
+  "display": {
+    "count": 1,
+    "item": "astralsorcery:altar_discovery"
+  },
   "input": [
     {
       "block": "minecraft:crafting_table",
       "display": {
-        "item": "minecraft:crafting_table",
-        "count": 1
+        "count": 1,
+        "item": "minecraft:crafting_table"
       }
     }
   ],
   "output": {
     "block": "astralsorcery:altar_discovery"
   },
-  "display": {
-    "item": "astralsorcery:altar_discovery",
-    "count": 1
-  },
-  "starlight": 60
+  "starlight": 60,
+  "type": "astralsorcery:block_transmutation"
 }

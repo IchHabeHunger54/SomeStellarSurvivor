@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "magma_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:magma_bricks"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:magma_bricks_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:magma_bricks_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "magma_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

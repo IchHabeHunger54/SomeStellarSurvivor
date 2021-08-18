@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,12 +10,12 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "yellow",
+      "type": "inspirations:dye"
+    },
     "item": {
       "tag": "minecraft:wool"
-    },
-    "contents": {
-      "type": "inspirations:dye",
-      "name": "yellow"
     },
     "level": {
       "min": 4
@@ -29,5 +28,6 @@
     "level": {
       "add": -4
     }
-  }
+  },
+  "type": "inspirations:cauldron"
 }

@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "tag": "forge:cobblestone"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
   "pattern": [
     "  C",
     " C ",
     "S  "
   ],
-  "key": {
-    "S": {
-      "tag": "forge:rods/wooden"
-    },
-    "C": {
-      "tag": "forge:cobblestone"
-    }
-  },
   "result": {
     "item": "aquaculture:stone_fillet_knife"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

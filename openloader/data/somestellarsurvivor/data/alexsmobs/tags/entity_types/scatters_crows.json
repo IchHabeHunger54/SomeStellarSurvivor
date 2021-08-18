@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#alexsmobs:neutral_land_animals"
   ]

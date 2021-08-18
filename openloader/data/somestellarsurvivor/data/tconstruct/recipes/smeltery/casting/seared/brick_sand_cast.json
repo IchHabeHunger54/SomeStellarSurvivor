@@ -1,13 +1,13 @@
 {
-  "type": "tconstruct:casting_table",
   "cast": {
     "tag": "tconstruct:casts/single_use/ingot"
   },
   "cast_consumed": true,
+  "cooling_time": 53,
   "fluid": {
-    "tag": "tconstruct:seared_stone",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:seared_stone"
   },
   "result": "tconstruct:seared_brick",
-  "cooling_time": 53
+  "type": "tconstruct:casting_table"
 }

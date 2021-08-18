@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " G ",
-    "GCG",
-    " G "
-  ],
   "key": {
     "C": [
       {
@@ -18,7 +12,13 @@
       "item": "minecraft:glowstone_dust"
     }
   },
+  "pattern": [
+    " G ",
+    "GCG",
+    " G "
+  ],
   "result": {
     "item": "realistictorches:glowstone_crystal"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

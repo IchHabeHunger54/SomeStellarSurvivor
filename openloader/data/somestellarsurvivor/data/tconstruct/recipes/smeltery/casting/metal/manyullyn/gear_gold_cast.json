@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:gears/manyullyn",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/gear"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:gears/manyullyn",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 144,
   "fluid": {
-    "tag": "tconstruct:molten_manyullyn",
-    "amount": 576
+    "amount": 576,
+    "tag": "tconstruct:molten_manyullyn"
   },
   "result": {
     "tag": "forge:gears/manyullyn"
   },
-  "cooling_time": 144
+  "type": "tconstruct:casting_table"
 }

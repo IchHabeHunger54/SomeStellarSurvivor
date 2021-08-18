@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:crops/bellpepper"
+    },
+    {
+      "tag": "forge:crops/chilipepper"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    },
+    {
+      "tag": "forge:condiments/soysauce"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:pepperstirfryitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

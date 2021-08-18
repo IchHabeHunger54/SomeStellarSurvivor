@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:vegetables/beetroot",
     "#forge:vegetables/carrot",

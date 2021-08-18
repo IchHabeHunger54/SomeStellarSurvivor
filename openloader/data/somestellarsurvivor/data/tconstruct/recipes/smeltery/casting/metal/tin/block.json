@@ -1,20 +1,20 @@
 {
-  "type": "tconstruct:casting_basin",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:storage_blocks/tin",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
+  "cooling_time": 117,
   "fluid": {
-    "name": "tconstruct:molten_tin",
-    "amount": 1296
+    "amount": 1296,
+    "name": "tconstruct:molten_tin"
   },
   "result": {
     "tag": "forge:storage_blocks/tin"
   },
-  "cooling_time": 117
+  "type": "tconstruct:casting_basin"
 }

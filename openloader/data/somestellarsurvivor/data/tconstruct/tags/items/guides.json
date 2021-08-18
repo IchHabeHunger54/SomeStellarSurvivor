@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "tconstruct:materials_and_you",
     "tconstruct:tinkers_gadgetry",

@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
           "functions": [
             {
               "function": "minecraft:copy_name",
               "source": "block_entity"
             }
           ],
-          "name": "minecraft:beacon"
+          "name": "minecraft:beacon",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

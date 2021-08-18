@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#minecraft:leaves",
     "minecraft:nether_wart_block",

@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "   ",
-    "aba",
-    " a "
-  ],
   "key": {
     "a": {
       "tag": "minecraft:planks"
@@ -13,7 +7,13 @@
       "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    "   ",
+    "aba",
+    " a "
+  ],
   "result": {
     "item": "pamhc2foodcore:mixingbowlitem"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:meringue"
+    },
+    {
+      "tag": "forge:batter"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:icecreams"
+    },
+    {
+      "tag": "forge:crops/cherry"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:meringuebombeitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

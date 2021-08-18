@@ -1,18 +1,18 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:blocks",
-      "object": "storage_blocks"
+      "object": "storage_blocks",
+      "type": "vanillatweaks:blocks"
     }
   ],
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "vanillatweaks:charcoalblock"
     }
   ],
   "result": {
-    "item": "minecraft:charcoal",
-    "count": 9
-  }
+    "count": 9,
+    "item": "minecraft:charcoal"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

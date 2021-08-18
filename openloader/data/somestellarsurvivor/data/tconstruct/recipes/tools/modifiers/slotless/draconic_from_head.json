@@ -1,16 +1,16 @@
 {
-  "type": "tconstruct:modifier",
   "inputs": [
     {
       "item": "minecraft:dragon_head"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:draconic"
+  },
   "tools": {
     "tag": "tconstruct:modifiable"
   },
-  "result": {
-    "name": "tconstruct:draconic",
-    "level": 1
-  },
-  "max_level": 1
+  "type": "tconstruct:modifier"
 }

@@ -1,10 +1,10 @@
 {
-  "type": "tconstruct:material_fluid",
-  "input": "tconstruct:stone",
   "fluid": {
-    "tag": "tconstruct:molten_clay",
-    "amount": 250
+    "amount": 250,
+    "tag": "tconstruct:molten_clay"
   },
+  "input": "tconstruct:stone",
+  "output": "tconstruct:seared_stone",
   "temperature": 450,
-  "output": "tconstruct:seared_stone"
+  "type": "tconstruct:material_fluid"
 }

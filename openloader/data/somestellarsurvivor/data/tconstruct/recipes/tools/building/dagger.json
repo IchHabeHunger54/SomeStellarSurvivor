@@ -1,4 +1,4 @@
 {
-  "type": "tconstruct:tool_building",
-  "result": "tconstruct:dagger"
+  "result": "tconstruct:dagger",
+  "type": "tconstruct:tool_building"
 }

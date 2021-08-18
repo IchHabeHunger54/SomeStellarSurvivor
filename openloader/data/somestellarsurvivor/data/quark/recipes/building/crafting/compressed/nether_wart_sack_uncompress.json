@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "nether_wart_sack",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:nether_wart_sack"
     }
   ],
   "result": {
-    "item": "minecraft:nether_wart",
-    "count": 9
+    "count": 9,
+    "item": "minecraft:nether_wart"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "nether_wart_sack"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "bonded_rabbit_hide",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:bonded_rabbit_hide"
     }
   ],
   "result": {
-    "item": "minecraft:rabbit_hide",
-    "count": 9
+    "count": 9,
+    "item": "minecraft:rabbit_hide"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "bonded_rabbit_hide"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

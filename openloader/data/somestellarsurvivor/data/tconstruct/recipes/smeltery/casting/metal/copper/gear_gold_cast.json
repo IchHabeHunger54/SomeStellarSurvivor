@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:gears/copper",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/gear"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:gears/copper",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 100,
   "fluid": {
-    "tag": "tconstruct:molten_copper",
-    "amount": 576
+    "amount": 576,
+    "tag": "tconstruct:molten_copper"
   },
   "result": {
     "tag": "forge:gears/copper"
   },
-  "cooling_time": 100
+  "type": "tconstruct:casting_table"
 }

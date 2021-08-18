@@ -1,162 +1,162 @@
 {
-  "type": "minecraft:entity",
   "pools": [
     {
-      "rolls": {
-        "min": 1.0,
-        "max": 3.0,
-        "type": "minecraft:uniform"
-      },
       "entries": [
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
                 "max": 2.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:glowstone_dust"
+          "name": "minecraft:glowstone_dust",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
                 "max": 2.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:sugar"
+          "name": "minecraft:sugar",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
                 "max": 2.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:redstone"
+          "name": "minecraft:redstone",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
                 "max": 2.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:spider_eye"
+          "name": "minecraft:spider_eye",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
                 "max": 2.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:glass_bottle"
+          "name": "minecraft:glass_bottle",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
                 "max": 2.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:gunpowder"
+          "name": "minecraft:gunpowder",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
-          "weight": 2,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 0.0,
                 "max": 2.0,
+                "min": 0.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:looting_enchant",
               "count": {
-                "min": 0.0,
-                "max": 1.0
-              }
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "minecraft:stick"
+          "name": "minecraft:stick",
+          "type": "minecraft:item",
+          "weight": 2
         }
-      ]
+      ],
+      "rolls": {
+        "max": 3.0,
+        "min": 1.0,
+        "type": "minecraft:uniform"
+      }
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

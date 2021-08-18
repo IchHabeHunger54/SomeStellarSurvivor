@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron_dye_water",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -10,5 +9,6 @@
       "type": "inspirations:config"
     }
   ],
-  "dye": "light_blue"
+  "dye": "light_blue",
+  "type": "inspirations:cauldron_dye_water"
 }

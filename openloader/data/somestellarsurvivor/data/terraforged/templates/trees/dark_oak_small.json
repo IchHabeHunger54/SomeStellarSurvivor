@@ -1,11 +1,11 @@
 {
-  "type": "tree",
+  "config": {
+    "check_bounds": true,
+    "extend_base": 3
+  },
   "name": "terraforged:dark_oak_small",
   "paths": [
     "terraforged:trees/dark_oak/small"
   ],
-  "config": {
-    "extend_base": 3,
-    "check_bounds": true
-  }
+  "type": "tree"
 }

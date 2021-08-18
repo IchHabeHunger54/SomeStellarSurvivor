@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:sausage"
+    },
+    {
+      "item": "pamhc2foodcore:mashedpotatoes"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:bangersandmashitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

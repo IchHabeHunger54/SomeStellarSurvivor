@@ -1,0 +1,19 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:bucketing",
+  "salvage": [
+    "minecraft:bucket",
+    {
+      "item": "minecraft:ender_pearl",
+      "max": 2,
+      "min": 0
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee_or_harvest"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

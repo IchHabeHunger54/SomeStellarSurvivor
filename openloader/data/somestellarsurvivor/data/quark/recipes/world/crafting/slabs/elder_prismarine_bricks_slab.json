@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "elder_prismarine_underground_biome",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:elder_prismarine_bricks"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:elder_prismarine_bricks_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:elder_prismarine_bricks_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "elder_prismarine_underground_biome"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

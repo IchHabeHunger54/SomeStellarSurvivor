@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "tag": "forge:nuggets/hepatizon"
   },
   "result": {
-    "fluid": "tconstruct:molten_hepatizon",
-    "amount": 16
+    "amount": 16,
+    "fluid": "tconstruct:molten_hepatizon"
   },
   "temperature": 1400,
-  "time": 26
+  "time": 26,
+  "type": "tconstruct:melting"
 }

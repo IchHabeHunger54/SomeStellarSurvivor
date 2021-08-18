@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:storage_blocks/tin",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:storage_blocks/tin"
   },
   "result": {
-    "fluid": "tconstruct:molten_tin",
-    "amount": 1296
+    "amount": 1296,
+    "fluid": "tconstruct:molten_tin"
   },
   "temperature": 225,
-  "time": 117
+  "time": 117,
+  "type": "tconstruct:melting"
 }

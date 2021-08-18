@@ -1,11 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
   "group": "hammock",
-  "pattern": [
-    "sws",
-    "sas",
-    "sws"
-  ],
   "key": {
     "a": {
       "item": "minecraft:pink_wool"
@@ -17,7 +11,13 @@
       "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    "sws",
+    "sas",
+    "sws"
+  ],
   "result": {
     "item": "comforts:hammock_pink"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

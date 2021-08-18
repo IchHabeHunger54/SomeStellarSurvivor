@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#minecraft:logs_that_burn",
     "#minecraft:crimson_stems",

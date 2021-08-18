@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": [
     {
       "item": "tconstruct:scorched_basin"
@@ -9,9 +8,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:scorched_stone",
-    "amount": 1008
+    "amount": 1008,
+    "fluid": "tconstruct:scorched_stone"
   },
   "temperature": 500,
-  "time": 125
+  "time": 125,
+  "type": "tconstruct:melting"
 }

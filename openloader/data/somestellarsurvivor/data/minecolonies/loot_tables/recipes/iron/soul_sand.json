@@ -1,8 +1,6 @@
 {
-  "type": "minecraft:generic",
   "pools": [
     {
-      "rolls": 1,
       "bonus_rolls": 0.025,
       "entries": [
         {
@@ -10,31 +8,33 @@
           "weight": 50
         },
         {
-          "type": "minecraft:item",
           "name": "minecraft:nether_wart",
+          "type": "minecraft:item",
           "weight": 10
         },
         {
-          "type": "minecraft:item",
           "name": "minecraft:quartz",
+          "type": "minecraft:item",
           "weight": 10
         },
         {
-          "type": "minecraft:item",
           "name": "minecraft:glowstone_dust",
+          "type": "minecraft:item",
           "weight": 10
         },
         {
-          "type": "minecraft:item",
           "name": "minecraft:blaze_powder",
+          "type": "minecraft:item",
           "weight": 1
         },
         {
-          "type": "minecraft:item",
           "name": "minecraft:magma_cream",
+          "type": "minecraft:item",
           "weight": 1
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:generic"
 }

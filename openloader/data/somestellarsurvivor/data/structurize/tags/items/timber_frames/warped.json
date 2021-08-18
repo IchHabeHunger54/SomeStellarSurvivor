@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#structurize:timber_frames/warped/oak",
     "#structurize:timber_frames/warped/spruce",

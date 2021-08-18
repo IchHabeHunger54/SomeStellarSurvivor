@@ -1,116 +1,116 @@
 {
-  "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": {
-        "min": 2.0,
-        "max": 5.0,
-        "type": "minecraft:uniform"
-      },
       "entries": [
         {
-          "type": "minecraft:item",
-          "weight": 2,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "buzzier_bees:candle"
+          "name": "buzzier_bees:candle",
+          "type": "minecraft:item",
+          "weight": 2
         },
         {
-          "type": "minecraft:item",
-          "name": "buzzier_bees:honey_bread"
+          "name": "buzzier_bees:honey_bread",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
-          "weight": 4,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 2.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:glass_bottle"
+          "name": "minecraft:glass_bottle",
+          "type": "minecraft:item",
+          "weight": 4
         },
         {
-          "type": "minecraft:item",
-          "weight": 2,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 2.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:honey_bottle"
+          "name": "minecraft:honey_bottle",
+          "type": "minecraft:item",
+          "weight": 2
         },
         {
-          "type": "minecraft:item",
-          "name": "minecraft:shears"
+          "name": "minecraft:shears",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
-          "name": "buzzier_bees:honey_wand"
+          "name": "buzzier_bees:honey_wand",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
-          "weight": 2,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:dandelion"
+          "name": "minecraft:dandelion",
+          "type": "minecraft:item",
+          "weight": 2
         },
         {
-          "type": "minecraft:item",
-          "weight": 2,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:honeycomb"
+          "name": "minecraft:honeycomb",
+          "type": "minecraft:item",
+          "weight": 2
         },
         {
-          "type": "minecraft:item",
-          "weight": 1,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "buzzier_bees:honey_apple"
+          "name": "buzzier_bees:honey_apple",
+          "type": "minecraft:item",
+          "weight": 1
         }
-      ]
+      ],
+      "rolls": {
+        "max": 5.0,
+        "min": 2.0,
+        "type": "minecraft:uniform"
+      }
     }
-  ]
+  ],
+  "type": "minecraft:chest"
 }

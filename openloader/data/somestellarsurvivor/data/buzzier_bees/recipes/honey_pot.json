@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "# #",
-    "#H#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "minecraft:brick"
@@ -13,8 +7,14 @@
       "item": "minecraft:honeycomb"
     }
   },
+  "pattern": [
+    "# #",
+    "#H#",
+    "###"
+  ],
   "result": {
-    "item": "buzzier_bees:honey_pot",
-    "count": 1
-  }
+    "count": 1,
+    "item": "buzzier_bees:honey_pot"
+  },
+  "type": "minecraft:crafting_shaped"
 }

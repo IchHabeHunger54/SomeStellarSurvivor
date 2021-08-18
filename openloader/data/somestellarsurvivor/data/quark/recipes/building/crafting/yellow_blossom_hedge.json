@@ -1,8 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "L",
-    "W"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "hedges",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "blossom_trees",
+          "type": "quark:flag"
+        }
+      ]
+    }
   ],
   "key": {
     "L": {
@@ -12,23 +22,13 @@
       "tag": "minecraft:spruce_logs"
     }
   },
+  "pattern": [
+    "L",
+    "W"
+  ],
   "result": {
-    "item": "quark:yellow_blossom_hedge",
-    "count": 2
+    "count": 2,
+    "item": "quark:yellow_blossom_hedge"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "hedges"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "blossom_trees"
-        }
-      ]
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

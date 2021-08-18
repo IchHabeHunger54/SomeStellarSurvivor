@@ -1,17 +1,17 @@
 {
-  "type": "terraforged:sapling",
-  "sapling": "minecraft:jungle_sapling",
+  "giant": {
+    "terraforged:jungle_huge": {
+      "weight": 1
+    },
+    "terraforged:jungle_large": {
+      "weight": 2
+    }
+  },
   "normal": {
     "terraforged:jungle_small": {
       "weight": 1
     }
   },
-  "giant": {
-    "terraforged:jungle_large": {
-      "weight": 2
-    },
-    "terraforged:jungle_huge": {
-      "weight": 1
-    }
-  }
+  "sapling": "minecraft:jungle_sapling",
+  "type": "terraforged:sapling"
 }

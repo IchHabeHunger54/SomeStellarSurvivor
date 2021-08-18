@@ -1,28 +1,23 @@
 {
-  "parent": "root.json",
-  "text": "mantis_shrimp.txt",
-  "title": "Mantis Shrimp",
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-  ],
-  "tabula_renders": [
-  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:mantis_shrimp",
-      "x": 90,
-      "y": 98,
+      "follow_cursor": false,
       "page": 0,
-      "scale": 2,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "follow_cursor": false
+      "scale": 2,
+      "x": 90,
+      "y": 98
     }
-  ]
+  ],
+  "images": [],
+  "item_renders": [],
+  "linked_page_buttons": [],
+  "parent": "root.json",
+  "recipes": [],
+  "tabula_renders": [],
+  "text": "mantis_shrimp.txt",
+  "title": "Mantis Shrimp"
 }

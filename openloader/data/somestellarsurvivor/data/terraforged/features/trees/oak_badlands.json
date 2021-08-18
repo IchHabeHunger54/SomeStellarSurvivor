@@ -12,46 +12,6 @@
   ],
   "replace": {
     "config": {
-      "feature": {
-        "config": {
-          "feature": {
-            "config": {
-              "features": [
-                {
-                  "feature": {
-                    "config": {
-                      "template": "terraforged:oak_small"
-                    },
-                    "type": "terraforged:template"
-                  },
-                  "chance": 0.2
-                },
-                {
-                  "feature": {
-                    "config": {
-                      "template": "terraforged:acacia_bush"
-                    },
-                    "type": "terraforged:template"
-                  },
-                  "chance": 0.1
-                }
-              ],
-              "default": {
-                "config": {
-                  "template": "terraforged:oak_small"
-                },
-                "type": "terraforged:template"
-              }
-            },
-            "type": "minecraft:random_selector"
-          },
-          "decorator": {
-            "config": {},
-            "type": "minecraft:heightmap"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
       "decorator": {
         "config": {
           "count": 0,
@@ -59,6 +19,46 @@
           "extra_count": 3
         },
         "type": "minecraft:count_extra"
+      },
+      "feature": {
+        "config": {
+          "decorator": {
+            "config": {},
+            "type": "minecraft:heightmap"
+          },
+          "feature": {
+            "config": {
+              "default": {
+                "config": {
+                  "template": "terraforged:oak_small"
+                },
+                "type": "terraforged:template"
+              },
+              "features": [
+                {
+                  "chance": 0.2,
+                  "feature": {
+                    "config": {
+                      "template": "terraforged:oak_small"
+                    },
+                    "type": "terraforged:template"
+                  }
+                },
+                {
+                  "chance": 0.1,
+                  "feature": {
+                    "config": {
+                      "template": "terraforged:acacia_bush"
+                    },
+                    "type": "terraforged:template"
+                  }
+                }
+              ]
+            },
+            "type": "minecraft:random_selector"
+          }
+        },
+        "type": "minecraft:decorated"
       }
     },
     "type": "minecraft:decorated"

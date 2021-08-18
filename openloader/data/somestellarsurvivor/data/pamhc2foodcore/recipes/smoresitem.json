@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_bakeware"
@@ -15,7 +14,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodcore:smoresitem",
-    "count": 1
-  }
+    "count": 1,
+    "item": "pamhc2foodcore:smoresitem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,5 +1,11 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "vertical_slabs",
+      "type": "abnormals_core:quark_flag"
+    }
+  ],
+  "count": 1,
   "ingredient": [
     {
       "item": "minecraft:honeycomb_block"
@@ -12,11 +18,5 @@
     }
   ],
   "result": "buzzier_bees:honeycomb_tile_vertical_slab",
-  "count": 1,
-  "conditions": [
-    {
-      "type": "abnormals_core:quark_flag",
-      "flag": "vertical_slabs"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

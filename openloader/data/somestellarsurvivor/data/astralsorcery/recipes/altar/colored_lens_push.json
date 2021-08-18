@@ -1,14 +1,12 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 2,
   "duration": 400,
-  "starlight": 2000,
-  "pattern": [
-    "A___A",
-    "BC_CB",
-    "__D__",
-    "_____",
-    "A___A"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -26,15 +24,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:colored_lens_push",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:colored_lens_push"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "A___A",
+    "BC_CB",
+    "__D__",
+    "_____",
+    "A___A"
+  ],
+  "starlight": 2000,
+  "type": "astralsorcery:altar"
 }

@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "quark:blue_shingles"
-  },
-  "result": "quark:blue_shingles_vertical_slab",
-  "count": 2,
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "shingles"
+          "flag": "shingles",
+          "type": "quark:flag"
         },
         {
-          "type": "quark:flag",
-          "flag": "vertical_slabs"
+          "flag": "vertical_slabs",
+          "type": "quark:flag"
         }
       ]
     }
-  ]
+  ],
+  "count": 2,
+  "ingredient": {
+    "item": "quark:blue_shingles"
+  },
+  "result": "quark:blue_shingles_vertical_slab",
+  "type": "minecraft:stonecutting"
 }

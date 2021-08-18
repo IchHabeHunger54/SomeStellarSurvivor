@@ -1,14 +1,12 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 1,
   "duration": 200,
-  "starlight": 1600,
-  "pattern": [
-    "A___A",
-    "__D__",
-    "_E_E_",
-    "_BCB_",
-    "B___B"
+  "effects": [
+    "astralsorcery:pillar_sparkle",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_lightbeams",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -21,11 +19,11 @@
       "item": "astralsorcery:spectral_relay"
     },
     "D": {
-      "type": "astralsorcery:crystal",
+      "canBeAttuned": true,
+      "canBeCelestialCrystal": true,
       "hasToBeAttuned": false,
       "hasToBeCelestial": false,
-      "canBeAttuned": true,
-      "canBeCelestialCrystal": true
+      "type": "astralsorcery:crystal"
     },
     "E": {
       "tag": "astralsorcery:starmetal"
@@ -33,15 +31,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:attunement_altar",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:attunement_altar"
     }
   ],
-  "effects": [
-    "astralsorcery:pillar_sparkle",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:altar_default_lightbeams",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "A___A",
+    "__D__",
+    "_E_E_",
+    "_BCB_",
+    "B___B"
+  ],
+  "starlight": 1600,
+  "type": "astralsorcery:altar"
 }

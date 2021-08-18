@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "tag": "forge:nuggets/knightslime"
   },
   "result": {
-    "fluid": "tconstruct:molten_knightslime",
-    "amount": 16
+    "amount": 16,
+    "fluid": "tconstruct:molten_knightslime"
   },
   "temperature": 1125,
-  "time": 23
+  "time": 23,
+  "type": "tconstruct:melting"
 }

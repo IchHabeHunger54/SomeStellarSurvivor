@@ -1,13 +1,13 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:smithing",
-  "base": {
-    "item": "notreepunching:diamond_knife"
-  },
   "addition": {
     "item": "minecraft:netherite_ingot"
   },
+  "base": {
+    "item": "notreepunching:diamond_knife"
+  },
   "result": {
     "item": "notreepunching:netherite_knife"
-  }
+  },
+  "type": "minecraft:smithing"
 }

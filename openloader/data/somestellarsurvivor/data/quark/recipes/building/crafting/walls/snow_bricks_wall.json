@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "snow_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:snow_bricks"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:snow_bricks_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:snow_bricks_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "snow_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

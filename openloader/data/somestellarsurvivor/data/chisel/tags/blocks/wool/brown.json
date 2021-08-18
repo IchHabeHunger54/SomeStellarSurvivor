@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:wool/brown/legacy",
     "chisel:wool/brown/llama",

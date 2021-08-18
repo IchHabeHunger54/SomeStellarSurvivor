@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "deepslate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:polished_deepslate"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:polished_deepslate_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:polished_deepslate_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "deepslate"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

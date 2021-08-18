@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "minecraft:prismarine_shard",
     "minecraft:prismarine_crystals"

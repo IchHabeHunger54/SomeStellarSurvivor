@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "limestone",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 2,
   "ingredient": {
     "item": "quark:polished_limestone"
   },
   "result": "quark:polished_limestone_slab",
-  "count": 2,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "limestone"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

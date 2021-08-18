@@ -1,14 +1,9 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 1,
   "duration": 200,
-  "starlight": 600,
-  "pattern": [
-    "_____",
-    "_BC__",
-    "_BDC_",
-    "_ABB_",
-    "A____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -21,21 +16,26 @@
       "item": "astralsorcery:aquamarine"
     },
     "D": {
-      "type": "astralsorcery:crystal",
+      "canBeAttuned": true,
+      "canBeCelestialCrystal": true,
       "hasToBeAttuned": false,
       "hasToBeCelestial": false,
-      "canBeAttuned": true,
-      "canBeCelestialCrystal": true
+      "type": "astralsorcery:crystal"
     }
   },
   "output": [
     {
-      "item": "astralsorcery:linking_tool",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:linking_tool"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "_____",
+    "_BC__",
+    "_BDC_",
+    "_ABB_",
+    "A____"
+  ],
+  "starlight": 600,
+  "type": "astralsorcery:altar"
 }

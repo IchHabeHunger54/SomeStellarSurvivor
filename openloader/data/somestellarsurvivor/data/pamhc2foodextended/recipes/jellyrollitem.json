@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:jellies"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:jellyrollitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

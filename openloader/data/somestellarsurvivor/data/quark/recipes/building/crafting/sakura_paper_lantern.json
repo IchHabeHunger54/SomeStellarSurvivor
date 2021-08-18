@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "paper_decor",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:paper_lantern"
@@ -9,13 +14,8 @@
     }
   ],
   "result": {
-    "item": "quark:paper_lantern_sakura",
-    "count": 1
+    "count": 1,
+    "item": "quark:paper_lantern_sakura"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "paper_decor"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

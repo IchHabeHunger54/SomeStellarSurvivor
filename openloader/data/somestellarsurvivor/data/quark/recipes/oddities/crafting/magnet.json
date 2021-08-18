@@ -1,34 +1,34 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "magnets",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:dyes/blue"
+    },
+    "C": {
+      "tag": "forge:cobblestone"
+    },
+    "F": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
   "pattern": [
     "CIC",
     "BFR",
     "CIC"
   ],
-  "key": {
-    "C": {
-      "tag": "forge:cobblestone"
-    },
-    "I": {
-      "tag": "forge:ingots/iron"
-    },
-    "B": {
-      "tag": "forge:dyes/blue"
-    },
-    "R": {
-      "tag": "forge:dusts/redstone"
-    },
-    "F": {
-      "item": "minecraft:chorus_fruit"
-    }
-  },
   "result": {
     "item": "quark:magnet"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "magnets"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

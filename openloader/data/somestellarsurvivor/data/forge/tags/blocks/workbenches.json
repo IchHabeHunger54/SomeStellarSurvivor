@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "minecraft:crafting_table",
     "tconstruct:crafting_station"

@@ -1,14 +1,12 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 2,
   "duration": 400,
-  "starlight": 2600,
-  "pattern": [
-    "AB_BA",
-    "C___C",
-    "__D__",
-    "C___C",
-    "AB_BA"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -21,28 +19,30 @@
       "item": "astralsorcery:resonating_gem"
     },
     "D": {
-      "type": "astralsorcery:crystal",
+      "canBeAttuned": false,
+      "canBeCelestialCrystal": true,
       "hasToBeAttuned": true,
       "hasToBeCelestial": true,
-      "canBeAttuned": false,
-      "canBeCelestialCrystal": true
+      "type": "astralsorcery:crystal"
     }
   },
-  "recipe_class": "astralsorcery:constellation_copy_stats",
-  "output": [
-    {
-      "item": "astralsorcery:celestial_collector_crystal",
-      "count": 1
-    }
-  ],
   "options": {
     "constellationSlot": 12
   },
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "output": [
+    {
+      "count": 1,
+      "item": "astralsorcery:celestial_collector_crystal"
+    }
+  ],
+  "pattern": [
+    "AB_BA",
+    "C___C",
+    "__D__",
+    "C___C",
+    "AB_BA"
+  ],
+  "recipe_class": "astralsorcery:constellation_copy_stats",
+  "starlight": 2600,
+  "type": "astralsorcery:altar"
 }

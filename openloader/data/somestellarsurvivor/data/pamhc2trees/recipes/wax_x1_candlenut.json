@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:crops/candlenut"
@@ -12,7 +11,8 @@
     }
   ],
   "result": {
-    "item": "minecraft:honeycomb",
-    "count": 1
-  }
+    "count": 1,
+    "item": "minecraft:honeycomb"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

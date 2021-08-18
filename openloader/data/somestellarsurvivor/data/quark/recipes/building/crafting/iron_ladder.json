@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "N N",
-    "NIN",
-    "N N"
+  "conditions": [
+    {
+      "flag": "iron_ladder",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "I": {
@@ -13,14 +13,14 @@
       "tag": "forge:nuggets/iron"
     }
   },
+  "pattern": [
+    "N N",
+    "NIN",
+    "N N"
+  ],
   "result": {
-    "item": "quark:iron_ladder",
-    "count": 3
+    "count": 3,
+    "item": "quark:iron_ladder"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "iron_ladder"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

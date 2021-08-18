@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "pamhc2foodextended:marzipanitem"
+    },
+    {
+      "tag": "forge:jellies/apricotjelly"
+    },
+    {
+      "tag": "forge:dyes/pink"
+    },
+    {
+      "tag": "forge:dyes/yellow"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:battenbergitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

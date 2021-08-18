@@ -1,28 +1,23 @@
 {
-  "parent": "root.json",
-  "text": "crocodile.txt",
-  "title": "Crocodile",
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-  ],
-  "tabula_renders": [
-  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:crocodile",
-      "x": 110,
-      "y": 90,
+      "follow_cursor": false,
       "page": 0,
-      "scale": 0.85,
       "rot_x": 30,
       "rot_y": 235,
       "rot_z": 0,
-      "follow_cursor": false
+      "scale": 0.85,
+      "x": 110,
+      "y": 90
     }
-  ]
+  ],
+  "images": [],
+  "item_renders": [],
+  "linked_page_buttons": [],
+  "parent": "root.json",
+  "recipes": [],
+  "tabula_renders": [],
+  "text": "crocodile.txt",
+  "title": "Crocodile"
 }

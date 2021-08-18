@@ -1,9 +1,9 @@
 {
-  "type": "tconstruct:material_fluid",
   "fluid": {
-    "tag": "tconstruct:molten_electrum",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_electrum"
   },
+  "output": "tconstruct:electrum",
   "temperature": 760,
-  "output": "tconstruct:electrum"
+  "type": "tconstruct:material_fluid"
 }

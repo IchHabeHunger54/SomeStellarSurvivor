@@ -1,11 +1,13 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
       "entries": [
         {
-          "type": "minecraft:item",
           "functions": [
             {
               "function": "minecraft:copy_name",
@@ -13,24 +15,22 @@
             },
             {
               "function": "minecraft:copy_nbt",
-              "source": "block_entity",
               "ops": [
                 {
+                  "op": "replace",
                   "source": "tank",
-                  "target": "tank",
-                  "op": "replace"
+                  "target": "tank"
                 }
-              ]
+              ],
+              "source": "block_entity"
             }
           ],
-          "name": "tconstruct:scorched_ingot_gauge"
+          "name": "tconstruct:scorched_ingot_gauge",
+          "type": "minecraft:item"
         }
       ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ]
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

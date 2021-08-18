@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 40,
-  "starlight": 100,
-  "pattern": [
-    "_____",
-    "_____",
-    "_AAA_",
-    "_____",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -17,11 +11,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:marble_slab",
-      "count": 6
+      "count": 6,
+      "item": "astralsorcery:marble_slab"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "_____",
+    "_AAA_",
+    "_____",
+    "_____"
+  ],
+  "starlight": 100,
+  "type": "astralsorcery:altar"
 }

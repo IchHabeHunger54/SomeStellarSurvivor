@@ -1,0 +1,28 @@
+{
+  "max_level": 1,
+  "min_level": 1,
+  "modifier": "tconstruct:luck",
+  "salvage": [
+    {
+      "chance": 0.1,
+      "item": "minecraft:cornflower"
+    },
+    {
+      "max": 2,
+      "min": 2,
+      "tag": "forge:ingots/copper"
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "max": 18,
+      "min": 3
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee_or_harvest"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

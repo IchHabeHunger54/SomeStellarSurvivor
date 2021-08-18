@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:andesite"
-  },
-  "result": "quark:andesite_pillar",
-  "count": 1,
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "stone_pillar"
+          "flag": "stone_pillar",
+          "type": "quark:flag"
         },
         {
-          "type": "quark:flag",
-          "flag": "andesite"
+          "flag": "andesite",
+          "type": "quark:flag"
         }
       ]
     }
-  ]
-} 
+  ],
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:andesite"
+  },
+  "result": "quark:andesite_pillar",
+  "type": "minecraft:stonecutting"
+}

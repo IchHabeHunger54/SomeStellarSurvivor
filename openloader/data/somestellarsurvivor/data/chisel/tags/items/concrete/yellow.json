@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:concrete/yellow/cracked",
     "chisel:concrete/yellow/solid_bricks",

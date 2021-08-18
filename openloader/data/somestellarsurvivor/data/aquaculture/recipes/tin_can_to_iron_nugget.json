@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:smelting",
+  "cookingtime": 150,
+  "experience": 0.7,
   "ingredient": {
     "item": "aquaculture:tin_can"
   },
   "result": {
-    "item": "minecraft:iron_nugget",
-    "count": 7
+    "count": 7,
+    "item": "minecraft:iron_nugget"
   },
-  "experience": 0.7,
-  "cookingtime": 150
+  "type": "minecraft:smelting"
 }

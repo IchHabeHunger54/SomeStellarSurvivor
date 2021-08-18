@@ -1,7 +1,7 @@
 {
-  "type": "tconstruct:severing",
   "entity": {
     "type": "minecraft:shulker"
   },
-  "result": "minecraft:shulker_shell"
+  "result": "minecraft:shulker_shell",
+  "type": "tconstruct:severing"
 }

@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    "P": {
+      "item": "minecraft:crimson_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
   "pattern": [
     "I  ",
     "SI ",
     "PSI"
   ],
-  "key": {
-    "I": {
-      "item": "minecraft:mossy_cobblestone"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    },
-    "P": {
-      "item": "minecraft:crimson_planks"
-    }
-  },
   "result": {
-    "item": "structurize:moss_slate_crimson_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:moss_slate_crimson_shingle"
+  },
+  "type": "minecraft:crafting_shaped"
 }

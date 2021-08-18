@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "flag": "marble",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:marble"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:polished_marble",
-    "count": 4
+    "count": 4,
+    "item": "quark:polished_marble"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "marble"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

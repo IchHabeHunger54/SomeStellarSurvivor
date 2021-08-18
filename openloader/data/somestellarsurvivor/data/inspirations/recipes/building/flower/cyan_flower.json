@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "building_module",
@@ -10,11 +9,11 @@
       "type": "inspirations:config"
     },
     {
+      "type": "forge:not",
       "value": {
         "prop": "cauldron_dyeing",
         "type": "inspirations:config"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredients": [
@@ -27,5 +26,6 @@
   ],
   "result": {
     "item": "inspirations:cyan_flower"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,16 +1,1 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "overworld"
-      },
-      {
-        "type": "BIOME_DICT",
-        "negate": false,
-        "value": "beach"
-      }
-    ]
-  ]
-}
+{"biomes":[[{"negate":false,"type":"BIOME_DICT","value":"overworld"},{"negate":false,"type":"BIOME_DICT","value":"beach"}]]}

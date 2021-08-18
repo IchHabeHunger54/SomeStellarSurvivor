@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:gift",
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "minecraft:clay"
+          "name": "minecraft:clay",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:gift"
 }

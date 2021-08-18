@@ -1,29 +1,29 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "alexsmobs:blood_sprayer"
+    },
+    "C": {
+      "item": "alexsmobs:mimicream"
+    },
+    "M": {
+      "item": "alexsmobs:warped_muscle"
+    },
+    "P": {
+      "item": "alexsmobs:mosquito_proboscis"
+    },
+    "S": {
+      "item": "alexsmobs:hemolymph_sac"
+    }
+  },
   "pattern": [
     "SSS",
     "CBP",
     "M  "
   ],
-  "key": {
-    "S": {
-      "item": "alexsmobs:hemolymph_sac"
-    },
-    "P": {
-      "item": "alexsmobs:mosquito_proboscis"
-    },
-    "M": {
-      "item": "alexsmobs:warped_muscle"
-    },
-    "C": {
-      "item": "alexsmobs:mimicream"
-    },
-    "B": {
-      "item": "alexsmobs:blood_sprayer"
-    }
-  },
   "result": {
-    "item": "alexsmobs:hemolymph_blaster",
-    "count": 1
-  }
+    "count": 1,
+    "item": "alexsmobs:hemolymph_blaster"
+  },
+  "type": "minecraft:crafting_shaped"
 }

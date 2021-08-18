@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/bean"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:condiments/bbqsauce"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:bakedbeansitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

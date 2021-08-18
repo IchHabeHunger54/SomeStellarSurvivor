@@ -1,62 +1,59 @@
 {
-  "type": "minecraft:fishing",
   "pools": [
     {
-      "rolls": 1.0,
       "entries": [
         {
+          "name": "aquaculture:driftwood",
           "type": "minecraft:item",
-          "weight": 10,
-          "name": "aquaculture:driftwood"
+          "weight": 10
         },
         {
+          "name": "aquaculture:fish_bones",
           "type": "minecraft:item",
-          "weight": 4,
-          "name": "aquaculture:fish_bones"
+          "weight": 4
         },
         {
+          "name": "aquaculture:tin_can",
           "type": "minecraft:item",
-          "weight": 10,
-          "name": "aquaculture:tin_can"
+          "weight": 10
         },
         {
+          "name": "aquaculture:box",
           "type": "minecraft:item",
-          "weight": 6,
-          "name": "aquaculture:box"
+          "weight": 6
         },
         {
+          "name": "aquaculture:lockbox",
           "type": "minecraft:item",
-          "weight": 4,
-          "name": "aquaculture:lockbox"
+          "weight": 4
         },
         {
+          "name": "aquaculture:treasure_chest",
           "type": "minecraft:item",
-          "weight": 1,
-          "name": "aquaculture:treasure_chest"
+          "weight": 1
         },
         {
+          "name": "aquaculture:goldfish",
           "type": "minecraft:item",
-          "weight": 4,
-          "name": "aquaculture:goldfish"
+          "weight": 4
         },
         {
+          "name": "aquaculture:message_in_a_bottle",
           "type": "minecraft:item",
-          "weight": 5,
-          "name": "aquaculture:message_in_a_bottle"
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
+                "exclude": [
+                  "SNOWY"
+                ],
                 "include": [
                   "WATER",
                   "BEACH",
                   "SWAMP"
-                ],
-                "exclude": [
-                  "SNOWY"
                 ]
               }
             },
@@ -70,31 +67,31 @@
               }
             }
           ],
-          "weight": 10,
-          "name": "minecraft:seagrass"
+          "name": "minecraft:seagrass",
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
-                "include": [
-                  "OCEAN",
-                  "BEACH"
-                ],
                 "exclude": [
                   "HOT",
                   "SNOWY"
+                ],
+                "include": [
+                  "OCEAN",
+                  "BEACH"
                 ]
               }
             }
           ],
-          "weight": 9,
-          "name": "minecraft:kelp"
+          "name": "minecraft:kelp",
+          "type": "minecraft:item",
+          "weight": 9
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -106,10 +103,13 @@
               }
             }
           ],
-          "weight": 10,
-          "name": "aquaculture:algae"
+          "name": "aquaculture:algae",
+          "type": "minecraft:item",
+          "weight": 10
         }
-      ]
+      ],
+      "rolls": 1.0
     }
-  ]
+  ],
+  "type": "minecraft:fishing"
 }

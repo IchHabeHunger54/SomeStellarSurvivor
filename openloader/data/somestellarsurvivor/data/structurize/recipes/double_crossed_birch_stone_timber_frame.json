@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:plain_birch_stone_timber_frame"
@@ -7,5 +6,6 @@
   ],
   "result": {
     "item": "structurize:double_crossed_birch_stone_timber_frame"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

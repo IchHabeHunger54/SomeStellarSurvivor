@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:coins/queens_slime",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/coin"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:coins/queens_slime",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 41,
   "fluid": {
-    "tag": "tconstruct:molten_queens_slime",
-    "amount": 48
+    "amount": 48,
+    "tag": "tconstruct:molten_queens_slime"
   },
   "result": {
     "tag": "forge:coins/queens_slime"
   },
-  "cooling_time": 41
+  "type": "tconstruct:casting_table"
 }

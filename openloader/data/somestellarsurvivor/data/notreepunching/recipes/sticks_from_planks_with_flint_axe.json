@@ -1,11 +1,6 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "notreepunching:tool_damaging",
   "recipe": {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-      "SW"
-    ],
     "key": {
       "S": {
         "tag": "notreepunching:weak_saws"
@@ -14,9 +9,14 @@
         "tag": "minecraft:planks"
       }
     },
+    "pattern": [
+      "SW"
+    ],
     "result": {
       "count": 1,
       "item": "minecraft:stick"
-    }
-  }
+    },
+    "type": "minecraft:crafting_shaped"
+  },
+  "type": "notreepunching:tool_damaging"
 }

@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:cream/cream",
     "#forge:cream/silkentofu"

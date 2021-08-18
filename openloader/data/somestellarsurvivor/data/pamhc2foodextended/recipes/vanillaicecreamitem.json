@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:icecream"
+    },
+    {
+      "tag": "forge:spices/vanilla"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:vanillaicecreamitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

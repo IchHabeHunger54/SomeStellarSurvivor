@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:planks/spruce/large_planks",
     "chisel:planks/spruce/crude_horizontal_planks",

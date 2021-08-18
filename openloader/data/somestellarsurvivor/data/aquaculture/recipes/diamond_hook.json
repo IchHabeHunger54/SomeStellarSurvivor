@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " D ",
-    "DHD",
-    " D "
-  ],
   "key": {
     "D": {
       "tag": "forge:gems/diamond"
@@ -13,7 +7,13 @@
       "item": "aquaculture:iron_hook"
     }
   },
+  "pattern": [
+    " D ",
+    "DHD",
+    " D "
+  ],
   "result": {
     "item": "aquaculture:diamond_hook"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:dusts/redstone",
     "#forge:ores/redstone",

@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "basalt_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:vanilla_basalt_bricks"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:vanilla_basalt_bricks_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:vanilla_basalt_bricks_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "basalt_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

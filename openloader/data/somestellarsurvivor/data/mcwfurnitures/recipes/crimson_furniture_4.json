@@ -1,0 +1,18 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:crimson_furniture_3"
+    },
+    "B": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": [
+    "BAB"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:crimson_furniture_4"
+  },
+  "type": "minecraft:crafting_shaped"
+}

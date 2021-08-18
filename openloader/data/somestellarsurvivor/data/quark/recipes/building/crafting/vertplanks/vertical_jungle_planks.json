@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#",
-    "#",
-    "#"
+  "conditions": [
+    {
+      "flag": "vertical_planks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:jungle_planks"
     }
   },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
   "result": {
-    "item": "quark:vertical_jungle_planks",
-    "count": 3
+    "count": 3,
+    "item": "quark:vertical_jungle_planks"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "vertical_planks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

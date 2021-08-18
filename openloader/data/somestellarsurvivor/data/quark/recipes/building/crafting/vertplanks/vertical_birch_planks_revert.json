@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "vertical_planks",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:vertical_birch_planks"
     }
   ],
   "result": {
-    "item": "minecraft:birch_planks",
-    "count": 1
+    "count": 1,
+    "item": "minecraft:birch_planks"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "vertical_planks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,5 +1,5 @@
 {
-  "type": "inspirations:cauldron_empty_potion",
+  "bottle": "inspirations:splash_bottle",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,5 +11,5 @@
     }
   ],
   "potion": "minecraft:splash_potion",
-  "bottle": "inspirations:splash_bottle"
+  "type": "inspirations:cauldron_empty_potion"
 }

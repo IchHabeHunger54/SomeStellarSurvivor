@@ -1,11 +1,8 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
           "functions": [
             {
               "function": "minecraft:copy_name",
@@ -13,38 +10,41 @@
             },
             {
               "function": "minecraft:copy_nbt",
-              "source": "block_entity",
               "ops": [
                 {
+                  "op": "replace",
                   "source": "Lock",
-                  "target": "BlockEntityTag.Lock",
-                  "op": "replace"
+                  "target": "BlockEntityTag.Lock"
                 },
                 {
+                  "op": "replace",
                   "source": "LootTable",
-                  "target": "BlockEntityTag.LootTable",
-                  "op": "replace"
+                  "target": "BlockEntityTag.LootTable"
                 },
                 {
+                  "op": "replace",
                   "source": "LootTableSeed",
-                  "target": "BlockEntityTag.LootTableSeed",
-                  "op": "replace"
+                  "target": "BlockEntityTag.LootTableSeed"
                 }
-              ]
+              ],
+              "source": "block_entity"
             },
             {
-              "function": "minecraft:set_contents",
               "entries": [
                 {
-                  "type": "minecraft:dynamic",
-                  "name": "minecraft:contents"
+                  "name": "minecraft:contents",
+                  "type": "minecraft:dynamic"
                 }
-              ]
+              ],
+              "function": "minecraft:set_contents"
             }
           ],
-          "name": "minecraft:blue_shulker_box"
+          "name": "minecraft:blue_shulker_box",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

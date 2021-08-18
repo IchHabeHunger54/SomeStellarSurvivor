@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:wg_stone",
     "minecraft:polished_andesite",

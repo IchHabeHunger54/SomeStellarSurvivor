@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "#F#",
-    "###"
+  "conditions": [
+    {
+      "flag": "item_frames",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -13,14 +13,14 @@
       "item": "minecraft:item_frame"
     }
   },
+  "pattern": [
+    "###",
+    "#F#",
+    "###"
+  ],
   "result": {
-    "item": "quark:glass_item_frame",
-    "count": 2
+    "count": 2,
+    "item": "quark:glass_item_frame"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "item_frames"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

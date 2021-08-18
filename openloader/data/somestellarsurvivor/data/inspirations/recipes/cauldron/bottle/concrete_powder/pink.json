@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -41,7 +40,8 @@
     }
   ],
   "result": {
-    "item": "minecraft:pink_concrete_powder",
-    "count": 8
-  }
+    "count": 8,
+    "item": "minecraft:pink_concrete_powder"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

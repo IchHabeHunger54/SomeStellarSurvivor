@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -24,5 +23,6 @@
   ],
   "result": {
     "item": "minecraft:writable_book"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

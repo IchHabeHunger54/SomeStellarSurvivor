@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:groundmeats/groundfish"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:crops/scallion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:fishcakesitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,27 +1,27 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "quilted_wool",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "W": {
+      "count": 3,
+      "item": "minecraft:gray_wool"
+    }
+  },
   "pattern": [
     " S ",
     "WWW",
     " S "
   ],
-  "key": {
-    "W": {
-      "item": "minecraft:gray_wool",
-      "count": 3
-    },
-    "S": {
-      "item": "minecraft:string"
-    }
-  },
   "result": {
-    "item": "quark:gray_quilted_wool",
-    "count": 3
+    "count": 3,
+    "item": "quark:gray_quilted_wool"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "quilted_wool"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

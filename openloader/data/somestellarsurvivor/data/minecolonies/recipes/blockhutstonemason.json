@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XTX",
-    "AAA",
-    "XXX"
-  ],
   "key": {
-    "X": {
-      "tag": "minecraft:planks"
-    },
     "A": {
       "item": "minecraft:stone_bricks"
     },
     "T": {
       "item": "structurize:sceptergold"
+    },
+    "X": {
+      "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "XTX",
+    "AAA",
+    "XXX"
+  ],
   "result": {
     "item": "minecolonies:blockhutstonemason"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

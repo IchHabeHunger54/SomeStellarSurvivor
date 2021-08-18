@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:rods/lead",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/rod"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:rods/lead",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 31,
   "fluid": {
-    "tag": "tconstruct:molten_lead",
-    "amount": 72
+    "amount": 72,
+    "tag": "tconstruct:molten_lead"
   },
   "result": {
     "tag": "forge:rods/lead"
   },
-  "cooling_time": 31
+  "type": "tconstruct:casting_table"
 }

@@ -1,14 +1,9 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:items",
-      "object": "crafting_pad"
+      "object": "crafting_pad",
+      "type": "vanillatweaks:items"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "C ",
-    "S "
   ],
   "key": {
     "C": {
@@ -18,7 +13,12 @@
       "item": "minecraft:stick"
     }
   },
+  "pattern": [
+    "C ",
+    "S "
+  ],
   "result": {
     "item": "vanillatweaks:pad"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

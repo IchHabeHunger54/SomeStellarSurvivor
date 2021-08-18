@@ -1,14 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XTX",
-    "CBC",
-    "XXX"
-  ],
   "key": {
-    "X": {
-      "tag": "minecraft:planks"
-    },
     "B": {
       "item": "minecraft:iron_ingot"
     },
@@ -17,9 +8,18 @@
     },
     "T": {
       "item": "structurize:sceptergold"
+    },
+    "X": {
+      "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "XTX",
+    "CBC",
+    "XXX"
+  ],
   "result": {
     "item": "minecolonies:blockhutcrusher"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

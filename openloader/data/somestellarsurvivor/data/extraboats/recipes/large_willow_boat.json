@@ -1,16 +1,11 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "biomesoplenty"
+      "modid": "biomesoplenty",
+      "type": "forge:mod_loaded"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "large_boat",
-  "pattern": [
-    "#W#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "biomesoplenty:willow_planks"
@@ -19,7 +14,12 @@
       "item": "biomesoplenty:willow_boat"
     }
   },
+  "pattern": [
+    "#W#",
+    "###"
+  ],
   "result": {
     "item": "extraboats:large_willow_boat"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

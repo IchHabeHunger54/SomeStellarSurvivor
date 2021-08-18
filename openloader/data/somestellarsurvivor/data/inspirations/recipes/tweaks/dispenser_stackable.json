@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "tweaks_module",
@@ -10,23 +9,24 @@
       "type": "inspirations:config"
     }
   ],
+  "key": {
+    "D": {
+      "item": "minecraft:dropper"
+    },
+    "S": {
+      "tag": "forge:string"
+    },
+    "T": {
+      "tag": "forge:rods/wooden"
+    }
+  },
   "pattern": [
     " TS",
     "TDS",
     " TS"
   ],
-  "key": {
-    "T": {
-      "tag": "forge:rods/wooden"
-    },
-    "S": {
-      "tag": "forge:string"
-    },
-    "D": {
-      "item": "minecraft:dropper"
-    }
-  },
   "result": {
     "item": "minecraft:dispenser"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

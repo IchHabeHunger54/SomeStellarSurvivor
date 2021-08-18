@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " L ",
-    "LLL",
-    " H "
-  ],
   "key": {
     "H": {
       "item": "alexsmobs:bear_fur"
@@ -13,8 +7,14 @@
       "item": "minecraft:leather"
     }
   },
+  "pattern": [
+    " L ",
+    "LLL",
+    " H "
+  ],
   "result": {
-    "item": "alexsmobs:falconry_glove",
-    "count": 1
-  }
+    "count": 1,
+    "item": "alexsmobs:falconry_glove"
+  },
+  "type": "minecraft:crafting_shaped"
 }

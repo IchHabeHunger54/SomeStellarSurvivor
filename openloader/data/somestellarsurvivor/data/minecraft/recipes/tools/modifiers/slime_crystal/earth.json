@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:blasting",
+  "cookingtime": 400,
+  "experience": 1.0,
   "ingredient": {
     "item": "minecraft:slime_ball"
   },
   "result": "tconstruct:earth_slime_crystal",
-  "experience": 1.0,
-  "cookingtime": 400
+  "type": "minecraft:blasting"
 }

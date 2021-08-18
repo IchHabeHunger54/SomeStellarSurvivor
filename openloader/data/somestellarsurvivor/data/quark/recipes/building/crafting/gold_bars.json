@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "gold_bars",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "tag": "forge:ingots/gold"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:gold_bars",
-    "count": 16
+    "count": 16,
+    "item": "quark:gold_bars"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "gold_bars"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

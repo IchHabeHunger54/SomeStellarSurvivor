@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "a  ",
-    " b ",
-    "  b"
-  ],
   "key": {
     "a": {
       "item": "minecraft:brick"
@@ -13,7 +7,13 @@
       "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    "a  ",
+    " b ",
+    "  b"
+  ],
   "result": {
     "item": "pamhc2foodcore:skilletitem"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

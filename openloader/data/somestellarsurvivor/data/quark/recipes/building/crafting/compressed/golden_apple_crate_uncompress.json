@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "golden_apple_crate",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:golden_apple_crate"
     }
   ],
   "result": {
-    "item": "minecraft:golden_apple",
-    "count": 9
+    "count": 9,
+    "item": "minecraft:golden_apple"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "golden_apple_crate"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

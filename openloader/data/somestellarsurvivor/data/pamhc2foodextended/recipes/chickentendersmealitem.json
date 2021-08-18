@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodextended:chickentendersitem"
+    },
+    {
+      "item": "pamhc2foodcore:friesitem"
+    },
+    {
+      "tag": "forge:sodas"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:chickentendersmealitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

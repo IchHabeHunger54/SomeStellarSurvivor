@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 60,
-  "starlight": 400,
-  "pattern": [
-    "_____",
-    "__A__",
-    "_ABA_",
-    "__A__",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -20,11 +14,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:illumination_powder",
-      "count": 16
+      "count": 16,
+      "item": "astralsorcery:illumination_powder"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "__A__",
+    "_ABA_",
+    "__A__",
+    "_____"
+  ],
+  "starlight": 400,
+  "type": "astralsorcery:altar"
 }

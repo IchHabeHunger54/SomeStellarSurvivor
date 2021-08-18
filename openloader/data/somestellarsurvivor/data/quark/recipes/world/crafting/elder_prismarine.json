@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "elder_prismarine_underground_biome",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "minecraft:prismarine"
@@ -9,13 +14,8 @@
     }
   ],
   "result": {
-    "item": "quark:elder_prismarine",
-    "count": 2
+    "count": 2,
+    "item": "quark:elder_prismarine"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "elder_prismarine_underground_biome"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

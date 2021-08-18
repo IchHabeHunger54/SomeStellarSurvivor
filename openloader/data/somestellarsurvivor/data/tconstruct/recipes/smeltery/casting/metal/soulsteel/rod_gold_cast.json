@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:rods/soulsteel",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/rod"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:rods/soulsteel",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 51,
   "fluid": {
-    "tag": "tconstruct:molten_soulsteel",
-    "amount": 72
+    "amount": 72,
+    "tag": "tconstruct:molten_soulsteel"
   },
   "result": {
     "tag": "forge:rods/soulsteel"
   },
-  "cooling_time": 51
+  "type": "tconstruct:casting_table"
 }

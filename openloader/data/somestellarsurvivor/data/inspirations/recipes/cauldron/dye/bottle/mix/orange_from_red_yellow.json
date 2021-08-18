@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:shapeless_no_container",
   "conditions": [
     {
       "prop": "cauldron_dyeing",
@@ -16,7 +15,8 @@
     }
   ],
   "result": {
-    "item": "inspirations:orange_dyed_bottle",
-    "count": 2
-  }
+    "count": 2,
+    "item": "inspirations:orange_dyed_bottle"
+  },
+  "type": "inspirations:shapeless_no_container"
 }

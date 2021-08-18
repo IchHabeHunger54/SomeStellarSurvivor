@@ -1,14 +1,9 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 1,
   "duration": 200,
-  "starlight": 1600,
-  "pattern": [
-    "A___A",
-    "_B_B_",
-    "_CDC_",
-    "_B_B_",
-    "A___A"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -21,23 +16,28 @@
       "item": "astralsorcery:illumination_powder"
     },
     "D": {
-      "type": "astralsorcery:fluid",
       "fluid": [
         {
-          "fluid": "astralsorcery:liquid_starlight",
-          "amount": 1000
+          "amount": 1000,
+          "fluid": "astralsorcery:liquid_starlight"
         }
-      ]
+      ],
+      "type": "astralsorcery:fluid"
     }
   },
   "output": [
     {
-      "item": "astralsorcery:shifting_star",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:shifting_star"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "A___A",
+    "_B_B_",
+    "_CDC_",
+    "_B_B_",
+    "A___A"
+  ],
+  "starlight": 1600,
+  "type": "astralsorcery:altar"
 }

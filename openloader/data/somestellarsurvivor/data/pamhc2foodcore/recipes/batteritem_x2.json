@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_mixingbowl"
@@ -15,7 +14,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodcore:batteritem",
-    "count": 2
-  }
+    "count": 2,
+    "item": "pamhc2foodcore:batteritem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

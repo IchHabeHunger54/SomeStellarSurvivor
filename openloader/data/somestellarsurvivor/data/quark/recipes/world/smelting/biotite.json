@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:smelting",
+  "conditions": [
+    {
+      "flag": "biotite",
+      "type": "quark:flag"
+    }
+  ],
+  "cookingtime": 200,
+  "experience": 0.2,
   "ingredient": {
     "item": "quark:biotite_ore"
   },
   "result": "quark:biotite",
-  "experience": 0.2,
-  "cookingtime": 200,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "biotite"
-    }
-  ]
+  "type": "minecraft:smelting"
 }

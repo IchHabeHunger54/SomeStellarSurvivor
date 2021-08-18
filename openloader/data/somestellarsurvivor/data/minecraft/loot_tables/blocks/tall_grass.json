@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "name": "loot_pool",
-      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "item",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -18,10 +18,10 @@
                   }
                 }
               ],
-              "name": "minecraft:grass"
+              "name": "minecraft:grass",
+              "type": "item"
             },
             {
-              "type": "item",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -30,40 +30,40 @@
                   }
                 },
                 {
-                  "condition": "minecraft:random_chance",
-                  "chance": 0.25
+                  "chance": 0.25,
+                  "condition": "minecraft:random_chance"
                 }
               ],
-              "name": "notreepunching:plant_fiber"
+              "name": "notreepunching:plant_fiber",
+              "type": "item"
             },
             {
-              "type": "item",
               "conditions": [
                 {
                   "condition": "minecraft:survives_explosion"
                 },
                 {
-                  "condition": "minecraft:block_state_property",
                   "block": "minecraft:tall_grass",
+                  "condition": "minecraft:block_state_property",
                   "properties": {
                     "half": "lower"
                   }
                 },
                 {
-                  "condition": "minecraft:random_chance",
-                  "chance": 0.125
+                  "chance": 0.125,
+                  "condition": "minecraft:random_chance"
                 }
               ],
-              "name": "minecraft:wheat_seeds"
+              "name": "minecraft:wheat_seeds",
+              "type": "item"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
       ],
-      "conditions": [
-        {
-          "condition": "minecraft:survives_explosion"
-        }
-      ]
+      "name": "loot_pool",
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

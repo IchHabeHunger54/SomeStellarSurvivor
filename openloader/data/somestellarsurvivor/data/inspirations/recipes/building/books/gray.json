@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "building_module",
@@ -21,5 +20,6 @@
   ],
   "result": {
     "item": "inspirations:gray_book"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

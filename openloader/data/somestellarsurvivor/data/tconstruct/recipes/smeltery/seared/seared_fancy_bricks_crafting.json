@@ -1,15 +1,15 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "s",
-    "s"
-  ],
   "key": {
     "s": {
       "item": "tconstruct:seared_bricks_slab"
     }
   },
+  "pattern": [
+    "s",
+    "s"
+  ],
   "result": {
     "item": "tconstruct:seared_fancy_bricks"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

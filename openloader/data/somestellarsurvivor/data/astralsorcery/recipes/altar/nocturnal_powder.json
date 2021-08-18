@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 100,
-  "starlight": 800,
-  "pattern": [
-    "_____",
-    "__B__",
-    "_CDC_",
-    "__A__",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -26,11 +20,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:nocturnal_powder",
-      "count": 4
+      "count": 4,
+      "item": "astralsorcery:nocturnal_powder"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "__B__",
+    "_CDC_",
+    "__A__",
+    "_____"
+  ],
+  "starlight": 800,
+  "type": "astralsorcery:altar"
 }

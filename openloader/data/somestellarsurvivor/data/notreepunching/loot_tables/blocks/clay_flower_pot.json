@@ -1,21 +1,21 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:block",
   "pools": [
     {
-      "name": "loot_pool",
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "notreepunching:clay_flower_pot"
-        }
-      ],
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
         }
-      ]
+      ],
+      "entries": [
+        {
+          "name": "notreepunching:clay_flower_pot",
+          "type": "minecraft:item"
+        }
+      ],
+      "name": "loot_pool",
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

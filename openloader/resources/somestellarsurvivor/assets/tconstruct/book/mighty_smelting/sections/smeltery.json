@@ -1,85 +1,85 @@
 [
   {
+    "data": "smeltery/index.json",
     "name": "index",
-    "type": "index",
-    "data": "smeltery/index.json"
+    "type": "index"
   },
   {
+    "data": "smeltery/features.json",
     "name": "features",
-    "type": "text",
-    "data": "smeltery/features.json"
+    "type": "text"
   },
   {
+    "data": "smeltery/controller.json",
     "name": "controller",
-    "type": "image with text below",
-    "data": "smeltery/controller.json"
+    "type": "image with text below"
   },
   {
     "name": "hidden",
     "type": "right_padding"
   },
   {
+    "data": "smeltery/multiblock.json",
     "name": "structure",
-    "type": "structure",
-    "data": "smeltery/multiblock.json"
+    "type": "structure"
   },
   {
+    "data": "smeltery/structurerequirements.json",
     "name": "structurereq",
-    "type": "text",
-    "data": "smeltery/structurerequirements.json"
+    "type": "text"
   },
   {
+    "data": "smeltery/alloying.json",
     "name": "alloying",
-    "type": "text",
-    "data": "smeltery/alloying.json"
+    "type": "text"
   },
   {
+    "data": "smeltery/tanks.json",
     "name": "seared_tanks",
-    "type": "showcase",
-    "data": "smeltery/tanks.json"
+    "type": "showcase"
   },
   {
+    "data": "smeltery/searedblocks.json",
     "name": "seared_blocks",
-    "type": "showcase",
-    "data": "smeltery/searedblocks.json"
+    "type": "showcase"
   },
   {
+    "data": "smeltery/searedladder.json",
     "name": "seared_ladder",
-    "type": "showcase",
-    "data": "smeltery/searedladder.json"
+    "type": "showcase"
   },
   {
+    "data": "smeltery/searedglass.json",
     "name": "seared_glass",
-    "type": "showcase",
-    "data": "smeltery/searedglass.json"
+    "type": "showcase"
   },
   {
+    "data": "smeltery/seared_drain.json",
     "name": "seared_drain",
-    "type": "showcase",
-    "data": "smeltery/seared_drain.json"
+    "type": "showcase"
   },
   {
+    "data": "smeltery/seared_duct.json",
     "name": "seared_duct",
-    "type": "showcase",
-    "data": "smeltery/seared_duct.json"
+    "type": "showcase"
   },
   {
+    "data": "smeltery/seared_chute.json",
     "name": "seared_chute",
-    "type": "showcase",
-    "data": "smeltery/seared_chute.json"
+    "type": "showcase"
   },
   {
     "name": "hidden",
     "type": "right_padding"
   },
   {
+    "data": "smeltery/gui1.json",
     "name": "sgui1",
-    "type": "imageText2",
-    "data": "smeltery/gui1.json"
+    "type": "imageText2"
   },
   {
+    "data": "smeltery/gui2.json",
     "name": "sgui2",
-    "type": "text",
-    "data": "smeltery/gui2.json"
+    "type": "text"
   }
- ]
+]

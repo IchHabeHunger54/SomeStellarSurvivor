@@ -1,20 +1,15 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "enhanced_mushrooms"
+      "modid": "enhanced_mushrooms",
+      "type": "forge:mod_loaded"
     },
     {
-      "type": "forge:mod_loaded",
-      "modid": "quark"
+      "modid": "quark",
+      "type": "forge:mod_loaded"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "furnace_boat",
-  "pattern": [
-    "A",
-    "B"
-  ],
   "key": {
     "A": {
       "item": "minecraft:furnace"
@@ -23,7 +18,12 @@
       "item": "enhanced_mushrooms:glowshroom_boat"
     }
   },
+  "pattern": [
+    "A",
+    "B"
+  ],
   "result": {
     "item": "extraboats:glowshroom_furnace_boat"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

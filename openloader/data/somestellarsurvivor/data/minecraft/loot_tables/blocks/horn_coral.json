@@ -1,14 +1,6 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:horn_coral"
-        }
-      ],
       "conditions": [
         {
           "condition": "minecraft:match_tool",
@@ -23,7 +15,15 @@
             ]
           }
         }
-      ]
+      ],
+      "entries": [
+        {
+          "name": "minecraft:horn_coral",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

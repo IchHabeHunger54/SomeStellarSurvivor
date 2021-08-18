@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "iron_metal_button",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "tag": "minecraft:wooden_buttons"
@@ -11,10 +16,5 @@
   "result": {
     "item": "quark:iron_button"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "iron_metal_button"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

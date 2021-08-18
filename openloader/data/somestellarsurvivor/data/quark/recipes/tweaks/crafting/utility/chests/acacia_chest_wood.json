@@ -1,33 +1,33 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "acacia_chest",
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "tag": "minecraft:acacia_logs"
-    }
-  },
-  "result": {
-    "item": "quark:acacia_chest",
-    "count": 4
-  },
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "wood_to_chest_recipes"
+          "flag": "wood_to_chest_recipes",
+          "type": "quark:flag"
         },
         {
-          "type": "quark:flag",
-          "flag": "variant_chests"
+          "flag": "variant_chests",
+          "type": "quark:flag"
         }
       ]
     }
-  ]
-} 
+  ],
+  "group": "acacia_chest",
+  "key": {
+    "#": {
+      "tag": "minecraft:acacia_logs"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "quark:acacia_chest"
+  },
+  "type": "minecraft:crafting_shaped"
+}

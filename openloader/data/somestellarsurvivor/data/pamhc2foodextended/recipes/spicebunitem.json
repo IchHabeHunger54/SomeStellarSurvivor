@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:spices/groundnutmeg"
+    },
+    {
+      "tag": "forge:spices/groundcinnamon"
+    },
+    {
+      "item": "pamhc2foodextended:raisinsitem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:spicebunitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

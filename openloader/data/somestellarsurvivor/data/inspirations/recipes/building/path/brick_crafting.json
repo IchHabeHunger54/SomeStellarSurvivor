@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "building_module",
@@ -10,16 +9,17 @@
       "type": "inspirations:config"
     }
   ],
-  "pattern": [
-    "CC"
-  ],
   "key": {
     "C": {
       "item": "minecraft:bricks"
     }
   },
+  "pattern": [
+    "CC"
+  ],
   "result": {
-    "item": "inspirations:brick_path",
-    "count": 6
-  }
+    "count": 6,
+    "item": "inspirations:brick_path"
+  },
+  "type": "minecraft:crafting_shaped"
 }

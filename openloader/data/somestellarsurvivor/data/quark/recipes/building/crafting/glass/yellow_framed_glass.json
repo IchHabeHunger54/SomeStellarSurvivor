@@ -1,5 +1,15 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "framed_glass",
+          "type": "quark:flag"
+        }
+      ]
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:framed_glass"
@@ -30,18 +40,8 @@
     }
   ],
   "result": {
-    "item": "quark:yellow_framed_glass",
-    "count": 8
+    "count": 8,
+    "item": "quark:yellow_framed_glass"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "framed_glass"
-        }
-      ]
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

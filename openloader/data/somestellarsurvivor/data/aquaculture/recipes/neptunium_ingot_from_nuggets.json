@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
   "group": "neptunium_ingot",
-  "pattern": [
-    "###",
-    "###",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "aquaculture:neptunium_nugget"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
     "item": "aquaculture:neptunium_ingot"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

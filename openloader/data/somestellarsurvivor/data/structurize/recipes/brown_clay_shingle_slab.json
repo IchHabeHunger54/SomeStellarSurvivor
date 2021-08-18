@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:clay_shingle_slab"
@@ -30,7 +29,8 @@
     }
   ],
   "result": {
-    "item": "structurize:brown_clay_shingle_slab",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:brown_clay_shingle_slab"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

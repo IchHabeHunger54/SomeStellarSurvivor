@@ -1,20 +1,20 @@
 {
-  "type": "astralsorcery:block_transmutation",
+  "display": {
+    "count": 1,
+    "item": "minecraft:soul_sand"
+  },
   "input": [
     {
       "block": "minecraft:nether_wart_block",
       "display": {
-        "item": "minecraft:nether_wart_block",
-        "count": 1
+        "count": 1,
+        "item": "minecraft:nether_wart_block"
       }
     }
   ],
   "output": {
     "block": "minecraft:soul_sand"
   },
-  "display": {
-    "item": "minecraft:soul_sand",
-    "count": 1
-  },
-  "starlight": 200.0
+  "starlight": 200.0,
+  "type": "astralsorcery:block_transmutation"
 }

@@ -1,10 +1,10 @@
 {
-  "type": "astralsorcery:lightwell",
+  "color": -2236929,
   "input": {
     "item": "astralsorcery:rock_crystal"
   },
   "output": "astralsorcery:liquid_starlight",
   "productionMultiplier": 0.12,
   "shatterMultiplier": 3.5,
-  "color": -2236929
+  "type": "astralsorcery:lightwell"
 }

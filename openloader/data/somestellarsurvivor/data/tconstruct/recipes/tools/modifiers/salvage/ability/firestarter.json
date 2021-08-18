@@ -1,0 +1,27 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:firestarter",
+  "salvage": [
+    {
+      "chance": 0.2,
+      "item": "minecraft:flint"
+    },
+    {
+      "chance": 0.35,
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "base": {
+      "tag": "tconstruct:modifiable/durability"
+    },
+    "type": "mantle:without",
+    "without": {
+      "item": "tconstruct:flint_and_bronze"
+    }
+  },
+  "type": "tconstruct:modifier_salvage"
+}

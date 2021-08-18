@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:modifier",
   "inputs": [
     {
       "item": "minecraft:leather"
@@ -11,13 +10,14 @@
       "tag": "forge:slimeball/ichor"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:offhanded"
+  },
   "tools": {
     "tag": "tconstruct:modifiable"
   },
-  "result": {
-    "name": "tconstruct:offhanded",
-    "level": 1
-  },
-  "max_level": 1,
+  "type": "tconstruct:modifier",
   "upgrade_slots": 1
 }

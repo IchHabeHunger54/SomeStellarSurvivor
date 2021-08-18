@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:cornmeal"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:crops/onion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:hushpuppiesitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,14 +1,14 @@
 {
   "condition": {
+    "type": "forge:not",
     "value": {
       "tag": "forge:ingots/bronze",
       "type": "forge:tag_empty"
-    },
-    "type": "forge:not"
+    }
   },
   "craftable": false,
-  "tier": 3,
+  "hidden": false,
   "sortOrder": 1,
   "textColor": "#D58F36",
-  "hidden": false
+  "tier": 3
 }

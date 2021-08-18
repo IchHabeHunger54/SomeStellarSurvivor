@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:crops/lettuce"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    },
+    {
+      "tag": "forge:spices/blackpepper"
+    },
+    {
+      "tag": "forge:condiments/saladdressing"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:ceasarsaladitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "pamhc2crops:tomatilloitem"
@@ -7,5 +6,6 @@
   ],
   "result": {
     "item": "pamhc2crops:tomatilloseeditem"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

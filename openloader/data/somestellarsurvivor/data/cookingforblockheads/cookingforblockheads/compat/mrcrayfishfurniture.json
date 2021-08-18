@@ -1,5 +1,4 @@
 {
-  "modid": "cfm",
   "kitchenConnectors": [
     "cfm:kitchen_sink",
     "cfm:oak_kitchen_counter",
@@ -33,6 +32,6 @@
   ],
   "kitchenItemProviders": [
     "cfm:kitchen_drawer"
-  ]
+  ],
+  "modid": "cfm"
 }
-  

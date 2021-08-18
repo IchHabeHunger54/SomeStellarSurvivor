@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -10,20 +9,20 @@
       "type": "inspirations:config"
     },
     {
+      "type": "forge:not",
       "value": {
         "prop": "cauldron_ice",
         "type": "inspirations:config"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "input": {
+    "contents": {
+      "name": "minecraft:water",
+      "type": "inspirations:fluid"
+    },
     "item": {
       "item": "minecraft:ice"
-    },
-    "contents": {
-      "type": "inspirations:fluid",
-      "name": "minecraft:water"
     },
     "level": {
       "max": 11
@@ -32,12 +31,13 @@
   },
   "output": {
     "contents": {
-      "type": "inspirations:fluid",
-      "name": "minecraft:water"
+      "name": "minecraft:water",
+      "type": "inspirations:fluid"
     },
     "level": {
       "set": 12
     }
   },
-  "sound": "minecraft:item.bucket.fill"
+  "sound": "minecraft:item.bucket.fill",
+  "type": "inspirations:cauldron"
 }

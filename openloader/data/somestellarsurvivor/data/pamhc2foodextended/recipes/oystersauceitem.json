@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:rawfish"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:oystersauceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

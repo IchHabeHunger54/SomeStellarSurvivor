@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "tools_module",
@@ -10,9 +9,6 @@
       "type": "inspirations:config"
     }
   ],
-  "pattern": [
-    "IN"
-  ],
   "key": {
     "I": {
       "tag": "forge:ingots/iron"
@@ -21,7 +17,11 @@
       "tag": "forge:nuggets/iron"
     }
   },
+  "pattern": [
+    "IN"
+  ],
   "result": {
     "item": "inspirations:key"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

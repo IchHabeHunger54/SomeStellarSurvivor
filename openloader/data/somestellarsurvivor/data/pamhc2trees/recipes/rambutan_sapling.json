@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "pamhc2trees:rambutanitem"
@@ -31,5 +30,6 @@
   ],
   "result": {
     "item": "pamhc2trees:rambutan_sapling"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

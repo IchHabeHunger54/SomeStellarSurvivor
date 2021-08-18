@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:condiments/hoisinsauce"
+    },
+    {
+      "item": "pamhc2foodextended:fivespiceitem"
+    },
+    {
+      "tag": "forge:honey"
+    },
+    {
+      "tag": "forge:condiments/soysauce"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:charsiuitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

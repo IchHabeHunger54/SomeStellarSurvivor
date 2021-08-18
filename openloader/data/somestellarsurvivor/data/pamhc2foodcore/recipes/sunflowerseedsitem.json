@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:sunflower"
@@ -9,7 +8,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodcore:sunflowerseedsitem",
-    "count": 2
-  }
+    "count": 2,
+    "item": "pamhc2foodcore:sunflowerseedsitem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

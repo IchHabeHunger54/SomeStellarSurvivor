@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "building_module",
@@ -10,18 +9,19 @@
       "type": "inspirations:config"
     }
   ],
-  "pattern": [
-    "V",
-    "V",
-    "V"
-  ],
   "key": {
     "V": {
       "item": "minecraft:vine"
     }
   },
+  "pattern": [
+    "V",
+    "V",
+    "V"
+  ],
   "result": {
-    "item": "inspirations:vine",
-    "count": 3
-  }
+    "count": 3,
+    "item": "inspirations:vine"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron_transform",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,14 +10,15 @@
     }
   ],
   "input": {
-    "type": "inspirations:custom",
-    "name": "inspirations:wet_ice"
+    "name": "inspirations:wet_ice",
+    "type": "inspirations:custom"
   },
-  "temperature": "freezing",
   "output": {
-    "type": "inspirations:custom",
-    "name": "minecraft:packed_ice"
+    "name": "minecraft:packed_ice",
+    "type": "inspirations:custom"
   },
+  "sound": "minecraft:block.glass.place",
+  "temperature": "freezing",
   "time": 2000,
-  "sound": "minecraft:block.glass.place"
+  "type": "inspirations:cauldron_transform"
 }

@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "cobblestone_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:mossy_cobblestone_bricks"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:mossy_cobblestone_bricks_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:mossy_cobblestone_bricks_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "cobblestone_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

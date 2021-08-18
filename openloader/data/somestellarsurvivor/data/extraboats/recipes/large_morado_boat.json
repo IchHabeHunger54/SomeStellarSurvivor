@@ -1,16 +1,11 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "atmospheric"
+      "modid": "atmospheric",
+      "type": "forge:mod_loaded"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "large_boat",
-  "pattern": [
-    "#W#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "atmospheric:morado_planks"
@@ -19,7 +14,12 @@
       "item": "atmospheric:morado_boat"
     }
   },
+  "pattern": [
+    "#W#",
+    "###"
+  ],
   "result": {
     "item": "extraboats:large_morado_boat"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,9 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "P",
-    "S"
-  ],
   "key": {
     "P": {
       "tag": "forge:ingots/pig_iron"
@@ -12,7 +7,12 @@
       "item": "minecraft:saddle"
     }
   },
+  "pattern": [
+    "P",
+    "S"
+  ],
   "result": {
     "item": "tconstruct:piggy_backpack"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

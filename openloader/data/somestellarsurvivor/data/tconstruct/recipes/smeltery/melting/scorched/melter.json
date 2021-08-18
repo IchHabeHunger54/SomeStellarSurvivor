@@ -1,18 +1,18 @@
 {
-  "type": "tconstruct:melting",
+  "byproducts": [
+    {
+      "amount": 720,
+      "fluid": "tconstruct:molten_quartz"
+    }
+  ],
   "ingredient": {
     "item": "tconstruct:scorched_alloyer"
   },
   "result": {
-    "fluid": "tconstruct:scorched_stone",
-    "amount": 1296
+    "amount": 1296,
+    "fluid": "tconstruct:scorched_stone"
   },
   "temperature": 500,
   "time": 175,
-  "byproducts": [
-    {
-      "fluid": "tconstruct:molten_quartz",
-      "amount": 720
-    }
-  ]
+  "type": "tconstruct:melting"
 }

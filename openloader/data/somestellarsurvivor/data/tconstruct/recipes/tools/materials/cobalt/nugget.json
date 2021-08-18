@@ -1,9 +1,9 @@
 {
-  "type": "tconstruct:material",
   "ingredient": {
     "tag": "forge:nuggets/cobalt"
   },
-  "value": 1,
+  "material": "tconstruct:cobalt",
   "needed": 9,
-  "material": "tconstruct:cobalt"
+  "type": "tconstruct:material",
+  "value": 1
 }

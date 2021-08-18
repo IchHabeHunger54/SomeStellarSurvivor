@@ -1,11 +1,11 @@
 {
-  "type": "toughasnails:water_purifying",
   "ingredient": {
     "item": "minecraft:potion",
     "nbt": "{Potion:\"minecraft:water\"}"
   },
+  "purifytime": 200,
   "result": {
     "item": "toughasnails:purified_water_bottle"
   },
-  "purifytime": 200
+  "type": "toughasnails:water_purifying"
 }

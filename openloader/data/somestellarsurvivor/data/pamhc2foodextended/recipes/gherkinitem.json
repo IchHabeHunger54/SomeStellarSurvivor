@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:vinegar"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    },
+    {
+      "tag": "forge:crops/cucumber"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:gherkinitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,11 +1,11 @@
 {
-  "type": "tree",
+  "config": {
+    "check_bounds": false,
+    "extend_base": 2
+  },
   "name": "terraforged:acacia_bush",
   "paths": [
     "terraforged:trees/acacia/bush"
   ],
-  "config": {
-    "extend_base": 2,
-    "check_bounds": false
-  }
+  "type": "tree"
 }

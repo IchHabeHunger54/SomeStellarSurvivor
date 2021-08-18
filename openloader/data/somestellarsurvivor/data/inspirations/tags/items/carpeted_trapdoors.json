@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "inspirations:white_carpeted_trapdoor",
     "inspirations:orange_carpeted_trapdoor",

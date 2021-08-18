@@ -1,0 +1,20 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:oak_plate"
+    },
+    "B": {
+      "item": "minecraft:oak_fence"
+    }
+  },
+  "pattern": [
+    "  A",
+    " AA",
+    " BB"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:oak_chair"
+  },
+  "type": "minecraft:crafting_shaped"
+}

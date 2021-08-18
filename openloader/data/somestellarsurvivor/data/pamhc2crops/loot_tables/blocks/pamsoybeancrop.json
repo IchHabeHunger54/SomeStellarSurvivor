@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:block",
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ],
   "pools": [
     {
-      "rolls": 1.0,
-      "name": "pamsoybeancrop0",
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
               "conditions": [
                 {
-                  "condition": "minecraft:block_state_property",
                   "block": "pamhc2crops:pamsoybeancrop",
+                  "condition": "minecraft:block_state_property",
                   "properties": {
                     "age": "7"
                   }
@@ -21,59 +21,59 @@
               ],
               "functions": [
                 {
-                  "function": "minecraft:apply_bonus",
                   "enchantment": "minecraft:fortune",
                   "formula": "minecraft:binomial_with_bonus_count",
+                  "function": "minecraft:apply_bonus",
                   "parameters": {
                     "extra": 3,
                     "probability": 0.5714286
                   }
                 }
               ],
-              "name": "pamhc2crops:soybeanitem"
+              "name": "pamhc2crops:soybeanitem",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
-              "name": "pamhc2crops:soybeanitem"
+              "name": "pamhc2crops:soybeanitem",
+              "type": "minecraft:item"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
-      ]
+      ],
+      "name": "pamsoybeancrop0",
+      "rolls": 1.0
     },
     {
-      "rolls": 1.0,
-      "name": "pamsoybeancrop1",
+      "conditions": [
+        {
+          "block": "pamhc2crops:pamsoybeancrop",
+          "condition": "minecraft:block_state_property",
+          "properties": {
+            "age": "7"
+          }
+        }
+      ],
       "entries": [
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:apply_bonus",
               "enchantment": "minecraft:fortune",
               "formula": "minecraft:binomial_with_bonus_count",
+              "function": "minecraft:apply_bonus",
               "parameters": {
                 "extra": 3,
                 "probability": 0.5714286
               }
             }
           ],
-          "name": "pamhc2crops:soybeanitem"
+          "name": "pamhc2crops:soybeanitem",
+          "type": "minecraft:item"
         }
       ],
-      "conditions": [
-        {
-          "condition": "minecraft:block_state_property",
-          "block": "pamhc2crops:pamsoybeancrop",
-          "properties": {
-            "age": "7"
-          }
-        }
-      ]
+      "name": "pamsoybeancrop1",
+      "rolls": 1.0
     }
   ],
-  "functions": [
-    {
-      "function": "minecraft:explosion_decay"
-    }
-  ]
+  "type": "minecraft:block"
 }

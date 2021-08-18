@@ -1,17 +1,17 @@
 {
+  "effects": [
+    "Maximum of 1 level",
+    "Requires 1 ability slot"
+  ],
   "modifier_id": "tconstruct:tilling",
+  "more_text_space": true,
   "text": [
     {
       "text": "Allows the tool to till dirt, similarly to kamas or scythes. Tools will use their normal mining area for tilling."
     },
     {
-      "text": "Triggers before the tool's native pathing or stripping if present.",
-      "paragraph": true
+      "paragraph": true,
+      "text": "Triggers before the tool's native pathing or stripping if present."
     }
-  ],
-  "more_text_space": true,
-  "effects": [
-    "Maximum of 1 level",
-    "Requires 1 ability slot"
   ]
 }

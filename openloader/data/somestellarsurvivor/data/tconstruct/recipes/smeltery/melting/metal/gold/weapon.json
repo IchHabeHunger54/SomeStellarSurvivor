@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:damagable_melting",
   "ingredient": [
     {
       "item": "minecraft:golden_sword"
@@ -9,9 +8,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_gold",
-    "amount": 288
+    "amount": 288,
+    "fluid": "tconstruct:molten_gold"
   },
   "temperature": 700,
-  "time": 80
+  "time": 80,
+  "type": "tconstruct:damagable_melting"
 }

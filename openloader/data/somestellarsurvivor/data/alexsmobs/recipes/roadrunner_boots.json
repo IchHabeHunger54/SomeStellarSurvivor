@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "F F",
-    "F F",
-    "SBS"
-  ],
   "key": {
-    "F": {
-      "item": "alexsmobs:roadrunner_feather"
-    },
     "B": {
       "item": "minecraft:leather_boots"
+    },
+    "F": {
+      "item": "alexsmobs:roadrunner_feather"
     },
     "S": {
       "item": "minecraft:chiseled_sandstone"
     }
   },
+  "pattern": [
+    "F F",
+    "F F",
+    "SBS"
+  ],
   "result": {
-    "item": "alexsmobs:roadrunner_boots",
-    "count": 1
-  }
+    "count": 1,
+    "item": "alexsmobs:roadrunner_boots"
+  },
+  "type": "minecraft:crafting_shaped"
 }

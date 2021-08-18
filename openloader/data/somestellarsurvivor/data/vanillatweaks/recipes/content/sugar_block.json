@@ -1,22 +1,22 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:blocks",
-      "object": "storage_blocks"
+      "object": "storage_blocks",
+      "type": "vanillatweaks:blocks"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "FFF",
-    "FFF",
-    "FFF"
   ],
   "key": {
     "F": {
       "item": "minecraft:sugar"
     }
   },
+  "pattern": [
+    "FFF",
+    "FFF",
+    "FFF"
+  ],
   "result": {
     "item": "vanillatweaks:sugarblock"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

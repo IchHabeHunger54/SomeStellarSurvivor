@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "buzzier_bees:candle",
     "buzzier_bees:soul_candle",

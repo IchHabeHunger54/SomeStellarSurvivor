@@ -1,25 +1,25 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "WSW",
-    "GCG",
-    "GGG"
-  ],
   "key": {
-    "W": {
-      "tag": "minecraft:planks"
-    },
-    "S": {
-      "tag": "minecraft:sand"
-    },
     "C": {
       "item": "minecraft:charcoal"
     },
     "G": {
       "item": "minecraft:glass"
+    },
+    "S": {
+      "tag": "minecraft:sand"
+    },
+    "W": {
+      "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "WSW",
+    "GCG",
+    "GGG"
+  ],
   "result": {
     "item": "toughasnails:water_purifier"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "P": {
+      "item": "minecraft:birch_planks"
+    }
+  },
   "pattern": [
     "PPP",
     "HHH",
     "PPP"
   ],
-  "key": {
-    "P": {
-      "item": "minecraft:birch_planks"
-    },
-    "H": {
-      "item": "minecraft:honeycomb"
-    }
-  },
   "result": {
     "item": "buzzier_bees:birch_beehive"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "flag": "thatch",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:wheat"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:thatch",
-    "count": 4
+    "count": 4,
+    "item": "quark:thatch"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "thatch"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

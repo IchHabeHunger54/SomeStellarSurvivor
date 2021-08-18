@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#structurize:timber_frames/gray_terracotta/oak",
     "#structurize:timber_frames/gray_terracotta/spruce",

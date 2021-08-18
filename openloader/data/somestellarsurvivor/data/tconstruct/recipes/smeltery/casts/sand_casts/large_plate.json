@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:molding_table",
   "material": {
     "item": "tconstruct:blank_sand_cast"
   },
@@ -7,5 +6,6 @@
     "item": "tconstruct:large_plate",
     "type": "tconstruct:material"
   },
-  "result": "tconstruct:large_plate_sand_cast"
+  "result": "tconstruct:large_plate_sand_cast",
+  "type": "tconstruct:molding_table"
 }

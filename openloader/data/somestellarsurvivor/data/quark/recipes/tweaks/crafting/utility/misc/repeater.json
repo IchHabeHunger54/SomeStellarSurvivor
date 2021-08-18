@@ -1,29 +1,29 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "repeater_and_torches",
+      "type": "quark:flag"
+    }
+  ],
   "group": "repeater",
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+    "I": {
+      "item": "minecraft:stone"
+    },
+    "X": {
+      "item": "minecraft:redstone"
+    }
+  },
   "pattern": [
     "X X",
     "#X#",
     "III"
   ],
-  "key": {
-    "#": {
-      "tag": "forge:rods/wooden"
-    },
-    "X": {
-      "item": "minecraft:redstone"
-    },
-    "I": {
-      "item": "minecraft:stone"
-    }
-  },
   "result": {
     "item": "minecraft:repeater"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "repeater_and_torches"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

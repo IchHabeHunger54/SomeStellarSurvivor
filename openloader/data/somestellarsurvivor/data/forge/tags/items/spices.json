@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:spices/ginger",
     "#forge:spices/mustardseeds",

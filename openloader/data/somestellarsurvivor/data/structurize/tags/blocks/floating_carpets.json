@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "structurize:white_floating_carpet",
     "structurize:orange_floating_carpet",

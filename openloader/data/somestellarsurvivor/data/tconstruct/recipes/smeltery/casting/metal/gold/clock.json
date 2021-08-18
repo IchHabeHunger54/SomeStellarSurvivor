@@ -1,13 +1,13 @@
 {
-  "type": "tconstruct:casting_table",
   "cast": {
     "item": "minecraft:redstone"
   },
   "cast_consumed": true,
+  "cooling_time": 114,
   "fluid": {
-    "tag": "tconstruct:molten_gold",
-    "amount": 576
+    "amount": 576,
+    "tag": "tconstruct:molten_gold"
   },
   "result": "minecraft:clock",
-  "cooling_time": 114
+  "type": "tconstruct:casting_table"
 }

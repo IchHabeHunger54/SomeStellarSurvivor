@@ -1,125 +1,206 @@
 {
-  "entity.stoneling.meep": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.meep",
+  "ambient.chatter": {
+    "category": "records",
     "sounds": [
-      "quark:entity/stoneling/meep"
-    ]
+      "quark:ambient/chatter"
+    ],
+    "subtitle": "quark.subtitles.ambient.chatter"
   },
-  "entity.stoneling.purr": {
+  "ambient.clock": {
+    "category": "records",
+    "sounds": [
+      "quark:ambient/clock"
+    ],
+    "subtitle": "quark.subtitles.ambient.clock"
+  },
+  "ambient.crickets": {
+    "category": "records",
+    "sounds": [
+      "quark:ambient/crickets"
+    ],
+    "subtitle": "quark.subtitles.ambient.crickets"
+  },
+  "ambient.drips": {
+    "category": "records",
+    "sounds": [
+      "quark:ambient/drips"
+    ],
+    "subtitle": "quark.subtitles.ambient.drips"
+  },
+  "ambient.fire": {
+    "category": "records",
+    "sounds": [
+      "quark:ambient/fire"
+    ],
+    "subtitle": "quark.subtitles.ambient.fire"
+  },
+  "ambient.ocean": {
+    "category": "records",
+    "sounds": [
+      "quark:ambient/ocean"
+    ],
+    "subtitle": "quark.subtitles.ambient.ocean"
+  },
+  "ambient.rain": {
+    "category": "records",
+    "sounds": [
+      "quark:ambient/rain"
+    ],
+    "subtitle": "quark.subtitles.ambient.rain"
+  },
+  "ambient.wind": {
+    "category": "records",
+    "sounds": [
+      "quark:ambient/wind"
+    ],
+    "subtitle": "quark.subtitles.ambient.wind"
+  },
+  "block.monster_box.growl": {
+    "category": "blocks",
+    "sounds": [
+      "quark:block/monster_box"
+    ],
+    "subtitle": "quark.subtitles.growl"
+  },
+  "block.pipe.pickup": {
+    "category": "blocks",
+    "sounds": [
+      "quark:block/pipe/pickup"
+    ],
+    "subtitle": "quark.subtitles.pipe_pickup"
+  },
+  "block.pipe.pickup.lenny": {
+    "category": "blocks",
+    "sounds": [
+      "quark:block/pipe/pickup"
+    ],
+    "subtitle": "quark.subtitles.pipe_pickup_lenny"
+  },
+  "block.pipe.shoot": {
+    "category": "blocks",
+    "sounds": [
+      "quark:block/pipe/shoot"
+    ],
+    "subtitle": "quark.subtitles.pipe_shoot"
+  },
+  "block.pipe.shoot.lenny": {
+    "category": "blocks",
+    "sounds": [
+      "quark:block/pipe/shoot"
+    ],
+    "subtitle": "quark.subtitles.pipe_shoot_lenny"
+  },
+  "entity.crab.die": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.purr",
+    "sounds": [],
+    "subtitle": "quark.subtitles.crab_die"
+  },
+  "entity.crab.hurt": {
+    "category": "neutral",
+    "sounds": [],
+    "subtitle": "quark.subtitles.crab_hurt"
+  },
+  "entity.crab.idle": {
+    "category": "neutral",
+    "sounds": [],
+    "subtitle": "quark.subtitles.crab_scuttle"
+  },
+  "entity.frog.die": {
+    "category": "neutral",
     "sounds": [
       {
-        "name": "quark:entity/stoneling/squeek",
+        "name": "quark:entity/frog/die",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "quark.subtitles.frog_die"
+  },
+  "entity.frog.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "quark:entity/frog/hurt1",
+        "volume": 0.5
+      },
+      {
+        "name": "quark:entity/frog/hurt2",
+        "volume": 0.5
+      },
+      {
+        "name": "quark:entity/frog/hurt3",
+        "volume": 0.5
+      },
+      {
+        "name": "quark:entity/frog/hurt4",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "quark.subtitles.frog_hurt"
+  },
+  "entity.frog.idle": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "quark:entity/frog/idle1",
+        "volume": 0.25
+      },
+      {
+        "name": "quark:entity/frog/idle2",
+        "volume": 0.25
+      },
+      {
+        "name": "quark:entity/frog/idle3",
+        "volume": 0.25
+      },
+      {
+        "name": "quark:entity/frog/idle4",
         "volume": 0.25
       }
-    ]
+    ],
+    "subtitle": "quark.subtitles.frog_idle"
   },
-  "entity.stoneling.give": {
+  "entity.frog.jump": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.give_stoneling",
-    "sounds": [
-      "minecraft:entity/itemframe/add_item1",
-      "minecraft:entity/itemframe/add_item2",
-      "minecraft:entity/itemframe/add_item3",
-      "minecraft:entity/itemframe/add_item4"
-    ]
-  },
-  "entity.stoneling.take": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.take_stoneling",
-    "sounds": [
-      "minecraft:entity/itemframe/remove_item1",
-      "minecraft:entity/itemframe/remove_item2",
-      "minecraft:entity/itemframe/remove_item3",
-      "minecraft:entity/itemframe/remove_item4"
-    ]
-  },
-  "entity.stoneling.eat": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.feed_stoneling",
     "sounds": [
       {
-        "name": "minecraft:dig/stone1",
-        "pitch": 0.8
+        "name": "minecraft:mob/rabbit/hop1",
+        "volume": 0.1
       },
       {
-        "name": "minecraft:dig/stone2",
-        "pitch": 0.8
+        "name": "minecraft:mob/rabbit/hop2",
+        "volume": 0.1
       },
       {
-        "name": "minecraft:dig/stone3",
-        "pitch": 0.8
+        "name": "minecraft:mob/rabbit/hop3",
+        "volume": 0.1
       },
       {
-        "name": "minecraft:dig/stone4",
-        "pitch": 0.8
+        "name": "minecraft:mob/rabbit/hop4",
+        "volume": 0.1
       }
-    ]
+    ],
+    "subtitle": "quark.subtitles.frog_jump"
   },
-  "entity.stoneling.cry": {
+  "entity.frog.wednesday": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.hurt_stoneling",
     "sounds": [
-      "quark:entity/stoneling/hurt"
-    ]
-  },
-  "entity.stoneling.die": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.kill_stoneling",
-    "sounds": [
-      "quark:entity/stoneling/die"
-    ]
-  },
-  "entity.stoneling.michael": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.michael_here",
-    "sounds": [
-      "quark:entity/stoneling/vsauce1",
-      "quark:entity/stoneling/vsauce2",
-      "quark:entity/stoneling/vsauce3",
-      "quark:entity/stoneling/vsauce4",
-      "quark:entity/stoneling/vsauce5",
-      "quark:entity/stoneling/vsauce6"
-    ]
-  },
-  "entity.pickarang.throw": {
-    "category": "players",
-    "subtitle": "quark.subtitles.throw_pickarang",
-    "sounds": [
-      {
-        "name": "quark:entity/pickarang/throw",
-        "pitch": 1.2,
-        "volume": 2
-      }
-    ]
+      "quark:entity/frog/wednesday"
+    ],
+    "subtitle": "quark.subtitles.hump_day"
   },
   "entity.pickarang.clank": {
     "category": "players",
-    "subtitle": "quark.subtitles.clank_pickarang",
     "sounds": [
       {
         "name": "minecraft:random/anvil_land",
         "pitch": 2.0,
         "volume": 0.5
       }
-    ]
-  },
-  "entity.pickarang.spark": {
-    "category": "players",
-    "subtitle": "quark.subtitles.spark_pickarang",
-    "sounds": [
-      {
-        "name": "minecraft:random/fizz",
-        "pitch": 0.5,
-        "volume": 0.5
-      }
-    ]
+    ],
+    "subtitle": "quark.subtitles.clank_pickarang"
   },
   "entity.pickarang.pickup": {
     "category": "players",
-    "subtitle": "quark.subtitles.pickup_pickarang",
     "sounds": [
       {
         "name": "minecraft:random/pop",
@@ -141,209 +222,128 @@
         "pitch": 0.75,
         "volume": 0.5
       }
-    ]
+    ],
+    "subtitle": "quark.subtitles.pickup_pickarang"
   },
-  "entity.frog.wednesday": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.hump_day",
-    "sounds": [
-      "quark:entity/frog/wednesday"
-    ]
-  },
-  "entity.frog.die": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.frog_die",
+  "entity.pickarang.spark": {
+    "category": "players",
     "sounds": [
       {
-        "name": "quark:entity/frog/die",
+        "name": "minecraft:random/fizz",
+        "pitch": 0.5,
         "volume": 0.5
       }
-    ]
+    ],
+    "subtitle": "quark.subtitles.spark_pickarang"
   },
-  "entity.frog.hurt": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.frog_hurt",
+  "entity.pickarang.throw": {
+    "category": "players",
     "sounds": [
       {
-        "name": "quark:entity/frog/hurt1",
-        "volume": 0.5
-      },
-      {
-        "name": "quark:entity/frog/hurt2",
-        "volume": 0.5
-      },
-      {
-        "name": "quark:entity/frog/hurt3",
-        "volume": 0.5
-      },
-      {
-        "name": "quark:entity/frog/hurt4",
-        "volume": 0.5
+        "name": "quark:entity/pickarang/throw",
+        "pitch": 1.2,
+        "volume": 2
       }
-    ]
+    ],
+    "subtitle": "quark.subtitles.throw_pickarang"
   },
-  "entity.frog.idle": {
+  "entity.stoneling.cry": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.frog_idle",
+    "sounds": [
+      "quark:entity/stoneling/hurt"
+    ],
+    "subtitle": "quark.subtitles.hurt_stoneling"
+  },
+  "entity.stoneling.die": {
+    "category": "neutral",
+    "sounds": [
+      "quark:entity/stoneling/die"
+    ],
+    "subtitle": "quark.subtitles.kill_stoneling"
+  },
+  "entity.stoneling.eat": {
+    "category": "neutral",
     "sounds": [
       {
-        "name": "quark:entity/frog/idle1",
-        "volume": 0.25
+        "name": "minecraft:dig/stone1",
+        "pitch": 0.8
       },
       {
-        "name": "quark:entity/frog/idle2",
-        "volume": 0.25
+        "name": "minecraft:dig/stone2",
+        "pitch": 0.8
       },
       {
-        "name": "quark:entity/frog/idle3",
-        "volume": 0.25
+        "name": "minecraft:dig/stone3",
+        "pitch": 0.8
       },
       {
-        "name": "quark:entity/frog/idle4",
+        "name": "minecraft:dig/stone4",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "quark.subtitles.feed_stoneling"
+  },
+  "entity.stoneling.give": {
+    "category": "neutral",
+    "sounds": [
+      "minecraft:entity/itemframe/add_item1",
+      "minecraft:entity/itemframe/add_item2",
+      "minecraft:entity/itemframe/add_item3",
+      "minecraft:entity/itemframe/add_item4"
+    ],
+    "subtitle": "quark.subtitles.give_stoneling"
+  },
+  "entity.stoneling.meep": {
+    "category": "neutral",
+    "sounds": [
+      "quark:entity/stoneling/meep"
+    ],
+    "subtitle": "quark.subtitles.meep"
+  },
+  "entity.stoneling.michael": {
+    "category": "neutral",
+    "sounds": [
+      "quark:entity/stoneling/vsauce1",
+      "quark:entity/stoneling/vsauce2",
+      "quark:entity/stoneling/vsauce3",
+      "quark:entity/stoneling/vsauce4",
+      "quark:entity/stoneling/vsauce5",
+      "quark:entity/stoneling/vsauce6"
+    ],
+    "subtitle": "quark.subtitles.michael_here"
+  },
+  "entity.stoneling.purr": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "quark:entity/stoneling/squeek",
         "volume": 0.25
       }
-    ]
+    ],
+    "subtitle": "quark.subtitles.purr"
   },
-  "entity.frog.jump": {
+  "entity.stoneling.take": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.frog_jump",
     "sounds": [
-      {
-        "name": "minecraft:mob/rabbit/hop1",
-        "volume": 0.1
-      },
-      {
-        "name": "minecraft:mob/rabbit/hop2",
-        "volume": 0.1
-      },
-      {
-        "name": "minecraft:mob/rabbit/hop3",
-        "volume": 0.1
-      },
-      {
-        "name": "minecraft:mob/rabbit/hop4",
-        "volume": 0.1
-      }
-    ]
-  },
-  "entity.crab.idle": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.crab_scuttle",
-    "sounds": []
-  },
-  "entity.crab.hurt": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.crab_hurt",
-    "sounds": []
-  },
-  "entity.crab.die": {
-    "category": "neutral",
-    "subtitle": "quark.subtitles.crab_die",
-    "sounds": []
-  },
-  "block.monster_box.growl": {
-    "category": "blocks",
-    "subtitle": "quark.subtitles.growl",
-    "sounds": [
-      "quark:block/monster_box"
-    ]
-  },
-  "block.pipe.shoot": {
-    "category": "blocks",
-    "subtitle": "quark.subtitles.pipe_shoot",
-    "sounds": [
-      "quark:block/pipe/shoot"
-    ]
-  },
-  "block.pipe.pickup": {
-    "category": "blocks",
-    "subtitle": "quark.subtitles.pipe_pickup",
-    "sounds": [
-      "quark:block/pipe/pickup"
-    ]
-  },
-  "block.pipe.shoot.lenny": {
-    "category": "blocks",
-    "subtitle": "quark.subtitles.pipe_shoot_lenny",
-    "sounds": [
-      "quark:block/pipe/shoot"
-    ]
-  },
-  "block.pipe.pickup.lenny": {
-    "category": "blocks",
-    "subtitle": "quark.subtitles.pipe_pickup_lenny",
-    "sounds": [
-      "quark:block/pipe/pickup"
-    ]
+      "minecraft:entity/itemframe/remove_item1",
+      "minecraft:entity/itemframe/remove_item2",
+      "minecraft:entity/itemframe/remove_item3",
+      "minecraft:entity/itemframe/remove_item4"
+    ],
+    "subtitle": "quark.subtitles.take_stoneling"
   },
   "item.camera.shutter": {
     "category": "players",
-    "subtitle": "quark.subtitles.camera_shutter",
     "sounds": [
       "quark:item/camera"
-    ]
+    ],
+    "subtitle": "quark.subtitles.camera_shutter"
   },
   "item.soul_powder.spawn": {
     "category": "players",
-    "subtitle": "quark.subtitles.soulpowder_scream",
     "sounds": [
       "quark:item/soulpowder_scream"
-    ]
-  },
-  "ambient.drips": {
-    "category": "records",
-    "subtitle": "quark.subtitles.ambient.drips",
-    "sounds": [
-      "quark:ambient/drips"
-    ]
-  },
-  "ambient.ocean": {
-    "category": "records",
-    "subtitle": "quark.subtitles.ambient.ocean",
-    "sounds": [
-      "quark:ambient/ocean"
-    ]
-  },
-  "ambient.rain": {
-    "category": "records",
-    "subtitle": "quark.subtitles.ambient.rain",
-    "sounds": [
-      "quark:ambient/rain"
-    ]
-  },
-  "ambient.wind": {
-    "category": "records",
-    "subtitle": "quark.subtitles.ambient.wind",
-    "sounds": [
-      "quark:ambient/wind"
-    ]
-  },
-  "ambient.fire": {
-    "category": "records",
-    "subtitle": "quark.subtitles.ambient.fire",
-    "sounds": [
-      "quark:ambient/fire"
-    ]
-  },
-  "ambient.clock": {
-    "category": "records",
-    "subtitle": "quark.subtitles.ambient.clock",
-    "sounds": [
-      "quark:ambient/clock"
-    ]
-  },
-  "ambient.crickets": {
-    "category": "records",
-    "subtitle": "quark.subtitles.ambient.crickets",
-    "sounds": [
-      "quark:ambient/crickets"
-    ]
-  },
-  "ambient.chatter": {
-    "category": "records",
-    "subtitle": "quark.subtitles.ambient.chatter",
-    "sounds": [
-      "quark:ambient/chatter"
-    ]
+    ],
+    "subtitle": "quark.subtitles.soulpowder_scream"
   }
 }

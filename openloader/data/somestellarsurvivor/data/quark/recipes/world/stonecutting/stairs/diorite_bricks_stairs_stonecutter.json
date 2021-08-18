@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "more_stone_variants",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 1,
   "ingredient": {
     "item": "quark:diorite_bricks"
   },
   "result": "quark:diorite_bricks_stairs",
-  "count": 1,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "more_stone_variants"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "structurize:sceptergold"
+    },
+    "T": {
+      "item": "minecraft:red_dye"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
   "pattern": [
     "XSX",
     "XTX",
     "XXX"
   ],
-  "key": {
-    "X": {
-      "tag": "minecraft:planks"
-    },
-    "T": {
-      "item": "minecraft:red_dye"
-    },
-    "S": {
-      "item": "structurize:sceptergold"
-    }
-  },
   "result": {
     "item": "minecolonies:blockhutdyer"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

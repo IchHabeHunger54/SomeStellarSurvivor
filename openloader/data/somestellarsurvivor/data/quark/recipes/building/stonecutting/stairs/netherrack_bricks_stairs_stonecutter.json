@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "netherrack_bricks",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 1,
   "ingredient": {
     "item": "quark:netherrack_bricks"
   },
   "result": "quark:netherrack_bricks_stairs",
-  "count": 1,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "netherrack_bricks"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

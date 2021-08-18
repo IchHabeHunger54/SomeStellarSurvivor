@@ -1,0 +1,15 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:jungle_dresser_4"
+    }
+  },
+  "pattern": [
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:jungle_dresser_5"
+  },
+  "type": "minecraft:crafting_shaped"
+}

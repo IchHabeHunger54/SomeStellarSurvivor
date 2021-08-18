@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:modifier",
+  "ability_slots": 1,
   "inputs": [
     {
       "item": "minecraft:piston"
@@ -17,12 +17,12 @@
       "tag": "forge:slimeball/ender"
     }
   ],
+  "result": {
+    "level": 1,
+    "name": "tconstruct:reach"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/melee_or_harvest"
   },
-  "result": {
-    "name": "tconstruct:reach",
-    "level": 1
-  },
-  "ability_slots": 1
+  "type": "tconstruct:modifier"
 }

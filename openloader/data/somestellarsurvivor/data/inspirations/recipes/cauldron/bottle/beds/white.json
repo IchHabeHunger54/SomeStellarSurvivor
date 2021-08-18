@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -21,5 +20,6 @@
   ],
   "result": {
     "item": "minecraft:white_bed"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

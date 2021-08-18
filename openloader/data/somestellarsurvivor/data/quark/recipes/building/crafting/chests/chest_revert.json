@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "chest_reversion",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "tag": "quark:revertable_chests"
@@ -8,10 +13,5 @@
   "result": {
     "item": "minecraft:chest"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "chest_reversion"
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,6 +1,6 @@
 {
-    "title": "Tinker's Gadgetry",
-    "subtitle": "by Melvin",
-    "drawSectionListText": true,
-    "coverColor": 0x42BAC2
+  "coverColor": 0x42BAC2,
+  "drawSectionListText": true,
+  "subtitle": "by Melvin",
+  "title": "Tinker's Gadgetry"
 }

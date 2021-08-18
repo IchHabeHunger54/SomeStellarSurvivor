@@ -1,5 +1,4 @@
 {
-  "modid": "vanillafoodpantry",
   "foods": {
     "INGREDIENTS": [
       "vanillafoodpantry:acornmeal_portion",
@@ -45,6 +44,10 @@
       "vanillafoodpantry:skewers_wood"
     ]
   },
+  "milk": [
+    "vanillafoodpantry:milk_portion"
+  ],
+  "modid": "vanillafoodpantry",
   "tools": [
     "vanillafoodpantry:bit_pipette",
     "vanillafoodpantry:fermenting_bucket",
@@ -57,8 +60,5 @@
   ],
   "water": [
     "vanillafoodpantry:water_portion"
-  ],
-  "milk": [
-    "vanillafoodpantry:milk_portion"
   ]
 }

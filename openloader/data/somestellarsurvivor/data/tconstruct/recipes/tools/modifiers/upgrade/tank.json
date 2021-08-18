@@ -1,17 +1,17 @@
 {
-  "type": "tconstruct:modifier",
   "inputs": [
     {
       "tag": "tconstruct:tanks"
     }
   ],
+  "max_level": 5,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:tank"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/melee_or_harvest"
   },
-  "result": {
-    "name": "tconstruct:tank",
-    "level": 1
-  },
-  "max_level": 5,
+  "type": "tconstruct:modifier",
   "upgrade_slots": 1
 }

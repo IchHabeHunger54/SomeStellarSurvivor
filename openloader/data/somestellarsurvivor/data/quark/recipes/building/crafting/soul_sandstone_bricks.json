@@ -1,31 +1,31 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "soul_sandstone",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "sandstone_bricks",
+          "type": "quark:flag"
+        }
+      ]
+    }
   ],
   "key": {
     "#": {
       "item": "quark:cut_soul_sandstone"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:soul_sandstone_bricks",
-    "count": 4
+    "count": 4,
+    "item": "quark:soul_sandstone_bricks"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "soul_sandstone"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "sandstone_bricks"
-        }
-      ]
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

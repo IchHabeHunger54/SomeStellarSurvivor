@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:gears/bronze",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/gear"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:gears/bronze",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 114,
   "fluid": {
-    "tag": "tconstruct:molten_bronze",
-    "amount": 576
+    "amount": 576,
+    "tag": "tconstruct:molten_bronze"
   },
   "result": {
     "tag": "forge:gears/bronze"
   },
-  "cooling_time": 114
+  "type": "tconstruct:casting_table"
 }

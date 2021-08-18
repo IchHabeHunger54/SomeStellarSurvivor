@@ -5,18 +5,18 @@
       "value": true
     }
   ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "SSS",
-    "S S",
-    "S S"
-  ],
   "key": {
     "S": {
       "tag": "forge:ingots/neptunium"
     }
   },
+  "pattern": [
+    "SSS",
+    "S S",
+    "S S"
+  ],
   "result": {
     "item": "aquaculture:neptunium_leggings"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

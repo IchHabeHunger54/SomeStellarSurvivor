@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "tconstruct:materials_and_you"
@@ -16,5 +15,6 @@
   ],
   "result": {
     "item": "tconstruct:encyclopedia"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

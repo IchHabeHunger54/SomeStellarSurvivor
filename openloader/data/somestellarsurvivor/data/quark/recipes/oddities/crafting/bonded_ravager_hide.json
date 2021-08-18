@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "ravager_hide",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:ravager_hide"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
     "item": "quark:bonded_ravager_hide"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "ravager_hide"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

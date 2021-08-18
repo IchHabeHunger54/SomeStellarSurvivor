@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
       "modid": "ceramics",
@@ -21,9 +20,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_clay",
-    "amount": 500
+    "amount": 500,
+    "fluid": "tconstruct:molten_clay"
   },
   "temperature": 450,
-  "time": 64
+  "time": 64,
+  "type": "tconstruct:melting"
 }

@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "item": "minecraft:bucket"
   },
   "result": {
-    "fluid": "tconstruct:molten_iron",
-    "amount": 432
+    "amount": 432,
+    "fluid": "tconstruct:molten_iron"
   },
   "temperature": 800,
-  "time": 104
+  "time": 104,
+  "type": "tconstruct:melting"
 }

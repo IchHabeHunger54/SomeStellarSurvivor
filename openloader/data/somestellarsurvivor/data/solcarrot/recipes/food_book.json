@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:book"
@@ -10,5 +9,6 @@
   ],
   "result": {
     "item": "solcarrot:food_book"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

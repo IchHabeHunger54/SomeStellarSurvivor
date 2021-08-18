@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##",
-    "##"
-  ],
   "key": {
     "#": {
       "item": "minecraft:honeycomb"
     }
   },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "buzzier_bees:honeycomb_door",
-    "count": 3
-  }
+    "count": 3,
+    "item": "buzzier_bees:honeycomb_door"
+  },
+  "type": "minecraft:crafting_shaped"
 }

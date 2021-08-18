@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -12,8 +11,8 @@
   ],
   "input": {
     "contents": {
-      "type": "inspirations:custom",
-      "name": "minecraft:honey_block"
+      "name": "minecraft:honey_block",
+      "type": "inspirations:custom"
     },
     "level": {
       "min": 12
@@ -27,5 +26,6 @@
       "set": 0
     }
   },
-  "sound": "minecraft:block.honey_block.break"
+  "sound": "minecraft:block.honey_block.break",
+  "type": "inspirations:cauldron"
 }

@@ -1,31 +1,31 @@
 {
-  "type": "tconstruct:modifier",
   "inputs": [
     {
       "tag": "forge:ingots/netherite"
     }
   ],
+  "max_level": 1,
+  "requirements": {
+    "error": "recipe.tconstruct.modifier.netherite_requirements",
+    "matches_needed": 1,
+    "options": [
+      {
+        "level": 1,
+        "name": "tconstruct:diamond"
+      },
+      {
+        "level": 1,
+        "name": "tconstruct:emerald"
+      }
+    ]
+  },
+  "result": {
+    "level": 1,
+    "name": "tconstruct:netherite"
+  },
   "tools": {
     "tag": "tconstruct:modifiable"
   },
-  "requirements": {
-    "options": [
-      {
-        "name": "tconstruct:diamond",
-        "level": 1
-      },
-      {
-        "name": "tconstruct:emerald",
-        "level": 1
-      }
-    ],
-    "matches_needed": 1,
-    "error": "recipe.tconstruct.modifier.netherite_requirements"
-  },
-  "result": {
-    "name": "tconstruct:netherite",
-    "level": 1
-  },
-  "max_level": 1,
+  "type": "tconstruct:modifier",
   "upgrade_slots": 1
 }

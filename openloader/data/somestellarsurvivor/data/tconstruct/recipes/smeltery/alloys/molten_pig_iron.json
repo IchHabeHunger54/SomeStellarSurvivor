@@ -1,22 +1,22 @@
 {
-  "type": "tconstruct:alloy",
   "inputs": [
     {
-      "tag": "tconstruct:molten_iron",
-      "amount": 144
+      "amount": 144,
+      "tag": "tconstruct:molten_iron"
     },
     {
-      "tag": "tconstruct:blood",
-      "amount": 250
+      "amount": 250,
+      "tag": "tconstruct:blood"
     },
     {
-      "tag": "tconstruct:molten_clay",
-      "amount": 250
+      "amount": 250,
+      "tag": "tconstruct:molten_clay"
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_pig_iron",
-    "amount": 288
+    "amount": 288,
+    "fluid": "tconstruct:molten_pig_iron"
   },
-  "temperature": 811
+  "temperature": 811,
+  "type": "tconstruct:alloy"
 }

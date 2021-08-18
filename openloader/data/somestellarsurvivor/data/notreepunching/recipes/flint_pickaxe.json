@@ -1,23 +1,23 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "IPI",
-    "ISI",
-    " S "
-  ],
   "key": {
-    "S": {
-      "tag": "forge:rods/wooden"
-    },
     "I": {
       "item": "notreepunching:flint_shard"
     },
     "P": {
       "tag": "forge:string"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    "IPI",
+    "ISI",
+    " S "
+  ],
   "result": {
     "item": "notreepunching:flint_pickaxe"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

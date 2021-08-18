@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:clay_warped_shingle"
@@ -30,7 +29,8 @@
     }
   ],
   "result": {
-    "item": "structurize:light_gray_clay_warped_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:light_gray_clay_warped_shingle"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

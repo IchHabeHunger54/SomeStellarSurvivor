@@ -1,14 +1,9 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 1,
   "duration": 200,
-  "starlight": 1200,
-  "pattern": [
-    "_____",
-    "__C__",
-    "_CAD_",
-    "_AB__",
-    "A____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -26,12 +21,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:blink_wand",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:blink_wand"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "_____",
+    "__C__",
+    "_CAD_",
+    "_AB__",
+    "A____"
+  ],
+  "starlight": 1200,
+  "type": "astralsorcery:altar"
 }

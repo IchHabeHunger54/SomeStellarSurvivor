@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:rods/bronze",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:rods/bronze"
   },
   "result": {
-    "fluid": "tconstruct:molten_bronze",
-    "amount": 72
+    "amount": 72,
+    "fluid": "tconstruct:molten_bronze"
   },
   "temperature": 700,
-  "time": 11
+  "time": 11,
+  "type": "tconstruct:melting"
 }

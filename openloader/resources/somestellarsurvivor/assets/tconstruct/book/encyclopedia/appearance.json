@@ -1,6 +1,6 @@
 {
-    "title": "Encyclopedia of Tinkering",
-    "subtitle": "by Selena",
-    "drawSectionListText": true,
-    "coverColor": 0x33B64C
+  "coverColor": 0x33B64C,
+  "drawSectionListText": true,
+  "subtitle": "by Selena",
+  "title": "Encyclopedia of Tinkering"
 }

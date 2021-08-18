@@ -1,0 +1,17 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:diamond",
+  "salvage": [
+    {
+      "chance": 0.65,
+      "item": "minecraft:diamond"
+    }
+  ],
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "minecraft:shulker_box",
     "minecraft:white_shulker_box",

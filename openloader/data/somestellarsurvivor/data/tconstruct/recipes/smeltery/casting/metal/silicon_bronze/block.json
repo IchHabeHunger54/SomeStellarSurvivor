@@ -1,11 +1,11 @@
 {
-  "type": "tconstruct:casting_basin",
+  "cooling_time": 171,
   "fluid": {
-    "name": "tconstruct:molten_tinkers_bronze",
-    "amount": 1296
+    "amount": 1296,
+    "name": "tconstruct:molten_tinkers_bronze"
   },
   "result": {
     "tag": "forge:storage_blocks/silicon_bronze"
   },
-  "cooling_time": 171
+  "type": "tconstruct:casting_basin"
 }

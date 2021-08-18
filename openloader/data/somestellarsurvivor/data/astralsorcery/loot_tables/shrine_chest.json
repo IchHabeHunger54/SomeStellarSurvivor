@@ -1,112 +1,112 @@
 {
-  "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": {
-        "min": 3.0,
-        "max": 5.0,
-        "type": "minecraft:uniform"
+      "bonus_rolls": {
+        "max": 2.0,
+        "min": 1.0
       },
       "entries": [
         {
+          "name": "astralsorcery:constellation_paper",
           "type": "minecraft:item",
-          "weight": 18,
-          "name": "astralsorcery:constellation_paper"
+          "weight": 18
         },
         {
-          "type": "minecraft:item",
-          "weight": 12,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "astralsorcery:aquamarine"
+          "name": "astralsorcery:aquamarine",
+          "type": "minecraft:item",
+          "weight": 12
         },
         {
-          "type": "minecraft:item",
-          "weight": 10,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:bone"
+          "name": "minecraft:bone",
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
-          "type": "minecraft:item",
-          "weight": 5,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 2.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:gold_ingot"
+          "name": "minecraft:gold_ingot",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
-          "weight": 15,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:iron_ingot"
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 15
         },
         {
+          "name": "minecraft:diamond",
           "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:diamond"
+          "weight": 2
         },
         {
-          "type": "minecraft:item",
-          "weight": 8,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:glowstone_dust"
+          "name": "minecraft:glowstone_dust",
+          "type": "minecraft:item",
+          "weight": 8
         },
         {
-          "type": "minecraft:item",
-          "name": "minecraft:emerald"
+          "name": "minecraft:emerald",
+          "type": "minecraft:item"
         },
         {
+          "name": "minecraft:ender_pearl",
           "type": "minecraft:item",
-          "weight": 2,
-          "name": "minecraft:ender_pearl"
+          "weight": 2
         }
       ],
-      "bonus_rolls": {
-        "min": 1.0,
-        "max": 2.0
+      "rolls": {
+        "max": 5.0,
+        "min": 3.0,
+        "type": "minecraft:uniform"
       }
     }
-  ]
+  ],
+  "type": "minecraft:chest"
 }

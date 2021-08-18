@@ -1,14 +1,14 @@
 {
-  "type": "tconstruct:casting_table",
   "cast": {
     "tag": "tconstruct:casts/multi_use/ingot"
   },
+  "cooling_time": 57,
   "fluid": {
-    "tag": "tconstruct:molten_tinkers_bronze",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_tinkers_bronze"
   },
   "result": {
     "tag": "forge:ingots/silicon_bronze"
   },
-  "cooling_time": 57
+  "type": "tconstruct:casting_table"
 }

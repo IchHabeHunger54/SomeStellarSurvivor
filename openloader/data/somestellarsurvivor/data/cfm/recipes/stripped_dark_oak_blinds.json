@@ -1,11 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
   "group": "blinds",
-  "pattern": [
-    "LLL",
-    "SSS",
-    "SSS"
-  ],
   "key": {
     "L": {
       "item": "minecraft:stripped_dark_oak_log"
@@ -14,8 +8,14 @@
       "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    "LLL",
+    "SSS",
+    "SSS"
+  ],
   "result": {
-    "item": "cfm:stripped_dark_oak_blinds",
-    "count": 2
-  }
+    "count": 2,
+    "item": "cfm:stripped_dark_oak_blinds"
+  },
+  "type": "minecraft:crafting_shaped"
 }

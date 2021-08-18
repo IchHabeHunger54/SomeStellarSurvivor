@@ -1,20 +1,20 @@
 {
-  "type": "minecraft:entity",
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
           "functions": [
             {
-              "function": "minecraft:set_count",
-              "count": 1
+              "count": 1,
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:saddle"
+          "name": "minecraft:saddle",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

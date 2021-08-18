@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "CSC",
-    "S S",
-    "CSC"
+  "conditions": [
+    {
+      "flag": "sturdy_stone",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "C": {
@@ -13,14 +13,14 @@
       "item": "minecraft:stone"
     }
   },
+  "pattern": [
+    "CSC",
+    "S S",
+    "CSC"
+  ],
   "result": {
-    "item": "quark:sturdy_stone",
-    "count": 4
+    "count": 4,
+    "item": "quark:sturdy_stone"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "sturdy_stone"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

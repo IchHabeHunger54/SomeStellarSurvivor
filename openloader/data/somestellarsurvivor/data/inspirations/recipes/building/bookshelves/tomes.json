@@ -1,5 +1,4 @@
 {
-  "type": "mantle:crafting_shaped_retextured",
   "conditions": [
     {
       "prop": "building_module",
@@ -11,25 +10,26 @@
     }
   ],
   "group": "inspirations:bookshelf",
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "match_all": true,
   "pattern": [
     "SSS",
     " B ",
     "SSS"
   ],
-  "key": {
-    "S": {
-      "tag": "minecraft:wooden_slabs"
-    },
-    "B": {
-      "item": "minecraft:book"
-    }
-  },
   "result": {
-    "item": "inspirations:tomes_shelf",
-    "count": 2
+    "count": 2,
+    "item": "inspirations:tomes_shelf"
   },
   "texture": {
     "tag": "minecraft:wooden_slabs"
   },
-  "match_all": true
+  "type": "mantle:crafting_shaped_retextured"
 }

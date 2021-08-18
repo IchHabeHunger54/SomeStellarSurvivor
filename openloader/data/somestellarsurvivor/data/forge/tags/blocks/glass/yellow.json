@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "minecraft:yellow_stained_glass",
     "tconstruct:yellow_clear_stained_glass"

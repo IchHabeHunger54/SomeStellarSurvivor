@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "WTW",
-    "WGW",
-    "WWW"
-  ],
   "key": {
-    "W": {
-      "tag": "minecraft:planks"
-    },
     "G": {
       "item": "minecraft:redstone_block"
     },
     "T": {
       "item": "structurize:sceptergold"
+    },
+    "W": {
+      "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "WTW",
+    "WGW",
+    "WWW"
+  ],
   "result": {
     "item": "minecolonies:blockhutmechanic"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

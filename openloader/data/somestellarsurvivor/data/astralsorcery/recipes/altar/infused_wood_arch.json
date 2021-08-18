@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 40,
-  "starlight": 100,
-  "pattern": [
-    "_____",
-    "_____",
-    "_AA__",
-    "_____",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -17,11 +11,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:infused_wood_arch",
-      "count": 2
+      "count": 2,
+      "item": "astralsorcery:infused_wood_arch"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "_____",
+    "_AA__",
+    "_____",
+    "_____"
+  ],
+  "starlight": 100,
+  "type": "astralsorcery:altar"
 }

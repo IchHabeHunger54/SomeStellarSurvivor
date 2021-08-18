@@ -1,16 +1,11 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "upgrade_aquatic"
+      "modid": "upgrade_aquatic",
+      "type": "forge:mod_loaded"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "large_boat",
-  "pattern": [
-    "#W#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "upgrade_aquatic:driftwood_planks"
@@ -19,7 +14,12 @@
       "item": "upgrade_aquatic:driftwood_boat"
     }
   },
+  "pattern": [
+    "#W#",
+    "###"
+  ],
   "result": {
     "item": "extraboats:large_driftwood_boat"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

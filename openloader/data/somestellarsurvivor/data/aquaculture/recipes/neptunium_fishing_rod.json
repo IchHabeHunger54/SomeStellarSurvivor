@@ -5,24 +5,24 @@
       "value": true
     }
   ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "  N",
-    " NS",
-    "T S"
-  ],
   "key": {
+    "N": {
+      "tag": "forge:ingots/neptunium"
+    },
     "S": {
       "tag": "forge:string"
     },
     "T": {
       "tag": "forge:rods/wooden"
-    },
-    "N": {
-      "tag": "forge:ingots/neptunium"
     }
   },
+  "pattern": [
+    "  N",
+    " NS",
+    "T S"
+  ],
   "result": {
     "item": "aquaculture:neptunium_fishing_rod"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

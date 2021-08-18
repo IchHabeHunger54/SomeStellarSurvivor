@@ -1,18 +1,1 @@
-{
-  "biomes": [
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "minecraft:nether_wastes"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "biomesoplenty:crystalline_chasm"
-      }
-    ]
-  ]
-}
+{"biomes":[[{"negate":false,"type":"REGISTRY_NAME","value":"minecraft:nether_wastes"}],[{"negate":false,"type":"REGISTRY_NAME","value":"biomesoplenty:crystalline_chasm"}]]}

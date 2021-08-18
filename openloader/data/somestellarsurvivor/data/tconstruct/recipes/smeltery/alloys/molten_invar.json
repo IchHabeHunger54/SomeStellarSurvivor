@@ -1,34 +1,34 @@
 {
-  "type": "tconstruct:alloy",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/invar",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     },
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/nickel",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "inputs": [
     {
-      "tag": "tconstruct:molten_iron",
-      "amount": 288
+      "amount": 288,
+      "tag": "tconstruct:molten_iron"
     },
     {
-      "tag": "tconstruct:molten_nickel",
-      "amount": 144
+      "amount": 144,
+      "tag": "tconstruct:molten_nickel"
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_invar",
-    "amount": 432
+    "amount": 432,
+    "fluid": "tconstruct:molten_invar"
   },
-  "temperature": 900
+  "temperature": 900,
+  "type": "tconstruct:alloy"
 }

@@ -1,7 +1,1 @@
-{
-  "__comment": "included since some packs have fish oil disabled.",
-  "replace": false,
-  "values": [
-    "alexsmobs:fish_oil"
-  ]
-}
+{"__comment":"included since some packs have fish oil disabled.","replace":true,"values":["alexsmobs:fish_oil"]}

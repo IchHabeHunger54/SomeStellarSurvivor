@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#structurize:shingles/clay/oak",
     "#structurize:shingles/clay/spruce",

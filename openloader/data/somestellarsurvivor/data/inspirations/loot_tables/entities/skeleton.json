@@ -1,7 +1,6 @@
 {
   "pools": [
     {
-      "name": "inspirations:wither_bone",
       "conditions": [
         {
           "condition": "inspirations:config",
@@ -15,19 +14,20 @@
           "condition": "killed_by_player"
         },
         {
-          "condition": "random_chance_with_looting",
           "chance": 0.025,
+          "condition": "random_chance_with_looting",
           "looting_multiplier": 0.01
         }
       ],
-      "rolls": 1,
       "entries": [
         {
-          "type": "item",
           "name": "minecraft:skeleton_skull",
+          "type": "item",
           "weight": 1
         }
-      ]
+      ],
+      "name": "inspirations:wither_bone",
+      "rolls": 1
     }
   ]
 }

@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,24 +10,25 @@
     }
   ],
   "input": {
-    "item": {
-      "tag": "forge:mushrooms",
-      "amount_needed": 2
-    },
     "contents": {
-      "type": "inspirations:fluid",
-      "name": "minecraft:water"
+      "name": "minecraft:water",
+      "type": "inspirations:fluid"
+    },
+    "item": {
+      "amount_needed": 2,
+      "tag": "forge:mushrooms"
     },
     "level": {
-      "min": 1,
-      "max": 4
+      "max": 4,
+      "min": 1
     },
     "temperature": "boiling"
   },
   "output": {
     "contents": {
-      "type": "inspirations:fluid",
-      "name": "inspirations:mushroom_stew"
+      "name": "inspirations:mushroom_stew",
+      "type": "inspirations:fluid"
     }
-  }
+  },
+  "type": "inspirations:cauldron"
 }

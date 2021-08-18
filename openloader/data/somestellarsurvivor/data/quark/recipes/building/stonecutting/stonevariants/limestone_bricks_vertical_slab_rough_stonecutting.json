@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "quark:limestone"
-  },
-  "result": "quark:limestone_bricks_vertical_slab",
-  "count": 1,
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "stone_bricks"
+          "flag": "stone_bricks",
+          "type": "quark:flag"
         },
         {
-          "type": "quark:flag",
-          "flag": "limestone"
+          "flag": "limestone",
+          "type": "quark:flag"
         }
       ]
     }
-  ]
-} 
+  ],
+  "count": 1,
+  "ingredient": {
+    "item": "quark:limestone"
+  },
+  "result": "quark:limestone_bricks_vertical_slab",
+  "type": "minecraft:stonecutting"
+}

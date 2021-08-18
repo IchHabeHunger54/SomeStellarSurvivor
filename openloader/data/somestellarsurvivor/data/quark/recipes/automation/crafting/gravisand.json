@@ -1,26 +1,26 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "gravisand",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "E": {
+      "tag": "forge:ender_pearls"
+    },
+    "S": {
+      "tag": "forge:sand/colorless"
+    }
+  },
   "pattern": [
     "SSS",
     "SES",
     "SSS"
   ],
-  "key": {
-    "S": {
-      "tag": "forge:sand/colorless"
-    },
-    "E": {
-      "tag": "forge:ender_pearls"
-    }
-  },
   "result": {
-    "item": "quark:gravisand",
-    "count": 8
+    "count": 8,
+    "item": "quark:gravisand"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "gravisand"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

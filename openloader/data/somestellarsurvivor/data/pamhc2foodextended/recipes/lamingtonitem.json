@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "tag": "forge:crops/coconut"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:lamingtonitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

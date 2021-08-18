@@ -1,8 +1,8 @@
 {
-  "type": "tconstruct:part_builder",
-  "pattern": "tconstruct:repair_kit",
   "cost": 2,
+  "pattern": "tconstruct:repair_kit",
   "result": {
     "item": "tconstruct:repair_kit"
-  }
+  },
+  "type": "tconstruct:part_builder"
 }

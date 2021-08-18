@@ -1,17 +1,17 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XXX",
-    "XXX"
-  ],
   "key": {
     "X": {
       "item": "notreepunching:granite_cobblestone"
     }
   },
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
   "result": {
     "count": 6,
     "item": "notreepunching:granite_cobblestone_wall"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

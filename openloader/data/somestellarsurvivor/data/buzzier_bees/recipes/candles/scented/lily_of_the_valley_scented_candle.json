@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "group": "scented_candles",
   "ingredients": [
     {
@@ -13,7 +12,8 @@
     }
   ],
   "result": {
-    "item": "buzzier_bees:lily_of_the_valley_scented_candle",
-    "count": 1
-  }
+    "count": 1,
+    "item": "buzzier_bees:lily_of_the_valley_scented_candle"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

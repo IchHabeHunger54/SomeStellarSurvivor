@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "group": "dyed_candle",
   "ingredients": [
     [
@@ -15,7 +14,8 @@
     }
   ],
   "result": {
-    "item": "buzzier_bees:light_blue_candle",
-    "count": 1
-  }
+    "count": 1,
+    "item": "buzzier_bees:light_blue_candle"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

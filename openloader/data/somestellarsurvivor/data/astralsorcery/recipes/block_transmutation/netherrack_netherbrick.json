@@ -1,20 +1,20 @@
 {
-  "type": "astralsorcery:block_transmutation",
+  "display": {
+    "count": 1,
+    "item": "minecraft:nether_bricks"
+  },
   "input": [
     {
       "block": "minecraft:netherrack",
       "display": {
-        "item": "minecraft:netherrack",
-        "count": 1
+        "count": 1,
+        "item": "minecraft:netherrack"
       }
     }
   ],
   "output": {
     "block": "minecraft:nether_bricks"
   },
-  "display": {
-    "item": "minecraft:nether_bricks",
-    "count": 1
-  },
-  "starlight": 200.0
+  "starlight": 200.0,
+  "type": "astralsorcery:block_transmutation"
 }

@@ -1,21 +1,21 @@
 {
   "pools": [
     {
-      "name": "minecolonies:recipes/bread_dough",
-      "rolls": 1,
       "entries": [
         {
+          "quality": -1,
           "type": "empty",
-          "weight": 100,
-          "quality": -1
+          "weight": 100
         },
         {
-          "type": "item",
-          "weight": 0,
+          "name": "minecraft:glass_bottle",
           "quality": 1,
-          "name": "minecraft:glass_bottle"
+          "type": "item",
+          "weight": 0
         }
-      ]
+      ],
+      "name": "minecolonies:recipes/bread_dough",
+      "rolls": 1
     }
   ]
 }

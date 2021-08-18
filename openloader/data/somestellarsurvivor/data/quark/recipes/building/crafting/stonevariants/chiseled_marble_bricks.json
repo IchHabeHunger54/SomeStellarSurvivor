@@ -1,35 +1,35 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#",
-    "#"
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "stone_bricks",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "stone_chiseled",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "marble",
+          "type": "quark:flag"
+        }
+      ]
+    }
   ],
   "key": {
     "#": {
       "item": "quark:marble_bricks_slab"
     }
   },
+  "pattern": [
+    "#",
+    "#"
+  ],
   "result": {
-    "item": "quark:chiseled_marble_bricks",
-    "count": 1
+    "count": 1,
+    "item": "quark:chiseled_marble_bricks"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "stone_bricks"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "stone_chiseled"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "marble"
-        }
-      ]
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

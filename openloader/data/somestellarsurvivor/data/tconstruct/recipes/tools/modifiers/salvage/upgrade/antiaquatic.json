@@ -1,0 +1,15 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:antiaquatic",
+  "salvage": {
+    "full": false,
+    "item": "minecraft:pufferfish"
+  },
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee"
+  },
+  "type": "tconstruct:incremental_modifier_salvage"
+}

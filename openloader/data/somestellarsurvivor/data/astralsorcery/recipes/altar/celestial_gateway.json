@@ -1,14 +1,10 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 1,
   "duration": 200,
-  "starlight": 1400,
-  "pattern": [
-    "A___A",
-    "__D__",
-    "_EFE_",
-    "_BAB_",
-    "C___C"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:gateway_edge",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -27,22 +23,26 @@
       "item": "astralsorcery:glass_lens"
     },
     "F": {
-      "type": "astralsorcery:crystal",
+      "canBeAttuned": true,
+      "canBeCelestialCrystal": true,
       "hasToBeAttuned": false,
       "hasToBeCelestial": false,
-      "canBeAttuned": true,
-      "canBeCelestialCrystal": true
+      "type": "astralsorcery:crystal"
     }
   },
   "output": [
     {
-      "item": "astralsorcery:celestial_gateway",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:celestial_gateway"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:gateway_edge",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "A___A",
+    "__D__",
+    "_EFE_",
+    "_BAB_",
+    "C___C"
+  ],
+  "starlight": 1400,
+  "type": "astralsorcery:altar"
 }

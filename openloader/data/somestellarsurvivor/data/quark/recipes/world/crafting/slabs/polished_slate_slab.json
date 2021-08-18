@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "slate",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:polished_slate"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:polished_slate_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:polished_slate_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "slate"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

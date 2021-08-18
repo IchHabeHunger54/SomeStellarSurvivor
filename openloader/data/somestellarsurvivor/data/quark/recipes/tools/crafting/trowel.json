@@ -1,24 +1,24 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "trowel",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
   "pattern": [
     "S  ",
     " II"
   ],
-  "key": {
-    "S": {
-      "tag": "forge:rods/wooden"
-    },
-    "I": {
-      "tag": "forge:ingots/iron"
-    }
-  },
   "result": {
     "item": "quark:trowel"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "trowel"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

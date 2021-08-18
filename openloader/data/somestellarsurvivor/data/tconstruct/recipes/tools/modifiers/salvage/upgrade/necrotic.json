@@ -1,0 +1,17 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:necrotic",
+  "salvage": [
+    {
+      "chance": 0.1,
+      "item": "minecraft:wither_rose"
+    }
+  ],
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

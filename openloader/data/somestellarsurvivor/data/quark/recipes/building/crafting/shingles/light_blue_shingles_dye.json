@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "SSS",
-    "SDS",
-    "SSS"
+  "conditions": [
+    {
+      "flag": "shingles",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "D": {
@@ -13,14 +13,14 @@
       "item": "quark:shingles"
     }
   },
+  "pattern": [
+    "SSS",
+    "SDS",
+    "SSS"
+  ],
   "result": {
-    "item": "quark:light_blue_shingles",
-    "count": 8
+    "count": 8,
+    "item": "quark:light_blue_shingles"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "shingles"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

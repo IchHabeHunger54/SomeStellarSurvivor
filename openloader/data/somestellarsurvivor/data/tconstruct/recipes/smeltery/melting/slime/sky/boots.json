@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "item": "tconstruct:sky_slime_boots"
   },
   "result": {
-    "fluid": "tconstruct:sky_slime",
-    "amount": 2500
+    "amount": 2500,
+    "fluid": "tconstruct:sky_slime"
   },
   "temperature": 10,
-  "time": 119
+  "time": 119,
+  "type": "tconstruct:melting"
 }

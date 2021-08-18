@@ -1,0 +1,29 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:exchanging",
+  "salvage": [
+    {
+      "tag": "forge:ingots/hepatizon"
+    },
+    {
+      "chance": 0.9,
+      "item": "minecraft:piston"
+    },
+    {
+      "chance": 0.9,
+      "item": "minecraft:piston"
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "max": 2,
+      "min": 0
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/harvest/primary"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

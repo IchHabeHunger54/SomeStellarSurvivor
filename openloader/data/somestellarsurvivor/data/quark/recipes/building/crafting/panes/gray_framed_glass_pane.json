@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "framed_glass",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:gray_framed_glass"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:gray_framed_glass_pane",
-    "count": 16
+    "count": 16,
+    "item": "quark:gray_framed_glass_pane"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "framed_glass"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

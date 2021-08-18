@@ -1,7 +1,1 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:gunpowder",
-    "minecraft:creeper_head"
-  ]
-}
+{"replace":true,"values":["minecraft:gunpowder","minecraft:creeper_head"]}

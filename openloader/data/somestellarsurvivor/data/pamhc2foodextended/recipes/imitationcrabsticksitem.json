@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:grain"
+    },
+    {
+      "tag": "forge:rawfish"
+    },
+    {
+      "tag": "forge:egg"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:imitationcrabsticksitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

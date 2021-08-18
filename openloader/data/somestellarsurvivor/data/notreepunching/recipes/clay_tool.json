@@ -1,17 +1,17 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "  I",
-    " II",
-    "I  "
-  ],
   "key": {
     "I": {
       "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    "  I",
+    " II",
+    "I  "
+  ],
   "result": {
     "item": "notreepunching:clay_tool"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

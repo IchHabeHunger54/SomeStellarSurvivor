@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "quark:jasper"
-  },
-  "result": "quark:jasper_pillar",
-  "count": 1,
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "stone_pillar"
+          "flag": "stone_pillar",
+          "type": "quark:flag"
         },
         {
-          "type": "quark:flag",
-          "flag": "jasper"
+          "flag": "jasper",
+          "type": "quark:flag"
         }
       ]
     }
-  ]
-} 
+  ],
+  "count": 1,
+  "ingredient": {
+    "item": "quark:jasper"
+  },
+  "result": "quark:jasper_pillar",
+  "type": "minecraft:stonecutting"
+}

@@ -1,18 +1,10 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1.0,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "inspirations:glass_door"
-        }
-      ],
       "conditions": [
         {
-          "condition": "minecraft:block_state_property",
           "block": "inspirations:glass_door",
+          "condition": "minecraft:block_state_property",
           "properties": {
             "half": "lower"
           }
@@ -30,7 +22,15 @@
             ]
           }
         }
-      ]
+      ],
+      "entries": [
+        {
+          "name": "inspirations:glass_door",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

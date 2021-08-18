@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:sodas/cherrysodaitem",
     "#forge:sodas/colasodaitem",

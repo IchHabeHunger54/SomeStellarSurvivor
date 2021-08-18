@@ -1,0 +1,21 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:knockback",
+  "salvage": [
+    {
+      "chance": 0.9,
+      "item": "minecraft:piston"
+    },
+    {
+      "chance": 0.3,
+      "tag": "tconstruct:slime_block"
+    }
+  ],
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

@@ -1,8 +1,8 @@
 {
-  "type": "tconstruct:table_casting_material",
   "cast": {
     "tag": "tconstruct:casts/multi_use/pickaxe_head"
   },
   "item_cost": 2,
-  "result": "tconstruct:pickaxe_head"
+  "result": "tconstruct:pickaxe_head",
+  "type": "tconstruct:table_casting_material"
 }

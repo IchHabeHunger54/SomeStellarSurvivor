@@ -1,20 +1,6 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1.0,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": 2
-            }
-          ],
-          "name": "minecraft:seagrass"
-        }
-      ],
       "conditions": [
         {
           "condition": "minecraft:match_tool",
@@ -22,7 +8,21 @@
             "tag": "forge:shears"
           }
         }
-      ]
+      ],
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": 2,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:seagrass",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1.0
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

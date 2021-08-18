@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:rods/osmium",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/rod"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:rods/osmium",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 46,
   "fluid": {
-    "tag": "tconstruct:molten_osmium",
-    "amount": 72
+    "amount": 72,
+    "tag": "tconstruct:molten_osmium"
   },
   "result": {
     "tag": "forge:rods/osmium"
   },
-  "cooling_time": 46
+  "type": "tconstruct:casting_table"
 }

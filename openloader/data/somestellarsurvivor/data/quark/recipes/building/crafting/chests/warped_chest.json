@@ -1,29 +1,29 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "warped_chest",
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:warped_planks"
-    }
-  },
-  "result": {
-    "item": "quark:warped_chest",
-    "count": 1
-  },
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "variant_chests"
+          "flag": "variant_chests",
+          "type": "quark:flag"
         }
       ]
     }
-  ]
-} 
+  ],
+  "group": "warped_chest",
+  "key": {
+    "#": {
+      "item": "minecraft:warped_planks"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "item": "quark:warped_chest"
+  },
+  "type": "minecraft:crafting_shaped"
+}

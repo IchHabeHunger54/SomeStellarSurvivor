@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "coral_to_dye",
+      "type": "quark:flag"
+    }
+  ],
   "group": "red_dye",
   "ingredients": [
     [
@@ -14,10 +19,5 @@
   "result": {
     "item": "minecraft:red_dye"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "coral_to_dye"
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

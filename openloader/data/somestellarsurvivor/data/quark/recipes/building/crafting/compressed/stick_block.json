@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "stick_block",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:stick"
     }
   },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
   "result": {
     "item": "quark:stick_block"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "stick_block"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

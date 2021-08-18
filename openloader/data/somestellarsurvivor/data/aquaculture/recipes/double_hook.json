@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "aquaculture:iron_hook"
@@ -10,5 +9,6 @@
   ],
   "result": {
     "item": "aquaculture:double_hook"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

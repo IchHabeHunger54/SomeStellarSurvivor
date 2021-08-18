@@ -1,23 +1,23 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:plates/constantan",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/multi_use/plate"
   },
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:plates/constantan",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 64,
   "fluid": {
-    "tag": "tconstruct:molten_constantan",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_constantan"
   },
   "result": {
     "tag": "forge:plates/constantan"
   },
-  "cooling_time": 64
+  "type": "tconstruct:casting_table"
 }

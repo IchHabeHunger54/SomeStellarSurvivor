@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "SSS",
-    "SXS",
-    "SSS"
-  ],
   "key": {
     "S": {
       "tag": "forge:stone"
@@ -13,8 +7,14 @@
       "tag": "forge:ingots/iron"
     }
   },
+  "pattern": [
+    "SSS",
+    "SXS",
+    "SSS"
+  ],
   "result": {
-    "item": "chisel:tyrian/shining",
-    "count": 32
-  }
+    "count": 32,
+    "item": "chisel:tyrian/shining"
+  },
+  "type": "minecraft:crafting_shaped"
 }

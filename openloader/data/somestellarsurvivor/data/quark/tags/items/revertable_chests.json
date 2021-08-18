@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "quark:oak_chest",
     "quark:spruce_chest",

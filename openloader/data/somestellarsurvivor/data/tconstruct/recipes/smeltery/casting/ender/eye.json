@@ -1,13 +1,13 @@
 {
-  "type": "tconstruct:casting_table",
   "cast": {
     "item": "minecraft:blaze_powder"
   },
   "cast_consumed": true,
+  "cooling_time": 65,
   "fluid": {
-    "name": "tconstruct:molten_ender",
-    "amount": 250
+    "amount": 250,
+    "name": "tconstruct:molten_ender"
   },
   "result": "minecraft:ender_eye",
-  "cooling_time": 65
+  "type": "tconstruct:casting_table"
 }

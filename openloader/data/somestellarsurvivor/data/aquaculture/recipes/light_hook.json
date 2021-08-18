@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " F ",
-    "FHF",
-    " F "
-  ],
   "key": {
     "F": {
       "tag": "forge:feathers"
@@ -13,7 +7,13 @@
       "item": "aquaculture:iron_hook"
     }
   },
+  "pattern": [
+    " F ",
+    "FHF",
+    " F "
+  ],
   "result": {
     "item": "aquaculture:light_hook"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

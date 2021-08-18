@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:cookedfish/cookedcod",
     "#forge:cookedfish/cookedsalmon"

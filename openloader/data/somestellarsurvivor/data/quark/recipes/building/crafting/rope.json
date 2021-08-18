@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##",
-    "##"
+  "conditions": [
+    {
+      "flag": "rope",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "minecraft:string"
     }
   },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:rope",
-    "count": 3
+    "count": 3,
+    "item": "quark:rope"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "rope"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:crops/apple"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:bakedhamitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

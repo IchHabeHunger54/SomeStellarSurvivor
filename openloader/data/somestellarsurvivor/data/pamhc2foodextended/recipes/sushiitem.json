@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:rawfish"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "forge:crops/rice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:sushiitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

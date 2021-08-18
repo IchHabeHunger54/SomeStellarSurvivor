@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:bowl"
@@ -16,5 +15,6 @@
   ],
   "result": {
     "item": "alexsmobs:sopa_de_macaco"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,5 +1,4 @@
 {
-  "modid": "minecraft",
   "foods": {
     "GENERAL": [
       "minecraft:cake"
@@ -8,13 +7,14 @@
       "minecraft:sugar"
     ]
   },
+  "milk": [
+    "minecraft:milk_bucket"
+  ],
+  "modid": "minecraft",
   "tools": [
     "minecraft:bucket"
   ],
   "water": [
     "minecraft:water_bucket"
-  ],
-  "milk": [
-    "minecraft:milk_bucket"
   ]
 }

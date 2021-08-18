@@ -1,28 +1,28 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "flag": "paper_decor",
+      "type": "quark:flag"
+    }
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:dusts/glowstone"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:bamboo"
+    }
+  },
   "pattern": [
     "PSP",
     "PGP",
     "PSP"
   ],
-  "key": {
-    "S": {
-      "item": "minecraft:bamboo"
-    },
-    "P": {
-      "item": "minecraft:paper"
-    },
-    "G": {
-      "tag": "forge:dusts/glowstone"
-    }
-  },
   "result": {
     "item": "quark:paper_lantern"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "paper_decor"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

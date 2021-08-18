@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
+  "conditions": [
+    {
+      "flag": "midori",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:midori_block"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "quark:midori_block_stairs",
-    "count": 4
+    "count": 4,
+    "item": "quark:midori_block_stairs"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "midori"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

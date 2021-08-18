@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#inspirations:carpeted_trapdoors",
     "minecraft:acacia_trapdoor",

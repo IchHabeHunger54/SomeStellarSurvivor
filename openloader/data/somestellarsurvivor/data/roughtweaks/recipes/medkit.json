@@ -1,28 +1,22 @@
 {
-  "type": "forge:conditional",
   "recipes": [
     {
       "conditions": [
         {
-          "type": "roughtweaks:isconfigenabled",
-          "config_setting": "enable_medkit"
+          "config_setting": "enable_medkit",
+          "type": "roughtweaks:isconfigenabled"
         }
       ],
       "recipe": {
-        "type": "minecraft:crafting_shaped",
-        "pattern": [
-          "#GB",
-          "PXP"
-        ],
         "key": {
           "#": {
             "item": "roughtweaks:salve"
           },
-          "G": {
-            "item": "roughtweaks:plaster"
-          },
           "B": {
             "item": "roughtweaks:bandage"
+          },
+          "G": {
+            "item": "roughtweaks:plaster"
           },
           "P": {
             "item": "minecraft:paper"
@@ -31,10 +25,16 @@
             "item": "minecraft:glistering_melon_slice"
           }
         },
+        "pattern": [
+          "#GB",
+          "PXP"
+        ],
         "result": {
           "item": "roughtweaks:medkit"
-        }
+        },
+        "type": "minecraft:crafting_shaped"
       }
     }
-  ]
+  ],
+  "type": "forge:conditional"
 }

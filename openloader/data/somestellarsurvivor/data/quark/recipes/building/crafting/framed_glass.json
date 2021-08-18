@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "GIG",
-    "IGI",
-    "GIG"
+  "conditions": [
+    {
+      "flag": "framed_glass",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "G": {
@@ -13,14 +13,14 @@
       "tag": "forge:ingots/iron"
     }
   },
+  "pattern": [
+    "GIG",
+    "IGI",
+    "GIG"
+  ],
   "result": {
-    "item": "quark:framed_glass",
-    "count": 4
+    "count": 4,
+    "item": "quark:framed_glass"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "framed_glass"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

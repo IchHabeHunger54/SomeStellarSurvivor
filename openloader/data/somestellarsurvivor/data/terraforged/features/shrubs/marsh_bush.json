@@ -3,31 +3,8 @@
     "terraforged:cold_marshland",
     "terraforged:marshland"
   ],
-  "match": [],
-  "stage": "VEGETAL_DECORATION",
   "head": {
     "config": {
-      "feature": {
-        "config": {
-          "trunk": {
-            "Properties": {
-              "axis": "y"
-            },
-            "Name": "minecraft:oak_log"
-          },
-          "leaves": {
-            "Properties": {
-              "persistent": "false",
-              "distance": "7"
-            },
-            "Name": "minecraft:birch_leaves"
-          },
-          "air_chance": 0.05,
-          "leaf_chance": 0.05,
-          "size_chance": 0.65
-        },
-        "type": "terraforged:bush"
-      },
       "decorator": {
         "config": {
           "count": 0,
@@ -35,8 +12,31 @@
           "extra_count": 1
         },
         "type": "minecraft:count_extra"
+      },
+      "feature": {
+        "config": {
+          "air_chance": 0.05,
+          "leaf_chance": 0.05,
+          "leaves": {
+            "Name": "minecraft:birch_leaves",
+            "Properties": {
+              "distance": "7",
+              "persistent": "false"
+            }
+          },
+          "size_chance": 0.65,
+          "trunk": {
+            "Name": "minecraft:oak_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "type": "terraforged:bush"
       }
     },
     "type": "minecraft:decorated"
-  }
+  },
+  "match": [],
+  "stage": "VEGETAL_DECORATION"
 }

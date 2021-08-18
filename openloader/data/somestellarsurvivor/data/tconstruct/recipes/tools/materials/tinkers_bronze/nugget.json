@@ -1,9 +1,9 @@
 {
-  "type": "tconstruct:material",
   "ingredient": {
     "tag": "forge:nuggets/silicon_bronze"
   },
-  "value": 1,
+  "material": "tconstruct:tinkers_bronze",
   "needed": 9,
-  "material": "tconstruct:tinkers_bronze"
+  "type": "tconstruct:material",
+  "value": 1
 }

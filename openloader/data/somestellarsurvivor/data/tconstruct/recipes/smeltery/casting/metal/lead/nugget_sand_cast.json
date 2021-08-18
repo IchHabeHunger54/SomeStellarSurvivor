@@ -1,24 +1,24 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:nuggets/lead",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/single_use/nugget"
   },
   "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:nuggets/lead",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 14,
   "fluid": {
-    "tag": "tconstruct:molten_lead",
-    "amount": 16
+    "amount": 16,
+    "tag": "tconstruct:molten_lead"
   },
   "result": {
     "tag": "forge:nuggets/lead"
   },
-  "cooling_time": 14
+  "type": "tconstruct:casting_table"
 }

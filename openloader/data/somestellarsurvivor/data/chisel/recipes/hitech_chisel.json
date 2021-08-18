@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "chisel:diamond_chisel"
@@ -13,5 +12,6 @@
   ],
   "result": {
     "item": "chisel:hitech_chisel"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

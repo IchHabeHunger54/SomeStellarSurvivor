@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:sheetmetals/pig_iron",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:sheetmetals/pig_iron"
   },
   "result": {
-    "fluid": "tconstruct:molten_pig_iron",
-    "amount": 144
+    "amount": 144,
+    "fluid": "tconstruct:molten_pig_iron"
   },
   "temperature": 811,
-  "time": 60
+  "time": 60,
+  "type": "tconstruct:melting"
 }

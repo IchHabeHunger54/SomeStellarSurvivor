@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:carpet/purple/legacy",
     "chisel:carpet/purple/llama",

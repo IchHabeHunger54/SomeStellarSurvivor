@@ -1,20 +1,20 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "forge:ingots/gold"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
   "pattern": [
     "  S",
     " SI",
     "SI "
   ],
-  "key": {
-    "S": {
-      "tag": "forge:rods/wooden"
-    },
-    "I": {
-      "tag": "forge:ingots/gold"
-    }
-  },
   "result": {
     "item": "notreepunching:gold_saw"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

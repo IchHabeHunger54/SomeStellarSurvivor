@@ -5,18 +5,18 @@
       "value": true
     }
   ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "NNN",
-    "N N",
-    "NNN"
-  ],
   "key": {
     "N": {
       "tag": "forge:ingots/neptunium"
     }
   },
+  "pattern": [
+    "NNN",
+    "N N",
+    "NNN"
+  ],
   "result": {
     "item": "aquaculture:neptunes_bounty"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

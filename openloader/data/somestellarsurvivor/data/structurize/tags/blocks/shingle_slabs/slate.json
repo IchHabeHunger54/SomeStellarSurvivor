@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "structurize:slate_shingle_slab",
     "structurize:blue_slate_shingle_slab",

@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -22,5 +21,6 @@
   ],
   "result": {
     "item": "inspirations:potato_soup"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "stick_block",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:stick_block"
     }
   ],
   "result": {
-    "item": "minecraft:stick",
-    "count": 9
+    "count": 9,
+    "item": "minecraft:stick"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "stick_block"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

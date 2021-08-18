@@ -1,28 +1,28 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:items",
-      "object": "binoculars"
+      "object": "binoculars",
+      "type": "vanillatweaks:items"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "DDD",
-    "LIL",
-    "DDD"
   ],
   "key": {
     "D": {
       "item": "minecraft:black_dye"
     },
-    "L": {
-      "item": "vanillatweaks:lens"
-    },
     "I": {
       "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "vanillatweaks:lens"
     }
   },
+  "pattern": [
+    "DDD",
+    "LIL",
+    "DDD"
+  ],
   "result": {
     "item": "vanillatweaks:binoculars"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

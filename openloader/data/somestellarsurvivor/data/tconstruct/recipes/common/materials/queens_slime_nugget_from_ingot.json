@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "group": "tconstruct:queens_slime_nugget",
   "ingredients": [
     {
@@ -7,7 +6,8 @@
     }
   ],
   "result": {
-    "item": "tconstruct:queens_slime_nugget",
-    "count": 9
-  }
+    "count": 9,
+    "item": "tconstruct:queens_slime_nugget"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

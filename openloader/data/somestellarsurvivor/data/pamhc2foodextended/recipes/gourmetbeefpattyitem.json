@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:groundmeats/groundbeef"
+    },
+    {
+      "tag": "forge:spices/saltandpepper"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    },
+    {
+      "tag": "forge:crops/mustardseeds"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:gourmetbeefpattyitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

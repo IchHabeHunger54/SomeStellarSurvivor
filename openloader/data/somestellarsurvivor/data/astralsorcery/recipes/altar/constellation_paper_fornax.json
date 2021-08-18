@@ -1,14 +1,14 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 3,
   "duration": 420,
-  "starlight": 3200,
-  "pattern": [
-    "__B__",
-    "__C__",
-    "BDEDB",
-    "__A__",
-    "__B__"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -27,16 +27,23 @@
       "item": "astralsorcery:parchment"
     }
   },
-  "recipe_class": "astralsorcery:constellation_base",
-  "output": [
-    {
-      "item": "astralsorcery:constellation_paper",
-      "count": 1
-    }
-  ],
   "options": {
     "constellation": "astralsorcery:fornax"
   },
+  "output": [
+    {
+      "count": 1,
+      "item": "astralsorcery:constellation_paper"
+    }
+  ],
+  "pattern": [
+    "__B__",
+    "__C__",
+    "BDEDB",
+    "__A__",
+    "__B__"
+  ],
+  "recipe_class": "astralsorcery:constellation_base",
   "relay_inputs": [
     {
       "item": "minecraft:coal"
@@ -51,13 +58,6 @@
       "tag": "forge:gunpowder"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "starlight": 3200,
+  "type": "astralsorcery:altar"
 }

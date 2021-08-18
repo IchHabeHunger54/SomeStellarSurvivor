@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_skillet"
@@ -12,7 +11,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodcore:toastitem",
-    "count": 2
-  }
+    "count": 2,
+    "item": "pamhc2foodcore:toastitem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

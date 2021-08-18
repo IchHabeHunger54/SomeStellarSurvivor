@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "tconstruct:molten_silver",
     "tconstruct:flowing_molten_silver"

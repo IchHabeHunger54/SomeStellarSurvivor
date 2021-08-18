@@ -1,7 +1,7 @@
 {
-  "type": "tconstruct:severing",
   "entity": {
     "type": "minecraft:iron_golem"
   },
-  "result": "minecraft:carved_pumpkin"
+  "result": "minecraft:carved_pumpkin",
+  "type": "tconstruct:severing"
 }

@@ -1,34 +1,34 @@
 {
-  "type": "tconstruct:alloy",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/bronze",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     },
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/tin",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "inputs": [
     {
-      "tag": "tconstruct:molten_copper",
-      "amount": 432
+      "amount": 432,
+      "tag": "tconstruct:molten_copper"
     },
     {
-      "tag": "tconstruct:molten_tin",
-      "amount": 144
+      "amount": 144,
+      "tag": "tconstruct:molten_tin"
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_bronze",
-    "amount": 576
+    "amount": 576,
+    "fluid": "tconstruct:molten_bronze"
   },
-  "temperature": 700
+  "temperature": 700,
+  "type": "tconstruct:alloy"
 }

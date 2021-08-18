@@ -1,15 +1,10 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
-      "name": "pampaperbark0",
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
               "conditions": [
                 {
                   "condition": "minecraft:alternative",
@@ -36,20 +31,25 @@
                   ]
                 }
               ],
-              "name": "pamhc2trees:pampaperbark"
+              "name": "pamhc2trees:pampaperbark",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
-              "name": "minecraft:paper"
+              "name": "minecraft:paper",
+              "type": "minecraft:item"
             }
           ],
           "conditions": [
             {
               "condition": "minecraft:survives_explosion"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
-      ]
+      ],
+      "name": "pampaperbark0",
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

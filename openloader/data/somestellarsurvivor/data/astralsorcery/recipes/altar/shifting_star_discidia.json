@@ -1,15 +1,19 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 3,
   "duration": 600,
-  "starlight": 4800,
-  "pattern": [
-    "__B__",
-    "__A__",
-    "BCDCB",
-    "__A__",
-    "__B__"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:focus_dust_swirl",
+    "astralsorcery:focus_edge",
+    "astralsorcery:altar_focus_sparkle",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
+  "focus_constellation": "astralsorcery:discidia",
   "key": {
     "A": {
       "item": "minecraft:flint"
@@ -26,11 +30,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:shifting_star_discidia",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:shifting_star_discidia"
     }
   ],
-  "focus_constellation": "astralsorcery:discidia",
+  "pattern": [
+    "__B__",
+    "__A__",
+    "BCDCB",
+    "__A__",
+    "__B__"
+  ],
   "relay_inputs": [
     {
       "item": "minecraft:flint"
@@ -51,16 +61,6 @@
       "tag": "astralsorcery:stardust"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
-    "astralsorcery:focus_dust_swirl",
-    "astralsorcery:focus_edge",
-    "astralsorcery:altar_focus_sparkle",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "starlight": 4800,
+  "type": "astralsorcery:altar"
 }

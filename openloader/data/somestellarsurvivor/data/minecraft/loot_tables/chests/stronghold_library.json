@@ -1,54 +1,46 @@
 {
-  "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": {
-        "min": 2.0,
-        "max": 10.0,
-        "type": "minecraft:uniform"
-      },
       "entries": [
         {
-          "type": "minecraft:item",
-          "weight": 20,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:book"
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
-          "type": "minecraft:item",
-          "weight": 20,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 2.0,
                 "max": 7.0,
+                "min": 2.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:paper"
+          "name": "minecraft:paper",
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
-          "type": "minecraft:item",
-          "name": "minecraft:map"
+          "name": "minecraft:map",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
-          "name": "minecraft:compass"
+          "name": "minecraft:compass",
+          "type": "minecraft:item"
         },
         {
-          "type": "minecraft:item",
-          "weight": 10,
           "functions": [
             {
               "function": "minecraft:enchant_with_levels",
@@ -56,9 +48,17 @@
               "treasure": true
             }
           ],
-          "name": "minecraft:book"
+          "name": "minecraft:book",
+          "type": "minecraft:item",
+          "weight": 10
         }
-      ]
+      ],
+      "rolls": {
+        "max": 10.0,
+        "min": 2.0,
+        "type": "minecraft:uniform"
+      }
     }
-  ]
+  ],
+  "type": "minecraft:chest"
 }

@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,12 +10,12 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "minecraft:water",
+      "type": "inspirations:fluid"
+    },
     "item": {
       "item": "minecraft:glass_bottle"
-    },
-    "contents": {
-      "type": "inspirations:fluid",
-      "name": "minecraft:water"
     },
     "level": {
       "min": 4
@@ -31,5 +30,6 @@
       "add": -4
     }
   },
-  "sound": "minecraft:item.bottle.fill"
+  "sound": "minecraft:item.bottle.fill",
+  "type": "inspirations:cauldron"
 }

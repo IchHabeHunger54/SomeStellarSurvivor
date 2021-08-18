@@ -1,5 +1,4 @@
 {
-  "modid": "pamhc2foodcore",
   "foods": {
     "INGREDIENTS": [
       "pamhc2foodcore:flouritem",
@@ -23,6 +22,16 @@
       "pamhc2foodcore:creamitem"
     ]
   },
+  "milk": [
+    "pamhc2foodcore:freshmilkitem"
+  ],
+  "modid": "pamhc2foodcore",
+  "toaster": [
+    {
+      "input": "minecraft:bread",
+      "output": "pamhc2foodcore:toastitem"
+    }
+  ],
   "tools": [
     "pamhc2foodcore:cuttingboarditem",
     "pamhc2foodcore:potitem",
@@ -36,14 +45,5 @@
   ],
   "water": [
     "pamhc2foodcore:freshwateritem"
-  ],
-  "milk": [
-    "pamhc2foodcore:freshmilkitem"
-  ],
-  "toaster": [
-    {
-      "input": "minecraft:bread",
-      "output": "pamhc2foodcore:toastitem"
-    }
   ]
 }

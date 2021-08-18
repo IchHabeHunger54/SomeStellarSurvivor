@@ -1,9 +1,29 @@
 {
-    "slots": [
-        { "position": [ 11, 41 ] },
-        { "position": [ 31, 30 ] },
-        { "position": [ 31, 50 ] }
-    ],
-    "tool": { "position": [ 53, 41 ] },
-    "sortIndex": 0
+  "slots": [
+    {
+      "position": [
+        11,
+        41
+      ]
+    },
+    {
+      "position": [
+        31,
+        30
+      ]
+    },
+    {
+      "position": [
+        31,
+        50
+      ]
+    }
+  ],
+  "sortIndex": 0,
+  "tool": {
+    "position": [
+      53,
+      41
+    ]
+  }
 }

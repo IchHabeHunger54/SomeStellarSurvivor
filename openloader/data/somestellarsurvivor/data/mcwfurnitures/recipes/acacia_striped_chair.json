@@ -1,0 +1,23 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:acacia_plate"
+    },
+    "B": {
+      "item": "minecraft:acacia_fence"
+    },
+    "C": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  A",
+    " AC",
+    " BB"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:acacia_striped_chair"
+  },
+  "type": "minecraft:crafting_shaped"
+}

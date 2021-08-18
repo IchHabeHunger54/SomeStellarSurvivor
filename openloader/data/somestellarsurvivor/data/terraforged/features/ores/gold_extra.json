@@ -16,9 +16,9 @@
     ]
   ],
   "transform": {
-    "top_offset": 35,
+    "bottom_offset": 35,
     "count": 27,
     "maximum": 100,
-    "bottom_offset": 35
+    "top_offset": 35
   }
 }

@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_pot"
@@ -18,7 +17,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodextended:lemonlimesodaitem",
-    "count": 1
-  }
+    "count": 1,
+    "item": "pamhc2foodextended:lemonlimesodaitem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

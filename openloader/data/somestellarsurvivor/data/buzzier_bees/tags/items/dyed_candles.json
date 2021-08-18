@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "buzzier_bees:white_candle",
     "buzzier_bees:orange_candle",

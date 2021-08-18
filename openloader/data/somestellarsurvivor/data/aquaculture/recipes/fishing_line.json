@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " S ",
-    "SIS",
-    " S "
-  ],
   "key": {
     "I": {
       "tag": "forge:ingots/iron"
@@ -13,7 +7,13 @@
       "tag": "forge:string"
     }
   },
+  "pattern": [
+    " S ",
+    "SIS",
+    " S "
+  ],
   "result": {
     "item": "aquaculture:fishing_line"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

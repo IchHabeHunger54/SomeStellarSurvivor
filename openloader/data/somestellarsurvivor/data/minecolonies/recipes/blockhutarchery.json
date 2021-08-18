@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "XTX",
-    "BBB",
-    "XXX"
-  ],
   "key": {
-    "X": {
-      "tag": "minecraft:planks"
-    },
     "B": {
       "item": "minecraft:bow"
     },
     "T": {
       "item": "structurize:sceptergold"
+    },
+    "X": {
+      "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "XTX",
+    "BBB",
+    "XXX"
+  ],
   "result": {
-    "item": "minecolonies:blockhutarchery",
-    "count": 1
-  }
+    "count": 1,
+    "item": "minecolonies:blockhutarchery"
+  },
+  "type": "minecraft:crafting_shaped"
 }

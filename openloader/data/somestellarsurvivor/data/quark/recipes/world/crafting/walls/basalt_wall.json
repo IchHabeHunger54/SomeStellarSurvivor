@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "basalt",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:basalt"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:basalt_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:basalt_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "basalt"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

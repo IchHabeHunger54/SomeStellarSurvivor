@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "pamhc2foodextended:meatfeastpizzaitem"
     }
   ],
   "result": {
-    "item": "pamhc2foodextended:pizzasliceitem",
-    "count": 13
-  }
+    "count": 13,
+    "item": "pamhc2foodextended:pizzasliceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

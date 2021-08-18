@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "FFF",
-    "FFF",
-    "FFF"
-  ],
   "key": {
     "F": {
       "item": "alexsmobs:cockroach_wing_fragment"
     }
   },
+  "pattern": [
+    "FFF",
+    "FFF",
+    "FFF"
+  ],
   "result": {
-    "item": "alexsmobs:cockroach_wing",
-    "count": 1
-  }
+    "count": 1,
+    "item": "alexsmobs:cockroach_wing"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,17 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##",
-    "##"
-  ],
   "key": {
     "#": {
       "item": "structurize:blockcactusplank"
     }
   },
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "structurize:blockcactusdoor",
-    "count": 3
-  }
+    "count": 3,
+    "item": "structurize:blockcactusdoor"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "#W#",
-    "###"
+  "conditions": [
+    {
+      "flag": "iron_plates",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
@@ -13,14 +13,14 @@
       "item": "minecraft:water_bucket"
     }
   },
+  "pattern": [
+    "###",
+    "#W#",
+    "###"
+  ],
   "result": {
-    "item": "quark:rusty_iron_plate",
-    "count": 8
+    "count": 8,
+    "item": "quark:rusty_iron_plate"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "iron_plates"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

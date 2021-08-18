@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "wither_bone_conversion",
@@ -13,5 +12,6 @@
   ],
   "result": {
     "item": "minecraft:bone"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

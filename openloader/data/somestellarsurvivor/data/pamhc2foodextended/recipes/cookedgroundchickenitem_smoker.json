@@ -1,0 +1,9 @@
+{
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "forge:groundmeats/groundchicken"
+  },
+  "result": "pamhc2foodextended:cookedgroundchickenitem",
+  "type": "minecraft:smoking"
+}

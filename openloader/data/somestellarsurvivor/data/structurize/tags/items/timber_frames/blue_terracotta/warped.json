@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "structurize:plain_warped_blue_terracotta_timber_frame",
     "structurize:double_crossed_warped_blue_terracotta_timber_frame",

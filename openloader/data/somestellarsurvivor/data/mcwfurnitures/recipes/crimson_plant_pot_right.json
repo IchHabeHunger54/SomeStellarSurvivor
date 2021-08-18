@@ -1,0 +1,19 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:crimson_plate"
+    },
+    "B": {
+      "item": "minecraft:flower_pot"
+    }
+  },
+  "pattern": [
+    " AA",
+    " BA"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:crimson_plant_pot_right"
+  },
+  "type": "minecraft:crafting_shaped"
+}

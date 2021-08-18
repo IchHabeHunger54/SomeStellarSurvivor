@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "aquaculture:box_turtle",
     "aquaculture:arrau_turtle",

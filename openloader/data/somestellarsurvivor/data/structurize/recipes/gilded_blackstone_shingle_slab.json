@@ -1,9 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "III",
-    "SSS"
-  ],
   "key": {
     "I": {
       "item": "minecraft:gilded_blackstone"
@@ -12,8 +7,13 @@
       "item": "minecraft:stick"
     }
   },
+  "pattern": [
+    "III",
+    "SSS"
+  ],
   "result": {
-    "item": "structurize:gilded_blackstone_shingle_slab",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:gilded_blackstone_shingle_slab"
+  },
+  "type": "minecraft:crafting_shaped"
 }

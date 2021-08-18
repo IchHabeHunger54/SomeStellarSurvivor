@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "item": "pamhc2crops:hotcoffeeitem"
+    },
+    {
+      "item": "pamhc2crops:hotcoffeeitem"
+    },
+    {
+      "item": "pamhc2crops:hotcoffeeitem"
+    },
+    {
+      "tag": "forge:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:espressoitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

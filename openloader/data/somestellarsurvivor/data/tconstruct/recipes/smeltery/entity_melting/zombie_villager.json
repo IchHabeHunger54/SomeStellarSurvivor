@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:entity_melting",
+  "damage": 3,
   "entity": {
     "types": [
       "minecraft:zombie_villager",
@@ -7,8 +7,8 @@
     ]
   },
   "result": {
-    "fluid": "tconstruct:molten_emerald",
-    "amount": 8
+    "amount": 8,
+    "fluid": "tconstruct:molten_emerald"
   },
-  "damage": 3
+  "type": "tconstruct:entity_melting"
 }

@@ -1,28 +1,28 @@
 {
-  "type": "minecraft:fishing",
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "weight": 10,
+          "name": "aquaculture:gameplay/fishing/nether/junk",
           "quality": -2,
-          "name": "aquaculture:gameplay/fishing/nether/junk"
+          "type": "minecraft:loot_table",
+          "weight": 10
         },
         {
-          "type": "minecraft:loot_table",
-          "weight": 5,
+          "name": "aquaculture:gameplay/fishing/nether/treasure",
           "quality": 2,
-          "name": "aquaculture:gameplay/fishing/nether/treasure"
+          "type": "minecraft:loot_table",
+          "weight": 5
         },
         {
-          "type": "minecraft:loot_table",
-          "weight": 85,
+          "name": "aquaculture:gameplay/fishing/nether/fish",
           "quality": -1,
-          "name": "aquaculture:gameplay/fishing/nether/fish"
+          "type": "minecraft:loot_table",
+          "weight": 85
         }
-      ]
+      ],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:fishing"
 }

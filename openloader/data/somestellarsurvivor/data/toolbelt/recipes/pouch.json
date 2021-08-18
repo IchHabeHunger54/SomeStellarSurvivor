@@ -1,5 +1,4 @@
 {
-  "type": "forge:conditional",
   "recipes": [
     {
       "conditions": [
@@ -8,27 +7,28 @@
         }
       ],
       "recipe": {
-        "type": "minecraft:crafting_shaped",
+        "key": {
+          "g": {
+            "item": "minecraft:gold_ingot"
+          },
+          "l": {
+            "item": "minecraft:leather"
+          },
+          "s": {
+            "item": "minecraft:string"
+          }
+        },
         "pattern": [
           "sgs",
           "l l",
           "sls"
         ],
-        "key": {
-          "s": {
-            "item": "minecraft:string"
-          },
-          "l": {
-            "item": "minecraft:leather"
-          },
-          "g": {
-            "item": "minecraft:gold_ingot"
-          }
-        },
         "result": {
           "item": "toolbelt:pouch"
-        }
+        },
+        "type": "minecraft:crafting_shaped"
       }
     }
-  ]
+  ],
+  "type": "forge:conditional"
 }

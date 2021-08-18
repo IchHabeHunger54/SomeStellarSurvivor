@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:fiber/cotton",
     "#forge:fiber/flax",

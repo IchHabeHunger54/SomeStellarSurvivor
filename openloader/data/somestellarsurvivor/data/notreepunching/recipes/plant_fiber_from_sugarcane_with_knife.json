@@ -1,6 +1,5 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:sugar_cane"
@@ -12,5 +11,6 @@
   "result": {
     "count": 3,
     "item": "notreepunching:plant_fiber"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

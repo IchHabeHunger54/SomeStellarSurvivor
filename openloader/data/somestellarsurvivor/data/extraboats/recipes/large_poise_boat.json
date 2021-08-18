@@ -1,16 +1,11 @@
 {
   "conditions": [
     {
-      "type": "forge:mod_loaded",
-      "modid": "endergetic"
+      "modid": "endergetic",
+      "type": "forge:mod_loaded"
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "large_boat",
-  "pattern": [
-    "#W#",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "endergetic:poise_planks"
@@ -19,7 +14,12 @@
       "item": "endergetic:poise_boat"
     }
   },
+  "pattern": [
+    "#W#",
+    "###"
+  ],
   "result": {
     "item": "extraboats:large_poise_boat"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

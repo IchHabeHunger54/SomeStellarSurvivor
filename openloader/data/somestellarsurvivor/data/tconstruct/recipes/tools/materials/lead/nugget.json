@@ -1,18 +1,18 @@
 {
-  "type": "tconstruct:material",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:nuggets/lead",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:nuggets/lead"
   },
-  "value": 1,
+  "material": "tconstruct:lead",
   "needed": 9,
-  "material": "tconstruct:lead"
+  "type": "tconstruct:material",
+  "value": 1
 }

@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "tweaks_module",
@@ -18,23 +17,24 @@
       "type": "inspirations:config"
     }
   ],
+  "key": {
+    "D": {
+      "item": "minecraft:dropper"
+    },
+    "S": {
+      "tag": "forge:string"
+    },
+    "T": {
+      "tag": "forge:rods/wooden"
+    }
+  },
   "pattern": [
     "  T",
     " TS",
     "TDS"
   ],
-  "key": {
-    "T": {
-      "tag": "forge:rods/wooden"
-    },
-    "S": {
-      "tag": "forge:string"
-    },
-    "D": {
-      "item": "minecraft:dropper"
-    }
-  },
   "result": {
     "item": "inspirations:collector"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

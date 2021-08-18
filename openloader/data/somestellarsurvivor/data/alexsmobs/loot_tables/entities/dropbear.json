@@ -1,31 +1,31 @@
 {
   "pools": [
     {
-      "name": "dropbear",
-      "rolls": 1,
       "entries": [
         {
-          "type": "item",
-          "name": "alexsmobs:dropbear_claw",
-          "weight": 1,
           "functions": [
             {
-              "function": "set_count",
               "count": {
-                "min": 0,
-                "max": 2
-              }
+                "max": 2,
+                "min": 0
+              },
+              "function": "set_count"
             },
             {
-              "function": "looting_enchant",
               "count": {
-                "min": 0,
-                "max": 1
-              }
+                "max": 1,
+                "min": 0
+              },
+              "function": "looting_enchant"
             }
-          ]
+          ],
+          "name": "alexsmobs:dropbear_claw",
+          "type": "item",
+          "weight": 1
         }
-      ]
+      ],
+      "name": "dropbear",
+      "rolls": 1
     }
   ]
 }

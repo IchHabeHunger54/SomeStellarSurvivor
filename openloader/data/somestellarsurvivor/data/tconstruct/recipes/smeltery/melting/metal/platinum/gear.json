@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:gears/platinum",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:gears/platinum"
   },
   "result": {
-    "fluid": "tconstruct:molten_platinum",
-    "amount": 576
+    "amount": 576,
+    "fluid": "tconstruct:molten_platinum"
   },
   "temperature": 970,
-  "time": 131
+  "time": 131,
+  "type": "tconstruct:melting"
 }

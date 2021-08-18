@@ -1,13 +1,13 @@
 {
-  "type": "tconstruct:casting_table",
   "cast": {
     "tag": "tconstruct:casts/single_use/ingot"
   },
   "cast_consumed": true,
+  "cooling_time": 71,
   "fluid": {
-    "tag": "tconstruct:molten_debris",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_debris"
   },
   "result": "minecraft:netherite_scrap",
-  "cooling_time": 71
+  "type": "tconstruct:casting_table"
 }

@@ -1,10 +1,10 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:campfire_cooking",
+  "cookingtime": 600,
+  "experience": 0.1,
   "ingredient": {
     "item": "notreepunching:clay_bucket"
   },
   "result": "notreepunching:ceramic_bucket",
-  "experience": 0.1,
-  "cookingtime": 600
+  "type": "minecraft:campfire_cooking"
 }

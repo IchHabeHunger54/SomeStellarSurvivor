@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#structurize:timber_frames/acacia/oak",
     "#structurize:timber_frames/acacia/spruce",

@@ -1,0 +1,28 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:tilling",
+  "salvage": [
+    {
+      "chance": 0.35,
+      "item": "minecraft:netherite_scrap"
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "base": {
+      "tag": "tconstruct:modifiable/harvest/primary"
+    },
+    "type": "mantle:without",
+    "without": [
+      {
+        "item": "tconstruct:kama"
+      },
+      {
+        "item": "tconstruct:scythe"
+      }
+    ]
+  },
+  "type": "tconstruct:modifier_salvage"
+}

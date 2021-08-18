@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " G ",
-    "GHG",
-    " G "
-  ],
   "key": {
     "G": {
       "tag": "forge:nuggets/gold"
@@ -13,7 +7,13 @@
       "item": "aquaculture:iron_hook"
     }
   },
+  "pattern": [
+    " G ",
+    "GHG",
+    " G "
+  ],
   "result": {
     "item": "aquaculture:gold_hook"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:spices/vanilla"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:vanillaconchasbreaditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

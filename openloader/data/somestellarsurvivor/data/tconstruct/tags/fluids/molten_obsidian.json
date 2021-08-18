@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "tconstruct:molten_obsidian",
     "tconstruct:flowing_molten_obsidian"

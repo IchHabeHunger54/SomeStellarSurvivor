@@ -14,17 +14,17 @@
   ],
   "replace": {
     "config": {
-      "feature": {
-        "config": {
-          "template": "terraforged:pine"
-        },
-        "type": "terraforged:template"
-      },
       "decorator": {
         "config": {
           "chance": 80
         },
         "type": "minecraft:chance"
+      },
+      "feature": {
+        "config": {
+          "template": "terraforged:pine"
+        },
+        "type": "terraforged:template"
       }
     },
     "type": "minecraft:decorated"

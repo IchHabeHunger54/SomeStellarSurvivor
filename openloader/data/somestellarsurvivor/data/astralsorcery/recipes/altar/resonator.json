@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 100,
-  "starlight": 150,
-  "pattern": [
-    "_____",
-    "__C__",
-    "_DED_",
-    "_ABA_",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -24,23 +18,29 @@
       "item": "astralsorcery:marble_raw"
     },
     "E": {
-      "type": "astralsorcery:fluid",
       "fluid": [
         {
-          "fluid": "astralsorcery:liquid_starlight",
-          "amount": 1000
+          "amount": 1000,
+          "fluid": "astralsorcery:liquid_starlight"
         }
-      ]
+      ],
+      "type": "astralsorcery:fluid"
     }
   },
   "output": [
     {
-      "item": "astralsorcery:resonator",
       "count": 1,
+      "item": "astralsorcery:resonator",
       "nbt": "{astralsorcery:{upgrades:[0],selected_upgrade:0}}"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "__C__",
+    "_DED_",
+    "_ABA_",
+    "_____"
+  ],
+  "starlight": 150,
+  "type": "astralsorcery:altar"
 }

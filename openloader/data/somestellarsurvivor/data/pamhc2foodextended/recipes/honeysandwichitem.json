@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:nutbutters"
+    },
+    {
+      "tag": "forge:honey"
+    },
+    {
+      "tag": "forge:bread"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:honeysandwichitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

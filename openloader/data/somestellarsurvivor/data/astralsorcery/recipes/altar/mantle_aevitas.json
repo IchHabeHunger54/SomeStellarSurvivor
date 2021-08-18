@@ -1,15 +1,16 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 3,
   "duration": 720,
-  "starlight": 6400,
-  "pattern": [
-    "__B__",
-    "__A__",
-    "BACAB",
-    "__A__",
-    "__B__"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
+  "focus_constellation": "astralsorcery:aevitas",
   "key": {
     "A": {
       "tag": "minecraft:saplings"
@@ -21,22 +22,28 @@
       "item": "astralsorcery:mantle"
     }
   },
-  "recipe_class": "astralsorcery:constellation_base_nbt_copy",
-  "output": [
-    {
-      "item": "astralsorcery:mantle",
-      "count": 1
-    }
-  ],
   "options": {
+    "constellation": "astralsorcery:aevitas",
     "copy_nbt_from_items_matching": [
       {
         "item": "astralsorcery:mantle"
       }
-    ],
-    "constellation": "astralsorcery:aevitas"
+    ]
   },
-  "focus_constellation": "astralsorcery:aevitas",
+  "output": [
+    {
+      "count": 1,
+      "item": "astralsorcery:mantle"
+    }
+  ],
+  "pattern": [
+    "__B__",
+    "__A__",
+    "BACAB",
+    "__A__",
+    "__B__"
+  ],
+  "recipe_class": "astralsorcery:constellation_base_nbt_copy",
   "relay_inputs": [
     {
       "tag": "minecraft:saplings"
@@ -51,13 +58,6 @@
       "item": "minecraft:sugar_cane"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "starlight": 6400,
+  "type": "astralsorcery:altar"
 }

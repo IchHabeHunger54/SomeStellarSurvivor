@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:crops/cabbage"
+    },
+    {
+      "tag": "forge:rawmeats"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:eggrollitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

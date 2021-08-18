@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_bakeware"
@@ -9,7 +8,8 @@
     }
   ],
   "result": {
-    "item": "minecraft:bread",
-    "count": 1
-  }
+    "count": 1,
+    "item": "minecraft:bread"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

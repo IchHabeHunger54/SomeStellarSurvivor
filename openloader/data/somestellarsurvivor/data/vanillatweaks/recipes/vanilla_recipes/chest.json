@@ -1,23 +1,23 @@
 {
   "conditions": [
     {
-      "type": "vanillatweaks:vanilla",
-      "object": "chest"
+      "object": "chest",
+      "type": "vanillatweaks:vanilla"
     }
-  ],
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "OOO",
-    "O O",
-    "OOO"
   ],
   "key": {
     "O": {
       "tag": "minecraft:logs"
     }
   },
+  "pattern": [
+    "OOO",
+    "O O",
+    "OOO"
+  ],
   "result": {
-    "item": "minecraft:chest",
-    "count": 4
-  }
+    "count": 4,
+    "item": "minecraft:chest"
+  },
+  "type": "minecraft:crafting_shaped"
 }

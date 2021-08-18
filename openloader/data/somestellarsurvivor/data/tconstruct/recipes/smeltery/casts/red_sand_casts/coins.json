@@ -1,12 +1,11 @@
 {
-  "type": "tconstruct:molding_table",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:coins",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "material": {
@@ -15,5 +14,6 @@
   "pattern": {
     "tag": "forge:coins"
   },
-  "result": "tconstruct:coin_red_sand_cast"
+  "result": "tconstruct:coin_red_sand_cast",
+  "type": "tconstruct:molding_table"
 }

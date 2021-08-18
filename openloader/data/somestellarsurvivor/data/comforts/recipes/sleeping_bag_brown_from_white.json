@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "group": "dyed_sleeping_bag",
   "ingredients": [
     {
@@ -11,5 +10,6 @@
   ],
   "result": {
     "item": "comforts:sleeping_bag_brown"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

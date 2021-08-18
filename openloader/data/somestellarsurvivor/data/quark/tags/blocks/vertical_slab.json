@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "quark:acacia_vertical_slab",
     "quark:andesite_bricks_vertical_slab",

@@ -1,0 +1,22 @@
+{
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "tag": "forge:chests/wooden"
+    },
+    "C": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:drawer"
+  },
+  "type": "minecraft:crafting_shaped"
+}

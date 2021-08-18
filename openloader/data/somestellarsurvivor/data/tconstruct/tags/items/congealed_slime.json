@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "tconstruct:earth_congealed_slime",
     "tconstruct:sky_congealed_slime",

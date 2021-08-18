@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "item": "pamhc2foodcore:sunflowerseedsitem"
+    },
+    {
+      "item": "pamhc2foodcore:sunflowerseedsitem"
+    },
+    {
+      "item": "pamhc2foodcore:sunflowerseedsitem"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:cookingoil"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:sunflowerwheatrollsitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

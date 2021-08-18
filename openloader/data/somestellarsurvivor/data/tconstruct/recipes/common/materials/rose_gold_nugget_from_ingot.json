@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "group": "tconstruct:rose_gold_nugget",
   "ingredients": [
     {
@@ -7,7 +6,8 @@
     }
   ],
   "result": {
-    "item": "tconstruct:rose_gold_nugget",
-    "count": 9
-  }
+    "count": 9,
+    "item": "tconstruct:rose_gold_nugget"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

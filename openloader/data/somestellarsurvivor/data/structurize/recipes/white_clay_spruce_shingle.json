@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:clay_spruce_shingle"
@@ -30,7 +29,8 @@
     }
   ],
   "result": {
-    "item": "structurize:white_clay_spruce_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:white_clay_spruce_shingle"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

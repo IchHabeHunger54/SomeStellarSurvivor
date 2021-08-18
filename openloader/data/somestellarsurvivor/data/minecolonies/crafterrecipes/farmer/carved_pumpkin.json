@@ -1,13 +1,13 @@
 {
-  "type": "recipe",
+  "count": 1,
   "crafter": "farmer_crafting",
   "inputs": [
     {
-      "item": "minecraft:pumpkin",
-      "count": 1
+      "count": 1,
+      "item": "minecraft:pumpkin"
     }
   ],
+  "intermediate": "minecraft:air",
   "result": "minecraft:carved_pumpkin",
-  "count": 1,
-  "intermediate": "minecraft:air"
+  "type": "recipe"
 }

@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "utility_module",
@@ -10,9 +9,6 @@
       "type": "inspirations:config"
     }
   ],
-  "pattern": [
-    "IPI"
-  ],
   "key": {
     "I": {
       "tag": "forge:ingots/iron"
@@ -21,8 +17,12 @@
       "tag": "minecraft:planks"
     }
   },
+  "pattern": [
+    "IPI"
+  ],
   "result": {
-    "item": "inspirations:pipe",
-    "count": 4
-  }
+    "count": 4,
+    "item": "inspirations:pipe"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,5 +1,43 @@
 {
-  "type": "recipe",
+  "alternate-output": [
+    {
+      "count": 4,
+      "item": "structurize:double_crossed_crimson_light_gray_terracotta_timber_frame"
+    },
+    {
+      "count": 4,
+      "item": "structurize:framed_crimson_light_gray_terracotta_timber_frame"
+    },
+    {
+      "count": 4,
+      "item": "structurize:side_framed_crimson_light_gray_terracotta_timber_frame"
+    },
+    {
+      "count": 4,
+      "item": "structurize:up_gated_crimson_light_gray_terracotta_timber_frame"
+    },
+    {
+      "count": 4,
+      "item": "structurize:down_gated_crimson_light_gray_terracotta_timber_frame"
+    },
+    {
+      "count": 4,
+      "item": "structurize:one_crossed_lr_crimson_light_gray_terracotta_timber_frame"
+    },
+    {
+      "count": 4,
+      "item": "structurize:one_crossed_rl_crimson_light_gray_terracotta_timber_frame"
+    },
+    {
+      "count": 4,
+      "item": "structurize:horizontal_plain_crimson_light_gray_terracotta_timber_frame"
+    },
+    {
+      "count": 4,
+      "item": "structurize:side_framed_horizontal_crimson_light_gray_terracotta_timber_frame"
+    }
+  ],
+  "count": 4,
   "crafter": "sawmill_crafting",
   "inputs": [
     {
@@ -12,46 +50,8 @@
       "item": "structurize:sceptergold"
     }
   ],
-  "alternate-output": [
-    {
-      "item": "structurize:double_crossed_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    },
-    {
-      "item": "structurize:framed_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    },
-    {
-      "item": "structurize:side_framed_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    },
-    {
-      "item": "structurize:up_gated_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    },
-    {
-      "item": "structurize:down_gated_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    },
-    {
-      "item": "structurize:one_crossed_lr_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    },
-    {
-      "item": "structurize:one_crossed_rl_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    },
-    {
-      "item": "structurize:horizontal_plain_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    },
-    {
-      "item": "structurize:side_framed_horizontal_crimson_light_gray_terracotta_timber_frame",
-      "count": 4
-    }
-  ],
-  "result": "structurize:plain_crimson_light_gray_terracotta_timber_frame",
-  "count": 4,
+  "intermediate": "minecraft:air",
   "must-exist": true,
-  "intermediate": "minecraft:air"
+  "result": "structurize:plain_crimson_light_gray_terracotta_timber_frame",
+  "type": "recipe"
 }

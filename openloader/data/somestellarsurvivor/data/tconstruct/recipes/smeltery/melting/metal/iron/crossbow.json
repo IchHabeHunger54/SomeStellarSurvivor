@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:damagable_melting",
   "ingredient": {
     "item": "minecraft:crossbow"
   },
   "result": {
-    "fluid": "tconstruct:molten_iron",
-    "amount": 216
+    "amount": 216,
+    "fluid": "tconstruct:molten_iron"
   },
   "temperature": 800,
-  "time": 74
+  "time": 74,
+  "type": "tconstruct:damagable_melting"
 }

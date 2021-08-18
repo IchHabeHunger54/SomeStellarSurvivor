@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "conditions": [
     {
       "prop": "building_module",
@@ -20,5 +19,6 @@
   ],
   "result": {
     "item": "inspirations:blue_mulch"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "G": {
+      "data": 0,
+      "item": "minecolonies:barrel_block"
+    },
+    "T": {
+      "item": "structurize:sceptergold"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
   "pattern": [
     "WTW",
     "WGW",
     "WWW"
   ],
-  "key": {
-    "W": {
-      "tag": "minecraft:planks"
-    },
-    "G": {
-      "item": "minecolonies:barrel_block",
-      "data": 0
-    },
-    "T": {
-      "item": "structurize:sceptergold"
-    }
-  },
   "result": {
     "item": "minecolonies:blockhutcomposter"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

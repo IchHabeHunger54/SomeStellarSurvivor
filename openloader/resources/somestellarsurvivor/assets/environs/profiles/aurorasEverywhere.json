@@ -1,8 +1,8 @@
 {
   "biomes": [
     {
-      "conditions": "TRUE",
-      "aurora": true
+      "aurora": true,
+      "conditions": "TRUE"
     }
   ]
 }

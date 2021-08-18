@@ -1,6 +1,5 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "notreepunching:clay_tool"
@@ -11,5 +10,6 @@
   ],
   "result": {
     "item": "notreepunching:clay_brick"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

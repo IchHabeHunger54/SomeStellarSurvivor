@@ -1,15 +1,15 @@
 {
-  "type": "tconstruct:casting_table",
   "cast": {
     "tag": "tconstruct:casts/single_use/ingot"
   },
   "cast_consumed": true,
+  "cooling_time": 65,
   "fluid": {
-    "tag": "tconstruct:molten_cobalt",
-    "amount": 144
+    "amount": 144,
+    "tag": "tconstruct:molten_cobalt"
   },
   "result": {
     "tag": "forge:ingots/cobalt"
   },
-  "cooling_time": 65
+  "type": "tconstruct:casting_table"
 }

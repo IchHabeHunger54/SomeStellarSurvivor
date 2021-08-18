@@ -1,27 +1,27 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "flag": "vertical_planks",
+          "type": "quark:flag"
+        },
+        {
+          "flag": "stained_planks",
+          "type": "quark:flag"
+        }
+      ]
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:vertical_brown_stained_planks"
     }
   ],
   "result": {
-    "item": "quark:brown_stained_planks",
-    "count": 1
+    "count": 1,
+    "item": "quark:brown_stained_planks"
   },
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "vertical_planks"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "stained_planks"
-        }
-      ]
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

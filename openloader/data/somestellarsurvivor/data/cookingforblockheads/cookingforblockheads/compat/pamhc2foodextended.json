@@ -1,5 +1,4 @@
 {
-  "modid": "pamhc2foodextended",
   "foods": {
     "INGREDIENTS": [
       "pamhc2foodextended:hotsauceitem",
@@ -14,5 +13,6 @@
       "pamhc2foodextended:saltandpepperitem",
       "pamhc2foodextended:mushroomoilitem"
     ]
-  }
+  },
+  "modid": "pamhc2foodextended"
 }

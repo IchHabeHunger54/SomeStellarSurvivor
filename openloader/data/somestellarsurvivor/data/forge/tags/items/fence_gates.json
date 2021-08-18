@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#forge:fence_gates/wooden",
     "#cfm:fence_gates/upgraded"

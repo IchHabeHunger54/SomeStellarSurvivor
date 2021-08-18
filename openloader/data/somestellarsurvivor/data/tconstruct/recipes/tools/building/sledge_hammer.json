@@ -1,4 +1,4 @@
 {
-  "type": "tconstruct:tool_building",
-  "result": "tconstruct:sledge_hammer"
+  "result": "tconstruct:sledge_hammer",
+  "type": "tconstruct:tool_building"
 }

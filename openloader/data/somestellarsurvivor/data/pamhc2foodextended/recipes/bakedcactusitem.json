@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:bakedcactusitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:modifier",
+  "ability_slots": 1,
   "inputs": [
     {
       "tag": "forge:ingots/manyullyn"
@@ -17,10 +17,13 @@
       "tag": "forge:slimeball/sky"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:dual_wielding"
+  },
   "tools": {
-    "type": "mantle:without",
     "base": {
-      "type": "mantle:intersection",
       "ingredients": [
         {
           "tag": "tconstruct:modifiable/melee"
@@ -28,16 +31,13 @@
         {
           "tag": "tconstruct:modifiable/one_handed"
         }
-      ]
+      ],
+      "type": "mantle:intersection"
     },
+    "type": "mantle:without",
     "without": {
       "item": "tconstruct:dagger"
     }
   },
-  "result": {
-    "name": "tconstruct:dual_wielding",
-    "level": 1
-  },
-  "max_level": 1,
-  "ability_slots": 1
+  "type": "tconstruct:modifier"
 }

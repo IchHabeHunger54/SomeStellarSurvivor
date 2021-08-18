@@ -1,34 +1,34 @@
 {
-  "type": "minecraft:chest",
   "pools": [
     {
-      "rolls": {
-        "min": 0.0,
-        "max": 1.0,
-        "type": "minecraft:uniform"
-      },
       "entries": [
         {
-          "type": "minecraft:item",
-          "weight": 5,
           "functions": [
             {
-              "function": "minecraft:set_count",
               "count": {
-                "min": 1.0,
                 "max": 3.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
-              }
+              },
+              "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:honey_bottle"
+          "name": "minecraft:honey_bottle",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
+          "name": "buzzier_bees:four_leaf_clover",
           "type": "minecraft:item",
-          "weight": 2,
-          "name": "buzzier_bees:four_leaf_clover"
+          "weight": 2
         }
-      ]
+      ],
+      "rolls": {
+        "max": 1.0,
+        "min": 0.0,
+        "type": "minecraft:uniform"
+      }
     }
-  ]
+  ],
+  "type": "minecraft:chest"
 }

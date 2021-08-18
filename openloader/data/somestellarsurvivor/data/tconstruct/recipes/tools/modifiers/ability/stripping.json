@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:modifier",
+  "ability_slots": 1,
   "inputs": [
     {
       "item": "tconstruct:small_axe_head",
@@ -13,11 +13,16 @@
       "type": "tconstruct:material"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:stripping"
+  },
   "tools": {
-    "type": "mantle:without",
     "base": {
       "tag": "tconstruct:modifiable/harvest/primary"
     },
+    "type": "mantle:without",
     "without": [
       {
         "item": "tconstruct:hand_axe"
@@ -27,10 +32,5 @@
       }
     ]
   },
-  "result": {
-    "name": "tconstruct:stripping",
-    "level": 1
-  },
-  "max_level": 1,
-  "ability_slots": 1
+  "type": "tconstruct:modifier"
 }

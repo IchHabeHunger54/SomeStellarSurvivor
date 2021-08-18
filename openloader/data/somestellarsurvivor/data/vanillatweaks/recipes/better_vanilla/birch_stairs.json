@@ -3,25 +3,25 @@
     {
       "type": "forge:not",
       "value": {
-        "type": "vanillatweaks:better_vanilla",
-        "object": "better_stairs"
+        "object": "better_stairs",
+        "type": "vanillatweaks:better_vanilla"
       }
     }
   ],
-  "type": "minecraft:crafting_shaped",
   "group": "wooden_stairs",
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
   "key": {
     "#": {
       "item": "minecraft:birch_planks"
     }
   },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
   "result": {
-    "item": "minecraft:birch_stairs",
-    "count": 4
-  }
+    "count": 4,
+    "item": "minecraft:birch_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,14 +1,12 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 2,
   "duration": 400,
-  "starlight": 2400,
-  "pattern": [
-    "_____",
-    "_ABA_",
-    "_ACA_",
-    "_ADA_",
-    "EE_EE"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -21,13 +19,13 @@
       "tag": "minecraft:saplings"
     },
     "D": {
-      "type": "astralsorcery:fluid",
       "fluid": [
         {
-          "fluid": "astralsorcery:liquid_starlight",
-          "amount": 1000
+          "amount": 1000,
+          "fluid": "astralsorcery:liquid_starlight"
         }
-      ]
+      ],
+      "type": "astralsorcery:fluid"
     },
     "E": {
       "item": "astralsorcery:marble_runed"
@@ -35,15 +33,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:tree_beacon",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:tree_beacon"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "_____",
+    "_ABA_",
+    "_ACA_",
+    "_ADA_",
+    "EE_EE"
+  ],
+  "starlight": 2400,
+  "type": "astralsorcery:altar"
 }

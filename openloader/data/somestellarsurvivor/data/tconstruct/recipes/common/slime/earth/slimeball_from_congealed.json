@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "group": "tconstruct:slime_balls",
   "ingredients": [
     {
@@ -7,7 +6,8 @@
     }
   ],
   "result": {
-    "item": "minecraft:slime_ball",
-    "count": 4
-  }
+    "count": 4,
+    "item": "minecraft:slime_ball"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

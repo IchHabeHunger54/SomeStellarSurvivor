@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "  C",
-    " S ",
-    "S  "
-  ],
   "key": {
     "C": {
       "item": "minecraft:cobblestone"
@@ -13,7 +7,13 @@
       "item": "minecraft:stick"
     }
   },
+  "pattern": [
+    "  C",
+    " S ",
+    "S  "
+  ],
   "result": {
     "item": "structurize:sceptergold"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

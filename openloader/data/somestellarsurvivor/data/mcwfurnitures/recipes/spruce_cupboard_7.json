@@ -1,0 +1,18 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:spruce_cupboard_6"
+    },
+    "B": {
+      "item": "mcwfurnitures:spruce_plate"
+    }
+  },
+  "pattern": [
+    "AB"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:spruce_cupboard_7"
+  },
+  "type": "minecraft:crafting_shaped"
+}

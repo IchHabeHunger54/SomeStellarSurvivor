@@ -1,19 +1,13 @@
 {
-  "type": "forge:conditional",
   "recipes": [
     {
       "conditions": [
         {
-          "type": "roughtweaks:isconfigenabled",
-          "config_setting": "enable_bandage"
+          "config_setting": "enable_bandage",
+          "type": "roughtweaks:isconfigenabled"
         }
       ],
       "recipe": {
-        "type": "minecraft:crafting_shaped",
-        "pattern": [
-          "#W#",
-          " B "
-        ],
         "key": {
           "#": {
             "item": "minecraft:string"
@@ -22,14 +16,20 @@
             "item": "roughtweaks:salve"
           },
           "W": {
-            "tag": "minecraft:wool",
-            "data": 32767
+            "data": 32767,
+            "tag": "minecraft:wool"
           }
         },
+        "pattern": [
+          "#W#",
+          " B "
+        ],
         "result": {
           "item": "roughtweaks:bandage"
-        }
+        },
+        "type": "minecraft:crafting_shaped"
       }
     }
-  ]
+  ],
+  "type": "forge:conditional"
 }

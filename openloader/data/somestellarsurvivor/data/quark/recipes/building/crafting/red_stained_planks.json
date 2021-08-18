@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "stained_planks",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "tag": "minecraft:planks"
@@ -30,13 +35,8 @@
     }
   ],
   "result": {
-    "item": "quark:red_stained_planks",
-    "count": 8
+    "count": 8,
+    "item": "quark:red_stained_planks"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "stained_planks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

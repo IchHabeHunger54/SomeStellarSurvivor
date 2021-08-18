@@ -1,0 +1,19 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:warped_plate"
+    },
+    "B": {
+      "item": "minecraft:warped_stem"
+    }
+  },
+  "pattern": [
+    " AA",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:warped_modern_desk_right"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,40 +1,40 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "GGG",
-    "BBB",
-    "PPP"
-  ],
-  "key": {
-    "G": {
-      "item": "minecraft:glass"
-    },
-    "B": {
-      "item": "minecraft:obsidian"
-    },
-    "P": {
-      "item": "minecraft:purpur_slab"
-    }
-  },
-  "result": {
-    "item": "quark:weather_sensor"
-  },
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "weather_sensor"
+          "flag": "weather_sensor",
+          "type": "quark:flag"
         },
         {
           "type": "forge:not",
           "value": {
-            "type": "quark:flag",
-            "flag": "biotite"
+            "flag": "biotite",
+            "type": "quark:flag"
           }
         }
       ]
     }
-  ]
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:obsidian"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "P": {
+      "item": "minecraft:purpur_slab"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "BBB",
+    "PPP"
+  ],
+  "result": {
+    "item": "quark:weather_sensor"
+  },
+  "type": "minecraft:crafting_shaped"
 }

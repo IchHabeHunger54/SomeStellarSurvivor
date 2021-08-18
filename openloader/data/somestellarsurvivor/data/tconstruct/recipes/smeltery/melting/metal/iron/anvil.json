@@ -1,12 +1,12 @@
 {
-  "type": "tconstruct:melting",
   "ingredient": {
     "item": "minecraft:anvil"
   },
   "result": {
-    "fluid": "tconstruct:molten_iron",
-    "amount": 4464
+    "amount": 4464,
+    "fluid": "tconstruct:molten_iron"
   },
   "temperature": 800,
-  "time": 335
+  "time": 335,
+  "type": "tconstruct:melting"
 }

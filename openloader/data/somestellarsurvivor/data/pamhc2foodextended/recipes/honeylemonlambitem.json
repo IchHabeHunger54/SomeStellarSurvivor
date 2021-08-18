@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:rawmutton"
+    },
+    {
+      "tag": "forge:crops/lemon"
+    },
+    {
+      "tag": "forge:condiments/mustard"
+    },
+    {
+      "tag": "forge:honey"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:honeylemonlambitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 100,
-  "starlight": 800,
-  "pattern": [
-    "_____",
-    "_ABA_",
-    "_C_C_",
-    "_ABA_",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -23,11 +17,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:illuminator",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:illuminator"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "_ABA_",
+    "_C_C_",
+    "_ABA_",
+    "_____"
+  ],
+  "starlight": 800,
+  "type": "astralsorcery:altar"
 }

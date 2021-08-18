@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodextended:bamboosteamedriceitem"
+    },
+    {
+      "item": "pamhc2foodcore:pickledbeetsitem"
+    },
+    {
+      "item": "pamhc2foodextended:teriyakichickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:sushiitem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:bentoboxitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

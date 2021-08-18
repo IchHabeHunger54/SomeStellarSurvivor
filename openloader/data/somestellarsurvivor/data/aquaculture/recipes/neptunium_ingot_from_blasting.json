@@ -1,5 +1,6 @@
 {
-  "type": "minecraft:blasting",
+  "cookingtime": 200,
+  "experience": 0.5,
   "ingredient": [
     {
       "item": "aquaculture:neptunium_axe"
@@ -39,6 +40,5 @@
     }
   ],
   "result": "aquaculture:neptunium_ingot",
-  "experience": 0.5,
-  "cookingtime": 200
+  "type": "minecraft:blasting"
 }

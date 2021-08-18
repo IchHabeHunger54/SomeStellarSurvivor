@@ -1,20 +1,20 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "tag": "forge:gems/diamond"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
   "pattern": [
     "III",
     " SI",
     " S "
   ],
-  "key": {
-    "S": {
-      "tag": "forge:rods/wooden"
-    },
-    "I": {
-      "tag": "forge:gems/diamond"
-    }
-  },
   "result": {
     "item": "notreepunching:diamond_mattock"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

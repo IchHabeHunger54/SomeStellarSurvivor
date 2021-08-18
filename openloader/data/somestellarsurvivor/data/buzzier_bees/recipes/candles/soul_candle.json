@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "buzzier_bees:candle_wick"
+    },
+    "B": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "S": {
+      "tag": "buzzier_bees:candle_base"
+    }
+  },
   "pattern": [
     "#",
     "S",
     "B"
   ],
-  "key": {
-    "#": {
-      "tag": "buzzier_bees:candle_wick"
-    },
-    "S": {
-      "tag": "buzzier_bees:candle_base"
-    },
-    "B": {
-      "tag": "minecraft:soul_fire_base_blocks"
-    }
-  },
   "result": {
-    "item": "buzzier_bees:soul_candle",
-    "count": 1
-  }
+    "count": 1,
+    "item": "buzzier_bees:soul_candle"
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,9 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#-#",
-    "#-#"
-  ],
   "key": {
     "#": {
       "item": "minecraft:nether_bricks"
@@ -12,8 +7,13 @@
       "item": "minecraft:nether_brick"
     }
   },
+  "pattern": [
+    "#-#",
+    "#-#"
+  ],
   "result": {
-    "item": "minecraft:nether_brick_fence",
-    "count": 6
-  }
+    "count": 6,
+    "item": "minecraft:nether_brick_fence"
+  },
+  "type": "minecraft:crafting_shaped"
 }

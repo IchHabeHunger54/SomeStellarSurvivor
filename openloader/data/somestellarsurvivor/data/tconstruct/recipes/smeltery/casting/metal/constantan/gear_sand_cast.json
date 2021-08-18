@@ -1,24 +1,24 @@
 {
-  "type": "tconstruct:casting_table",
-  "conditions": [
-    {
-      "value": {
-        "tag": "forge:gears/constantan",
-        "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
-    }
-  ],
   "cast": {
     "tag": "tconstruct:casts/single_use/gear"
   },
   "cast_consumed": true,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "tag": "forge:gears/constantan",
+        "type": "forge:tag_empty"
+      }
+    }
+  ],
+  "cooling_time": 128,
   "fluid": {
-    "tag": "tconstruct:molten_constantan",
-    "amount": 576
+    "amount": 576,
+    "tag": "tconstruct:molten_constantan"
   },
   "result": {
     "tag": "forge:gears/constantan"
   },
-  "cooling_time": 128
+  "type": "tconstruct:casting_table"
 }

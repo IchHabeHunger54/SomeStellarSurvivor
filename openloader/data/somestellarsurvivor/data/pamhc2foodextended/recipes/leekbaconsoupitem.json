@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/leek"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:crops/potato"
+    },
+    {
+      "tag": "forge:cream"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:leekbaconsoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

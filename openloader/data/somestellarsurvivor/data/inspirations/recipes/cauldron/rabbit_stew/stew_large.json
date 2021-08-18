@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,13 +10,13 @@
     }
   ],
   "input": {
-    "item": {
-      "item": "minecraft:cooked_rabbit",
-      "amount_needed": 2
-    },
     "contents": {
-      "type": "inspirations:fluid",
-      "name": "inspirations:potato_soup"
+      "name": "inspirations:potato_soup",
+      "type": "inspirations:fluid"
+    },
+    "item": {
+      "amount_needed": 2,
+      "item": "minecraft:cooked_rabbit"
     },
     "level": {
       "min": 5
@@ -26,8 +25,9 @@
   },
   "output": {
     "contents": {
-      "type": "inspirations:fluid",
-      "name": "inspirations:rabbit_stew"
+      "name": "inspirations:rabbit_stew",
+      "type": "inspirations:fluid"
     }
-  }
+  },
+  "type": "inspirations:cauldron"
 }

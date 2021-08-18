@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "data": 0,
+      "item": "minecraft:apple"
+    },
+    "T": {
+      "item": "structurize:sceptergold"
+    },
+    "X": {
+      "tag": "minecraft:planks"
+    }
+  },
   "pattern": [
     "XTX",
     "XDX",
     "XXX"
   ],
-  "key": {
-    "X": {
-      "tag": "minecraft:planks"
-    },
-    "D": {
-      "item": "minecraft:apple",
-      "data": 0
-    },
-    "T": {
-      "item": "structurize:sceptergold"
-    }
-  },
   "result": {
     "item": "minecolonies:blockhutcook"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

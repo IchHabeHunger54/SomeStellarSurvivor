@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "flag": "midori",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:cactus_paste"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:midori_block",
-    "count": 4
+    "count": 4,
+    "item": "quark:midori_block"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "midori"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

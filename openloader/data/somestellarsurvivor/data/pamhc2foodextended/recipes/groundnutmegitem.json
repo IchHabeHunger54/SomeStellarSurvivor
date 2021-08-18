@@ -1,0 +1,36 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:crops/nutmeg"
+    },
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:tool_grinder"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:groundnutmegitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

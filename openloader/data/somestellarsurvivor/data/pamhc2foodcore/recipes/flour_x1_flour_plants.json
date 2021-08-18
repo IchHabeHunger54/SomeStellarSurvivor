@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "tag": "forge:tool_grinder"
@@ -9,7 +8,8 @@
     }
   ],
   "result": {
-    "item": "pamhc2foodcore:flouritem",
-    "count": 1
-  }
+    "count": 1,
+    "item": "pamhc2foodcore:flouritem"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

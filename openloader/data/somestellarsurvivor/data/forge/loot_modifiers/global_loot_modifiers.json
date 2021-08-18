@@ -1,5 +1,4 @@
 {
-  "replace": true,
   "entries": [
     "astralsorcery:perk_void_trash",
     "astralsorcery:scorching_heat",
@@ -9,5 +8,6 @@
     "curios:fortune_bonus",
     "alexsmobs:banana_drop",
     "alexsmobs:blossom_drop"
-  ]
+  ],
+  "replace": true
 }

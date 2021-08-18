@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "jasper",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:jasper"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:jasper_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:jasper_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "jasper"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

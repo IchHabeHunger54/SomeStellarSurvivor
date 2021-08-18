@@ -1,9 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " I",
-    "S "
-  ],
   "key": {
     "I": {
       "tag": "forge:ingots/iron"
@@ -12,7 +7,12 @@
       "tag": "forge:rods/wooden"
     }
   },
+  "pattern": [
+    " I",
+    "S "
+  ],
   "result": {
     "item": "chisel:iron_chisel"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

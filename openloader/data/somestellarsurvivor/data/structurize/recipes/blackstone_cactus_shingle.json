@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:blackstone"
+    },
+    "P": {
+      "item": "structurize:blockcactusplank"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
   "pattern": [
     "I  ",
     "SI ",
     "PSI"
   ],
-  "key": {
-    "I": {
-      "item": "minecraft:blackstone"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    },
-    "P": {
-      "item": "structurize:blockcactusplank"
-    }
-  },
   "result": {
-    "item": "structurize:blackstone_cactus_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:blackstone_cactus_shingle"
+  },
+  "type": "minecraft:crafting_shaped"
 }

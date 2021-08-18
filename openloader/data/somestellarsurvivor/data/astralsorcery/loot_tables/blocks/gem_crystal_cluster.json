@@ -1,64 +1,64 @@
 {
-  "type": "minecraft:block",
+  "functions": [
+    {
+      "function": "minecraft:explosion_decay"
+    }
+  ],
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
           "conditions": [
             {
-              "condition": "minecraft:block_state_property",
               "block": "astralsorcery:gem_crystal_cluster",
+              "condition": "minecraft:block_state_property",
               "properties": {
                 "stage": "stage_2_day"
               }
             }
           ],
-          "name": "astralsorcery:perk_gem_day"
+          "name": "astralsorcery:perk_gem_day",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1
     },
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
           "conditions": [
             {
-              "condition": "minecraft:block_state_property",
               "block": "astralsorcery:gem_crystal_cluster",
+              "condition": "minecraft:block_state_property",
               "properties": {
                 "stage": "stage_2_night"
               }
             }
           ],
-          "name": "astralsorcery:perk_gem_night"
+          "name": "astralsorcery:perk_gem_night",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1
     },
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
           "conditions": [
             {
-              "condition": "minecraft:block_state_property",
               "block": "astralsorcery:gem_crystal_cluster",
+              "condition": "minecraft:block_state_property",
               "properties": {
                 "stage": "stage_2_sky"
               }
             }
           ],
-          "name": "astralsorcery:perk_gem_sky"
+          "name": "astralsorcery:perk_gem_sky",
+          "type": "minecraft:item"
         }
-      ]
+      ],
+      "rolls": 1
     }
   ],
-  "functions": [
-    {
-      "function": "minecraft:explosion_decay"
-    }
-  ]
+  "type": "minecraft:block"
 }

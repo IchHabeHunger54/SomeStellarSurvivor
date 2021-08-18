@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "ISI",
-    "IBI"
-  ],
   "key": {
-    "S": {
-      "item": "minecraft:string"
+    "B": {
+      "item": "minecraft:barrel"
     },
     "I": {
       "item": "minecraft:iron_ingot"
     },
-    "B": {
-      "item": "minecraft:barrel"
+    "S": {
+      "item": "minecraft:string"
     }
   },
+  "pattern": [
+    "ISI",
+    "IBI"
+  ],
   "result": {
     "item": "toughasnails:rain_collector"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

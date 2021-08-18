@@ -1,29 +1,29 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#",
-    "S",
-    "B"
+  "conditions": [
+    {
+      "modid": "endergetic",
+      "type": "forge:mod_loaded"
+    }
   ],
   "key": {
     "#": {
       "tag": "buzzier_bees:candle_wick"
     },
-    "S": {
-      "tag": "buzzier_bees:candle_base"
-    },
     "B": {
       "tag": "endergetic:ender_fire_base_blocks"
+    },
+    "S": {
+      "tag": "buzzier_bees:candle_base"
     }
   },
+  "pattern": [
+    "#",
+    "S",
+    "B"
+  ],
   "result": {
-    "item": "buzzier_bees:ender_candle",
-    "count": 1
+    "count": 1,
+    "item": "buzzier_bees:ender_candle"
   },
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "endergetic"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

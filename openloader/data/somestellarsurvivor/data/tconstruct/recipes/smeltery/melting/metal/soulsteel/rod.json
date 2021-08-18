@@ -1,21 +1,21 @@
 {
-  "type": "tconstruct:melting",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:rods/soulsteel",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "ingredient": {
     "tag": "forge:rods/soulsteel"
   },
   "result": {
-    "fluid": "tconstruct:molten_soulsteel",
-    "amount": 72
+    "amount": 72,
+    "fluid": "tconstruct:molten_soulsteel"
   },
   "temperature": 1200,
-  "time": 14
+  "time": 14,
+  "type": "tconstruct:melting"
 }

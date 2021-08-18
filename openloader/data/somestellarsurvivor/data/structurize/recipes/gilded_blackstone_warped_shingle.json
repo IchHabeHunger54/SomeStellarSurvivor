@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "minecraft:gilded_blackstone"
+    },
+    "P": {
+      "item": "minecraft:warped_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
   "pattern": [
     "I  ",
     "SI ",
     "PSI"
   ],
-  "key": {
-    "I": {
-      "item": "minecraft:gilded_blackstone"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    },
-    "P": {
-      "item": "minecraft:warped_planks"
-    }
-  },
   "result": {
-    "item": "structurize:gilded_blackstone_warped_shingle",
-    "count": 8
-  }
+    "count": 8,
+    "item": "structurize:gilded_blackstone_warped_shingle"
+  },
+  "type": "minecraft:crafting_shaped"
 }

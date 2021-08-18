@@ -1,19 +1,19 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
   "pattern": [
     "  X",
     " S ",
     "S  "
   ],
-  "key": {
-    "X": {
-      "item": "minecraft:iron_ingot"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    }
-  },
   "result": {
     "item": "structurize:sceptersteel"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

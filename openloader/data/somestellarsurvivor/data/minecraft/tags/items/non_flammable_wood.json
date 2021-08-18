@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#minecraft:crimson_stems",
     "#minecraft:warped_stems",

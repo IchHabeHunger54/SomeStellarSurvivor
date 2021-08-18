@@ -1,9 +1,10 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "S",
-    "W"
+  "conditions": [
+    {
+      "modid": "byg",
+      "type": "forge:mod_loaded"
+    }
   ],
   "key": {
     "S": {
@@ -13,14 +14,13 @@
       "tag": "byg:maple_logs"
     }
   },
+  "pattern": [
+    "S",
+    "W"
+  ],
   "result": {
     "count": 2,
     "item": "byg:maple_planks"
   },
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "byg"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

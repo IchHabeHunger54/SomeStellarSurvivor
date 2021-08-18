@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:mossy_cobblestone/cracked",
     "chisel:mossy_cobblestone/solid_bricks",

@@ -1,17 +1,17 @@
 {
-  "type": "tconstruct:modifier",
   "inputs": [
     {
       "item": "minecraft:totem_of_undying"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:soulbound"
+  },
   "tools": {
     "tag": "tconstruct:modifiable"
   },
-  "result": {
-    "name": "tconstruct:soulbound",
-    "level": 1
-  },
-  "max_level": 1,
+  "type": "tconstruct:modifier",
   "upgrade_slots": 1
 }

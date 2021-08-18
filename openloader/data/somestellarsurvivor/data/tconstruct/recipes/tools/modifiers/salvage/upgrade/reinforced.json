@@ -1,0 +1,15 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:reinforced",
+  "salvage": {
+    "full": false,
+    "item": "tconstruct:iron_reinforcement"
+  },
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/durability"
+  },
+  "type": "tconstruct:incremental_modifier_salvage"
+}

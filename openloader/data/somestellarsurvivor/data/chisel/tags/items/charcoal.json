@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "chisel:charcoal/raw",
     "chisel:charcoal/cracked",

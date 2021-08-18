@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "cfm:oak_kitchen_counter",
     "cfm:spruce_kitchen_counter",

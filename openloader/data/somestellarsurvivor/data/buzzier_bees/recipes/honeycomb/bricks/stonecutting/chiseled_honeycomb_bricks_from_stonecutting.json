@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:stonecutting",
+  "count": 1,
   "ingredient": [
     {
       "item": "minecraft:honeycomb_block"
@@ -9,5 +9,5 @@
     }
   ],
   "result": "buzzier_bees:chiseled_honeycomb_bricks",
-  "count": 1
+  "type": "minecraft:stonecutting"
 }

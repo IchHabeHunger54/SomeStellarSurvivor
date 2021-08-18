@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "limestone",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:polished_limestone"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:polished_limestone_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:polished_limestone_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "limestone"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

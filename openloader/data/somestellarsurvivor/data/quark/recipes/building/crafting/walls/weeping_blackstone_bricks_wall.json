@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "###"
+  "conditions": [
+    {
+      "flag": "blackstone_variant_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:weeping_blackstone_bricks"
     }
   },
+  "pattern": [
+    "###",
+    "###"
+  ],
   "result": {
-    "item": "quark:weeping_blackstone_bricks_wall",
-    "count": 6
+    "count": 6,
+    "item": "quark:weeping_blackstone_bricks_wall"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "blackstone_variant_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,5 +1,4 @@
 {
-  "type": "forge:conditional",
   "recipes": [
     {
       "conditions": [
@@ -9,22 +8,22 @@
         }
       ],
       "recipe": {
-        "type": "tconstruct:alloy",
         "inputs": [
           {
-            "tag": "tconstruct:molten_debris",
-            "amount": 64
+            "amount": 64,
+            "tag": "tconstruct:molten_debris"
           },
           {
-            "tag": "tconstruct:molten_gold",
-            "amount": 32
+            "amount": 32,
+            "tag": "tconstruct:molten_gold"
           }
         ],
         "result": {
-          "fluid": "tconstruct:molten_netherite",
-          "amount": 16
+          "amount": 16,
+          "fluid": "tconstruct:molten_netherite"
         },
-        "temperature": 1250
+        "temperature": 1250,
+        "type": "tconstruct:alloy"
       }
     },
     {
@@ -34,23 +33,24 @@
         }
       ],
       "recipe": {
-        "type": "tconstruct:alloy",
         "inputs": [
           {
-            "tag": "tconstruct:molten_debris",
-            "amount": 64
+            "amount": 64,
+            "tag": "tconstruct:molten_debris"
           },
           {
-            "tag": "tconstruct:molten_gold",
-            "amount": 64
+            "amount": 64,
+            "tag": "tconstruct:molten_gold"
           }
         ],
         "result": {
-          "fluid": "tconstruct:molten_netherite",
-          "amount": 16
+          "amount": 16,
+          "fluid": "tconstruct:molten_netherite"
         },
-        "temperature": 1250
+        "temperature": 1250,
+        "type": "tconstruct:alloy"
       }
     }
-  ]
+  ],
+  "type": "forge:conditional"
 }

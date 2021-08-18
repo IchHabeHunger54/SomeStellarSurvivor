@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "alexsmobs:void_worm_mandible"
@@ -10,5 +9,6 @@
   ],
   "result": {
     "item": "alexsmobs:void_worm_beak"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

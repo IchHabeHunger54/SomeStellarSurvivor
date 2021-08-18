@@ -1,8 +1,8 @@
 {
-  "type": "tconstruct:part_builder",
-  "pattern": "tconstruct:broad_axe_head",
   "cost": 8,
+  "pattern": "tconstruct:broad_axe_head",
   "result": {
     "item": "tconstruct:broad_axe_head"
-  }
+  },
+  "type": "tconstruct:part_builder"
 }

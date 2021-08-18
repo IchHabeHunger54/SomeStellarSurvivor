@@ -1,0 +1,22 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:gilded",
+  "salvage": [
+    {
+      "chance": 0.75,
+      "item": "minecraft:apple"
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "max": 8,
+      "min": 1
+    }
+  ],
+  "slots": {
+    "abilities": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable"
+  },
+  "type": "tconstruct:modifier_salvage"
+}

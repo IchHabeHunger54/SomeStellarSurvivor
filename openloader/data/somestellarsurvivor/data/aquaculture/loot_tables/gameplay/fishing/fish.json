@@ -1,11 +1,8 @@
 {
-  "type": "minecraft:fishing",
   "pools": [
     {
-      "rolls": 1.0,
       "entries": [
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "minecraft:alternative",
@@ -13,31 +10,31 @@
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "OCEAN"
-                    ],
-                    "and": true
+                    ]
                   }
                 },
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "BEACH"
-                    ],
-                    "and": true
+                    ]
                   }
                 }
               ]
             }
           ],
-          "weight": 15,
-          "name": "aquaculture:atlantic_cod"
+          "name": "aquaculture:atlantic_cod",
+          "type": "minecraft:item",
+          "weight": 15
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "minecraft:alternative",
@@ -45,31 +42,31 @@
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "OCEAN"
-                    ],
-                    "and": true
+                    ]
                   }
                 },
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "BEACH"
-                    ],
-                    "and": true
+                    ]
                   }
                 }
               ]
             }
           ],
-          "weight": 40,
-          "name": "aquaculture:blackfish"
+          "name": "aquaculture:blackfish",
+          "type": "minecraft:item",
+          "weight": 40
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "minecraft:alternative",
@@ -77,69 +74,69 @@
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "OCEAN"
-                    ],
-                    "and": true
+                    ]
                   }
                 },
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "BEACH"
-                    ],
-                    "and": true
+                    ]
                   }
                 }
               ]
             }
           ],
-          "weight": 10,
-          "name": "aquaculture:pacific_halibut"
+          "name": "aquaculture:pacific_halibut",
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
+                "exclude": [
+                  "HOT"
+                ],
                 "include": [
                   "OCEAN",
                   "BEACH"
-                ],
-                "exclude": [
-                  "HOT"
                 ]
               }
             }
           ],
-          "weight": 8,
-          "name": "aquaculture:atlantic_halibut"
+          "name": "aquaculture:atlantic_halibut",
+          "type": "minecraft:item",
+          "weight": 8
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
+                "exclude": [
+                  "HOT"
+                ],
                 "include": [
                   "OCEAN",
                   "BEACH"
-                ],
-                "exclude": [
-                  "HOT"
                 ]
               }
             }
           ],
-          "weight": 60,
-          "name": "aquaculture:atlantic_herring"
+          "name": "aquaculture:atlantic_herring",
+          "type": "minecraft:item",
+          "weight": 60
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "minecraft:alternative",
@@ -147,31 +144,31 @@
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "BEACH"
-                    ],
-                    "and": true
+                    ]
                   }
                 },
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "WATER"
-                    ],
-                    "and": true
+                    ]
                   }
                 }
               ]
             }
           ],
-          "weight": 20,
-          "name": "aquaculture:pink_salmon"
+          "name": "aquaculture:pink_salmon",
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "minecraft:alternative",
@@ -179,31 +176,31 @@
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "OCEAN"
-                    ],
-                    "and": true
+                    ]
                   }
                 },
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "BEACH"
-                    ],
-                    "and": true
+                    ]
                   }
                 }
               ]
             }
           ],
-          "weight": 25,
-          "name": "aquaculture:pollock"
+          "name": "aquaculture:pollock",
+          "type": "minecraft:item",
+          "weight": 25
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "minecraft:alternative",
@@ -211,103 +208,103 @@
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "OCEAN"
-                    ],
-                    "and": true
+                    ]
                   }
                 },
                 {
                   "condition": "aquaculture:biome_tag_check",
                   "predicate": {
+                    "and": true,
                     "include": [
                       "COLD",
                       "BEACH"
-                    ],
-                    "and": true
+                    ]
                   }
                 }
               ]
             }
           ],
-          "weight": 20,
-          "name": "aquaculture:rainbow_trout"
+          "name": "aquaculture:rainbow_trout",
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
-                "include": [
-                  "DRY"
-                ],
                 "exclude": [
                   "COLD"
+                ],
+                "include": [
+                  "DRY"
                 ]
               }
             }
           ],
-          "weight": 20,
-          "name": "aquaculture:bayad"
+          "name": "aquaculture:bayad",
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
-                "include": [
-                  "DRY"
-                ],
                 "exclude": [
                   "COLD"
+                ],
+                "include": [
+                  "DRY"
                 ]
               }
             }
           ],
-          "weight": 30,
-          "name": "aquaculture:boulti"
+          "name": "aquaculture:boulti",
+          "type": "minecraft:item",
+          "weight": 30
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
-                "include": [
-                  "DRY"
-                ],
                 "exclude": [
                   "COLD"
+                ],
+                "include": [
+                  "DRY"
                 ]
               }
             }
           ],
-          "weight": 5,
-          "name": "aquaculture:capitaine"
+          "name": "aquaculture:capitaine",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
-                "include": [
-                  "DRY"
-                ],
                 "exclude": [
                   "COLD"
+                ],
+                "include": [
+                  "DRY"
                 ]
               }
             }
           ],
-          "weight": 60,
-          "name": "aquaculture:synodontis"
+          "name": "aquaculture:synodontis",
+          "type": "minecraft:item",
+          "weight": 60
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -323,11 +320,11 @@
               }
             }
           ],
-          "weight": 30,
-          "name": "aquaculture:smallmouth_bass"
+          "name": "aquaculture:smallmouth_bass",
+          "type": "minecraft:item",
+          "weight": 30
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -341,11 +338,11 @@
               }
             }
           ],
-          "weight": 60,
-          "name": "aquaculture:bluegill"
+          "name": "aquaculture:bluegill",
+          "type": "minecraft:item",
+          "weight": 60
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -360,11 +357,11 @@
               }
             }
           ],
-          "weight": 30,
-          "name": "aquaculture:brown_trout"
+          "name": "aquaculture:brown_trout",
+          "type": "minecraft:item",
+          "weight": 30
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -378,11 +375,11 @@
               }
             }
           ],
-          "weight": 30,
-          "name": "aquaculture:carp"
+          "name": "aquaculture:carp",
+          "type": "minecraft:item",
+          "weight": 30
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -397,11 +394,11 @@
               }
             }
           ],
-          "weight": 5,
-          "name": "aquaculture:catfish"
+          "name": "aquaculture:catfish",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -416,11 +413,11 @@
               }
             }
           ],
-          "weight": 20,
-          "name": "aquaculture:gar"
+          "name": "aquaculture:gar",
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -434,30 +431,11 @@
               }
             }
           ],
-          "weight": 55,
-          "name": "aquaculture:minnow"
+          "name": "aquaculture:minnow",
+          "type": "minecraft:item",
+          "weight": 55
         },
         {
-          "type": "minecraft:item",
-          "conditions": [
-            {
-              "condition": "aquaculture:biome_tag_check",
-              "predicate": {
-                "exclude": [
-                  "OCEAN",
-                  "BEACH",
-                  "HOT",
-                  "DRY",
-                  "JUNGLE"
-                ]
-              }
-            }
-          ],
-          "weight": 10,
-          "name": "aquaculture:muskellunge"
-        },
-        {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -472,11 +450,30 @@
               }
             }
           ],
-          "weight": 60,
-          "name": "aquaculture:perch"
+          "name": "aquaculture:muskellunge",
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
+          "conditions": [
+            {
+              "condition": "aquaculture:biome_tag_check",
+              "predicate": {
+                "exclude": [
+                  "OCEAN",
+                  "BEACH",
+                  "HOT",
+                  "DRY",
+                  "JUNGLE"
+                ]
+              }
+            }
+          ],
+          "name": "aquaculture:perch",
           "type": "minecraft:item",
+          "weight": 60
+        },
+        {
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -487,11 +484,11 @@
               }
             }
           ],
-          "weight": 5,
-          "name": "aquaculture:arapaima"
+          "name": "aquaculture:arapaima",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -502,11 +499,11 @@
               }
             }
           ],
-          "weight": 5,
-          "name": "aquaculture:arrau_turtle"
+          "name": "aquaculture:arrau_turtle",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -517,11 +514,11 @@
               }
             }
           ],
-          "weight": 60,
-          "name": "aquaculture:piranha"
+          "name": "aquaculture:piranha",
+          "type": "minecraft:item",
+          "weight": 60
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -532,11 +529,11 @@
               }
             }
           ],
-          "weight": 20,
-          "name": "aquaculture:tambaqui"
+          "name": "aquaculture:tambaqui",
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -547,11 +544,11 @@
               }
             }
           ],
-          "weight": 80,
-          "name": "aquaculture:brown_shrooma"
+          "name": "aquaculture:brown_shrooma",
+          "type": "minecraft:item",
+          "weight": 80
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -562,11 +559,11 @@
               }
             }
           ],
-          "weight": 80,
-          "name": "aquaculture:red_shrooma"
+          "name": "aquaculture:red_shrooma",
+          "type": "minecraft:item",
+          "weight": 80
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -578,11 +575,11 @@
               }
             }
           ],
-          "weight": 30,
-          "name": "aquaculture:jellyfish"
+          "name": "aquaculture:jellyfish",
+          "type": "minecraft:item",
+          "weight": 30
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -594,11 +591,11 @@
               }
             }
           ],
-          "weight": 20,
-          "name": "aquaculture:red_grouper"
+          "name": "aquaculture:red_grouper",
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -610,11 +607,11 @@
               }
             }
           ],
-          "weight": 5,
-          "name": "aquaculture:tuna"
+          "name": "aquaculture:tuna",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -625,11 +622,11 @@
               }
             }
           ],
-          "weight": 5,
-          "name": "aquaculture:frog"
+          "name": "aquaculture:frog",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -640,11 +637,11 @@
               }
             }
           ],
-          "weight": 30,
-          "name": "aquaculture:leech"
+          "name": "aquaculture:leech",
+          "type": "minecraft:item",
+          "weight": 30
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -655,11 +652,11 @@
               }
             }
           ],
-          "weight": 5,
-          "name": "aquaculture:box_turtle"
+          "name": "aquaculture:box_turtle",
+          "type": "minecraft:item",
+          "weight": 5
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -670,10 +667,13 @@
               }
             }
           ],
-          "weight": 5,
-          "name": "aquaculture:starshell_turtle"
+          "name": "aquaculture:starshell_turtle",
+          "type": "minecraft:item",
+          "weight": 5
         }
-      ]
+      ],
+      "rolls": 1.0
     }
-  ]
+  ],
+  "type": "minecraft:fishing"
 }

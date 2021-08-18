@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "quark:black_rune",
     "quark:blue_rune",

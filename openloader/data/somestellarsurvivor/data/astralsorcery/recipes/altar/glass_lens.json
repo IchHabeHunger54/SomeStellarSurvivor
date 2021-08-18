@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 100,
-  "starlight": 200,
-  "pattern": [
-    "_____",
-    "__A__",
-    "_ABA_",
-    "__A__",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -20,11 +14,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:glass_lens",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:glass_lens"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "__A__",
+    "_ABA_",
+    "__A__",
+    "_____"
+  ],
+  "starlight": 200,
+  "type": "astralsorcery:altar"
 }

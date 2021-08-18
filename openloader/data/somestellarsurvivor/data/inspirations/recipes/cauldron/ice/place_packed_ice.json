@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -11,12 +10,12 @@
     }
   ],
   "input": {
+    "contents": {
+      "name": "minecraft:packed_ice",
+      "type": "inspirations:custom"
+    },
     "item": {
       "item": "minecraft:packed_ice"
-    },
-    "contents": {
-      "type": "inspirations:custom",
-      "name": "minecraft:packed_ice"
     },
     "level": {
       "max": 0
@@ -24,12 +23,13 @@
   },
   "output": {
     "contents": {
-      "type": "inspirations:custom",
-      "name": "minecraft:packed_ice"
+      "name": "minecraft:packed_ice",
+      "type": "inspirations:custom"
     },
     "level": {
       "set": 12
     }
   },
-  "sound": "minecraft:block.glass.place"
+  "sound": "minecraft:block.glass.place",
+  "type": "inspirations:cauldron"
 }

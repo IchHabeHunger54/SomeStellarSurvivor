@@ -1,0 +1,19 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:acacia_plate"
+    },
+    "B": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:acacia_pult"
+  },
+  "type": "minecraft:crafting_shaped"
+}

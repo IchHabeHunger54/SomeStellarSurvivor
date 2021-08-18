@@ -1,19 +1,19 @@
 {
-  "type": "tconstruct:casting_basin",
+  "cast": {
+    "item": "ceramics:porcelain_bricks"
+  },
+  "cast_consumed": true,
   "conditions": [
     {
       "modid": "ceramics",
       "type": "forge:mod_loaded"
     }
   ],
-  "cast": {
-    "item": "ceramics:porcelain_bricks"
-  },
-  "cast_consumed": true,
+  "cooling_time": 7,
   "fluid": {
-    "tag": "tconstruct:molten_gold",
-    "amount": 2
+    "amount": 2,
+    "tag": "tconstruct:molten_gold"
   },
   "result": "ceramics:golden_bricks",
-  "cooling_time": 7
+  "type": "tconstruct:casting_basin"
 }

@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
   "conditions": [
     {
       "prop": "building_module",
@@ -10,18 +9,19 @@
       "type": "inspirations:config"
     }
   ],
-  "pattern": [
-    "SS",
-    "SS",
-    "SS"
-  ],
   "key": {
     "S": {
       "item": "minecraft:string"
     }
   },
+  "pattern": [
+    "SS",
+    "SS",
+    "SS"
+  ],
   "result": {
-    "item": "inspirations:rope",
-    "count": 3
-  }
+    "count": 3,
+    "item": "inspirations:rope"
+  },
+  "type": "minecraft:crafting_shaped"
 }

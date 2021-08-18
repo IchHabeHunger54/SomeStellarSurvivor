@@ -1,9 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "I",
-    "G",
-    "I"
+  "conditions": [
+    {
+      "flag": "pipes",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "G": {
@@ -13,14 +13,14 @@
       "tag": "forge:ingots/iron"
     }
   },
+  "pattern": [
+    "I",
+    "G",
+    "I"
+  ],
   "result": {
-    "item": "quark:pipe",
-    "count": 6
+    "count": 6,
+    "item": "quark:pipe"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "pipes"
-    }
-  ]
+  "type": "minecraft:crafting_shaped"
 }

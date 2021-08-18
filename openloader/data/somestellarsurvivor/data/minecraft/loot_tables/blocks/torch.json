@@ -1,32 +1,32 @@
 {
   "pools": [
     {
-      "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
-              "name": "realistictorches:unlit_torch",
               "conditions": [
                 {
                   "condition": "realistictorches:drop_unlit"
                 }
-              ]
+              ],
+              "name": "realistictorches:unlit_torch",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
-              "name": "minecraft:torch",
               "conditions": [
                 {
                   "condition": "minecraft:survives_explosion"
                 }
-              ]
+              ],
+              "name": "minecraft:torch",
+              "type": "minecraft:item"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
-      ]
+      ],
+      "rolls": 1
     }
   ]
 }

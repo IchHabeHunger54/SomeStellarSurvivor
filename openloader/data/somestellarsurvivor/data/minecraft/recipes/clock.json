@@ -1,10 +1,4 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    " # ",
-    "#X#",
-    " # "
-  ],
   "key": {
     "#": {
       "tag": "forge:ingots/gold"
@@ -13,7 +7,13 @@
       "item": "minecraft:redstone"
     }
   },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
   "result": {
     "item": "minecraft:clock"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

@@ -1,6 +1,6 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "replace": false,
+  "replace": true,
   "values": [
     "notreepunching:granite_loose_rock",
     "notreepunching:andesite_loose_rock",

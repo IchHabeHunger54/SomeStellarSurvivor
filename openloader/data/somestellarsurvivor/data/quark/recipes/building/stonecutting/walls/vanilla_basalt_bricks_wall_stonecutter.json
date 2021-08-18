@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "basalt_bricks",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 1,
   "ingredient": {
     "item": "quark:vanilla_basalt_bricks"
   },
   "result": "quark:vanilla_basalt_bricks_wall",
-  "count": 1,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "basalt_bricks"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

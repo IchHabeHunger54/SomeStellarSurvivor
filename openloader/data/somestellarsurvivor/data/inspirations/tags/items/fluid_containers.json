@@ -1,11 +1,11 @@
 {
+  "optional": [
+    "forge:bucket_filled"
+  ],
   "values": [
     "minecraft:bucket",
     "minecraft:water_bucket",
     "minecraft:milk_bucket",
     "minecraft:lava_bucket"
-  ],
-  "optional": [
-    "forge:bucket_filled"
   ]
 }

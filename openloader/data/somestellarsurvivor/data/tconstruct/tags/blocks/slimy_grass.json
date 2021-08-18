@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "tconstruct:earth_earth_slime_grass",
     "tconstruct:sky_earth_slime_grass",

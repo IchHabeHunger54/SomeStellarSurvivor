@@ -1,24 +1,24 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "birch_chest",
-  "pattern": [
-    "###",
-    "# #",
-    "###"
+  "conditions": [
+    {
+      "flag": "variant_chests",
+      "type": "quark:flag"
+    }
   ],
+  "group": "birch_chest",
   "key": {
     "#": {
       "item": "minecraft:birch_planks"
     }
   },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
   "result": {
-    "item": "quark:birch_chest",
-    "count": 1
+    "count": 1,
+    "item": "quark:birch_chest"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "variant_chests"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

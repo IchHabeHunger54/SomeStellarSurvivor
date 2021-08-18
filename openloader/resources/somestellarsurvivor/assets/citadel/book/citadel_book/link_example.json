@@ -1,18 +1,12 @@
 {
+  "entity_renders": [],
+  "images": [],
+  "item_renders": [],
+  "linked_page_buttons": [],
   "parent": "root.json",
+  "recipes": [],
+  "tabula_renders": [],
   "text": "link_example.txt",
   "title": "Link Example",
-  "title_locale": "book.citadel_book.link_example",
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-  ],
-  "tabula_renders": [
-  ],
-  "entity_renders": [
-  ]
+  "title_locale": "book.citadel_book.link_example"
 }

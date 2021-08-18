@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "U": {
+      "item": "minecraft:bucket"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    }
+  },
   "pattern": [
     " WS",
     "WUW",
     "SW "
   ],
-  "key": {
-    "W": {
-      "tag": "minecraft:logs"
-    },
-    "U": {
-      "item": "minecraft:bucket"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    }
-  },
   "result": {
-    "item": "structurize:blockfluidsubstitution",
-    "count": 32
-  }
+    "count": 32,
+    "item": "structurize:blockfluidsubstitution"
+  },
+  "type": "minecraft:crafting_shaped"
 }

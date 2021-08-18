@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "astralsorcery:colored_lens_break",
     "astralsorcery:colored_lens_damage",

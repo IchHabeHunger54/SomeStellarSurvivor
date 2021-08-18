@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "tag": "forge:ingots/silicon_bronze"
+    }
+  ],
+  "result": {
+    "item": "tconstruct:flint_and_bronze"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

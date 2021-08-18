@@ -1,33 +1,33 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "group": "crimson_chest",
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "key": {
-    "#": {
-      "tag": "minecraft:crimson_stems"
-    }
-  },
-  "result": {
-    "item": "quark:crimson_chest",
-    "count": 4
-  },
   "conditions": [
     {
       "type": "forge:and",
       "values": [
         {
-          "type": "quark:flag",
-          "flag": "wood_to_chest_recipes"
+          "flag": "wood_to_chest_recipes",
+          "type": "quark:flag"
         },
         {
-          "type": "quark:flag",
-          "flag": "variant_chests"
+          "flag": "variant_chests",
+          "type": "quark:flag"
         }
       ]
     }
-  ]
-} 
+  ],
+  "group": "crimson_chest",
+  "key": {
+    "#": {
+      "tag": "minecraft:crimson_stems"
+    }
+  },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "quark:crimson_chest"
+  },
+  "type": "minecraft:crafting_shaped"
+}

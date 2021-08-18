@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "tag": "forge:condiments/soysauce"
+    },
+    {
+      "tag": "forge:honey"
+    },
+    {
+      "tag": "forge:crops/scallion"
+    },
+    {
+      "tag": "forge:cookingoil"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:teriyakichickenitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,5 +1,5 @@
 {
-  "type": "tconstruct:modifier",
+  "ability_slots": 1,
   "inputs": [
     {
       "item": "minecraft:glowstone"
@@ -11,13 +11,13 @@
       "item": "minecraft:shroomlight"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:glowing"
+  },
   "tools": {
     "tag": "tconstruct:modifiable"
   },
-  "result": {
-    "name": "tconstruct:glowing",
-    "level": 1
-  },
-  "max_level": 1,
-  "ability_slots": 1
+  "type": "tconstruct:modifier"
 }

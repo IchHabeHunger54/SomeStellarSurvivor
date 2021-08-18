@@ -1,5 +1,10 @@
 {
-  "type": "tconstruct:melting",
+  "byproducts": [
+    {
+      "amount": 576,
+      "fluid": "tconstruct:seared_stone"
+    }
+  ],
   "ingredient": [
     {
       "item": "tconstruct:seared_drain"
@@ -9,15 +14,10 @@
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_copper",
-    "amount": 288
+    "amount": 288,
+    "fluid": "tconstruct:molten_copper"
   },
   "temperature": 500,
   "time": 125,
-  "byproducts": [
-    {
-      "fluid": "tconstruct:seared_stone",
-      "amount": 576
-    }
-  ]
+  "type": "tconstruct:melting"
 }

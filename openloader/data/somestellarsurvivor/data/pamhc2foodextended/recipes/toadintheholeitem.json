@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "item": "pamhc2foodextended:yorkshirepuddingitem"
+    },
+    {
+      "tag": "forge:sausage"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:toadintheholeitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

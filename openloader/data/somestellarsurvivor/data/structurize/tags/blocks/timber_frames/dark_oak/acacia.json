@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "structurize:plain_acacia_dark_oak_timber_frame",
     "structurize:double_crossed_acacia_dark_oak_timber_frame",

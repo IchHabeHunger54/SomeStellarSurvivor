@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:down_gated_birch_pink_terracotta_timber_frame"
@@ -7,5 +6,6 @@
   ],
   "result": {
     "item": "structurize:one_crossed_lr_birch_pink_terracotta_timber_frame"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

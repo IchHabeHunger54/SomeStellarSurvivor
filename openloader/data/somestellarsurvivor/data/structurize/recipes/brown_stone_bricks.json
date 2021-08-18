@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:stone_bricks"
@@ -15,7 +14,8 @@
     }
   ],
   "result": {
-    "item": "structurize:brown_stone_bricks",
-    "count": 4
-  }
+    "count": 4,
+    "item": "structurize:brown_stone_bricks"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

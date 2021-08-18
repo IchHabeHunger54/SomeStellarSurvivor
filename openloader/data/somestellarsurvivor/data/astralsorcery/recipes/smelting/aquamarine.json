@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.8,
   "ingredient": {
     "item": "astralsorcery:aquamarine_sand_ore"
   },
   "result": {
-    "item": "astralsorcery:aquamarine",
-    "count": 4
+    "count": 4,
+    "item": "astralsorcery:aquamarine"
   },
-  "experience": 1.8,
-  "cookingtime": 200
+  "type": "minecraft:smelting"
 }

@@ -1,56 +1,17 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1.0,
-      "entries": [
-        {
-          "type": "minecraft:alternatives",
-          "children": [
-            {
-              "type": "minecraft:item",
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "tag": "forge:shears"
-                  }
-                }
-              ],
-              "functions": [
-                {
-                  "function": "minecraft:set_count",
-                  "count": 2
-                }
-              ],
-              "name": "minecraft:fern"
-            },
-            {
-              "type": "minecraft:item",
-              "conditions": [
-                {
-                  "condition": "minecraft:survives_explosion"
-                },
-                {
-                  "condition": "minecraft:random_chance",
-                  "chance": 0.125
-                }
-              ],
-              "name": "minecraft:wheat_seeds"
-            }
-          ]
-        }
-      ],
       "conditions": [
         {
-          "condition": "minecraft:block_state_property",
           "block": "minecraft:large_fern",
+          "condition": "minecraft:block_state_property",
           "properties": {
             "half": "lower"
           }
         },
         {
           "condition": "minecraft:location_check",
+          "offsetY": 1,
           "predicate": {
             "block": {
               "block": "minecraft:large_fern",
@@ -58,19 +19,13 @@
                 "half": "upper"
               }
             }
-          },
-          "offsetY": 1
+          }
         }
-      ]
-    },
-    {
-      "rolls": 1.0,
+      ],
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -81,38 +36,44 @@
               ],
               "functions": [
                 {
-                  "function": "minecraft:set_count",
-                  "count": 2
+                  "count": 2,
+                  "function": "minecraft:set_count"
                 }
               ],
-              "name": "minecraft:fern"
+              "name": "minecraft:fern",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
               "conditions": [
                 {
                   "condition": "minecraft:survives_explosion"
                 },
                 {
-                  "condition": "minecraft:random_chance",
-                  "chance": 0.125
+                  "chance": 0.125,
+                  "condition": "minecraft:random_chance"
                 }
               ],
-              "name": "minecraft:wheat_seeds"
+              "name": "minecraft:wheat_seeds",
+              "type": "minecraft:item"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
       ],
+      "rolls": 1.0
+    },
+    {
       "conditions": [
         {
-          "condition": "minecraft:block_state_property",
           "block": "minecraft:large_fern",
+          "condition": "minecraft:block_state_property",
           "properties": {
             "half": "upper"
           }
         },
         {
           "condition": "minecraft:location_check",
+          "offsetY": -1,
           "predicate": {
             "block": {
               "block": "minecraft:large_fern",
@@ -120,10 +81,49 @@
                 "half": "lower"
               }
             }
-          },
-          "offsetY": -1
+          }
         }
-      ]
+      ],
+      "entries": [
+        {
+          "children": [
+            {
+              "conditions": [
+                {
+                  "condition": "minecraft:match_tool",
+                  "predicate": {
+                    "tag": "forge:shears"
+                  }
+                }
+              ],
+              "functions": [
+                {
+                  "count": 2,
+                  "function": "minecraft:set_count"
+                }
+              ],
+              "name": "minecraft:fern",
+              "type": "minecraft:item"
+            },
+            {
+              "conditions": [
+                {
+                  "condition": "minecraft:survives_explosion"
+                },
+                {
+                  "chance": 0.125,
+                  "condition": "minecraft:random_chance"
+                }
+              ],
+              "name": "minecraft:wheat_seeds",
+              "type": "minecraft:item"
+            }
+          ],
+          "type": "minecraft:alternatives"
+        }
+      ],
+      "rolls": 1.0
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

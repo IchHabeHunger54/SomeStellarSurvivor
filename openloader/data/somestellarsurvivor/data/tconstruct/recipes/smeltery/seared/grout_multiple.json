@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:clay"
@@ -30,7 +29,8 @@
     }
   ],
   "result": {
-    "item": "tconstruct:grout",
-    "count": 8
-  }
+    "count": 8,
+    "item": "tconstruct:grout"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "structurize:plain_birch_yellow_terracotta_timber_frame",
     "structurize:double_crossed_birch_yellow_terracotta_timber_frame",

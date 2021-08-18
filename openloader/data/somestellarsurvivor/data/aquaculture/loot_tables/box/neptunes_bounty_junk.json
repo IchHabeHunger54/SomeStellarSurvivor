@@ -1,39 +1,34 @@
 {
   "pools": [
     {
-      "rolls": {
-        "min": 6,
-        "max": 13
-      },
       "entries": [
         {
+          "name": "minecraft:air",
           "type": "minecraft:item",
-          "weight": 15,
-          "name": "minecraft:air"
+          "weight": 15
         },
         {
+          "name": "aquaculture:driftwood",
           "type": "minecraft:item",
-          "weight": 5,
-          "name": "aquaculture:driftwood"
+          "weight": 5
         },
         {
+          "name": "aquaculture:message_in_a_bottle",
           "type": "minecraft:item",
-          "weight": 1,
-          "name": "aquaculture:message_in_a_bottle"
+          "weight": 1
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
+                "exclude": [
+                  "SNOWY"
+                ],
                 "include": [
                   "WATER",
                   "BEACH",
                   "SWAMP"
-                ],
-                "exclude": [
-                  "SNOWY"
                 ]
               }
             },
@@ -47,31 +42,31 @@
               }
             }
           ],
-          "weight": 10,
-          "name": "minecraft:seagrass"
+          "name": "minecraft:seagrass",
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
               "predicate": {
-                "include": [
-                  "OCEAN",
-                  "BEACH"
-                ],
                 "exclude": [
                   "HOT",
                   "SNOWY"
+                ],
+                "include": [
+                  "OCEAN",
+                  "BEACH"
                 ]
               }
             }
           ],
-          "weight": 10,
-          "name": "minecraft:kelp"
+          "name": "minecraft:kelp",
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
-          "type": "minecraft:item",
           "conditions": [
             {
               "condition": "aquaculture:biome_tag_check",
@@ -83,10 +78,15 @@
               }
             }
           ],
-          "weight": 10,
-          "name": "aquaculture:algae"
+          "name": "aquaculture:algae",
+          "type": "minecraft:item",
+          "weight": 10
         }
-      ]
+      ],
+      "rolls": {
+        "max": 13,
+        "min": 6
+      }
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "##",
-    "##"
+  "conditions": [
+    {
+      "flag": "myalite",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:myalite"
     }
   },
+  "pattern": [
+    "##",
+    "##"
+  ],
   "result": {
-    "item": "quark:polished_myalite",
-    "count": 4
+    "count": 4,
+    "item": "quark:polished_myalite"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "myalite"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

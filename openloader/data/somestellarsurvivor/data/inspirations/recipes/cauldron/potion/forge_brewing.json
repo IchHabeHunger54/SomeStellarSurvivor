@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron_forge_brewing",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -10,5 +9,6 @@
       "type": "inspirations:config"
     }
   ],
-  "instant": false
+  "instant": false,
+  "type": "inspirations:cauldron_forge_brewing"
 }

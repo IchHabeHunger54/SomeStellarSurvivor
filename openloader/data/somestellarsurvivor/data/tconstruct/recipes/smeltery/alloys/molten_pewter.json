@@ -1,34 +1,34 @@
 {
-  "type": "tconstruct:alloy",
   "conditions": [
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/pewter",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     },
     {
+      "type": "forge:not",
       "value": {
         "tag": "forge:ingots/lead",
         "type": "forge:tag_empty"
-      },
-      "type": "forge:not"
+      }
     }
   ],
   "inputs": [
     {
-      "tag": "tconstruct:molten_iron",
-      "amount": 144
+      "amount": 144,
+      "tag": "tconstruct:molten_iron"
     },
     {
-      "tag": "tconstruct:molten_lead",
-      "amount": 144
+      "amount": 144,
+      "tag": "tconstruct:molten_lead"
     }
   ],
   "result": {
-    "fluid": "tconstruct:molten_pewter",
-    "amount": 288
+    "amount": 288,
+    "fluid": "tconstruct:molten_pewter"
   },
-  "temperature": 400
+  "temperature": 400,
+  "type": "tconstruct:alloy"
 }

@@ -1,24 +1,24 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###",
-    "# #",
-    "###"
+  "conditions": [
+    {
+      "flag": "cave_crystal_underground_biome",
+      "type": "quark:flag"
+    }
   ],
+  "group": "quark:crystal",
   "key": {
     "#": {
       "item": "quark:green_crystal_pane"
     }
   },
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
   "result": {
-    "item": "quark:green_crystal",
-    "count": 3
+    "count": 3,
+    "item": "quark:green_crystal"
   },
-  "group": "quark:crystal",
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "cave_crystal_underground_biome"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

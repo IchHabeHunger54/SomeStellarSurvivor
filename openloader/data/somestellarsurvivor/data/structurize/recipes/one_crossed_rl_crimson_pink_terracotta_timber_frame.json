@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "structurize:one_crossed_lr_crimson_pink_terracotta_timber_frame"
@@ -7,5 +6,6 @@
   ],
   "result": {
     "item": "structurize:one_crossed_rl_crimson_pink_terracotta_timber_frame"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

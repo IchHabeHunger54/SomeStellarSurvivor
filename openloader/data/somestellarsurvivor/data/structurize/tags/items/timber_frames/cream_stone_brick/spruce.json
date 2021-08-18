@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "structurize:plain_spruce_cream_stone_brick_timber_frame",
     "structurize:double_crossed_spruce_cream_stone_brick_timber_frame",

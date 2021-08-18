@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:cactus"
     }
   ],
   "result": {
-    "item": "structurize:blockcactusplank",
-    "count": 4
-  }
+    "count": 4,
+    "item": "structurize:blockcactusplank"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

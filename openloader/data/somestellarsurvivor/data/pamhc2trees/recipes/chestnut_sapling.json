@@ -1,5 +1,4 @@
 {
-  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "pamhc2trees:chestnutitem"
@@ -31,5 +30,6 @@
   ],
   "result": {
     "item": "pamhc2trees:chestnut_sapling"
-  }
+  },
+  "type": "minecraft:crafting_shapeless"
 }

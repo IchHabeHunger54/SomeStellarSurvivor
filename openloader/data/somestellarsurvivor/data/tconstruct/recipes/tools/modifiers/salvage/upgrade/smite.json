@@ -1,0 +1,15 @@
+{
+  "min_level": 1,
+  "modifier": "tconstruct:smite",
+  "salvage": {
+    "full": false,
+    "item": "minecraft:glistering_melon_slice"
+  },
+  "slots": {
+    "upgrades": 1
+  },
+  "tools": {
+    "tag": "tconstruct:modifiable/melee"
+  },
+  "type": "tconstruct:incremental_modifier_salvage"
+}

@@ -1,14 +1,8 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 0,
   "duration": 100,
-  "starlight": 100,
-  "pattern": [
-    "_____",
-    "__BC_",
-    "__AB_",
-    "_A___",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
   ],
   "key": {
     "A": {
@@ -23,11 +17,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:wand",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:wand"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam"
-  ]
+  "pattern": [
+    "_____",
+    "__BC_",
+    "__AB_",
+    "_A___",
+    "_____"
+  ],
+  "starlight": 100,
+  "type": "astralsorcery:altar"
 }

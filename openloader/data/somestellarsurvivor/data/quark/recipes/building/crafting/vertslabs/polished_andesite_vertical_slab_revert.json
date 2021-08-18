@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "vertical_slabs",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:polished_andesite_vertical_slab"
     }
   ],
   "result": {
-    "item": "minecraft:polished_andesite_slab",
-    "count": 1
+    "count": 1,
+    "item": "minecraft:polished_andesite_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "vertical_slabs"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

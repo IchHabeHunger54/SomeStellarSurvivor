@@ -1,20 +1,20 @@
 {
   "__comment__": "This file was automatically created by mcresources",
-  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": {
+      "item": "notreepunching:flint_shard"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
   "pattern": [
     " IS",
     "ISI",
     "SI "
   ],
-  "key": {
-    "S": {
-      "tag": "forge:rods/wooden"
-    },
-    "I": {
-      "item": "notreepunching:flint_shard"
-    }
-  },
   "result": {
     "item": "notreepunching:macuahuitl"
-  }
+  },
+  "type": "minecraft:crafting_shaped"
 }

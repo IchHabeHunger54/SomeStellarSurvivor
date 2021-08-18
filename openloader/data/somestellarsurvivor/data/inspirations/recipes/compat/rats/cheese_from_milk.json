@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron_transform",
   "conditions": [
     {
       "prop": "extended_cauldron_recipes",
@@ -11,16 +10,17 @@
     }
   ],
   "input": {
-    "type": "inspirations:fluid",
-    "tag": "forge:milk"
+    "tag": "forge:milk",
+    "type": "inspirations:fluid"
   },
   "level": {
     "min": 3
   },
   "output": {
-    "type": "inspirations:custom",
-    "name": "rats:cheese"
+    "name": "rats:cheese",
+    "type": "inspirations:custom"
   },
+  "sound": "minecraft:block.slime_block.place",
   "time": 150,
-  "sound": "minecraft:block.slime_block.place"
+  "type": "inspirations:cauldron_transform"
 }

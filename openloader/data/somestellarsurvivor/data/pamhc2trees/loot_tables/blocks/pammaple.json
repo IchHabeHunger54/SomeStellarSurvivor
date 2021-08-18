@@ -1,15 +1,10 @@
 {
-  "type": "minecraft:block",
   "pools": [
     {
-      "rolls": 1,
-      "name": "pammaple0",
       "entries": [
         {
-          "type": "minecraft:alternatives",
           "children": [
             {
-              "type": "minecraft:item",
               "conditions": [
                 {
                   "condition": "minecraft:alternative",
@@ -36,20 +31,25 @@
                   ]
                 }
               ],
-              "name": "pamhc2trees:pammaple"
+              "name": "pamhc2trees:pammaple",
+              "type": "minecraft:item"
             },
             {
-              "type": "minecraft:item",
-              "name": "pamhc2trees:maplesyrupitem"
+              "name": "pamhc2trees:maplesyrupitem",
+              "type": "minecraft:item"
             }
           ],
           "conditions": [
             {
               "condition": "minecraft:survives_explosion"
             }
-          ]
+          ],
+          "type": "minecraft:alternatives"
         }
-      ]
+      ],
+      "name": "pammaple0",
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:block"
 }

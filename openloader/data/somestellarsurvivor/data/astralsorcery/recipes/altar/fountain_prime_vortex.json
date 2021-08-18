@@ -1,15 +1,17 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 3,
   "duration": 600,
-  "starlight": 5600,
-  "pattern": [
-    "ABBBA",
-    "_ACA_",
-    "D_E_D",
-    "D___D",
-    "_D_D_"
+  "effects": [
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:vortex_plane",
+    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:altar_default_sparkle",
+    "astralsorcery:built_in_effect_constellation_lines",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
+  "focus_constellation": "astralsorcery:vicio",
   "key": {
     "A": {
       "tag": "forge:ingots/gold"
@@ -29,11 +31,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:fountain_prime_vortex",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:fountain_prime_vortex"
     }
   ],
-  "focus_constellation": "astralsorcery:vicio",
+  "pattern": [
+    "ABBBA",
+    "_ACA_",
+    "D_E_D",
+    "D___D",
+    "_D_D_"
+  ],
   "relay_inputs": [
     {
       "item": "astralsorcery:nocturnal_powder"
@@ -48,14 +56,6 @@
       "tag": "astralsorcery:stardust"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:vortex_plane",
-    "astralsorcery:built_in_effect_trait_focus_circle",
-    "astralsorcery:altar_default_sparkle",
-    "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "starlight": 5600,
+  "type": "astralsorcery:altar"
 }

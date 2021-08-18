@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "structurize:plain_jungle_light_gray_terracotta_timber_frame",
     "structurize:double_crossed_jungle_light_gray_terracotta_timber_frame",

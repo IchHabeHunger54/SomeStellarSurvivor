@@ -1,21 +1,21 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "###"
+  "conditions": [
+    {
+      "flag": "netherrack_bricks",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:netherrack_bricks"
     }
   },
+  "pattern": [
+    "###"
+  ],
   "result": {
-    "item": "quark:netherrack_bricks_slab",
-    "count": 6
+    "count": 6,
+    "item": "quark:netherrack_bricks_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "netherrack_bricks"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

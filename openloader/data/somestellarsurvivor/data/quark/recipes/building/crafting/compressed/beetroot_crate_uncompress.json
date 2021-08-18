@@ -1,18 +1,18 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "beetroot_crate",
+      "type": "quark:flag"
+    }
+  ],
   "ingredients": [
     {
       "item": "quark:beetroot_crate"
     }
   ],
   "result": {
-    "item": "minecraft:beetroot",
-    "count": 9
+    "count": 9,
+    "item": "minecraft:beetroot"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "beetroot_crate"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shapeless"
+}

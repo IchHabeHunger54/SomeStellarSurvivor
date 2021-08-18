@@ -1,14 +1,14 @@
 {
-  "type": "minecraft:stonecutting",
+  "conditions": [
+    {
+      "flag": "more_stone_variants",
+      "type": "quark:flag"
+    }
+  ],
+  "count": 2,
   "ingredient": {
     "item": "quark:jasper_bricks"
   },
   "result": "quark:jasper_bricks_slab",
-  "count": 2,
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "more_stone_variants"
-    }
-  ]
+  "type": "minecraft:stonecutting"
 }

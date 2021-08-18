@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#",
-    "#",
-    "#"
+  "conditions": [
+    {
+      "flag": "vertical_slabs",
+      "type": "quark:flag"
+    }
   ],
   "key": {
     "#": {
       "item": "quark:smooth_basalt_slab"
     }
   },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
   "result": {
-    "item": "quark:smooth_basalt_vertical_slab",
-    "count": 3
+    "count": 3,
+    "item": "quark:smooth_basalt_vertical_slab"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "vertical_slabs"
-    }
-  ]
-} 
+  "type": "minecraft:crafting_shaped"
+}

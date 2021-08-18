@@ -1,5 +1,5 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
     "#tconstruct:smeltery/wall",
     "#tconstruct:smeltery/floor",

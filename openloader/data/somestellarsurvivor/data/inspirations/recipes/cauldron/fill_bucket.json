@@ -1,5 +1,4 @@
 {
-  "type": "inspirations:cauldron_fill_bucket",
   "conditions": [
     {
       "prop": "recipes_module",
@@ -9,5 +8,6 @@
       "prop": "cauldron_recipes",
       "type": "inspirations:config"
     }
-  ]
+  ],
+  "type": "inspirations:cauldron_fill_bucket"
 }

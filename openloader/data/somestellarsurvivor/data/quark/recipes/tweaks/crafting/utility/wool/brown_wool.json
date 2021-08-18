@@ -1,5 +1,10 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "conditions": [
+    {
+      "flag": "dye_any_wool",
+      "type": "quark:flag"
+    }
+  ],
   "group": "wool",
   "ingredients": [
     {
@@ -12,10 +17,5 @@
   "result": {
     "item": "minecraft:brown_wool"
   },
-  "conditions": [
-    {
-      "type": "quark:flag",
-      "flag": "dye_any_wool"
-    }
-  ]
+  "type": "minecraft:crafting_shapeless"
 }

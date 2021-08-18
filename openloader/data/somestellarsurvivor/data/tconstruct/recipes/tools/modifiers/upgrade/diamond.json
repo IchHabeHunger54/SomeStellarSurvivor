@@ -1,17 +1,17 @@
 {
-  "type": "tconstruct:modifier",
   "inputs": [
     {
       "tag": "forge:gems/diamond"
     }
   ],
+  "max_level": 1,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:diamond"
+  },
   "tools": {
     "tag": "tconstruct:modifiable"
   },
-  "result": {
-    "name": "tconstruct:diamond",
-    "level": 1
-  },
-  "max_level": 1,
+  "type": "tconstruct:modifier",
   "upgrade_slots": 1
 }

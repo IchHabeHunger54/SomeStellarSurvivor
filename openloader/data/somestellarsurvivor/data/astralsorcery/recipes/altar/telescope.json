@@ -1,14 +1,9 @@
 {
-  "type": "astralsorcery:altar",
   "altar_type": 1,
   "duration": 200,
-  "starlight": 800,
-  "pattern": [
-    "_____",
-    "__B__",
-    "_CDC_",
-    "_AAA_",
-    "_____"
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle"
   ],
   "key": {
     "A": {
@@ -26,12 +21,17 @@
   },
   "output": [
     {
-      "item": "astralsorcery:telescope",
-      "count": 1
+      "count": 1,
+      "item": "astralsorcery:telescope"
     }
   ],
-  "effects": [
-    "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_attunement_sparkle"
-  ]
+  "pattern": [
+    "_____",
+    "__B__",
+    "_CDC_",
+    "_AAA_",
+    "_____"
+  ],
+  "starlight": 800,
+  "type": "astralsorcery:altar"
 }

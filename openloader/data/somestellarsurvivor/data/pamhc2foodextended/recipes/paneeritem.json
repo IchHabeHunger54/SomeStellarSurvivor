@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:vinegar"
+    },
+    {
+      "tag": "forge:crops/lemon"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:paneeritem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

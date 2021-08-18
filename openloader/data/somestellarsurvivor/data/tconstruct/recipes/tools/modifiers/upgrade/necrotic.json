@@ -1,5 +1,4 @@
 {
-  "type": "tconstruct:modifier",
   "inputs": [
     {
       "item": "minecraft:wither_rose"
@@ -11,13 +10,14 @@
       "item": "minecraft:ghast_tear"
     }
   ],
+  "max_level": 5,
+  "result": {
+    "level": 1,
+    "name": "tconstruct:necrotic"
+  },
   "tools": {
     "tag": "tconstruct:modifiable/melee"
   },
-  "result": {
-    "name": "tconstruct:necrotic",
-    "level": 1
-  },
-  "max_level": 5,
+  "type": "tconstruct:modifier",
   "upgrade_slots": 1
 }

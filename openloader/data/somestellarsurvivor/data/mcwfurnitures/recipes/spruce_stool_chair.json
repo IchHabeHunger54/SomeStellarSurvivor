@@ -1,0 +1,20 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:spruce_plate"
+    },
+    "B": {
+      "item": "minecraft:spruce_fence"
+    }
+  },
+  "pattern": [
+    " A ",
+    " A ",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:spruce_stool_chair"
+  },
+  "type": "minecraft:crafting_shaped"
+}

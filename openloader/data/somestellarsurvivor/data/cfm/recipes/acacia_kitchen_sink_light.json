@@ -1,12 +1,9 @@
 {
-  "type": "minecraft:crafting_shaped",
   "group": "kitchen_sink",
-  "pattern": [
-    "CIC",
-    "PBP",
-    "PPP"
-  ],
   "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
     "C": {
       "item": "minecraft:white_concrete"
     },
@@ -15,13 +12,16 @@
     },
     "P": {
       "item": "minecraft:acacia_planks"
-    },
-    "B": {
-      "item": "minecraft:bucket"
     }
   },
+  "pattern": [
+    "CIC",
+    "PBP",
+    "PPP"
+  ],
   "result": {
-    "item": "cfm:acacia_kitchen_sink_light",
-    "count": 2
-  }
+    "count": 2,
+    "item": "cfm:acacia_kitchen_sink_light"
+  },
+  "type": "minecraft:crafting_shaped"
 }

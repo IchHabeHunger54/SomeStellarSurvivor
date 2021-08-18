@@ -1,20 +1,20 @@
 {
-  "result": {
-    "item": "cookingforblockheads:red_kitchen_floor",
-    "count": 8
+  "key": {
+    "D": {
+      "tag": "forge:dyes/red"
+    },
+    "F": {
+      "item": "cookingforblockheads:white_kitchen_floor"
+    }
   },
-  "type": "minecraft:crafting_shaped",
   "pattern": [
     "FFF",
     "FDF",
     "FFF"
   ],
-  "key": {
-    "F": {
-      "item": "cookingforblockheads:white_kitchen_floor"
-    },
-    "D": {
-      "tag": "forge:dyes/red"
-    }
-  }
+  "result": {
+    "count": 8,
+    "item": "cookingforblockheads:red_kitchen_floor"
+  },
+  "type": "minecraft:crafting_shaped"
 }
