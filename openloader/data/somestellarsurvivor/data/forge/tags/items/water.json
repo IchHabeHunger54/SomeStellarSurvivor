@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#forge:water/water",
-    "#forge:water/freshwater"
+    "#forge:water/freshwater",
+    "#forge:water/water"
   ]
 }

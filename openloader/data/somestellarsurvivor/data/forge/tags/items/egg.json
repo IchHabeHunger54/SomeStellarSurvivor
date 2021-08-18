@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
+    "#forge:egg/egg",
+    "#forge:egg/avocado",
+    "#forge:egg/banana",
     "#forge:egg/flax"
   ]
 }

@@ -1,7 +1,9 @@
 {
   "replace": false,
   "values": [
-    "minecraft:brown_mushroom",
-    "minecraft:red_mushroom"
+    "#forge:mushrooms/brownmushroom",
+    "#forge:mushrooms/glowshroom",
+    "#forge:mushrooms/redmushroom",
+    "#forge:mushrooms/whitemushroom"
   ]
 }

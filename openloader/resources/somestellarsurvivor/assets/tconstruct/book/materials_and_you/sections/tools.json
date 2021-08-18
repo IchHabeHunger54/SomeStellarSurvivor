@@ -30,7 +30,7 @@
     "data": "tools/pickaxe.json"
   },
   {
-    "name": "repairing",
+	"name": "repairing",
     "type": "imageText2",
     "data": "tools/repairing.json"
   }

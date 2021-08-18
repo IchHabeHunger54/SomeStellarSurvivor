@@ -16,6 +16,7 @@
     "type": "modifier",
     "data": "abilities/general/unbreakable.json"
   },
+
   {
     "name": "harvest",
     "type": "tinkers_text",
@@ -41,6 +42,7 @@
     "type": "modifier",
     "data": "abilities/harvest/silky.json"
   },
+
   {
     "name": "weapon",
     "type": "tinkers_text",
@@ -54,6 +56,7 @@
     "type": "modifier",
     "data": "abilities/weapon/melting.json"
   },
+
   {
     "name": "interact",
     "type": "tinkers_text",
@@ -62,6 +65,10 @@
   {
     "type": "modifier",
     "data": "abilities/interact/bucketing.json"
+  },
+  {
+    "type": "modifier",
+    "data": "abilities/interact/firestarter.json"
   },
   {
     "type": "modifier",

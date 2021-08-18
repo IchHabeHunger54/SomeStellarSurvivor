@@ -1,13 +1,8 @@
 {
   "tool": "tconstruct:sword",
   "text": [
-    {
-      "text": "The Sword is an all around weapon, granting medium speed and attack. Starts with 2 abilities, but 1 fewer upgrades."
-    },
-    {
-      "text": "Expanders on a sword increase the area of the sweep attack, while Silky grants shearing.",
-      "paragraph": true
-    }
+    { "text": "The Sword is an all around weapon, granting medium speed and attack. Starts with 2 abilities, but 1 fewer upgrades." },
+    { "text": "Expanders on a sword increase the area of the sweep attack, while Silky grants shearing.", "paragraph": true }
   ],
   "properties": [
     "+3 Attack Damage",

@@ -7,7 +7,7 @@
   ],
   "effects": [
     "Reduces knockback of tool",
-    "Multiple levels, each level decreases knockback further",
+	"Multiple levels, each level decreases knockback further",
     "Requires 1 Upgrade Slot per level"
   ]
 }

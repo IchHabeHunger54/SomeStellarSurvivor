@@ -6,9 +6,9 @@
     }
   ],
   "effects": [
-    "Your tool is now unbreakable",
+     "Your tool is now unbreakable",
     "Single Level",
     "Requires 1 Ability Slot, Reinforced 5, Netherite",
-    "Some modifiers are not affected by unbreaking, examples include tasty, and glowing"
+	"Some modifiers are not affected by unbreaking, examples include tasty, and glowing"
   ]
 }

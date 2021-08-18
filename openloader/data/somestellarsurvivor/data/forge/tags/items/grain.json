@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "#forge:grain/wheat",
     "#forge:grain/amaranth",
     "#forge:grain/barley",
     "#forge:grain/bean",
@@ -13,7 +14,6 @@
     "#forge:grain/quinoa",
     "#forge:grain/rice",
     "#forge:grain/rye",
-    "#forge:grain/soybean",
-    "#forge:grain/wheat"
+    "#forge:grain/soybean"
   ]
 }

@@ -1,10 +1,10 @@
 [
   {
-    "name": "general",
+	"name": "general",
     "type": "tinkers_text",
     "data": "upgrades/general.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "upgrades/general/diamond.json"
   },
@@ -12,7 +12,7 @@
     "type": "modifier",
     "data": "upgrades/general/emerald.json"
   },
-  {
+    {
     "type": "modifier",
     "data": "upgrades/general/experienced.json"
   },
@@ -41,7 +41,7 @@
     "type": "tinkers_text",
     "data": "upgrades/harvest.json"
   },
-  {
+    {
     "type": "modifier",
     "data": "upgrades/harvest/blasting.json"
   },
@@ -53,7 +53,7 @@
     "type": "modifier",
     "data": "upgrades/harvest/hydraulic.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "upgrades/harvest/lightspeed.json"
   },
@@ -78,7 +78,7 @@
     "type": "modifier",
     "data": "upgrades/weapon/cooling.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "upgrades/weapon/fiery.json"
   },
@@ -86,7 +86,7 @@
     "type": "modifier",
     "data": "upgrades/weapon/knockback.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "upgrades/weapon/necrotic.json"
   },
@@ -98,11 +98,11 @@
     "type": "modifier",
     "data": "upgrades/weapon/piercing.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "upgrades/weapon/severing.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "upgrades/weapon/sharpness.json"
   },

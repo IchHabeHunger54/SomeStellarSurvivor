@@ -1,9 +1,14 @@
 {
   "replace": false,
   "values": [
+    "#forge:vegetables/beetroot",
+    "#forge:vegetables/carrot",
+    "#forge:vegetables/potato",
+    "#forge:vegetables/pumpkin",
     "#forge:vegetables/arrowroot",
     "#forge:vegetables/artichoke",
     "#forge:vegetables/asparagus",
+    "#forge:vegetables/avocado",
     "#forge:vegetables/bellpepper",
     "#forge:vegetables/broccoli",
     "#forge:vegetables/brusselsprout",
@@ -21,6 +26,7 @@
     "#forge:vegetables/leek",
     "#forge:vegetables/lettuce",
     "#forge:vegetables/okra",
+    "#forge:vegetables/olive",
     "#forge:vegetables/onion",
     "#forge:vegetables/parsnip",
     "#forge:vegetables/pea",

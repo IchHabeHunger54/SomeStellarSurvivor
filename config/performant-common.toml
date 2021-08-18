@@ -132,4 +132,7 @@ displayTooLargePackets = true
 	printWorldSaves = false
 	#Enable various debugging error logs, like chunkloading etc. , default = false
 	debugOptionsEnabled = false
+	#Set the maximum allowed amount of same sounds playing at the same time. Lowers e.g. lag of flowing water and other cases where a sound is repeated a lot at once. Default = 10
+	#Range: 1 ~ 4000
+	maxSameSounds = 10
 

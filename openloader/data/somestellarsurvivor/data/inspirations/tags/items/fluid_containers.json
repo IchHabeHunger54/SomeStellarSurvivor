@@ -1,5 +1,4 @@
 {
-  "_comment": "Items with this tag can be used as fluid containers in dispensers to fill/empty cauldrons.",
   "values": [
     "minecraft:bucket",
     "minecraft:water_bucket",
@@ -7,7 +6,6 @@
     "minecraft:lava_bucket"
   ],
   "optional": [
-    "ceramics:clay_bucket",
     "forge:bucket_filled"
   ]
 }

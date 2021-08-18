@@ -1,6 +1,6 @@
 [
   {
-    "name": "slotless",
+	"name": "slotless",
     "type": "tinkers_text",
     "data": "slotless/slotless.json"
   },
@@ -12,7 +12,7 @@
     "type": "modifier",
     "data": "slotless/general/shiny.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "slotless/general/worldbound.json"
   },

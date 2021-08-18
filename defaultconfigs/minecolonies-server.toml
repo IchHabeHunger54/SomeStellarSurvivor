@@ -45,7 +45,7 @@
 	enableindevelopmentfeatures = false
 	#Should citizen name tags be rendered? [Default: true]
 	alwaysrendernametag = true
-	#Child growth modifier. On average children take about 60min to grow at 1.0x modifier (the default). 5 = 5x as fast. [Default: 1.000000, min: 1.000000, max: 100.000000]
+	#Child growth modifier. On average children take about 60min to grow at 1.0x modifier (the default). 5 = 5x as fast. [Default: 1,000000, min: 1,000000, max: 100,000000]
 	#Range: 1.0 ~ 100.0
 	growthmodifier = 1.0
 	#Should workers work during the rain? [Default: false]
@@ -70,10 +70,10 @@
 	fixorphanedchunks = false
 	#Should the Builder be slower when working underground? [Default: true]
 	restrictbuilderunderground = true
-	#Chance to get a sponge from the Fisher (starting at hut level 4). [Default: 0.100000, min: 0.000000, max: 100.000000]
+	#Chance to get a sponge from the Fisher (starting at hut level 4). [Default: 0,100000, min: 0,000000, max: 100,000000]
 	#Range: 0.0 ~ 100.0
 	fisherspongechance = 0.0
-	#Chance to get a prismarine shard or crystal drop from the Fisher (starting at hut level 3). Overall chance of prismarine is 2x this number. [Default: 2.500000, min: 0.000000, max: 100.000000]
+	#Chance to get a prismarine shard or crystal drop from the Fisher (starting at hut level 3). Overall chance of prismarine is 2x this number. [Default: 2,500000, min: 0,000000, max: 100,000000]
 	#Range: 0.0 ~ 100.0
 	fisherprismarinechance = 0.0
 	#The minimum level a Town Hall has to be to allow teleportation to allied colonies. [Default: 3, min: 0, max: 5]
@@ -81,7 +81,7 @@
 	minthleveltoteleport = 0
 	#Suggest build tool usage when trying to place a building without the build tool. [Default: true]
 	suggestbuildtoolplacement = true
-	#Food consumption modifier. [Default: 1.000000, min: 0.100000, max: 100.000000]
+	#Food consumption modifier. [Default: 1,000000, min: 0,100000, max: 100,000000]
 	#Range: 0.1 ~ 100.0
 	foodmodifier = 1.0
 	#How common diseases are. 1 = Very common, 100 = extremely rare. [Default: 5, min: 1, max: 100]
@@ -181,15 +181,13 @@
 	shouldraiderbreakdoors = true
 	#Should citizens call Guards for help when attacked? [Default: true]
 	citizencallforhelp = true
-	#Should Archer Guards benefit from Power/Punch/Flame enchants (on bows)? [Default: true]
-	rangerenchants = true
-	#Attack damage multiplier for Archer Guards. [Default: 1.000000, min: 0.100000, max: 5.000000]
+	#Attack damage multiplier for Archer Guards. [Default: 1,000000, min: 0,100000, max: 5,000000]
 	#Range: 0.1 ~ 5.0
 	rangerdamagemult = 1.0
-	#Attack damage multiplier for Knight Guards. [Default: 1.000000, min: 0.100000, max: 5.000000]
+	#Attack damage multiplier for Knight Guards. [Default: 1,000000, min: 0,100000, max: 5,000000]
 	#Range: 0.1 ~ 5.0
 	knightdamagemult = 1.0
-	#Health multiplier for all Guards. [Default: 1.000000, min: 0.100000, max: 5.000000]
+	#Health multiplier for all Guards. [Default: 1,000000, min: 0,100000, max: 5,000000]
 	#Range: 0.1 ~ 5.0
 	guardhealthmult = 1.0
 	#Turn on MineColonies PVP mode (colonies can be destroyed and griefed under certain conditions). [Default: false]
@@ -226,7 +224,7 @@
 	configlistrecruitmentitems = ["minecraft:hay_block;2", "minecraft:book;2", "minecraft:diamond;8", "minecraft:emerald;8", "minecraft:iron_ingot;2", "minecraft:gold_ingot;2", "minecraft:redstone;2", "minecraft:lapis_lazuli;2", "minecraft:cake;6", "minecraft:sunflower;6", "minecraft:honeycomb;6", "minecraft:honey_bottle;6"]
 	#List of ore blocks rarely found magically by Miners (see "Ore Chance"). Includes the block and its chance, separated by exclamation marks. 
 	luckyores = ["minecraft:coal_ore!64", "minecraft:iron_ore!32", "minecraft:gold_ore!16", "minecraft:redstone_ore!8", "minecraft:lapis_ore!4", "minecraft:diamond_ore!2", "minecraft:emerald_ore!1"]
-	#Experience multiplier of the enchanter (how much more experience do they get from a citizen than they drain). [Default: 2.000000, min: 1.000000, max: 10.000000]
+	#Experience multiplier of the enchanter (how much more experience do they get from a citizen than they drain). [Default: 2,000000, min: 1,000000, max: 10,000000]
 	#Range: 1.0 ~ 10.0
 	enchanterexperiencemultiplier = 2.0
 	#Forester harvest trunk size for dynamic trees: 1-8. [Default: 5, min: 1, max: 5]

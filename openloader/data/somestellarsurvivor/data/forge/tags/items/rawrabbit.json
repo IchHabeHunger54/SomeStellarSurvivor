@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#forge:rawrabbit/rawrabbit"
+    "#forge:rawrabbit/rawrabbit",
+    "#forge:rawrabbit/rawtofabbititem"
   ]
 }

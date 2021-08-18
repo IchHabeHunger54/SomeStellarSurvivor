@@ -1,5 +1,4 @@
 {
-  "__comment": "All mobs that mimic octopus flees, players included separately.",
   "replace": false,
   "values": [
     "minecraft:drowned",

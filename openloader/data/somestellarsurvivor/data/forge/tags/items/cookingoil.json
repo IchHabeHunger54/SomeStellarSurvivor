@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "#forge:cookingoil/cookingoil"
+    "#forge:cookingoil/cookingoil",
+    "#forge:cookingoil/mushroomoil",
+    "#forge:cookingoil/sesameoil"
   ]
 }

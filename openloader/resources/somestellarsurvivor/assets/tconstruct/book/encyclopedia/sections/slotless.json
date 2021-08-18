@@ -4,7 +4,7 @@
     "type": "tinkers_text",
     "data": "slotless/general.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "slotless/general/overslime.json"
   },
@@ -12,10 +12,11 @@
     "type": "modifier",
     "data": "slotless/general/shiny.json"
   },
-  {
+   {
     "type": "modifier",
     "data": "slotless/general/worldbound.json"
   },
+
   {
     "name": "bonus",
     "type": "tinkers_text",

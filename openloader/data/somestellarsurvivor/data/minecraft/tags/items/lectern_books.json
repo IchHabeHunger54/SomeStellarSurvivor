@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "#tconstruct:guides",
     "minecraft:written_book",
     "minecraft:writable_book",
     "astralsorcery:tome"

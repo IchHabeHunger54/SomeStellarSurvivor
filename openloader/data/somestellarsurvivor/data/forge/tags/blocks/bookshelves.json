@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "minecraft:bookshelf",
     "quark:acacia_bookshelf",
     "quark:birch_bookshelf",
     "quark:dark_oak_bookshelf",

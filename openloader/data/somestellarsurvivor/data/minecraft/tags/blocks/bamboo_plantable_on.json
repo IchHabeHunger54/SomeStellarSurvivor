@@ -2,13 +2,10 @@
   "replace": false,
   "values": [
     "#minecraft:sand",
+    "#forge:dirt",
+    "#inspirations:mulch",
     "minecraft:bamboo",
     "minecraft:bamboo_sapling",
-    "minecraft:gravel",
-    "minecraft:dirt",
-    "minecraft:grass_block",
-    "minecraft:podzol",
-    "minecraft:coarse_dirt",
-    "minecraft:mycelium"
+    "minecraft:gravel"
   ]
 }

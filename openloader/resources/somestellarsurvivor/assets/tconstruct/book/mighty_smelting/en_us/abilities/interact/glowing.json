@@ -4,10 +4,12 @@
     {
       "text": "That's a bright idea."
     }
+	
+	
   ],
   "effects": [
-    "Right click to place glows",
-    "Placing glows consumes durability, even if the tool has unbreaking",
+    "Interact to place glows",
+	"Placing glows consumes durability, even if the tool has unbreaking",
     "Single Level",
     "Requires 1 Ability Slot"
   ]

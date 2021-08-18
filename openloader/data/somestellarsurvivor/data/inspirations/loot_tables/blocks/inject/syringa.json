@@ -1,5 +1,4 @@
 {
-  "_comment": "This overwrites minecraft:block/syringa",
   "type": "minecraft:block",
   "pools": [
     {
@@ -11,7 +10,6 @@
             {
               "type": "minecraft:item",
               "name": "inspirations:syringa",
-              "_comment": "Each block will drop a flower...",
               "conditions": [
                 {
                   "condition": "inspirations:config",

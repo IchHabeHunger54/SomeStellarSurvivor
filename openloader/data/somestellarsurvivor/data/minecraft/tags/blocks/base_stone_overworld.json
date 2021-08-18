@@ -4,6 +4,10 @@
     "minecraft:stone",
     "minecraft:granite",
     "minecraft:diorite",
-    "minecraft:andesite"
+    "minecraft:andesite",
+    "quark:jasper",
+    "quark:limestone",
+    "quark:marble",
+    "quark:slate"
   ]
 }

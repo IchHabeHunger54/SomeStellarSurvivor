@@ -18,12 +18,12 @@
     "data": "casting/sandcast2.json"
   },
   {
-    "name": "sand_cast_craft",
+	"name": "sand_cast_craft",
     "type": "crafting",
     "data": "casting/sandcast_craft.json"
   },
   {
-    "name": "red_sand_cast_craft",
+	"name": "red_sand_cast_craft",
     "type": "crafting",
     "data": "casting/redsandcast_craft.json"
   },

@@ -1,5 +1,5 @@
 
-[General]
+[Config]
 	#Change to 'false' if you want to reactivate Nether Portals
 	AntiNether = true
 	#Change to 'false' if you want to reactivate End Portals

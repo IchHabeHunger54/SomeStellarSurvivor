@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "minecraft:black_dye"
+    "minecraft:black_dye",
+    "inspirations:black_dyed_bottle"
   ]
 }

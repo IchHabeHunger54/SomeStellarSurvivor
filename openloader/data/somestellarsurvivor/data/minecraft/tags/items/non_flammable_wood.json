@@ -1,14 +1,8 @@
 {
   "replace": false,
   "values": [
-    "minecraft:warped_stem",
-    "minecraft:stripped_warped_stem",
-    "minecraft:warped_hyphae",
-    "minecraft:stripped_warped_hyphae",
-    "minecraft:crimson_stem",
-    "minecraft:stripped_crimson_stem",
-    "minecraft:crimson_hyphae",
-    "minecraft:stripped_crimson_hyphae",
+    "#minecraft:crimson_stems",
+    "#minecraft:warped_stems",
     "minecraft:crimson_planks",
     "minecraft:warped_planks",
     "minecraft:crimson_slab",

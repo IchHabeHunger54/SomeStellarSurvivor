@@ -1,13 +1,8 @@
 {
   "tool": "tconstruct:pickaxe",
   "text": [
-    {
-      "text": "The Pickaxe is a precise mining tool, effective on stone, metal, and ores."
-    },
-    {
-      "text": "Expanders alternate between increasing depth and increasing height.",
-      "paragraph": true
-    }
+    { "text": "The Pickaxe is a precise mining tool, effective on stone, metal, and ores." },
+    { "text": "Expanders alternate between increasing depth and increasing height.", "paragraph": true }
   ],
   "properties": [
     "+0 Attack Damage",

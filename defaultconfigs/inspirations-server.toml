@@ -31,7 +31,7 @@
 
 	[building.bookshelf]
 		#Enables the shelf: a decorative block to display books and other items
-		enable = true
+		enable = false
 		#Enables colored books: basically colored versions of the vanilla book to decorate shelves
 		coloredBooks = true
 		#If true, shelves will increase enchanting table power.

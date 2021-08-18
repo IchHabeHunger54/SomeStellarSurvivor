@@ -1,8 +1,4 @@
 {
   "replace": false,
-  "values": [
-    "minecraft:cobblestone",
-    "minecraft:blackstone",
-    "#notreepunching:cobblestone"
-  ]
+  "values": []
 }

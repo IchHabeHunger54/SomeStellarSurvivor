@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#forge:rawmutton/rawmutton"
+    "#forge:rawmutton/rawmutton",
+    "#forge:rawmutton/rawtofuttonitem"
   ]
 }

@@ -17,4 +17,6 @@ flintKnappingSuccessChance = 0.7
 #The chance for a fire starter to start fires
 #Range: 0.0 ~ 1.0
 fireStarterFireStartChance = 0.3
+#If the large ceramic vessel block keeps it's contents when broken (as opposed to dropping them on the ground
+largeVesselKeepsContentsWhenBroken = true
 

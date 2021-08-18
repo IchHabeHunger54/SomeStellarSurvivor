@@ -4,6 +4,8 @@
     "#forge:spices/ginger",
     "#forge:spices/mustardseeds",
     "#forge:spices/sesameseeds",
-    "#forge:spices/spiceleaf"
+    "#forge:spices/spiceleaf",
+    "#forge:spices/blackpepper",
+    "#forge:spices/saltandpepper"
   ]
 }

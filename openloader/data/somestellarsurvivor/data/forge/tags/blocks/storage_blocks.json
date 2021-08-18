@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "#forge:storage_blocks/coal",
+    "#forge:storage_blocks/copper",
     "#forge:storage_blocks/diamond",
     "#forge:storage_blocks/emerald",
     "#forge:storage_blocks/gold",
@@ -9,6 +10,8 @@
     "#forge:storage_blocks/lapis",
     "#forge:storage_blocks/quartz",
     "#forge:storage_blocks/redstone",
-    "#forge:storage_blocks/netherite"
+    "#forge:storage_blocks/rose_gold",
+    "#forge:storage_blocks/silicon_bronze",
+    "#forge:storage_blocks/starmetal"
   ]
 }

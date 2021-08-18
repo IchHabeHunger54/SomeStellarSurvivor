@@ -3,6 +3,7 @@
   "values": [
     "#forge:rawfish/rawcod",
     "#forge:rawfish/rawsalmon",
-    "#forge:rawfish/rawtropicalfish"
+    "#forge:rawfish/rawtropicalfish",
+    "#forge:rawfish/rawtofishitem"
   ]
 }

@@ -4,10 +4,19 @@
     "minecraft:andesite",
     "minecraft:diorite",
     "minecraft:granite",
-    "minecraft:infested_stone",
     "minecraft:stone",
+    "quark:brimstone",
+    "quark:jasper",
+    "quark:limestone",
+    "quark:marble",
+    "quark:permafrost",
+    "quark:slate",
     "minecraft:polished_andesite",
     "minecraft:polished_diorite",
-    "minecraft:polished_granite"
+    "minecraft:polished_granite",
+    "quark:polished_jasper",
+    "quark:polished_limestone",
+    "quark:polished_marble",
+    "quark:polished_slate"
   ]
 }

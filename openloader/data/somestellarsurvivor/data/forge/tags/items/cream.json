@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "#forge:cream/cream"
+    "#forge:cream/cream",
+    "#forge:cream/silkentofu"
   ]
 }

@@ -3,9 +3,5 @@
   "values": [
     "minecraft:bowl",
     "minecraft:bucket"
-  ],
-  "optional": [
-    "ceramics:clay_bucket",
-    "simplytea:teapot"
   ]
 }

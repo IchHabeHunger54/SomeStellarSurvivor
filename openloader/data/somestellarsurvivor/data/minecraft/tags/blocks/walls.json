@@ -18,8 +18,15 @@
     "minecraft:red_sandstone_wall",
     "minecraft:sandstone_wall",
     "minecraft:stone_brick_wall",
-    "notreepunching:andesite_cobblestone_wall",
-    "notreepunching:diorite_cobblestone_wall",
-    "notreepunching:granite_cobblestone_wall"
+    "buzzier_bees:honeycomb_brick_wall",
+    "buzzier_bees:honeycomb_tile_wall",
+    "structurize:brown_brick_wall",
+    "structurize:beige_brick_wall",
+    "structurize:cream_brick_wall",
+    "structurize:brown_stone_brick_wall",
+    "structurize:beige_stone_brick_wall",
+    "structurize:cream_stone_brick_wall",
+    "tconstruct:seared_bricks_wall",
+    "tconstruct:seared_cobble_wall"
   ]
 }

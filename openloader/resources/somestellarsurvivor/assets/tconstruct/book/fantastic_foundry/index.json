@@ -8,7 +8,7 @@
       }
     }
   },
-  {
+   {
     "name": "alloyer",
     "data": "sections/alloyer.json",
     "icon": {

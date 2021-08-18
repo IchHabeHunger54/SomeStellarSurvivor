@@ -2,11 +2,19 @@
   "replace": false,
   "values": [
     "minecraft:ladder",
-    "minecraft:vine",
+    "quark:spruce_ladder",
+    "quark:birch_ladder",
+    "quark:jungle_ladder",
+    "quark:acacia_ladder",
+    "quark:dark_oak_ladder",
+    "quark:crimson_ladder",
+    "quark:warped_ladder",
     "minecraft:scaffolding",
-    "minecraft:weeping_vines",
-    "minecraft:weeping_vines_plant",
-    "minecraft:twisting_vines",
-    "minecraft:twisting_vines_plant"
+    "minecraft:vine",
+    "inspirations:rope",
+    "inspirations:vine",
+    "quark:iron_ladder",
+    "tconstruct:seared_ladder",
+    "tconstruct:scorched_ladder"
   ]
 }

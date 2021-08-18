@@ -22,15 +22,15 @@
 
 [sorting]
 	#Sorting order for the ingredient list. Valid stages: [MOD_NAME, INGREDIENT_TYPE, ALPHABETICAL, CREATIVE_MENU, TAG, TOOL_TYPE, WEAPON_DAMAGE, ARMOR, MAX_DURABILITY]
-	IngredientSortStages = ["INGREDIENT_TYPE", "ALPHABETICAL"]
+	IngredientSortStages = ["INGREDIENT_TYPE", "MOD_NAME"]
 
 [search]
 	#Search mode for Mod Names (prefix: @)
 	#Allowed Values: ENABLED, REQUIRE_PREFIX, DISABLED
-	ModNameSearchMode = "DISABLED"
+	ModNameSearchMode = "REQUIRE_PREFIX"
 	#Search mode for Tooltips (prefix: #)
 	#Allowed Values: ENABLED, REQUIRE_PREFIX, DISABLED
-	TooltipSearchMode = "DISABLED"
+	TooltipSearchMode = "REQUIRE_PREFIX"
 	#Search mode for Tag Names (prefix: $)
 	#Allowed Values: ENABLED, REQUIRE_PREFIX, DISABLED
 	TagSearchMode = "DISABLED"

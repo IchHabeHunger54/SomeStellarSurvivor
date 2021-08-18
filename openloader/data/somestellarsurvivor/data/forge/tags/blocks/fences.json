@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "#forge:fences/nether_brick",
     "#forge:fences/wooden",
     "#cfm:fences/upgraded"
   ]

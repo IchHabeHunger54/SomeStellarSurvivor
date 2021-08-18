@@ -1,0 +1,15 @@
+/.idea/
+/.mixin.out/
+/downloads/
+/dumps/
+/logs/
+/resourcepacks/
+/saves/
+/mods/
+/.curseclient
+/knownkeys.txt
+/minecraftinstance.json
+/options.txt
+/reauth.toml
+/usercache.json
+/usernamecache.json

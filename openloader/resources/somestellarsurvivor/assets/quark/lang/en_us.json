@@ -1,5 +1,4 @@
 {
-  "____comment": "Colors are in #RRGGBB format",
   "quark.gui.color.crate_count": "#404040",
   "quark.gui.color.matrix_enchanting": "#404040",
   "quark.gui.button.sort": "Sort",
@@ -73,8 +72,6 @@
   "quark.camera.filter.blobs": "Watercolor",
   "quark.camera.filter.pencil": "Pencil",
   "quark.camera.filter.watercolor": "Negative",
-  "quark.camera.filter.sobel": "Sobel",
-  "quark.camera.filter.sobel": "Sobel",
   "quark.camera.filter.sobel": "Sobel",
   "quark.camera.filter.deuteranopia": "Simulated Deuteranopia",
   "quark.camera.filter.protanopia": "Simulated Protanopia",

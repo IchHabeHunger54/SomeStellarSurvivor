@@ -1,14 +1,8 @@
 {
   "replace": false,
   "values": [
-    "minecraft:warped_stem",
-    "minecraft:stripped_warped_stem",
-    "minecraft:warped_hyphae",
-    "minecraft:stripped_warped_hyphae",
-    "minecraft:crimson_stem",
-    "minecraft:stripped_crimson_stem",
-    "minecraft:crimson_hyphae",
-    "minecraft:stripped_crimson_hyphae",
+    "#minecraft:crimson_stems",
+    "#minecraft:warped_stems",
     "minecraft:crimson_planks",
     "minecraft:warped_planks",
     "minecraft:crimson_slab",
@@ -30,6 +24,16 @@
     "minecraft:crimson_sign",
     "minecraft:warped_sign",
     "minecraft:crimson_wall_sign",
-    "minecraft:warped_wall_sign"
+    "minecraft:warped_wall_sign",
+    "quark:crimson_chest",
+    "quark:warped_chest",
+    "quark:crimson_trapped_chest",
+    "quark:warped_trapped_chest",
+    "quark:crimson_ladder",
+    "quark:warped_ladder",
+    "quark:crimson_post",
+    "quark:warped_post",
+    "quark:crimson_bookshelf",
+    "quark:warped_bookshelf"
   ]
 }
