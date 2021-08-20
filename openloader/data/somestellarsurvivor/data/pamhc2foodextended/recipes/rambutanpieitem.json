@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:fruits/rambutan"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:rambutanpieitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

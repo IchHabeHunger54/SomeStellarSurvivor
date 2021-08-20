@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/eggplant"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:pasta"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:eggplantparmitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

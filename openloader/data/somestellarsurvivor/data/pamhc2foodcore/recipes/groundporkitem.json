@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:rawpork"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodcore:groundporkitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

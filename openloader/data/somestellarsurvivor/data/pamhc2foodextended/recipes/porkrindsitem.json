@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:spices/saltandpepper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:porkrindsitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,8 +1,4 @@
 {
   "replace": true,
-  "values": [
-    "cookingforblockheads:recipe_book",
-    "cookingforblockheads:crafting_book",
-    "cookingforblockheads:no_filter_edition"
-  ]
+  "values": []
 }

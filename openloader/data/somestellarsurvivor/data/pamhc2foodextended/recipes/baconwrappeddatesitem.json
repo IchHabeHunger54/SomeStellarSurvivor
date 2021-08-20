@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/date"
+    },
+    {
+      "tag": "forge:rawpork"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:baconwrappeddatesitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

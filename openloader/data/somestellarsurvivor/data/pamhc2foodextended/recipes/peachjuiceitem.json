@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/peach"
+    },
+    {
+      "tag": "forge:fruits/peach"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:peachjuiceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

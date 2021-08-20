@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:fruits/mulberry"
+    },
+    {
+      "tag": "forge:ices"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:mulberrysmoothieitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

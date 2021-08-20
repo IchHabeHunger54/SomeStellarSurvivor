@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:brusselsproutitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:brusselsproutseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,21 @@
+{
+  "group": "chair",
+  "key": {
+    "L": {
+      "item": "minecraft:polished_diorite"
+    },
+    "P": {
+      "item": "minecraft:diorite"
+    }
+  },
+  "pattern": [
+    "L  ",
+    "LLL",
+    "P P"
+  ],
+  "result": {
+    "count": 4,
+    "item": "cfm:diorite_chair"
+  },
+  "type": "minecraft:crafting_shaped"
+}

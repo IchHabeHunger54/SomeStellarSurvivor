@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:eggtartitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

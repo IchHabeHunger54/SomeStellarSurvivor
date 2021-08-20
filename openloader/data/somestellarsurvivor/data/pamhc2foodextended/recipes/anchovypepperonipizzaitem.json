@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:pepperoni"
+    },
+    {
+      "tag": "forge:rawfish"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:anchovypepperonipizzaitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

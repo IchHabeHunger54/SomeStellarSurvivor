@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:stock"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:driedsoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

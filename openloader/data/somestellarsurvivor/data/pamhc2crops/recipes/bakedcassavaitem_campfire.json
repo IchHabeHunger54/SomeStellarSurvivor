@@ -1,0 +1,9 @@
+{
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "forge:crops/cassava"
+  },
+  "result": "pamhc2crops:bakedcassavaitem",
+  "type": "minecraft:campfire_cooking"
+}

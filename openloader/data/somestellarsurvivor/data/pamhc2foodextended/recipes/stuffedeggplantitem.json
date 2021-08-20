@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/eggplant"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/bellpepper"
+    },
+    {
+      "tag": "forge:egg"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:stuffedeggplantitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

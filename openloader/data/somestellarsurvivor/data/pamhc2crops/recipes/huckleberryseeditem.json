@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:huckleberryitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:huckleberryseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

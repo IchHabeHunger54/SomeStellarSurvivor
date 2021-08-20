@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:herbcheeseballitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

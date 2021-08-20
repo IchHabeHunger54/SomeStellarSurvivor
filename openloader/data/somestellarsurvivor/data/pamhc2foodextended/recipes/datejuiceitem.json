@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/date"
+    },
+    {
+      "tag": "forge:fruits/date"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:datejuiceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

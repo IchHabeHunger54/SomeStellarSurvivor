@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/apple"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:cookingoil"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:applefritteritem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

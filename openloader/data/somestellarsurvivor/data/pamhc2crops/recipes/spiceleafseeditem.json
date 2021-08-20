@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:spiceleafitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:spiceleafseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:stock"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/peas"
+    },
+    {
+      "tag": "forge:crops/barley"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:oldworldveggiesoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

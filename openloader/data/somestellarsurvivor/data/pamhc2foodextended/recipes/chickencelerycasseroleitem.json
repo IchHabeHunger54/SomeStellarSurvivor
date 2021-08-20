@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/celery"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    },
+    {
+      "tag": "forge:mushrooms"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:chickencelerycasseroleitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

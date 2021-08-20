@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:sausage"
+    },
+    {
+      "tag": "forge:crops/bean"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:sausagebeanmeltitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

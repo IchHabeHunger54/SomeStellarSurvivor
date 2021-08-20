@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "item": "pamhc2foodextended:rootbeersodaitem"
+    },
+    {
+      "tag": "forge:icecreams"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:rootbeerfloatitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:zucchiniitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:zucchiniseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

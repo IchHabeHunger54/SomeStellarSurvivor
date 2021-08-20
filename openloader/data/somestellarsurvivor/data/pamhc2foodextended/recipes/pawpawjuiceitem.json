@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/pawpaw"
+    },
+    {
+      "tag": "forge:fruits/pawpaw"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:pawpawjuiceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

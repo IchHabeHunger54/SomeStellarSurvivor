@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:fruits/peach"
+    },
+    {
+      "tag": "forge:ices"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:peachsmoothieitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

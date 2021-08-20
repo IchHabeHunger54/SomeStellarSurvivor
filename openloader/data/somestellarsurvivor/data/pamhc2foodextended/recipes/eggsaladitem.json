@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:condiments/mayonaise"
+    },
+    {
+      "tag": "forge:condiments/mustard"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:eggsaladitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

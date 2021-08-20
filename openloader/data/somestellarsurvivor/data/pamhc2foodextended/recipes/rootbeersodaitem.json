@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "pamhc2foodextended:ediblerootitem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:rootbeersodaitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

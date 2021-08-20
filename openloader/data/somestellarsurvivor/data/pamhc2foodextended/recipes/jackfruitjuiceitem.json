@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/jackfruit"
+    },
+    {
+      "tag": "forge:fruits/jackfruit"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:jackfruitjuiceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

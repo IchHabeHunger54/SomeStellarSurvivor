@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:pasta"
+    },
+    {
+      "tag": "forge:stock"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodcore:noodlesoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

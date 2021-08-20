@@ -19,22 +19,6 @@
             {
               "conditions": [
                 {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "tag": "notreepunching:knives"
-                  }
-                },
-                {
-                  "chance": 0.25,
-                  "condition": "minecraft:random_chance"
-                }
-              ],
-              "name": "notreepunching:plant_fiber",
-              "type": "item"
-            },
-            {
-              "conditions": [
-                {
                   "chance": 0.125,
                   "condition": "minecraft:random_chance"
                 }

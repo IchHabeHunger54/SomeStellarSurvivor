@@ -1,1 +1,9 @@
-{"rendering":{"disableThrowHUD":false,"oldRotation":false,"rotateSpeed":1.0,"showPickupTooltip":true,"vanillaRendering":false}}
+{
+  "rendering": {
+    "oldRotation": false,
+    "vanillaRendering": false,
+    "rotateSpeed": 1.0,
+    "showPickupTooltip": true,
+    "disableThrowHUD": false
+  }
+}

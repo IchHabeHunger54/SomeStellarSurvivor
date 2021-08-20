@@ -1,0 +1,20 @@
+{
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "minecraft:spruce_log"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 8,
+    "item": "mcwfurnitures:spruce_plate"
+  },
+  "type": "minecraft:crafting_shaped"
+}

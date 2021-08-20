@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:blueberryitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:blueberryseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

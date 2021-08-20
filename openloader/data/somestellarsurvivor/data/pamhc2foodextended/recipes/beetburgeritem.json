@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:rawbeef"
+    },
+    {
+      "tag": "forge:crops/beetroot"
+    },
+    {
+      "tag": "forge:friedegg"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:crops/pineapple"
+    },
+    {
+      "tag": "forge:toast"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:beetburgeritem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

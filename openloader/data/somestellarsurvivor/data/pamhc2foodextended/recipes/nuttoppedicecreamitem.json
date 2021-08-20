@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:icecreams"
+    },
+    {
+      "tag": "forge:nuts"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:nuttoppedicecreamitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

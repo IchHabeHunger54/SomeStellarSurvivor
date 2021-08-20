@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:fruits/grapefruit"
+    },
+    {
+      "tag": "forge:yogurt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:grapefruityogurtitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

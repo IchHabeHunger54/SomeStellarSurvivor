@@ -1,0 +1,19 @@
+{
+  "key": {
+    "A": {
+      "item": "minecraft:glass_pane"
+    },
+    "B": {
+      "item": "mcwfurnitures:acacia_double_desk_right"
+    }
+  },
+  "pattern": [
+    " A ",
+    " B "
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:acacia_glass_desk_right"
+  },
+  "type": "minecraft:crafting_shaped"
+}

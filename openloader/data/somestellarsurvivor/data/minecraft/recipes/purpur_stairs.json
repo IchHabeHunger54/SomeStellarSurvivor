@@ -1,17 +1,8 @@
 {
-  "conditions": [
-    {
-      "object": "better_stairs",
-      "type": "vanillatweaks:better_vanilla"
-    }
-  ],
   "key": {
     "#": [
       {
         "item": "minecraft:purpur_block"
-      },
-      {
-        "item": "minecraft:purpur_pillar"
       }
     ]
   },
@@ -21,7 +12,7 @@
     "###"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "item": "minecraft:purpur_stairs"
   },
   "type": "minecraft:crafting_shaped"

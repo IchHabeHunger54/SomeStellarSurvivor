@@ -1,8 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "chisel:carpet/cyan/legacy",
-    "chisel:carpet/cyan/llama",
-    "minecraft:cyan_carpet"
-  ]
-}

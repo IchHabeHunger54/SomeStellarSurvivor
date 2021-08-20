@@ -1,0 +1,9 @@
+{
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "forge:crops/chestnut"
+  },
+  "result": "pamhc2trees:roastedchestnutitem",
+  "type": "minecraft:campfire_cooking"
+}

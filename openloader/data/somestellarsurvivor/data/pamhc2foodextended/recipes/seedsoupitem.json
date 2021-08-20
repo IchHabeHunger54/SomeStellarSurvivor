@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:seeds"
+    },
+    {
+      "tag": "forge:seeds"
+    },
+    {
+      "tag": "forge:seeds"
+    },
+    {
+      "tag": "forge:stock"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:seedsoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

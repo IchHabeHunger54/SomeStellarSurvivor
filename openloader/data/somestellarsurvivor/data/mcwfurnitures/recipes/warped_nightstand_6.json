@@ -1,0 +1,15 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:warped_box_2"
+    }
+  },
+  "pattern": [
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:warped_nightstand_6"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/figjelly"
+    },
+    {
+      "tag": "forge:toast"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:figjellytoastitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

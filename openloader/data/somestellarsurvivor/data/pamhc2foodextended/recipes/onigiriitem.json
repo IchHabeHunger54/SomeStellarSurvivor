@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "item": "minecraft:kelp"
+    },
+    {
+      "tag": "forge:crops/sesameseeds"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:onigiriitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

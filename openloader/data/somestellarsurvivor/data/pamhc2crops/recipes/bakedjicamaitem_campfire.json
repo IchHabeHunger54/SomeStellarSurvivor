@@ -1,0 +1,9 @@
+{
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "forge:crops/jicama"
+  },
+  "result": "pamhc2crops:bakedjicamaitem",
+  "type": "minecraft:campfire_cooking"
+}

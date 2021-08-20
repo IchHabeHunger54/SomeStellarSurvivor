@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "forge:crops/radish"
+  },
+  "result": "pamhc2crops:roastedradishitem",
+  "type": "minecraft:smelting"
+}

@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:firmtofu"
+    },
+    {
+      "tag": "forge:soysauce"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "pamhc2foodextended:rawtofabbititem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

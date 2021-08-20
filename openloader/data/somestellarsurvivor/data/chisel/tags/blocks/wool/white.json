@@ -1,8 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "chisel:wool/white/legacy",
-    "chisel:wool/white/llama",
-    "minecraft:white_wool"
-  ]
-}

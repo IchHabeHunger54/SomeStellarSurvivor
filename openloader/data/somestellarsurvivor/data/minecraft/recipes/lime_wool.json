@@ -1,0 +1,24 @@
+{
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "flag": "dye_any_wool",
+        "type": "quark:flag"
+      }
+    }
+  ],
+  "group": "wool",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "minecraft:white_wool"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lime_wool"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:fruits/peach"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:peachpieitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

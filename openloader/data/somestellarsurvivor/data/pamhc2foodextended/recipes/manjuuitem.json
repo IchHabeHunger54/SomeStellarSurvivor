@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "tag": "forge:crops/bean"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:manjuuitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

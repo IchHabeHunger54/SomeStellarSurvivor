@@ -1,0 +1,9 @@
+{
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "forge:crops/sweetpotato"
+  },
+  "result": "pamhc2crops:bakedsweetpotatoitem",
+  "type": "minecraft:smoking"
+}

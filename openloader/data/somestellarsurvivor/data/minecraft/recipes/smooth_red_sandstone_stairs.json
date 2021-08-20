@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "object": "better_stairs",
-      "type": "vanillatweaks:better_vanilla"
-    }
-  ],
   "key": {
     "#": {
       "item": "minecraft:smooth_red_sandstone"
@@ -16,7 +10,7 @@
     "###"
   ],
   "result": {
-    "count": 8,
+    "count": 4,
     "item": "minecraft:smooth_red_sandstone_stairs"
   },
   "type": "minecraft:crafting_shaped"

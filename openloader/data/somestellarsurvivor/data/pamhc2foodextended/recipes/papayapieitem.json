@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:fruits/papaya"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:dough"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:papayapieitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

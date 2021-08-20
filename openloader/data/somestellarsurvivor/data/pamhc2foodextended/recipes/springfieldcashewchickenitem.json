@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "tag": "forge:crops/cashew"
+    },
+    {
+      "tag": "forge:condiments/oystersauce"
+    },
+    {
+      "tag": "forge:crops/rice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:springfieldcashewchickenitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

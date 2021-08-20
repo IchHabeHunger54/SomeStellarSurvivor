@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:crops/peppercorn"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:blackpepperitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

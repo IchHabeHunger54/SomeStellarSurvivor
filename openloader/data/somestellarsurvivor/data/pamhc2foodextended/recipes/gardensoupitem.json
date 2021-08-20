@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:stock"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:vegetables"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:gardensoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

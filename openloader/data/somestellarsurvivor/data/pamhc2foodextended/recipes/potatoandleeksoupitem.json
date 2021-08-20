@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/potato"
+    },
+    {
+      "tag": "forge:crops/leek"
+    },
+    {
+      "tag": "forge:stock"
+    },
+    {
+      "tag": "forge:cream"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    },
+    {
+      "tag": "forge:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:potatoandleeksoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

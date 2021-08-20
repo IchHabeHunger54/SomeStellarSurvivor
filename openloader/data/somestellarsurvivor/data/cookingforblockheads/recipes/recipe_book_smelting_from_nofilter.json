@@ -1,9 +1,0 @@
-{
-  "cookingtime": 200,
-  "experience": 1,
-  "ingredient": {
-    "item": "cookingforblockheads:no_filter_edition"
-  },
-  "result": "cookingforblockheads:recipe_book",
-  "type": "minecraft:smelting"
-}

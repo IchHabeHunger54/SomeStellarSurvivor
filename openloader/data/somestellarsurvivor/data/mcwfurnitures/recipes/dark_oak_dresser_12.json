@@ -1,0 +1,19 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:dark_oak_dresser_13"
+    },
+    "B": {
+      "item": "mcwfurnitures:drawer"
+    }
+  },
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:dark_oak_dresser_12"
+  },
+  "type": "minecraft:crafting_shaped"
+}

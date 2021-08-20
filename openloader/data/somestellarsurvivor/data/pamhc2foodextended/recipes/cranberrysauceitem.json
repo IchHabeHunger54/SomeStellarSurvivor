@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:crops/cranberry"
+    },
+    {
+      "tag": "forge:crops/cranberry"
+    },
+    {
+      "tag": "forge:sugar"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cranberrysauceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

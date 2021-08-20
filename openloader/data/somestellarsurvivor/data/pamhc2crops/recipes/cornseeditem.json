@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:cornitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:cornseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

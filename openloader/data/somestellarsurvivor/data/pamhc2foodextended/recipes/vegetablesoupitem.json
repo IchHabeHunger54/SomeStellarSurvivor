@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/potato"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    },
+    {
+      "tag": "forge:mushrooms"
+    },
+    {
+      "tag": "forge:stock"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:vegetablesoupitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

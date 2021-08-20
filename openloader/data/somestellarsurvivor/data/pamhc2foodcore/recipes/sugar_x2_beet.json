@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:crops/beetroot"
+    },
+    {
+      "tag": "forge:crops/beetroot"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:sugar"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

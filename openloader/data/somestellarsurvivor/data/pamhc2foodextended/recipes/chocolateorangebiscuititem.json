@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "tag": "forge:crops/orange"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:chocolateorangebiscuititem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:spices/blackpepper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:toastsandwichitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

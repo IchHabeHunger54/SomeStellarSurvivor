@@ -1,0 +1,9 @@
+{
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "forge:crops/onion"
+  },
+  "result": "pamhc2crops:roastedonionitem",
+  "type": "minecraft:campfire_cooking"
+}

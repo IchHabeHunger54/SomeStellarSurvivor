@@ -1,0 +1,17 @@
+{
+  "group": "hedge",
+  "key": {
+    "L": {
+      "item": "minecraft:jungle_leaves"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "LLL"
+  ],
+  "result": {
+    "count": 12,
+    "item": "cfm:jungle_hedge"
+  },
+  "type": "minecraft:crafting_shaped"
+}

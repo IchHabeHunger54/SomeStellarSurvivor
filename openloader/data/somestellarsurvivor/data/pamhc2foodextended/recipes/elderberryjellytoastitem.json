@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/elderberryjelly"
+    },
+    {
+      "tag": "forge:toast"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:elderberryjellytoastitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

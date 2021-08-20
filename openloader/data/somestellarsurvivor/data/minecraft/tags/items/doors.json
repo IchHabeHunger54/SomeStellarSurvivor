@@ -3,6 +3,7 @@
   "values": [
     "#minecraft:wooden_doors",
     "minecraft:iron_door",
+    "buzzier_bees:honeycomb_door",
     "inspirations:glass_door"
   ]
 }

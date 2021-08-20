@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:strawberryitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:strawberryseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

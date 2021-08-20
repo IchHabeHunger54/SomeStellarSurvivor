@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:crops/mustardseeds"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:mustarditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

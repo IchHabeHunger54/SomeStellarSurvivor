@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/kale"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:kalechipsitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

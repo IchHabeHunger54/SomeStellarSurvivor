@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/lycheejelly"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "tag": "forge:nutbutters"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:lycheejellysandwichitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

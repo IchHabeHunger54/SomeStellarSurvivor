@@ -1,20 +1,8 @@
 {
-  "conditions": [
-    {
-      "object": "better_stairs",
-      "type": "vanillatweaks:better_vanilla"
-    }
-  ],
   "key": {
     "#": [
       {
         "item": "minecraft:red_sandstone"
-      },
-      {
-        "item": "minecraft:chiseled_red_sandstone"
-      },
-      {
-        "item": "minecraft:cut_red_sandstone"
       }
     ]
   },

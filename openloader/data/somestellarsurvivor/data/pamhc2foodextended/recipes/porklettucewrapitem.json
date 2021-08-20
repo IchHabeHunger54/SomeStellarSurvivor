@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:crops/lettuce"
+    },
+    {
+      "tag": "forge:rawpork"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:porklettucewrapitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

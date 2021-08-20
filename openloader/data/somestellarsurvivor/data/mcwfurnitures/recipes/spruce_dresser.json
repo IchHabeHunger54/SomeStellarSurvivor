@@ -1,0 +1,15 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:spruce_nightstand_5"
+    }
+  },
+  "pattern": [
+    "AA"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:spruce_dresser"
+  },
+  "type": "minecraft:crafting_shaped"
+}

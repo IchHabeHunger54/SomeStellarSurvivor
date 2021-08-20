@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:meatloafitem"
+    },
+    {
+      "tag": "forge:bread"
+    },
+    {
+      "tag": "forge:condiments/ketchup"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:meatloafsandwichitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

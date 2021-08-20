@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:cornmeal"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cheesytacotortillachipsitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

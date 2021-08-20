@@ -1,8 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "chisel:wool/lime/legacy",
-    "chisel:wool/lime/llama",
-    "minecraft:lime_wool"
-  ]
-}

@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:mustardseedsitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:mustardseedsseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

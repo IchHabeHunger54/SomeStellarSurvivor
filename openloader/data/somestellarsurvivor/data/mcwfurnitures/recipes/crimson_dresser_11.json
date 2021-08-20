@@ -1,0 +1,15 @@
+{
+  "key": {
+    "A": {
+      "item": "mcwfurnitures:crimson_dresser_6"
+    }
+  },
+  "pattern": [
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "item": "mcwfurnitures:crimson_dresser_11"
+  },
+  "type": "minecraft:crafting_shaped"
+}

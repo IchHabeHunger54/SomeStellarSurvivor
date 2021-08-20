@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:grilledcheeseitem"
+    },
+    {
+      "item": "pamhc2foodextended:tomatosoupitem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:homestylelunchitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

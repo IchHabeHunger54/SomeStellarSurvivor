@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/cantaloupe"
+    },
+    {
+      "tag": "forge:fruits/cantaloupe"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cantaloupejuiceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

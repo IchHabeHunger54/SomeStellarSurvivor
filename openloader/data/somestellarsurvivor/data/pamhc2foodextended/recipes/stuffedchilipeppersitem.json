@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/chilipepper"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:rawmeats"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:stuffedchilipeppersitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

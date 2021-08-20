@@ -1,0 +1,27 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "tag": "forge:cookedpork"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:onions"
+    },
+    {
+      "tag": "forge:cream"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:loadedbakedpotatoitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

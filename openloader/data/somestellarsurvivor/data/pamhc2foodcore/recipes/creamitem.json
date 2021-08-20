@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodcore:creamitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

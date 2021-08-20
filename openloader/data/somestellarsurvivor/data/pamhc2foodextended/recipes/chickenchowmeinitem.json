@@ -1,0 +1,30 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:pasta"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/celery"
+    },
+    {
+      "tag": "forge:crops/carrot"
+    },
+    {
+      "tag": "forge:stock"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:chickenchowmeinitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

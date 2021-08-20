@@ -3,6 +3,7 @@
   "values": [
     "#minecraft:wooden_trapdoors",
     "minecraft:iron_trapdoor",
+    "buzzier_bees:honeycomb_trapdoor",
     "inspirations:glass_trapdoor"
   ]
 }

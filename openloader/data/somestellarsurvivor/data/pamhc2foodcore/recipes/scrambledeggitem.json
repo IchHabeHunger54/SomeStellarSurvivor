@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:egg"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodcore:scrambledeggitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

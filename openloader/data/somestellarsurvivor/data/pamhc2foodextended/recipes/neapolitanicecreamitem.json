@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "tag": "forge:crops/strawberry"
+    },
+    {
+      "tag": "forge:icecreams/vanillaicecream"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:neapolitanicecreamitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

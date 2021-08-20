@@ -1,0 +1,9 @@
+{
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "forge:crops/waterchestnut"
+  },
+  "result": "pamhc2crops:bakedwaterchestnutitem",
+  "type": "minecraft:smelting"
+}

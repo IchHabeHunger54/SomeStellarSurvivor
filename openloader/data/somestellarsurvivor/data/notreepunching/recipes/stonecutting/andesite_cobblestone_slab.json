@@ -1,9 +1,0 @@
-{
-  "__comment__": "This file was automatically created by mcresources",
-  "count": 2,
-  "ingredient": {
-    "item": "notreepunching:andesite_cobblestone"
-  },
-  "result": "notreepunching:andesite_cobblestone_slab",
-  "type": "minecraft:stonecutting"
-}

@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "item": "pamhc2foodextended:bakedbeansitem"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:beansontoastitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

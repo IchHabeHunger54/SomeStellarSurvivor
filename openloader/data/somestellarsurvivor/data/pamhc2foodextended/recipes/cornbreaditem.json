@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:cornmeal"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cornbreaditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

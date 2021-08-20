@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/corn"
+    },
+    {
+      "tag": "forge:butter"
+    },
+    {
+      "tag": "forge:salt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:cornonthecobitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

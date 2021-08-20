@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "pamhc2crops:riceitem"
+    }
+  ],
+  "result": {
+    "item": "pamhc2crops:riceseeditem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,0 +1,21 @@
+{
+  "group": "blinds",
+  "key": {
+    "L": {
+      "item": "minecraft:warped_stem"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "count": 2,
+    "item": "cfm:warped_blinds"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:crops/soybean"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:silkentofuitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

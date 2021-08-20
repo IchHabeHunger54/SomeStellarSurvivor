@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:crops/lemon"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:meringue"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:lemonmeringueitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

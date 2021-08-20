@@ -1,0 +1,24 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodcore:friedchickenitem"
+    },
+    {
+      "item": "pamhc2foodextended:coleslawitem"
+    },
+    {
+      "item": "pamhc2foodcore:mashedpotatoesitem"
+    },
+    {
+      "tag": "forge:sodas"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:friedfeastitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

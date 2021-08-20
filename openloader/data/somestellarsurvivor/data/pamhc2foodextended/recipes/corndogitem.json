@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:cookingoil"
+    },
+    {
+      "item": "pamhc2foodcore:groundporkitem"
+    },
+    {
+      "tag": "forge:batter"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:corndogitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

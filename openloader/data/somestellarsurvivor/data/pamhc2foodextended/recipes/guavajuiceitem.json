@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/guava"
+    },
+    {
+      "tag": "forge:fruits/guava"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:guavajuiceitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

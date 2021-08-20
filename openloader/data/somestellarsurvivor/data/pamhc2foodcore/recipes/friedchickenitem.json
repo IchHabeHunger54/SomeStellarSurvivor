@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:flour"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:cookingoil"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodcore:friedchickenitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

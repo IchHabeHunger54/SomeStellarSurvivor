@@ -1,0 +1,15 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:sausage"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "pamhc2foodextended:batteredsausageitem"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

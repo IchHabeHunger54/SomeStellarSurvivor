@@ -1,0 +1,9 @@
+{
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "pamhc2foodextended:rawtofuttonitem"
+  },
+  "result": "pamhc2foodextended:cookedtofuttonitem",
+  "type": "minecraft:campfire_cooking"
+}
