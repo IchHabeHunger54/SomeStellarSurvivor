@@ -1,8 +1,0 @@
-{
-  "conditions": [
-    {
-      "condition": "alexsmobs:matches_banana_tag"
-    }
-  ],
-  "type": "alexsmobs:banana_drop"
-}

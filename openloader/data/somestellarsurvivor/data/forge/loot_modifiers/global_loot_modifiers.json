@@ -4,10 +4,7 @@
     "astralsorcery:scorching_heat",
     "astralsorcery:magnet_drops",
     "tconstruct:modifier_hook",
-    "tconstruct:wither_bone",
-    "curios:fortune_bonus",
-    "alexsmobs:banana_drop",
-    "alexsmobs:blossom_drop"
+    "curios:fortune_bonus"
   ],
   "replace": true
 }

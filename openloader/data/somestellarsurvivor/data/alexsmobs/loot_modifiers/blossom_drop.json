@@ -1,8 +1,0 @@
-{
-  "conditions": [
-    {
-      "condition": "alexsmobs:matches_blossom_tag"
-    }
-  ],
-  "type": "alexsmobs:blossom_drop"
-}
