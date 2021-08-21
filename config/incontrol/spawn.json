@@ -1,1 +1,246 @@
-[]
+[
+  {
+    "mob": "minecraft:blaze",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:creeper",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:elder_guardian",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:endermite",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:enderman",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:evoker",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:ghast",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:guardian",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:hoglin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:magma_cube",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:mooshroom",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:phantom",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:piglin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:piglin_brute",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:pillager",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:ravager",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:shulker",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:silverfish",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:skeleton",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:skeleton_horse",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:stray",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:strider",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:trader_llama",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:vex",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:villager",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:vindicator",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:wandering_trader",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:witch",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:wither_skeleton",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zoglin",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombie_horse",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombie_villager",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:zombified_piglin",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:bone_serpent",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:centipede",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:crimson_mosquito",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:dropbear",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:endergrade",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:enderiophage",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:guster",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:mimicube",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:mungus",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:soul_vulture",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:spectre",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:straddler",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:stradpole",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:sunbird",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:tarantula_hawk",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:void_worm",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:warped_mosco",
+    "result": "deny"
+  },
+  {
+    "mob": "alexsmobs:warped_toad",
+    "result": "deny"
+  },
+  {
+    "mob": "buzzier_bees:moobloom",
+    "result": "deny"
+  },
+  {
+    "mob": "quark:forgotten",
+    "result": "deny"
+  },
+  {
+    "mob": "quark:foxhound",
+    "result": "deny"
+  },
+  {
+    "mob": "quark:stoneling",
+    "result": "deny"
+  },
+  {
+    "mob": "quark:toretoise",
+    "result": "deny"
+  },
+  {
+    "mob": "quark:wraith",
+    "result": "deny"
+  },
+  {
+    "mob": "quark:wrapped",
+    "result": "deny"
+  },
+  {
+    "mob": "tconstruct:ender_slime",
+    "result": "deny"
+  },
+  {
+    "mob": "tconstruct:sky_slime",
+    "result": "deny"
+  },
+  {
+    "mob": "tconstruct:terracube",
+    "result": "deny"
+  }
+]
