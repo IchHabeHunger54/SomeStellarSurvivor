@@ -1,5 +1,18 @@
 {
-  "optional": [
+  "replace": true,
+  "values": [
+    "minecraft:baked_potato",
+    "minecraft:beetroot",
+    "minecraft:beetroot_soup",
+    "minecraft:carrot",
+    "minecraft:dried_kelp",
+    "minecraft:golden_carrot",
+    "minecraft:mushroom_stew",
+    "minecraft:poisonous_potato",
+    "minecraft:potato",
+    "minecraft:pumpkin_pie",
+    "minecraft:rabbit_stew",
+    "minecraft:suspicious_stew",
     "alexsmobs:gongylidia",
     "alexsmobs:sopa_de_macaco",
     "aquaculture:algae",
@@ -128,20 +141,5 @@
     "pamhc2foodextended:tacoitem",
     "pamhc2foodextended:theatreboxitem",
     "quark:root_item"
-  ],
-  "replace": true,
-  "values": [
-    "minecraft:baked_potato",
-    "minecraft:beetroot",
-    "minecraft:beetroot_soup",
-    "minecraft:carrot",
-    "minecraft:dried_kelp",
-    "minecraft:golden_carrot",
-    "minecraft:mushroom_stew",
-    "minecraft:poisonous_potato",
-    "minecraft:potato",
-    "minecraft:pumpkin_pie",
-    "minecraft:rabbit_stew",
-    "minecraft:suspicious_stew"
   ]
 }

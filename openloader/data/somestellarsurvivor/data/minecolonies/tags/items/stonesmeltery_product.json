@@ -1,18 +1,15 @@
 {
   "replace": true,
   "values": [
-    "minecraft:brick",
-    "minecraft:coal",
-    "minecraft:charcoal",
-    "minecraft:nether_brick",
-    "#forge:stone",
-    "minecraft:smooth_stone",
-    "minecraft:terracotta",
-    "#minecolonies:glazed_terracotta",
     "#minecraft:stone_bricks",
+    "#forge:stone",
+    "#minecolonies:glazed_terracotta",
+    "minecraft:brick",
+    "minecraft:charcoal",
     "minecraft:smooth_quartz",
-    "minecraft:popped_chorus_fruit",
+    "minecraft:smooth_red_sandstone",
     "minecraft:smooth_sandstone",
-    "minecraft:smooth_red_sandstone"
+    "minecraft:smooth_stone",
+    "minecraft:terracotta"
   ]
 }

@@ -3,6 +3,7 @@
   "values": [
     "#minecraft:logs",
     "#minecraft:planks",
+    "#minecraft:wooden_slabs",
     "minecraft:stick",
     "#minecolonies:mechanic_ingredient",
     "#minecolonies:dyer_ingredient"

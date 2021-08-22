@@ -1,9 +1,6 @@
 {
   "replace": true,
   "values": [
-    "#forge:ingots",
-    "#forge:stone",
-    "#forge:dusts/redstone",
-    "#forge:string"
+    "#forge:ingots"
   ]
 }

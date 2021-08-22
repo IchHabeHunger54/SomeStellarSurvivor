@@ -1,5 +1,10 @@
 {
-  "optional": [
+  "replace": true,
+  "values": [
+    "minecraft:cake",
+    "minecraft:cookie",
+    "minecraft:honey_bottle",
+    "minecraft:pumpkin_pie",
     "buzzier_bees:glazed_porkchop",
     "buzzier_bees:honey_apple",
     "buzzier_bees:honey_bread",
@@ -173,12 +178,5 @@
     "pamhc2foodextended:tamarindpieitem",
     "pamhc2foodextended:theatreboxitem",
     "pamhc2trees:maplesyrupitem"
-  ],
-  "replace": true,
-  "values": [
-    "minecraft:cake",
-    "minecraft:cookie",
-    "minecraft:honey_bottle",
-    "minecraft:pumpkin_pie"
   ]
 }

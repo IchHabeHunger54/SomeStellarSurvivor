@@ -1,10 +1,4 @@
 {
-  "optional": [
-    "#botania:mystical_flowers",
-    "#botania:special_flowers"
-  ],
   "replace": true,
-  "values": [
-    "minecraft:wither_rose"
-  ]
+  "values": []
 }

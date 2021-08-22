@@ -1,9 +1,4 @@
 {
   "replace": true,
-  "values": [
-    "minecraft:iron_golem",
-    "minecraft:snow_golem",
-    "minecraft:villager",
-    "minecraft:player"
-  ]
+  "values": []
 }

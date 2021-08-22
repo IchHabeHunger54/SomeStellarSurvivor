@@ -1,7 +1,4 @@
 {
   "replace": true,
-  "values": [
-    "minecraft:diamond_hoe",
-    "minecraft:netherite_hoe"
-  ]
+  "values": []
 }

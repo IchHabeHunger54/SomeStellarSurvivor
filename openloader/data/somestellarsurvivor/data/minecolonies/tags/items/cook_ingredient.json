@@ -2,14 +2,13 @@
   "replace": true,
   "values": [
     "#minecraft:fishes",
+    "#forge:crops",
     "minecraft:beef",
     "minecraft:mutton",
     "minecraft:chicken",
     "minecraft:porkchop",
     "minecraft:rabbit",
     "minecraft:potato",
-    "minecraft:kelp",
-    "minecraft:dried_kelp",
-    "minecraft:dried_kelp_block"
+    "minecraft:kelp"
   ]
 }

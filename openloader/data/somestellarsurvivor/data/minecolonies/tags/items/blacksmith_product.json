@@ -2,7 +2,6 @@
   "replace": true,
   "values": [
     "#forge:nuggets",
-    "#forge:ingots",
-    "minecraft:shears"
+    "#forge:ingots"
   ]
 }

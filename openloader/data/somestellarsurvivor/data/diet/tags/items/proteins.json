@@ -1,5 +1,20 @@
 {
-  "optional": [
+  "replace": true,
+  "values": [
+    "#minecraft:fishes",
+    "minecraft:beef",
+    "minecraft:chicken",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_rabbit",
+    "minecraft:mutton",
+    "minecraft:porkchop",
+    "minecraft:rabbit",
+    "minecraft:rabbit_stew",
+    "minecraft:rotten_flesh",
+    "minecraft:spider_eye",
     "alexsmobs:blobfish",
     "alexsmobs:boiled_emu_egg",
     "alexsmobs:cooked_kangaroo_meat",
@@ -260,22 +275,5 @@
     "quark:frog_leg",
     "quark:golden_frog_leg",
     "tconstruct:bacon"
-  ],
-  "replace": true,
-  "values": [
-    "#minecraft:fishes",
-    "minecraft:beef",
-    "minecraft:chicken",
-    "minecraft:cooked_mutton",
-    "minecraft:cooked_porkchop",
-    "minecraft:cooked_beef",
-    "minecraft:cooked_chicken",
-    "minecraft:cooked_rabbit",
-    "minecraft:mutton",
-    "minecraft:porkchop",
-    "minecraft:rabbit",
-    "minecraft:rabbit_stew",
-    "minecraft:rotten_flesh",
-    "minecraft:spider_eye"
   ]
 }

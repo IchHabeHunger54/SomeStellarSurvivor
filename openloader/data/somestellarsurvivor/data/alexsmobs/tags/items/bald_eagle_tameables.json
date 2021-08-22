@@ -1,1 +1,6 @@
-{"__comment":"included since some packs have fish oil disabled.","replace":true,"values":["alexsmobs:fish_oil"]}
+{
+  "replace": true,
+  "values": [
+    "minecraft:salmon"
+  ]
+}

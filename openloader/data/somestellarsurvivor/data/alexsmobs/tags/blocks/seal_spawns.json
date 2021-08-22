@@ -2,9 +2,9 @@
   "replace": true,
   "values": [
     "#minecraft:sand",
-    "#forge:gravel",
     "#minecraft:ice",
     "#minecraft:base_stone_overworld",
+    "minecraft:gravel",
     "minecraft:snow_block"
   ]
 }

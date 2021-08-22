@@ -1,18 +1,13 @@
 {
-  "optional": [
-    "#inspirations:dyed_bottles",
-    "inspirations:splash_bottle",
-    "inspirations:lingering_bottle",
-    "toughasnails:purified_water_bottle"
-  ],
+  "replace": true,
   "values": [
     "minecraft:beetroot_soup",
     "minecraft:bowl",
     "minecraft:glass_bottle",
-    "minecraft:lingering_potion",
     "minecraft:mushroom_stew",
     "minecraft:potion",
     "minecraft:rabbit_stew",
-    "minecraft:splash_potion"
+    "#inspirations:dyed_bottles",
+    "toughasnails:purified_water_bottle"
   ]
 }

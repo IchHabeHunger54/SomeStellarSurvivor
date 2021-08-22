@@ -1,17 +1,4 @@
 {
   "replace": true,
-  "values": [
-    {
-      "id": "waystones:sandy_waystone",
-      "required": false
-    },
-    {
-      "id": "waystones:waystone",
-      "required": false
-    },
-    {
-      "id": "waystones:mossy_waystone",
-      "required": false
-    }
-  ]
+  "values": []
 }

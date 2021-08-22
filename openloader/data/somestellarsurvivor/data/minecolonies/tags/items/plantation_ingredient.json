@@ -1,6 +1,7 @@
 {
   "replace": true,
   "values": [
-    "minecraft:bamboo"
+    "minecraft:bamboo",
+    "minecraft:sugar_cane"
   ]
 }

@@ -1,7 +1,6 @@
 {
   "replace": "false",
   "values": [
-    "astralsorcery:enchantment_amulet",
-    "curios:amulet"
+    "astralsorcery:enchantment_amulet"
   ]
 }

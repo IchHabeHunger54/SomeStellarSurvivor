@@ -1,9 +1,4 @@
 {
   "replace": true,
-  "values": [
-    "minecraft:netherrack",
-    "minecraft:soul_sand",
-    "minecraft:basalt",
-    "minecraft:soul_soil"
-  ]
+  "values": []
 }

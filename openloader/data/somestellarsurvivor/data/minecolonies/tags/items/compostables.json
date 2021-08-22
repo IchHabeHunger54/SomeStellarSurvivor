@@ -1,18 +1,19 @@
 {
   "replace": true,
   "values": [
-    "#forge:crops",
-    "#forge:eggs",
     "#minecraft:flowers",
     "#minecraft:fishes",
     "#minecraft:leaves",
     "#minecraft:wool",
+    "#forge:crops",
+    "#forge:eggs",
     "minecraft:rotten_flesh",
     "minecraft:brown_mushroom",
     "minecraft:red_mushroom",
-    "minecraft:feather",
+    "minecraft:melon",
     "minecraft:pumpkin",
     "minecraft:carved_pumpkin",
+    "minecraft:jack_o_lantern",
     "minecraft:grass",
     "minecraft:tall_grass",
     "minecraft:fern",
@@ -25,13 +26,7 @@
     "minecraft:cocoa_beans",
     "minecraft:lily_pad",
     "minecraft:sea_pickle",
-    "minecraft:brown_mushroom_block",
-    "minecraft:red_mushroom_block",
-    "minecraft:mushroom_stem",
-    "minecraft:cake",
-    "minecraft:rabbit_foot",
-    "minecraft:fermented_spider_eye",
-    "minecraft:nether_wart_block",
-    "minecraft:warped_wart_block"
+    "minecraft:bamboo",
+    "minecraft:cake"
   ]
 }

@@ -2,9 +2,9 @@
   "replace": true,
   "values": [
     "minecraft:polar_bear",
+    "minecraft:wolf",
     "alexsmobs:bald_eagle",
     "alexsmobs:elephant",
-    "alexsmobs:endergrade",
     "alexsmobs:grizzly_bear",
     "alexsmobs:gorilla",
     "alexsmobs:kangaroo",

@@ -4,6 +4,10 @@
     "result": "deny"
   },
   {
+    "mob": "minecraft:cave_spider",
+    "result": "deny"
+  },
+  {
     "mob": "minecraft:creeper",
     "result": "deny"
   },
@@ -80,6 +84,10 @@
     "result": "deny"
   },
   {
+    "mob": "minecraft:spider",
+    "result": "deny"
+  },
+  {
     "mob": "minecraft:stray",
     "result": "deny"
   },
@@ -136,7 +144,7 @@
     "result": "deny"
   },
   {
-    "mob": "alexsmobs:centipede",
+    "mob": "alexsmobs:cave_centipede",
     "result": "deny"
   },
   {

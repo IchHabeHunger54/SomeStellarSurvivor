@@ -13,7 +13,6 @@
     "#structurize:shingle_slabs/moss_slate",
     "#structurize:shingle_slabs/slate",
     "#structurize:shingle_slabs/thatched",
-    "#structurize:timber_frames/timber_frames",
-    "minecolonies:barrel_block"
+    "#structurize:timber_frames/timber_frames"
   ]
 }

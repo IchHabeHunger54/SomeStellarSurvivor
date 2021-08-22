@@ -1,7 +1,6 @@
 {
   "replace": true,
   "values": [
-    "#alexsmobs:villagers",
     "minecraft:player"
   ]
 }

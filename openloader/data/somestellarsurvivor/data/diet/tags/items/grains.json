@@ -1,5 +1,8 @@
 {
-  "optional": [
+  "replace": true,
+  "values": [
+    "minecraft:bread",
+    "minecraft:cookie",
     "alexsmobs:kangaroo_burger",
     "alexsmobs:shrimp_fried_rice",
     "aquaculture:sushi",
@@ -229,10 +232,5 @@
     "pamhc2foodextended:tortillaitem",
     "pamhc2foodextended:tortillachipsitem",
     "pamhc2foodextended:wafflesitem"
-  ],
-  "replace": true,
-  "values": [
-    "minecraft:bread",
-    "minecraft:cookie"
   ]
 }

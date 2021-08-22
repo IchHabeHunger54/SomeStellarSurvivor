@@ -1,1 +1,9 @@
-{"replace":true,"values":["minecraft:egg","minecraft:turtle_egg","minecraft:sugar","#forge:seeds"]}
+{
+  "replace": true,
+  "values": [
+    "#forge:seeds",
+    "minecraft:egg",
+    "minecraft:sugar",
+    "minecraft:turtle_egg"
+  ]
+}

@@ -1,7 +1,4 @@
 {
   "replace": true,
-  "values": [
-    "#alexsmobs:soul_vulture_perches",
-    "#minecraft:soul_fire_base_blocks"
-  ]
+  "values": []
 }

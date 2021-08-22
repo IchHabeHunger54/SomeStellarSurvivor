@@ -2,9 +2,8 @@
   "replace": true,
   "values": [
     "#minecraft:sand",
+    "#forge:dirt",
     "minecraft:gravel",
-    "minecraft:grass_block",
-    "minecraft:dirt",
     "minecraft:clay"
   ]
 }

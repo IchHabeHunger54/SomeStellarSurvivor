@@ -1,18 +1,6 @@
 {
   "replace": true,
   "values": [
-    "minecraft:cow",
-    "minecraft:chicken",
-    "minecraft:donkey",
-    "minecraft:horse",
-    "minecraft:llama",
-    "minecraft:mule",
-    "minecraft:parrot",
-    "minecraft:pig",
-    "minecraft:rabbit",
-    "minecraft:sheep",
-    "minecraft:trader_llama",
-    "alexsmobs:capuchin_monkey",
-    "alexsmobs:crow"
+    "#alexsmobs:passive_land_animals"
   ]
 }

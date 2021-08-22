@@ -1,5 +1,12 @@
 {
-  "optional": [
+  "replace": true,
+  "values": [
+    "minecraft:apple",
+    "minecraft:chorus_fruit",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:golden_apple",
+    "minecraft:melon_slice",
+    "minecraft:sweet_berries",
     "alexsmobs:banana",
     "berry_good:sweet_berry_meatballs",
     "berry_good:sweet_berry_mince",
@@ -405,14 +412,5 @@
     "pamhc2trees:soursopitem",
     "pamhc2trees:starfruititem",
     "pamhc2trees:tamarinditem"
-  ],
-  "replace": true,
-  "values": [
-    "minecraft:apple",
-    "minecraft:chorus_fruit",
-    "minecraft:enchanted_golden_apple",
-    "minecraft:golden_apple",
-    "minecraft:melon_slice",
-    "minecraft:sweet_berries"
   ]
 }

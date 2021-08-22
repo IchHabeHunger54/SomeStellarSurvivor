@@ -1,14 +1,4 @@
 {
   "replace": true,
-  "values": [
-    "minecraft:silverfish",
-    "minecraft:spider",
-    "minecraft:cave_spider",
-    "alexsmobs:crimson_mosquito",
-    "alexsmobs:fly",
-    "alexsmobs:cockroach",
-    "alexsmobs:warped_mosco",
-    "alexsmobs:leafcutter_ant",
-    "alexsmobs:tarantula_hawk"
-  ]
+  "values": []
 }

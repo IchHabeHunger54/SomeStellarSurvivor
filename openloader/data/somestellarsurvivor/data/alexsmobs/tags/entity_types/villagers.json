@@ -1,7 +1,4 @@
 {
   "replace": true,
-  "values": [
-    "minecraft:villager",
-    "minecraft:wandering_trader"
-  ]
+  "values": []
 }

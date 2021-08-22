@@ -2,7 +2,7 @@
   "replace": true,
   "values": [
     "minecraft:egg",
-    "minecraft:turtle_egg",
-    "minecraft:sugar"
+    "minecraft:sugar",
+    "minecraft:turtle_egg"
   ]
 }

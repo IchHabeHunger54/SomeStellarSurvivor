@@ -2,7 +2,7 @@
   "replace": true,
   "values": [
     "#minecraft:sand",
-    "#forge:gravel",
-    "#forge:dirt"
+    "#forge:dirt",
+    "minecraft:gravel"
   ]
 }

@@ -1,8 +1,6 @@
 {
   "replace": true,
   "values": [
-    "minecraft:pig",
-    "minecraft:piglin",
-    "minecraft:hoglin"
+    "minecraft:pig"
   ]
 }
