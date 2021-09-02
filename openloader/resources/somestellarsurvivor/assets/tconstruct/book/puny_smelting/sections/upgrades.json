@@ -1,117 +1,117 @@
 [
   {
-    "data": "upgrades/general.json",
-    "name": "general",
-    "type": "tinkers_text"
+	"name": "general",
+    "type": "tinkers_text",
+    "data": "upgrades/general.json"
+  },
+   {
+    "type": "modifier",
+    "data": "upgrades/general/diamond.json"
   },
   {
-    "data": "upgrades/general/diamond.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/general/emerald.json"
+  },
+    {
+    "type": "modifier",
+    "data": "upgrades/general/experienced.json"
   },
   {
-    "data": "upgrades/general/emerald.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/general/netherite.json"
   },
   {
-    "data": "upgrades/general/experienced.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/general/overforced.json"
   },
   {
-    "data": "upgrades/general/netherite.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/general/reinforced.json"
   },
   {
-    "data": "upgrades/general/overforced.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/general/soulbound.json"
   },
   {
-    "data": "upgrades/general/reinforced.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/general/tank.json"
   },
   {
-    "data": "upgrades/general/soulbound.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/general/tank.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/harvest.json",
     "name": "harvest",
-    "type": "tinkers_text"
+    "type": "tinkers_text",
+    "data": "upgrades/harvest.json"
+  },
+    {
+    "type": "modifier",
+    "data": "upgrades/harvest/blasting.json"
   },
   {
-    "data": "upgrades/harvest/blasting.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/harvest/haste.json"
   },
   {
-    "data": "upgrades/harvest/haste.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/harvest/hydraulic.json"
+  },
+   {
+    "type": "modifier",
+    "data": "upgrades/harvest/lightspeed.json"
   },
   {
-    "data": "upgrades/harvest/hydraulic.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/harvest/magnetic.json"
   },
   {
-    "data": "upgrades/harvest/lightspeed.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/harvest/magnetic.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/weapon.json",
     "name": "weapon",
-    "type": "tinkers_text"
+    "type": "tinkers_text",
+    "data": "upgrades/weapon.json"
   },
   {
-    "data": "upgrades/weapon/antiaquatic.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/weapon/antiaquatic.json"
   },
   {
-    "data": "upgrades/weapon/baneofsssss.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/weapon/baneofsssss.json"
   },
   {
-    "data": "upgrades/weapon/cooling.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/weapon/cooling.json"
+  },
+   {
+    "type": "modifier",
+    "data": "upgrades/weapon/fiery.json"
   },
   {
-    "data": "upgrades/weapon/fiery.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/weapon/knockback.json"
+  },
+   {
+    "type": "modifier",
+    "data": "upgrades/weapon/necrotic.json"
   },
   {
-    "data": "upgrades/weapon/knockback.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/weapon/padded.json"
   },
   {
-    "data": "upgrades/weapon/necrotic.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/weapon/piercing.json"
+  },
+   {
+    "type": "modifier",
+    "data": "upgrades/weapon/severing.json"
+  },
+   {
+    "type": "modifier",
+    "data": "upgrades/weapon/sharpness.json"
   },
   {
-    "data": "upgrades/weapon/padded.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/weapon/smite.json"
   },
   {
-    "data": "upgrades/weapon/piercing.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/weapon/severing.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/weapon/sharpness.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/weapon/smite.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/weapon/sweeping_edge.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "upgrades/weapon/sweeping_edge.json"
   }
 ]

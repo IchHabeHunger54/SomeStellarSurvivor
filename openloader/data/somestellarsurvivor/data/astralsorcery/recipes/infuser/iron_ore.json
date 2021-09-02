@@ -6,7 +6,7 @@
   "duration": 100,
   "fluidInput": "astralsorcery:liquid_starlight",
   "input": {
-    "tag": "forge:ores/iron"
+    "item": "minecraft:iron_ore"
   },
   "output": {
     "count": 3,

@@ -9,7 +9,6 @@
     "item": "astralsorcery:crystal_sword"
   },
   "output": {
-    "count": 1,
     "item": "astralsorcery:infused_crystal_sword"
   },
   "type": "astralsorcery:infuser"

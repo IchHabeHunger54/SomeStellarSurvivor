@@ -1,0 +1,22 @@
+{
+  "key": {
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    },
+    "T": {
+      "item": "minecraft:terracotta"
+    }
+  },
+  "pattern": [
+    "STS",
+    "TFT",
+    "STS"
+  ],
+  "result": {
+    "item": "ceramics:kiln"
+  },
+  "type": "minecraft:crafting_shaped"
+}

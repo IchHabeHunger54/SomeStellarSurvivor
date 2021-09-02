@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "netherrack_bricks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:netherrack_bricks"
@@ -16,7 +10,7 @@
     "###"
   ],
   "result": {
-    "count": 4,
+    "count": 6,
     "item": "quark:netherrack_bricks_stairs"
   },
   "type": "minecraft:crafting_shaped"

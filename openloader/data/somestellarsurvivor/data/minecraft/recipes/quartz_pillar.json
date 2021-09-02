@@ -1,15 +1,15 @@
 {
   "key": {
     "#": {
-      "item": "minecraft:quartz_block"
+      "item": "minecraft:quartz_bricks"
     }
   },
   "pattern": [
-    "#",
-    "#"
+    "##",
+    "##"
   ],
   "result": {
-    "count": 2,
+    "count": 4,
     "item": "minecraft:quartz_pillar"
   },
   "type": "minecraft:crafting_shaped"

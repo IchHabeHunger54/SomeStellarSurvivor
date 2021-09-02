@@ -1,23 +1,28 @@
 {
+  "parent": "root.json",
+  "text": "tarantula_hawk.txt",
+  "title": "Tarantula Hawk",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:tarantula_hawk",
-      "follow_cursor": false,
-      "page": 0,
+      "x": 97,
+      "y": 106,
+      "page" : 0,
+      "scale": 1.4,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "scale": 1.4,
-      "x": 97,
-      "y": 106
+      "follow_cursor": false
     }
-  ],
-  "images": [],
-  "item_renders": [],
-  "linked_page_buttons": [],
-  "parent": "root.json",
-  "recipes": [],
-  "tabula_renders": [],
-  "text": "tarantula_hawk.txt",
-  "title": "Tarantula Hawk"
+  ]
 }

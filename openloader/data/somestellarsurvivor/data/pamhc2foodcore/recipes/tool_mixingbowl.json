@@ -4,7 +4,7 @@
       "tag": "minecraft:planks"
     },
     "b": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [

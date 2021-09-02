@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "duskbound_blocks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:duskbound_block"

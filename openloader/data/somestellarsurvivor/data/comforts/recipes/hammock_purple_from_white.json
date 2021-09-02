@@ -1,8 +1,7 @@
 {
-  "group": "dyed_hammock",
   "ingredients": [
     {
-      "item": "comforts:hammock_white"
+      "tag": "comforts:hammocks"
     },
     {
       "tag": "forge:dyes/purple"

@@ -16,10 +16,10 @@
       "item": "astralsorcery:aquamarine"
     },
     "C": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     },
     "D": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "E": {
       "fluid": [
@@ -36,7 +36,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:infuser"
     }
   ],

@@ -4,7 +4,7 @@
       "tag": "forge:wither_bones"
     },
     {
-      "tag": "forge:ingots/copper"
+      "item": "tconstruct:copper_ingot"
     },
     {
       "tag": "forge:wither_bones"

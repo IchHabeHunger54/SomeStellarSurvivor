@@ -13,12 +13,12 @@
             }
           ],
           "name": "alexsmobs:rattlesnake_rattle",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
-      "name": "rattlesnake",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

@@ -1,14 +1,14 @@
 {
-  "count": 1,
+  "type" : "recipe",
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "count": "1",
-      "item": "minecraft:diamond"
+        "item" : "minecraft:diamond",
+        "count": "1"
     }
   ],
-  "research-id": "minecolonies:effects/sifterdiamondunlock",
   "result": "minecolonies:sifter_mesh_diamond",
-  "show-tooltip": true,
-  "type": "recipe"
+  "count": 1,
+  "research-id" : "minecolonies:effects/sifterdiamondunlock",
+  "show-tooltip": true
 }

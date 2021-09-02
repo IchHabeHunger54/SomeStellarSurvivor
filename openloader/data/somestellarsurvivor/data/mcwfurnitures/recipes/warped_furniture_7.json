@@ -4,7 +4,7 @@
       "item": "mcwfurnitures:warped_plate"
     },
     "B": {
-      "item": "minecraft:bookshelf"
+      "item": "quark:warped_bookshelf"
     }
   },
   "pattern": [
@@ -13,7 +13,6 @@
     "AAA"
   ],
   "result": {
-    "count": 1,
     "item": "mcwfurnitures:warped_furniture_7"
   },
   "type": "minecraft:crafting_shaped"

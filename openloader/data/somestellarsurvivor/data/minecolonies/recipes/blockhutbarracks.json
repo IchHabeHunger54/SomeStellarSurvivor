@@ -1,19 +1,19 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:iron_block"
+      "item": "minecraft:armor_stand"
     },
     "T": {
       "item": "structurize:sceptergold"
     },
-    "W": {
+    "X": {
       "tag": "minecraft:planks"
     }
   },
   "pattern": [
-    "WTW",
-    "WBW",
-    "WWW"
+    "XTX",
+    "XBX",
+    "XXX"
   ],
   "result": {
     "item": "minecolonies:blockhutbarracks"

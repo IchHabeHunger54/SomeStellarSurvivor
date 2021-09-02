@@ -4,7 +4,7 @@
       "item": "minecraft:kelp"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "T": {
       "item": "alexsmobs:shark_tooth"
@@ -16,7 +16,7 @@
     "K"
   ],
   "result": {
-    "count": 6,
+    "count": 4,
     "item": "alexsmobs:shark_tooth_arrow"
   },
   "type": "minecraft:crafting_shaped"

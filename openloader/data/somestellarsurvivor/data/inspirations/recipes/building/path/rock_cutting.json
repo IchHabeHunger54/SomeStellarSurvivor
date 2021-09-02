@@ -1,17 +1,7 @@
 {
-  "conditions": [
-    {
-      "prop": "building_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "path",
-      "type": "inspirations:config"
-    }
-  ],
   "count": 6,
   "ingredient": {
-    "tag": "forge:cobblestone"
+    "item": "minecraft:cobblestone"
   },
   "result": "inspirations:rock_path",
   "type": "minecraft:stonecutting"

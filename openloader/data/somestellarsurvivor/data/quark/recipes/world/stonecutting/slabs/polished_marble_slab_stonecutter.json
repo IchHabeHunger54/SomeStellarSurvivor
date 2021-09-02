@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "marble",
-      "type": "quark:flag"
-    }
-  ],
   "count": 2,
   "ingredient": {
     "item": "quark:polished_marble"

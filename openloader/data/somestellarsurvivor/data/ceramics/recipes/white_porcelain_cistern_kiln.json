@@ -1,0 +1,8 @@
+{
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "ceramics:unfired_cistern"
+  },
+  "result": "ceramics:white_porcelain_cistern",
+  "type": "ceramics:kiln"
+}

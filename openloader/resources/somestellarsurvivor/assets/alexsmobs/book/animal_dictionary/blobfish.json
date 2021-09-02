@@ -1,23 +1,28 @@
 {
+  "parent": "root.json",
+  "text": "blobfish.txt",
+  "title": "Blobfish",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:blobfish",
-      "follow_cursor": false,
-      "page": 0,
+      "x": 90,
+      "y": 70,
+      "page" : 0,
+      "scale": 2.25,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "scale": 2.25,
-      "x": 90,
-      "y": 70
+      "follow_cursor": false
     }
-  ],
-  "images": [],
-  "item_renders": [],
-  "linked_page_buttons": [],
-  "parent": "root.json",
-  "recipes": [],
-  "tabula_renders": [],
-  "text": "blobfish.txt",
-  "title": "Blobfish"
+  ]
 }

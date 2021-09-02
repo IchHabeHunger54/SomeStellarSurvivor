@@ -3,42 +3,18 @@
     {
       "entries": [
         {
-          "children": [
+          "functions": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "name": "minecraft:diamond_ore",
-              "type": "minecraft:item"
+              "enchantment": "minecraft:fortune",
+              "formula": "minecraft:ore_drops",
+              "function": "minecraft:apply_bonus"
             },
             {
-              "functions": [
-                {
-                  "enchantment": "minecraft:fortune",
-                  "formula": "minecraft:ore_drops",
-                  "function": "minecraft:apply_bonus"
-                },
-                {
-                  "function": "minecraft:explosion_decay"
-                }
-              ],
-              "name": "minecraft:diamond",
-              "type": "minecraft:item"
+              "function": "minecraft:explosion_decay"
             }
           ],
-          "type": "minecraft:alternatives"
+          "name": "minecraft:diamond",
+          "type": "minecraft:item"
         }
       ],
       "rolls": 1

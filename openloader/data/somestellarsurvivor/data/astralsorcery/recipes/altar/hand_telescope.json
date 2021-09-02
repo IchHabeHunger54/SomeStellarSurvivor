@@ -9,18 +9,17 @@
       "tag": "minecraft:planks"
     },
     "B": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "C": {
       "item": "astralsorcery:glass_lens"
     },
     "D": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     }
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:hand_telescope"
     }
   ],

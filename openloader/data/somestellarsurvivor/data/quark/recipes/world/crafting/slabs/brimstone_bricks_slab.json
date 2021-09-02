@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "brimstone_underground_biome",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:brimstone_bricks"

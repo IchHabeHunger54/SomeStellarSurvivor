@@ -1,6 +1,6 @@
 {
   "cast": {
-    "tag": "forge:rods"
+    "item": "minecraft:stick"
   },
   "cast_consumed": true,
   "cooling_time": 57,

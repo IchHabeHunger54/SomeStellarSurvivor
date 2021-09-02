@@ -7,7 +7,7 @@
       "tag": "forge:dough"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:crops/strawberry"
@@ -17,7 +17,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:strawberryrhubarbpieitem"
   },
   "type": "minecraft:crafting_shapeless"

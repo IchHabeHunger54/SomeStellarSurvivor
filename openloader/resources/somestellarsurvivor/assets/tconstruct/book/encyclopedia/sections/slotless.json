@@ -1,44 +1,45 @@
 [
   {
-    "data": "slotless/general.json",
     "name": "general",
-    "type": "tinkers_text"
+    "type": "tinkers_text",
+    "data": "slotless/general.json"
+  },
+   {
+    "type": "modifier",
+    "data": "slotless/general/overslime.json"
   },
   {
-    "data": "slotless/general/overslime.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "slotless/general/shiny.json"
   },
-  {
-    "data": "slotless/general/shiny.json",
-    "type": "modifier"
+   {
+    "type": "modifier",
+    "data": "slotless/general/worldbound.json"
   },
+
   {
-    "data": "slotless/general/worldbound.json",
-    "type": "modifier"
-  },
-  {
-    "data": "slotless/bonus.json",
     "name": "bonus",
-    "type": "tinkers_text"
+    "type": "tinkers_text",
+    "data": "slotless/bonus.json"
   },
   {
-    "data": "slotless/bonus/draconic.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "slotless/bonus/draconic.json"
   },
   {
-    "data": "slotless/bonus/harmonious.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "slotless/bonus/harmonious.json"
   },
   {
-    "data": "slotless/bonus/recapitated.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "slotless/bonus/recapitated.json"
   },
   {
-    "data": "slotless/bonus/resurrected.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "slotless/bonus/resurrected.json"
   },
   {
-    "data": "slotless/bonus/writable.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "slotless/bonus/writable.json"
   }
 ]

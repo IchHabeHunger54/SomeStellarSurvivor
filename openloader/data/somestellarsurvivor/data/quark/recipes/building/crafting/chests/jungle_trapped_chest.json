@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "variant_chests",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "item": "quark:jungle_chest"

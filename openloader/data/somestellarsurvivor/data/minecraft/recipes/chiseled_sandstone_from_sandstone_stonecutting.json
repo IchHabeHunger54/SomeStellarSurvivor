@@ -1,7 +1,7 @@
 {
   "count": 1,
   "ingredient": {
-    "item": "minecraft:sandstone"
+    "item": "quark:sandstone_bricks"
   },
   "result": "minecraft:chiseled_sandstone",
   "type": "minecraft:stonecutting"

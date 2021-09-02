@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "limestone",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:limestone"

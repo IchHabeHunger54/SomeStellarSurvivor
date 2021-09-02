@@ -10,11 +10,10 @@
       "tag": "forge:spices/vanilla"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:poachedpearitem"
   },
   "type": "minecraft:crafting_shapeless"

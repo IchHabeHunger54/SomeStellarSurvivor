@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/citizeninvslotsaddition": 2
-    }
-  ],
-  "icon": "minecraft:red_shulker_box",
   "parentResearch": "minecolonies:technology/deeppockets",
+  "researchLevel": 5,
+  "icon": "minecraft:red_shulker_box",
   "requirements": [
     {
       "building": "library",
@@ -17,5 +13,9 @@
       "quantity": 128
     }
   ],
-  "researchLevel": 5
+  "effects": [
+    {
+      "minecolonies:effects/citizeninvslotsaddition": 2
+    }
+  ]
 }

@@ -7,11 +7,10 @@
       "tag": "forge:fruits/pawpaw"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:pawpawjellyitem"
   },
   "type": "minecraft:crafting_shapeless"

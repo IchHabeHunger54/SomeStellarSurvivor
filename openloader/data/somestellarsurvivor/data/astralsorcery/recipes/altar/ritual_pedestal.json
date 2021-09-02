@@ -7,7 +7,7 @@
   ],
   "key": {
     "A": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "B": {
       "item": "astralsorcery:marble_chiseled"
@@ -37,7 +37,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:ritual_pedestal"
     }
   ],

@@ -8,12 +8,11 @@
     }
   },
   "pattern": [
-    "FKF",
-    "K K",
+    "KFK",
+    "F F",
     "F F"
   ],
   "result": {
-    "count": 1,
     "item": "alexsmobs:emu_leggings"
   },
   "type": "minecraft:crafting_shaped"

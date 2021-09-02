@@ -1,17 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "thatch",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "item": "quark:thatch"
     }
   ],
   "result": {
-    "count": 1,
     "item": "minecraft:wheat"
   },
   "type": "minecraft:crafting_shapeless"

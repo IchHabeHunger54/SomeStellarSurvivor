@@ -1,11 +1,10 @@
 {
-  "group": "upgraded_fence",
   "key": {
     "L": {
       "item": "minecraft:crimson_stem"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [

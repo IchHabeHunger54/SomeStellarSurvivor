@@ -1,25 +1,15 @@
 {
   "pools": [
     {
-      "entries": [
+      "conditions": [
         {
-          "functions": [
-            {
-              "count": {
-                "n": 3,
-                "p": 0.53333336,
-                "type": "minecraft:binomial"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "minecraft:pumpkin_seeds",
-          "type": "minecraft:item"
+          "condition": "minecraft:survives_explosion"
         }
       ],
-      "functions": [
+      "entries": [
         {
-          "function": "minecraft:explosion_decay"
+          "name": "minecraft:pumpkin_seeds",
+          "type": "minecraft:item"
         }
       ],
       "rolls": 1

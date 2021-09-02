@@ -1,6 +1,6 @@
 {
-  "coverColor": 0xffce85,
-  "drawSectionListText": true,
-  "subtitle": "by Selena",
-  "title": "Materials and You"
+    "title": "Materials and You",
+    "subtitle": "by Selena",
+    "drawSectionListText": true,
+    "coverColor": 0xffce85
 }

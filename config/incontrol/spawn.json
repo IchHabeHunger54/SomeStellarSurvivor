@@ -1,254 +1,120 @@
 [
   {
-    "mob": "minecraft:blaze",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:cave_spider",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:creeper",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:elder_guardian",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:endermite",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:enderman",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:evoker",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:ghast",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:guardian",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:hoglin",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:magma_cube",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:mooshroom",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:phantom",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:piglin",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:piglin_brute",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:pillager",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:ravager",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:shulker",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:silverfish",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:skeleton",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:skeleton_horse",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:spider",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:stray",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:strider",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:trader_llama",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:vex",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:villager",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:vindicator",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:wandering_trader",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:witch",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:wither_skeleton",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:zoglin",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:zombie_horse",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:zombie_villager",
-    "result": "deny"
-  },
-  {
-    "mob": "minecraft:zombified_piglin",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:bone_serpent",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:cave_centipede",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:crimson_mosquito",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:dropbear",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:endergrade",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:enderiophage",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:guster",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:mimicube",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:mungus",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:soul_vulture",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:spectre",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:straddler",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:stradpole",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:sunbird",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:tarantula_hawk",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:void_worm",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:warped_mosco",
-    "result": "deny"
-  },
-  {
-    "mob": "alexsmobs:warped_toad",
-    "result": "deny"
-  },
-  {
-    "mob": "buzzier_bees:moobloom",
-    "result": "deny"
-  },
-  {
-    "mob": "quark:forgotten",
-    "result": "deny"
-  },
-  {
-    "mob": "quark:foxhound",
-    "result": "deny"
-  },
-  {
-    "mob": "quark:stoneling",
-    "result": "deny"
-  },
-  {
-    "mob": "quark:toretoise",
-    "result": "deny"
-  },
-  {
-    "mob": "quark:wraith",
-    "result": "deny"
-  },
-  {
-    "mob": "quark:wrapped",
-    "result": "deny"
-  },
-  {
-    "mob": "tconstruct:ender_slime",
-    "result": "deny"
-  },
-  {
-    "mob": "tconstruct:sky_slime",
-    "result": "deny"
-  },
-  {
-    "mob": "tconstruct:terracube",
+    "mob": [
+      "minecraft:blaze",
+      "minecraft:cave_spider",
+      "minecraft:command_block_minecart",
+      "minecraft:creeper",
+      "minecraft:dragon_fireball",
+      "minecraft:elder_guardian",
+      "minecraft:end_crystal",
+      "minecraft:ender_dragon",
+      "minecraft:ender_pearl",
+      "minecraft:endermite",
+      "minecraft:enderman",
+      "minecraft:evoker",
+      "minecraft:evoker_fangs",
+      "minecraft:experience_bottle",
+      "minecraft:eye_of_ender",
+      "minecraft:fireball",
+      "minecraft:ghast",
+      "minecraft:giant",
+      "minecraft:guardian",
+      "minecraft:hoglin",
+      "minecraft:illusioner",
+      "minecraft:iron_golem",
+      "minecraft:magma_cube",
+      "minecraft:mooshroom",
+      "minecraft:phantom",
+      "minecraft:piglin",
+      "minecraft:piglin_brute",
+      "minecraft:pillager",
+      "minecraft:potion",
+      "minecraft:ravager",
+      "minecraft:shulker",
+      "minecraft:shulker_bullet",
+      "minecraft:silverfish",
+      "minecraft:skeleton",
+      "minecraft:skeleton_horse",
+      "minecraft:slime",
+      "minecraft:small_fireball",
+      "minecraft:snow_golem",
+      "minecraft:spawner_minecart",
+      "minecraft:spectral_arrow",
+      "minecraft:spider",
+      "minecraft:stray",
+      "minecraft:strider",
+      "minecraft:trader_llama",
+      "minecraft:vex",
+      "minecraft:villager",
+      "minecraft:vindicator",
+      "minecraft:wandering_trader",
+      "minecraft:witch",
+      "minecraft:wither",
+      "minecraft:wither_skeleton",
+      "minecraft:wither_skull",
+      "minecraft:zoglin",
+      "minecraft:zombie_horse",
+      "minecraft:zombie_villager",
+      "minecraft:zombified_piglin",
+      "alexsmobs:bone_serpent",
+      "alexsmobs:bone_serpent_part",
+      "alexsmobs:centipede_body",
+      "alexsmobs:centipede_head",
+      "alexsmobs:centipede_tail",
+      "alexsmobs:cockroach",
+      "alexsmobs:cockroach_egg",
+      "alexsmobs:crimson_mosquito",
+      "alexsmobs:dropbear",
+      "alexsmobs:endergrade",
+      "alexsmobs:enderiophage",
+      "alexsmobs:enderiophage_rocket",
+      "alexsmobs:gust",
+      "alexsmobs:guster",
+      "alexsmobs:hemolymph",
+      "alexsmobs:mimicube",
+      "alexsmobs:mosquito_spit",
+      "alexsmobs:mungus",
+      "alexsmobs:sand_shot",
+      "alexsmobs:soul_vulture",
+      "alexsmobs:spectre",
+      "alexsmobs:straddleboard",
+      "alexsmobs:straddler",
+      "alexsmobs:stradpole",
+      "alexsmobs:sunbird",
+      "alexsmobs:tarantula_hawk",
+      "alexsmobs:tossed_item",
+      "alexsmobs:void_portal",
+      "alexsmobs:void_worm",
+      "alexsmobs:void_worm_part",
+      "alexsmobs:void_worm_shot",
+      "alexsmobs:warped_mosco",
+      "alexsmobs:warped_toad",
+      "aquaculture:brown_shrooma",
+      "aquaculture:red_shrooma",
+      "aquaculture:spectral_water_arrow",
+      "aquaculture:water_arrow",
+      "buzzier_bees:black_bear",
+      "buzzier_bees:bumblebee",
+      "buzzier_bees:grizzly_bear",
+      "buzzier_bees:moobloom",
+      "quark:forgotten",
+      "quark:foxhound",
+      "quark:gravisand",
+      "quark:pickarang",
+      "quark:skull_pike",
+      "quark:soul_bead",
+      "quark:stoneling",
+      "quark:toretoise",
+      "quark:wraith",
+      "quark:wrapped",
+      "tconstruct:earth_slime",
+      "tconstruct:efln_ball",
+      "tconstruct:ender_slime",
+      "tconstruct:sky_slime",
+      "tconstruct:terracube"
+    ],
+    "onjoin": true,
     "result": "deny"
   }
 ]

@@ -1,6 +1,11 @@
 {
   "pools": [
     {
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
       "entries": [
         {
           "name": "alexsmobs:crocodile_egg",

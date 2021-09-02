@@ -8,7 +8,7 @@
     "tag": "tconstruct:molten_rose_gold"
   },
   "result": {
-    "tag": "forge:ingots/rose_gold"
+    "item": "tconstruct:rose_gold_ingot"
   },
   "type": "tconstruct:casting_table"
 }

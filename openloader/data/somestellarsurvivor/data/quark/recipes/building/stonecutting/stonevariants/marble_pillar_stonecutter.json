@@ -1,22 +1,7 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_pillar",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "marble",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 1,
   "ingredient": {
-    "item": "quark:marble"
+    "item": "quark:marble_bricks"
   },
   "result": "quark:marble_pillar",
   "type": "minecraft:stonecutting"

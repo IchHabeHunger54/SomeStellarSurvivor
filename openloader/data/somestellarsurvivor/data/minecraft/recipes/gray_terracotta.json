@@ -1,11 +1,10 @@
 {
-  "group": "stained_terracotta",
   "key": {
     "#": {
       "item": "minecraft:terracotta"
     },
     "X": {
-      "item": "minecraft:gray_dye"
+      "tag": "forge:dyes/gray"
     }
   },
   "pattern": [

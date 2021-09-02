@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_bricks",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "limestone",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:polished_limestone"

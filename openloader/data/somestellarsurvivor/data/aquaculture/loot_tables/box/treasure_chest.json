@@ -5,26 +5,26 @@
         {
           "entryName": "iron_ingot",
           "name": "minecraft:iron_ingot",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 40
         },
         {
           "entryName": "gold_ingot",
           "name": "minecraft:gold_ingot",
-          "type": "item",
-          "weight": 30
+          "type": "minecraft:item",
+          "weight": 40
         },
         {
           "entryName": "diamond",
           "name": "minecraft:diamond",
-          "type": "item",
-          "weight": 15
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
           "entryName": "emerald",
           "name": "minecraft:emerald",
-          "type": "item",
-          "weight": 15
+          "type": "minecraft:item",
+          "weight": 10
         }
       ],
       "name": "aquaculture:treasure_chest_loot",

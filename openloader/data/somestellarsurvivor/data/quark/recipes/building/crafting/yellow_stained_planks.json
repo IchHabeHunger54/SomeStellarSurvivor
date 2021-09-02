@@ -1,42 +1,20 @@
 {
-  "conditions": [
-    {
-      "flag": "stained_planks",
-      "type": "quark:flag"
-    }
-  ],
-  "ingredients": [
-    {
-      "tag": "minecraft:planks"
-    },
-    {
-      "tag": "minecraft:planks"
-    },
-    {
-      "tag": "minecraft:planks"
-    },
-    {
-      "tag": "minecraft:planks"
-    },
-    {
-      "tag": "minecraft:planks"
-    },
-    {
-      "tag": "minecraft:planks"
-    },
-    {
-      "tag": "minecraft:planks"
-    },
-    {
-      "tag": "minecraft:planks"
-    },
-    {
+  "key": {
+    "#": {
       "tag": "forge:dyes/yellow"
+    },
+    "P": {
+      "tag": "minecraft:planks"
     }
+  },
+  "pattern": [
+    "PPP",
+    "P#P",
+    "PPP"
   ],
   "result": {
     "count": 8,
     "item": "quark:yellow_stained_planks"
   },
-  "type": "minecraft:crafting_shapeless"
+  "type": "minecraft:crafting_shaped"
 }

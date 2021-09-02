@@ -8,12 +8,12 @@
     }
   },
   "pattern": [
-    " P ",
+    "PPP",
     "PAP",
-    " P "
+    " PP"
   ],
   "result": {
-    "count": 4,
+    "count": 8,
     "item": "astralsorcery:parchment"
   },
   "type": "minecraft:crafting_shaped"

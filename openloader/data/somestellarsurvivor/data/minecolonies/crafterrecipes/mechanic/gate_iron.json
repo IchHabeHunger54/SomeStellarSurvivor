@@ -1,14 +1,14 @@
 {
-  "count": 1,
+  "type": "recipe",
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "count": 5,
-      "item": "minecraft:iron_nugget"
+      "item": "minecraft:iron_nugget",
+      "count": 5
     }
   ],
-  "intermediate": "minecraft:air",
   "result": "minecolonies:gate_iron",
-  "show-tooltip": true,
-  "type": "recipe"
+  "count": 1,
+  "intermediate": "minecraft:air",
+  "show-tooltip": true
 }

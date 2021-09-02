@@ -9,7 +9,6 @@
     "item": "astralsorcery:crystal_shovel"
   },
   "output": {
-    "count": 1,
     "item": "astralsorcery:infused_crystal_shovel"
   },
   "type": "astralsorcery:infuser"

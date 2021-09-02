@@ -13,10 +13,10 @@
       "item": "astralsorcery:aquamarine"
     },
     "B": {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     },
     "C": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "D": {
       "item": "minecraft:ghast_tear"
@@ -27,7 +27,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:colored_lens_regeneration"
     }
   ],

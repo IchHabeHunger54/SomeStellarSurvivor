@@ -1,15 +1,4 @@
 {
-  "conditions": [
-    {
-      "prop": "utility_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "carpeted_trapdoor",
-      "type": "inspirations:config"
-    }
-  ],
-  "group": "inspirations:carpeted_trapdoor",
   "key": {
     "C": {
       "item": "minecraft:purple_carpet"

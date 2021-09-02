@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "stained_planks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:purple_stained_planks"
@@ -16,7 +10,7 @@
     "###"
   ],
   "result": {
-    "count": 4,
+    "count": 6,
     "item": "quark:purple_stained_planks_stairs"
   },
   "type": "minecraft:crafting_shaped"

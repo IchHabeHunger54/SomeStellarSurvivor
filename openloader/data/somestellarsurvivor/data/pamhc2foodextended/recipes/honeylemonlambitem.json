@@ -13,11 +13,10 @@
       "tag": "forge:condiments/mustard"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:honeylemonlambitem"
   },
   "type": "minecraft:crafting_shapeless"

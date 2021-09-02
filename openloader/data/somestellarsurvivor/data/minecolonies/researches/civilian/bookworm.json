@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/teachingmultiplier": 2
-    }
-  ],
-  "icon": "minecolonies:textures/icons/research/xpgain2.png",
   "parentResearch": "minecolonies:civilian/morebooks",
+  "researchLevel": 3,
+  "subtitle": "com.minecolonies.research.civilian.bookworm.subtitle",
+  "icon": "minecolonies:textures/icons/research/xpgain2.png",
   "requirements": [
     {
       "building": "school",
@@ -17,6 +14,9 @@
       "quantity": 6
     }
   ],
-  "researchLevel": 3,
-  "subtitle": "com.minecolonies.research.civilian.bookworm.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/teachingmultiplier": 2
+    }
+  ]
 }

@@ -1,3 +1,4 @@
+import crafttweaker.api.item.IItemStack;
 import mods.jei.JEI;
 JEI.hideCategory("minecraft:anvil");
 JEI.hideCategory("minecraft:brewing");
@@ -5,1059 +6,1107 @@ JEI.hideCategory("minecraft:smithing");
 JEI.hideCategory("jei:information");
 JEI.hideCategory("tconstruct:entity_melting");
 JEI.hideCategory("tconstruct:severing");
-JEI.hideItem(<item:alexsmobs:animal_dictionary>);
-JEI.hideItem(<item:alexsmobs:blood_sac>);
-JEI.hideItem(<item:alexsmobs:blood_sprayer>);
-JEI.hideItem(<item:alexsmobs:bone_serpent_tooth>);
-JEI.hideItem(<item:alexsmobs:capsid>);
-JEI.hideItem(<item:alexsmobs:centipede_leg>);
-JEI.hideItem(<item:alexsmobs:centipede_leggings>);
-JEI.hideItem(<item:alexsmobs:chorus_on_a_stick>);
-JEI.hideItem(<item:alexsmobs:cockroach_ootheca>);
-JEI.hideItem(<item:alexsmobs:cockroach_wing>);
-JEI.hideItem(<item:alexsmobs:cockroach_wing_fragment>);
-JEI.hideItem(<item:alexsmobs:dimensional_carver>);
-JEI.hideItem(<item:alexsmobs:dropbear_claw>);
-JEI.hideItem(<item:alexsmobs:enderiophage_rocket>);
-JEI.hideItem(<item:alexsmobs:endolocator>);
-JEI.hideItem(<item:alexsmobs:fish_oil>);
-JEI.hideItem(<item:alexsmobs:guster_eye>);
-JEI.hideItem(<item:alexsmobs:gustmaker>);
-JEI.hideItem(<item:alexsmobs:hemolymph_blaster>);
-JEI.hideItem(<item:alexsmobs:hemolymph_sac>);
-JEI.hideItem(<item:alexsmobs:lava_bottle>);
-JEI.hideItem(<item:alexsmobs:maraca>);
-JEI.hideItem(<item:alexsmobs:mimicream>);
-JEI.hideItem(<item:alexsmobs:mosquito_larva>);
-JEI.hideItem(<item:alexsmobs:mosquito_proboscis>);
-JEI.hideItem(<item:alexsmobs:music_disc_daze>);
-JEI.hideItem(<item:alexsmobs:music_disc_thime>);
-JEI.hideItem(<item:alexsmobs:mysterious_worm>);
-JEI.hideItem(<item:alexsmobs:pocket_sand>);
-JEI.hideItem(<item:alexsmobs:poison_bottle>);
-JEI.hideItem(<item:alexsmobs:shield_of_the_deep>);
-JEI.hideItem(<item:alexsmobs:sombrero>);
-JEI.hideItem(<item:alexsmobs:soul_heart>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_alligator_snapping_turtle>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_bald_eagle>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_blobfish>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_bone_serpent>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_cachalot_whale>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_capuchin_monkey>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_centipede>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_cockroach>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_crimson_mosquito>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_crocodile>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_crow>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_dropbear>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_elephant>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_emu>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_endergrade>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_enderiophage>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_fly>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_frilled_shark>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_gazelle>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_gorilla>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_grizzly_bear>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_guster>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_hammerhead_shark>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_hummingbird>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_kangaroo>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_komodo_dragon>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_leafcutter_ant>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_lobster>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_mantis_shrimp>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_mimic_octopus>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_mimicube>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_moose>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_mungus>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_orca>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_platypus>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_raccoon>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_rattlesnake>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_roadrunner>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_seal>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_shoebill>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_snow_leopard>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_soul_vulture>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_spectre>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_straddler>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_stradpole>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_sunbird>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_tarantula_hawk>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_tasmanian_devil>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_tiger>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_void_worm>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_warped_mosco>);
-JEI.hideItem(<item:alexsmobs:spawn_egg_warped_toad>);
-JEI.hideItem(<item:alexsmobs:straddleboard>);
-JEI.hideItem(<item:alexsmobs:straddlite>);
-JEI.hideItem(<item:alexsmobs:stradpole_bucket>);
-JEI.hideItem(<item:alexsmobs:tarantula_hawk_elytra>);
-JEI.hideItem(<item:alexsmobs:tarantula_hawk_wing>);
-JEI.hideItem(<item:alexsmobs:tarantula_hawk_wing_fragment>);
-JEI.hideItem(<item:alexsmobs:void_worm_beak>);
-JEI.hideItem(<item:alexsmobs:void_worm_eye>);
-JEI.hideItem(<item:alexsmobs:void_worm_mandible>);
-JEI.hideItem(<item:alexsmobs:warped_mixture>);
-JEI.hideItem(<item:alexsmobs:warped_muscle>);
-JEI.hideItem(<item:aquaculture:arrau_turtle_spawn_egg>);
-JEI.hideItem(<item:aquaculture:box_turtle_spawn_egg>);
-JEI.hideItem(<item:aquaculture:diamond_fillet_knife>);
-JEI.hideItem(<item:aquaculture:diamond_fishing_rod>);
-JEI.hideItem(<item:aquaculture:diamond_hook>);
-JEI.hideItem(<item:aquaculture:gold_fillet_knife>);
-JEI.hideItem(<item:aquaculture:gold_fishing_rod>);
-JEI.hideItem(<item:aquaculture:gold_hook>);
-JEI.hideItem(<item:aquaculture:iron_fillet_knife>);
-JEI.hideItem(<item:aquaculture:iron_fishing_rod>);
-JEI.hideItem(<item:aquaculture:neptunes_bounty>);
-JEI.hideItem(<item:aquaculture:neptunium_axe>);
-JEI.hideItem(<item:aquaculture:neptunium_block>);
-JEI.hideItem(<item:aquaculture:neptunium_boots>);
-JEI.hideItem(<item:aquaculture:neptunium_bow>);
-JEI.hideItem(<item:aquaculture:neptunium_chestplate>);
-JEI.hideItem(<item:aquaculture:neptunium_fillet_knife>);
-JEI.hideItem(<item:aquaculture:neptunium_fishing_rod>);
-JEI.hideItem(<item:aquaculture:neptunium_helmet>);
-JEI.hideItem(<item:aquaculture:neptunium_hoe>);
-JEI.hideItem(<item:aquaculture:neptunium_ingot>);
-JEI.hideItem(<item:aquaculture:neptunium_leggings>);
-JEI.hideItem(<item:aquaculture:neptunium_nugget>);
-JEI.hideItem(<item:aquaculture:neptunium_pickaxe>);
-JEI.hideItem(<item:aquaculture:neptunium_shovel>);
-JEI.hideItem(<item:aquaculture:neptunium_sword>);
-JEI.hideItem(<item:aquaculture:nether_star_hook>);
-JEI.hideItem(<item:aquaculture:redstone_hook>);
-JEI.hideItem(<item:aquaculture:starshell_turtle_spawn_egg>);
-JEI.hideItem(<item:berry_good:music_disc_fox>);
-JEI.hideItem(<item:buzzier_bees:endermite_bottle>);
-JEI.hideItem(<item:buzzier_bees:four_leaf_clover>);
-JEI.hideItem(<item:buzzier_bees:honey_lamp>);
-JEI.hideItem(<item:buzzier_bees:moobloom_spawn_egg>);
-JEI.hideItem(<item:buzzier_bees:silverfish_bottle>);
-JEI.hideItem(<item:buzzier_bees:soul_candle>);
-JEI.hideItem(<item:buzzier_bees:wither_rose_scented_candle>);
-JEI.hideItem(<item:cfm:acacia_bedside_cabinet>);
-JEI.hideItem(<item:cfm:acacia_cabinet>);
-JEI.hideItem(<item:cfm:acacia_chair>);
-JEI.hideItem(<item:cfm:acacia_coffee_table>);
-JEI.hideItem(<item:cfm:acacia_desk>);
-JEI.hideItem(<item:cfm:acacia_desk_cabinet>);
-JEI.hideItem(<item:cfm:acacia_kitchen_counter>);
-JEI.hideItem(<item:cfm:acacia_kitchen_drawer>);
-JEI.hideItem(<item:cfm:acacia_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:acacia_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:acacia_table>);
-JEI.hideItem(<item:cfm:andesite_bedside_cabinet>);
-JEI.hideItem(<item:cfm:andesite_cabinet>);
-JEI.hideItem(<item:cfm:andesite_chair>);
-JEI.hideItem(<item:cfm:andesite_coffee_table>);
-JEI.hideItem(<item:cfm:andesite_desk>);
-JEI.hideItem(<item:cfm:andesite_desk_cabinet>);
-JEI.hideItem(<item:cfm:andesite_table>);
-JEI.hideItem(<item:cfm:birch_bedside_cabinet>);
-JEI.hideItem(<item:cfm:birch_cabinet>);
-JEI.hideItem(<item:cfm:birch_chair>);
-JEI.hideItem(<item:cfm:birch_coffee_table>);
-JEI.hideItem(<item:cfm:birch_desk>);
-JEI.hideItem(<item:cfm:birch_desk_cabinet>);
-JEI.hideItem(<item:cfm:birch_kitchen_counter>);
-JEI.hideItem(<item:cfm:birch_kitchen_drawer>);
-JEI.hideItem(<item:cfm:birch_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:birch_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:birch_table>);
-JEI.hideItem(<item:cfm:black_kitchen_counter>);
-JEI.hideItem(<item:cfm:black_kitchen_drawer>);
-JEI.hideItem(<item:cfm:black_kitchen_sink>);
-JEI.hideItem(<item:cfm:blue_kitchen_counter>);
-JEI.hideItem(<item:cfm:blue_kitchen_drawer>);
-JEI.hideItem(<item:cfm:blue_kitchen_sink>);
-JEI.hideItem(<item:cfm:brown_kitchen_counter>);
-JEI.hideItem(<item:cfm:brown_kitchen_drawer>);
-JEI.hideItem(<item:cfm:brown_kitchen_sink>);
-JEI.hideItem(<item:cfm:crimson_bedside_cabinet>);
-JEI.hideItem(<item:cfm:crimson_cabinet>);
-JEI.hideItem(<item:cfm:crimson_chair>);
-JEI.hideItem(<item:cfm:crimson_coffee_table>);
-JEI.hideItem(<item:cfm:crimson_desk>);
-JEI.hideItem(<item:cfm:crimson_desk_cabinet>);
-JEI.hideItem(<item:cfm:crimson_kitchen_counter>);
-JEI.hideItem(<item:cfm:crimson_kitchen_drawer>);
-JEI.hideItem(<item:cfm:crimson_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:crimson_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:crimson_table>);
-JEI.hideItem(<item:cfm:cyan_kitchen_counter>);
-JEI.hideItem(<item:cfm:cyan_kitchen_drawer>);
-JEI.hideItem(<item:cfm:cyan_kitchen_sink>);
-JEI.hideItem(<item:cfm:dark_oak_bedside_cabinet>);
-JEI.hideItem(<item:cfm:dark_oak_cabinet>);
-JEI.hideItem(<item:cfm:dark_oak_chair>);
-JEI.hideItem(<item:cfm:dark_oak_coffee_table>);
-JEI.hideItem(<item:cfm:dark_oak_desk>);
-JEI.hideItem(<item:cfm:dark_oak_desk_cabinet>);
-JEI.hideItem(<item:cfm:dark_oak_kitchen_counter>);
-JEI.hideItem(<item:cfm:dark_oak_kitchen_drawer>);
-JEI.hideItem(<item:cfm:dark_oak_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:dark_oak_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:dark_oak_table>);
-JEI.hideItem(<item:cfm:diorite_bedside_cabinet>);
-JEI.hideItem(<item:cfm:diorite_cabinet>);
-JEI.hideItem(<item:cfm:diorite_chair>);
-JEI.hideItem(<item:cfm:diorite_coffee_table>);
-JEI.hideItem(<item:cfm:diorite_desk>);
-JEI.hideItem(<item:cfm:diorite_desk_cabinet>);
-JEI.hideItem(<item:cfm:diorite_table>);
-JEI.hideItem(<item:cfm:fridge_dark>);
-JEI.hideItem(<item:cfm:fridge_light>);
-JEI.hideItem(<item:cfm:granite_bedside_cabinet>);
-JEI.hideItem(<item:cfm:granite_cabinet>);
-JEI.hideItem(<item:cfm:granite_chair>);
-JEI.hideItem(<item:cfm:granite_coffee_table>);
-JEI.hideItem(<item:cfm:granite_desk>);
-JEI.hideItem(<item:cfm:granite_desk_cabinet>);
-JEI.hideItem(<item:cfm:granite_table>);
-JEI.hideItem(<item:cfm:gray_kitchen_counter>);
-JEI.hideItem(<item:cfm:gray_kitchen_drawer>);
-JEI.hideItem(<item:cfm:gray_kitchen_sink>);
-JEI.hideItem(<item:cfm:green_kitchen_counter>);
-JEI.hideItem(<item:cfm:green_kitchen_drawer>);
-JEI.hideItem(<item:cfm:green_kitchen_sink>);
-JEI.hideItem(<item:cfm:jungle_bedside_cabinet>);
-JEI.hideItem(<item:cfm:jungle_cabinet>);
-JEI.hideItem(<item:cfm:jungle_chair>);
-JEI.hideItem(<item:cfm:jungle_coffee_table>);
-JEI.hideItem(<item:cfm:jungle_desk>);
-JEI.hideItem(<item:cfm:jungle_desk_cabinet>);
-JEI.hideItem(<item:cfm:jungle_kitchen_counter>);
-JEI.hideItem(<item:cfm:jungle_kitchen_drawer>);
-JEI.hideItem(<item:cfm:jungle_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:jungle_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:jungle_table>);
-JEI.hideItem(<item:cfm:light_blue_kitchen_counter>);
-JEI.hideItem(<item:cfm:light_blue_kitchen_drawer>);
-JEI.hideItem(<item:cfm:light_blue_kitchen_sink>);
-JEI.hideItem(<item:cfm:light_gray_kitchen_counter>);
-JEI.hideItem(<item:cfm:light_gray_kitchen_drawer>);
-JEI.hideItem(<item:cfm:light_gray_kitchen_sink>);
-JEI.hideItem(<item:cfm:lime_kitchen_counter>);
-JEI.hideItem(<item:cfm:lime_kitchen_drawer>);
-JEI.hideItem(<item:cfm:lime_kitchen_sink>);
-JEI.hideItem(<item:cfm:magenta_kitchen_counter>);
-JEI.hideItem(<item:cfm:magenta_kitchen_drawer>);
-JEI.hideItem(<item:cfm:magenta_kitchen_sink>);
-JEI.hideItem(<item:cfm:oak_bedside_cabinet>);
-JEI.hideItem(<item:cfm:oak_cabinet>);
-JEI.hideItem(<item:cfm:oak_chair>);
-JEI.hideItem(<item:cfm:oak_coffee_table>);
-JEI.hideItem(<item:cfm:oak_desk>);
-JEI.hideItem(<item:cfm:oak_desk_cabinet>);
-JEI.hideItem(<item:cfm:oak_kitchen_counter>);
-JEI.hideItem(<item:cfm:oak_kitchen_drawer>);
-JEI.hideItem(<item:cfm:oak_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:oak_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:oak_table>);
-JEI.hideItem(<item:cfm:orange_kitchen_counter>);
-JEI.hideItem(<item:cfm:orange_kitchen_drawer>);
-JEI.hideItem(<item:cfm:orange_kitchen_sink>);
-JEI.hideItem(<item:cfm:pink_kitchen_counter>);
-JEI.hideItem(<item:cfm:pink_kitchen_drawer>);
-JEI.hideItem(<item:cfm:pink_kitchen_sink>);
-JEI.hideItem(<item:cfm:purple_kitchen_counter>);
-JEI.hideItem(<item:cfm:purple_kitchen_drawer>);
-JEI.hideItem(<item:cfm:purple_kitchen_sink>);
-JEI.hideItem(<item:cfm:red_kitchen_counter>);
-JEI.hideItem(<item:cfm:red_kitchen_drawer>);
-JEI.hideItem(<item:cfm:red_kitchen_sink>);
-JEI.hideItem(<item:cfm:rock_path>);
-JEI.hideItem(<item:cfm:spruce_bedside_cabinet>);
-JEI.hideItem(<item:cfm:spruce_cabinet>);
-JEI.hideItem(<item:cfm:spruce_chair>);
-JEI.hideItem(<item:cfm:spruce_coffee_table>);
-JEI.hideItem(<item:cfm:spruce_desk>);
-JEI.hideItem(<item:cfm:spruce_desk_cabinet>);
-JEI.hideItem(<item:cfm:spruce_kitchen_counter>);
-JEI.hideItem(<item:cfm:spruce_kitchen_drawer>);
-JEI.hideItem(<item:cfm:spruce_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:spruce_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:spruce_table>);
-JEI.hideItem(<item:cfm:stone_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stone_cabinet>);
-JEI.hideItem(<item:cfm:stone_chair>);
-JEI.hideItem(<item:cfm:stone_coffee_table>);
-JEI.hideItem(<item:cfm:stone_desk>);
-JEI.hideItem(<item:cfm:stone_desk_cabinet>);
-JEI.hideItem(<item:cfm:stone_table>);
-JEI.hideItem(<item:cfm:stripped_acacia_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stripped_acacia_cabinet>);
-JEI.hideItem(<item:cfm:stripped_acacia_chair>);
-JEI.hideItem(<item:cfm:stripped_acacia_coffee_table>);
-JEI.hideItem(<item:cfm:stripped_acacia_desk>);
-JEI.hideItem(<item:cfm:stripped_acacia_desk_cabinet>);
-JEI.hideItem(<item:cfm:stripped_acacia_kitchen_counter>);
-JEI.hideItem(<item:cfm:stripped_acacia_kitchen_drawer>);
-JEI.hideItem(<item:cfm:stripped_acacia_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:stripped_acacia_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:stripped_acacia_table>);
-JEI.hideItem(<item:cfm:stripped_birch_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stripped_birch_cabinet>);
-JEI.hideItem(<item:cfm:stripped_birch_chair>);
-JEI.hideItem(<item:cfm:stripped_birch_coffee_table>);
-JEI.hideItem(<item:cfm:stripped_birch_desk>);
-JEI.hideItem(<item:cfm:stripped_birch_desk_cabinet>);
-JEI.hideItem(<item:cfm:stripped_birch_kitchen_counter>);
-JEI.hideItem(<item:cfm:stripped_birch_kitchen_drawer>);
-JEI.hideItem(<item:cfm:stripped_birch_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:stripped_birch_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:stripped_birch_table>);
-JEI.hideItem(<item:cfm:stripped_crimson_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stripped_crimson_cabinet>);
-JEI.hideItem(<item:cfm:stripped_crimson_chair>);
-JEI.hideItem(<item:cfm:stripped_crimson_coffee_table>);
-JEI.hideItem(<item:cfm:stripped_crimson_desk>);
-JEI.hideItem(<item:cfm:stripped_crimson_desk_cabinet>);
-JEI.hideItem(<item:cfm:stripped_crimson_kitchen_counter>);
-JEI.hideItem(<item:cfm:stripped_crimson_kitchen_drawer>);
-JEI.hideItem(<item:cfm:stripped_crimson_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:stripped_crimson_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:stripped_crimson_table>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_cabinet>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_chair>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_coffee_table>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_desk>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_desk_cabinet>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_kitchen_counter>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_kitchen_drawer>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:stripped_dark_oak_table>);
-JEI.hideItem(<item:cfm:stripped_jungle_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stripped_jungle_cabinet>);
-JEI.hideItem(<item:cfm:stripped_jungle_chair>);
-JEI.hideItem(<item:cfm:stripped_jungle_coffee_table>);
-JEI.hideItem(<item:cfm:stripped_jungle_desk>);
-JEI.hideItem(<item:cfm:stripped_jungle_desk_cabinet>);
-JEI.hideItem(<item:cfm:stripped_jungle_kitchen_counter>);
-JEI.hideItem(<item:cfm:stripped_jungle_kitchen_drawer>);
-JEI.hideItem(<item:cfm:stripped_jungle_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:stripped_jungle_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:stripped_jungle_table>);
-JEI.hideItem(<item:cfm:stripped_oak_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stripped_oak_cabinet>);
-JEI.hideItem(<item:cfm:stripped_oak_chair>);
-JEI.hideItem(<item:cfm:stripped_oak_coffee_table>);
-JEI.hideItem(<item:cfm:stripped_oak_desk>);
-JEI.hideItem(<item:cfm:stripped_oak_desk_cabinet>);
-JEI.hideItem(<item:cfm:stripped_oak_kitchen_counter>);
-JEI.hideItem(<item:cfm:stripped_oak_kitchen_drawer>);
-JEI.hideItem(<item:cfm:stripped_oak_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:stripped_oak_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:stripped_oak_table>);
-JEI.hideItem(<item:cfm:stripped_spruce_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stripped_spruce_cabinet>);
-JEI.hideItem(<item:cfm:stripped_spruce_chair>);
-JEI.hideItem(<item:cfm:stripped_spruce_coffee_table>);
-JEI.hideItem(<item:cfm:stripped_spruce_desk>);
-JEI.hideItem(<item:cfm:stripped_spruce_desk_cabinet>);
-JEI.hideItem(<item:cfm:stripped_spruce_kitchen_counter>);
-JEI.hideItem(<item:cfm:stripped_spruce_kitchen_drawer>);
-JEI.hideItem(<item:cfm:stripped_spruce_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:stripped_spruce_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:stripped_spruce_table>);
-JEI.hideItem(<item:cfm:stripped_warped_bedside_cabinet>);
-JEI.hideItem(<item:cfm:stripped_warped_cabinet>);
-JEI.hideItem(<item:cfm:stripped_warped_chair>);
-JEI.hideItem(<item:cfm:stripped_warped_coffee_table>);
-JEI.hideItem(<item:cfm:stripped_warped_desk>);
-JEI.hideItem(<item:cfm:stripped_warped_desk_cabinet>);
-JEI.hideItem(<item:cfm:stripped_warped_kitchen_counter>);
-JEI.hideItem(<item:cfm:stripped_warped_kitchen_drawer>);
-JEI.hideItem(<item:cfm:stripped_warped_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:stripped_warped_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:stripped_warped_table>);
-JEI.hideItem(<item:cfm:trampoline>);
-JEI.hideItem(<item:cfm:warped_bedside_cabinet>);
-JEI.hideItem(<item:cfm:warped_cabinet>);
-JEI.hideItem(<item:cfm:warped_chair>);
-JEI.hideItem(<item:cfm:warped_coffee_table>);
-JEI.hideItem(<item:cfm:warped_desk>);
-JEI.hideItem(<item:cfm:warped_desk_cabinet>);
-JEI.hideItem(<item:cfm:warped_kitchen_counter>);
-JEI.hideItem(<item:cfm:warped_kitchen_drawer>);
-JEI.hideItem(<item:cfm:warped_kitchen_sink_dark>);
-JEI.hideItem(<item:cfm:warped_kitchen_sink_light>);
-JEI.hideItem(<item:cfm:warped_table>);
-JEI.hideItem(<item:cfm:white_kitchen_counter>);
-JEI.hideItem(<item:cfm:white_kitchen_drawer>);
-JEI.hideItem(<item:cfm:white_kitchen_sink>);
-JEI.hideItem(<item:cfm:yellow_kitchen_counter>);
-JEI.hideItem(<item:cfm:yellow_kitchen_drawer>);
-JEI.hideItem(<item:cfm:yellow_kitchen_sink>);
-JEI.hideItem(<item:curios:amulet>);
-JEI.hideItem(<item:curios:crown>);
-JEI.hideItem(<item:curios:knuckles>);
-JEI.hideItem(<item:curios:ring>);
-JEI.hideItem(<item:inspirations:blue_enlightened_bush>);
-JEI.hideItem(<item:inspirations:dimension_compass>);
-JEI.hideItem(<item:inspirations:green_enlightened_bush>);
-JEI.hideItem(<item:inspirations:red_enlightened_bush>);
-JEI.hideItem(<item:inspirations:white_enlightened_bush>);
-JEI.hideItem(<item:minecolonies:amazonchiefegg>);
-JEI.hideItem(<item:minecolonies:amazonegg>);
-JEI.hideItem(<item:minecolonies:barbarcheregg>);
-JEI.hideItem(<item:minecolonies:barbarianegg>);
-JEI.hideItem(<item:minecolonies:barbchiefegg>);
-JEI.hideItem(<item:minecolonies:chorus_bread>);
-JEI.hideItem(<item:minecolonies:golden_bread>);
-JEI.hideItem(<item:minecolonies:mercegg>);
-JEI.hideItem(<item:minecolonies:mummyarcheregg>);
-JEI.hideItem(<item:minecolonies:mummyegg>);
-JEI.hideItem(<item:minecolonies:norsemenarcheregg>);
-JEI.hideItem(<item:minecolonies:norsemenchiefegg>);
-JEI.hideItem(<item:minecolonies:pharaoegg>);
-JEI.hideItem(<item:minecolonies:piratearcheregg>);
-JEI.hideItem(<item:minecolonies:piratecaptainegg>);
-JEI.hideItem(<item:minecolonies:pirateegg>);
-JEI.hideItem(<item:minecolonies:scepterpermission>);
-JEI.hideItem(<item:minecolonies:shieldmaidenegg>);
-JEI.hideItem(<item:minecolonies:supplycampdeployer>);
-JEI.hideItem(<item:minecolonies:supplychestdeployer>);
-JEI.hideItem(<item:minecraft:ancient_debris>);
-JEI.hideItem(<item:minecraft:basalt>);
-JEI.hideItem(<item:minecraft:bat_spawn_egg>);
-JEI.hideItem(<item:minecraft:beacon>);
-JEI.hideItem(<item:minecraft:bee_spawn_egg>);
-JEI.hideItem(<item:minecraft:black_shulker_box>);
-JEI.hideItem(<item:minecraft:blaze_powder>);
-JEI.hideItem(<item:minecraft:blaze_rod>);
-JEI.hideItem(<item:minecraft:blaze_spawn_egg>);
-JEI.hideItem(<item:minecraft:blue_shulker_box>);
-JEI.hideItem(<item:minecraft:brewing_stand>);
-JEI.hideItem(<item:minecraft:brown_mushroom_block>);
-JEI.hideItem(<item:minecraft:brown_shulker_box>);
-JEI.hideItem(<item:minecraft:cat_spawn_egg>);
-JEI.hideItem(<item:minecraft:cave_spider_spawn_egg>);
-JEI.hideItem(<item:minecraft:chicken_spawn_egg>);
-JEI.hideItem(<item:minecraft:chorus_flower>);
-JEI.hideItem(<item:minecraft:chorus_fruit>);
-JEI.hideItem(<item:minecraft:chorus_plant>);
-JEI.hideItem(<item:minecraft:cod_spawn_egg>);
-JEI.hideItem(<item:minecraft:conduit>);
-JEI.hideItem(<item:minecraft:cow_spawn_egg>);
-JEI.hideItem(<item:minecraft:creeper_head>);
-JEI.hideItem(<item:minecraft:creeper_spawn_egg>);
-JEI.hideItem(<item:minecraft:crimson_fungus>);
-JEI.hideItem(<item:minecraft:crimson_nylium>);
-JEI.hideItem(<item:minecraft:crimson_roots>);
-JEI.hideItem(<item:minecraft:crying_obsidian>);
-JEI.hideItem(<item:minecraft:cyan_shulker_box>);
-JEI.hideItem(<item:minecraft:dark_prismarine>);
-JEI.hideItem(<item:minecraft:dark_prismarine_slab>);
-JEI.hideItem(<item:minecraft:dark_prismarine_stairs>);
-JEI.hideItem(<item:minecraft:diamond_axe>);
-JEI.hideItem(<item:minecraft:diamond_boots>);
-JEI.hideItem(<item:minecraft:diamond_chestplate>);
-JEI.hideItem(<item:minecraft:diamond_helmet>);
-JEI.hideItem(<item:minecraft:diamond_hoe>);
-JEI.hideItem(<item:minecraft:diamond_horse_armor>);
-JEI.hideItem(<item:minecraft:diamond_leggings>);
-JEI.hideItem(<item:minecraft:diamond_pickaxe>);
-JEI.hideItem(<item:minecraft:diamond_shovel>);
-JEI.hideItem(<item:minecraft:diamond_sword>);
-JEI.hideItem(<item:minecraft:dolphin_spawn_egg>);
-JEI.hideItem(<item:minecraft:donkey_spawn_egg>);
-JEI.hideItem(<item:minecraft:dragon_breath>);
-JEI.hideItem(<item:minecraft:dragon_head>);
-JEI.hideItem(<item:minecraft:drowned_spawn_egg>);
-JEI.hideItem(<item:minecraft:elder_guardian_spawn_egg>);
-JEI.hideItem(<item:minecraft:elytra>);
-JEI.hideItem(<item:minecraft:enchanted_book>);
-JEI.hideItem(<item:minecraft:enchanted_golden_apple>);
-JEI.hideItem(<item:minecraft:enchanting_table>);
-JEI.hideItem(<item:minecraft:end_crystal>);
-JEI.hideItem(<item:minecraft:end_portal_frame>);
-JEI.hideItem(<item:minecraft:end_rod>);
-JEI.hideItem(<item:minecraft:end_stone>);
-JEI.hideItem(<item:minecraft:end_stone_brick_wall>);
-JEI.hideItem(<item:minecraft:ender_chest>);
-JEI.hideItem(<item:minecraft:ender_eye>);
-JEI.hideItem(<item:minecraft:ender_pearl>);
-JEI.hideItem(<item:minecraft:enderman_spawn_egg>);
-JEI.hideItem(<item:minecraft:endermite_spawn_egg>);
-JEI.hideItem(<item:minecraft:evoker_spawn_egg>);
-JEI.hideItem(<item:minecraft:experience_bottle>);
-JEI.hideItem(<item:minecraft:fermented_spider_eye>);
-JEI.hideItem(<item:minecraft:firework_rocket>);
-JEI.hideItem(<item:minecraft:firework_star>);
-JEI.hideItem(<item:minecraft:fox_spawn_egg>);
-JEI.hideItem(<item:minecraft:ghast_spawn_egg>);
-JEI.hideItem(<item:minecraft:ghast_tear>);
-JEI.hideItem(<item:minecraft:glistering_melon_slice>);
-JEI.hideItem(<item:minecraft:golden_apple>);
-JEI.hideItem(<item:minecraft:golden_axe>);
-JEI.hideItem(<item:minecraft:golden_boots>);
-JEI.hideItem(<item:minecraft:golden_carrot>);
-JEI.hideItem(<item:minecraft:golden_chestplate>);
-JEI.hideItem(<item:minecraft:golden_helmet>);
-JEI.hideItem(<item:minecraft:golden_hoe>);
-JEI.hideItem(<item:minecraft:golden_horse_armor>);
-JEI.hideItem(<item:minecraft:golden_leggings>);
-JEI.hideItem(<item:minecraft:golden_pickaxe>);
-JEI.hideItem(<item:minecraft:golden_shovel>);
-JEI.hideItem(<item:minecraft:golden_sword>);
-JEI.hideItem(<item:minecraft:gray_shulker_box>);
-JEI.hideItem(<item:minecraft:green_shulker_box>);
-JEI.hideItem(<item:minecraft:guardian_spawn_egg>);
-JEI.hideItem(<item:minecraft:gunpowder>);
-JEI.hideItem(<item:minecraft:heart_of_the_sea>);
-JEI.hideItem(<item:minecraft:hoglin_spawn_egg>);
-JEI.hideItem(<item:minecraft:horse_spawn_egg>);
-JEI.hideItem(<item:minecraft:husk_spawn_egg>);
-JEI.hideItem(<item:minecraft:infested_chiseled_stone_bricks>);
-JEI.hideItem(<item:minecraft:infested_cobblestone>);
-JEI.hideItem(<item:minecraft:infested_cracked_stone_bricks>);
-JEI.hideItem(<item:minecraft:infested_mossy_stone_bricks>);
-JEI.hideItem(<item:minecraft:infested_stone>);
-JEI.hideItem(<item:minecraft:infested_stone_bricks>);
-JEI.hideItem(<item:minecraft:iron_axe>);
-JEI.hideItem(<item:minecraft:iron_boots>);
-JEI.hideItem(<item:minecraft:iron_chestplate>);
-JEI.hideItem(<item:minecraft:iron_helmet>);
-JEI.hideItem(<item:minecraft:iron_hoe>);
-JEI.hideItem(<item:minecraft:iron_leggings>);
-JEI.hideItem(<item:minecraft:iron_pickaxe>);
-JEI.hideItem(<item:minecraft:iron_shovel>);
-JEI.hideItem(<item:minecraft:iron_sword>);
-JEI.hideItem(<item:minecraft:jukebox>);
-JEI.hideItem(<item:minecraft:light_blue_shulker_box>);
-JEI.hideItem(<item:minecraft:light_gray_shulker_box>);
-JEI.hideItem(<item:minecraft:lime_shulker_box>);
-JEI.hideItem(<item:minecraft:lingering_potion>);
-JEI.hideItem(<item:minecraft:llama_spawn_egg>);
-JEI.hideItem(<item:minecraft:magenta_shulker_box>);
-JEI.hideItem(<item:minecraft:magma_cream>);
-JEI.hideItem(<item:minecraft:magma_cube_spawn_egg>);
-JEI.hideItem(<item:minecraft:mooshroom_spawn_egg>);
-JEI.hideItem(<item:minecraft:mule_spawn_egg>);
-JEI.hideItem(<item:minecraft:mushroom_stem>);
-JEI.hideItem(<item:minecraft:music_disc_11>);
-JEI.hideItem(<item:minecraft:music_disc_13>);
-JEI.hideItem(<item:minecraft:music_disc_blocks>);
-JEI.hideItem(<item:minecraft:music_disc_cat>);
-JEI.hideItem(<item:minecraft:music_disc_chirp>);
-JEI.hideItem(<item:minecraft:music_disc_far>);
-JEI.hideItem(<item:minecraft:music_disc_mall>);
-JEI.hideItem(<item:minecraft:music_disc_mellohi>);
-JEI.hideItem(<item:minecraft:music_disc_pigstep>);
-JEI.hideItem(<item:minecraft:music_disc_stal>);
-JEI.hideItem(<item:minecraft:music_disc_strad>);
-JEI.hideItem(<item:minecraft:music_disc_wait>);
-JEI.hideItem(<item:minecraft:music_disc_ward>);
-JEI.hideItem(<item:minecraft:mycelium>);
-JEI.hideItem(<item:minecraft:nether_brick_wall>);
-JEI.hideItem(<item:minecraft:nether_gold_ore>);
-JEI.hideItem(<item:minecraft:nether_quartz_ore>);
-JEI.hideItem(<item:minecraft:nether_sprouts>);
-JEI.hideItem(<item:minecraft:nether_star>);
-JEI.hideItem(<item:minecraft:nether_wart>);
-JEI.hideItem(<item:minecraft:nether_wart_block>);
-JEI.hideItem(<item:minecraft:netherite_axe>);
-JEI.hideItem(<item:minecraft:netherite_block>);
-JEI.hideItem(<item:minecraft:netherite_boots>);
-JEI.hideItem(<item:minecraft:netherite_chestplate>);
-JEI.hideItem(<item:minecraft:netherite_helmet>);
-JEI.hideItem(<item:minecraft:netherite_hoe>);
-JEI.hideItem(<item:minecraft:netherite_ingot>);
-JEI.hideItem(<item:minecraft:netherite_leggings>);
-JEI.hideItem(<item:minecraft:netherite_pickaxe>);
-JEI.hideItem(<item:minecraft:netherite_scrap>);
-JEI.hideItem(<item:minecraft:netherite_shovel>);
-JEI.hideItem(<item:minecraft:netherite_sword>);
-JEI.hideItem(<item:minecraft:netherrack>);
-JEI.hideItem(<item:minecraft:ocelot_spawn_egg>);
-JEI.hideItem(<item:minecraft:orange_shulker_box>);
-JEI.hideItem(<item:minecraft:panda_spawn_egg>);
-JEI.hideItem(<item:minecraft:parrot_spawn_egg>);
-JEI.hideItem(<item:minecraft:petrified_oak_slab>);
-JEI.hideItem(<item:minecraft:phantom_membrane>);
-JEI.hideItem(<item:minecraft:phantom_spawn_egg>);
-JEI.hideItem(<item:minecraft:pig_spawn_egg>);
-JEI.hideItem(<item:minecraft:piglin_brute_spawn_egg>);
-JEI.hideItem(<item:minecraft:piglin_spawn_egg>);
-JEI.hideItem(<item:minecraft:pillager_spawn_egg>);
-JEI.hideItem(<item:minecraft:pink_shulker_box>);
-JEI.hideItem(<item:minecraft:polar_bear_spawn_egg>);
-JEI.hideItem(<item:minecraft:polished_basalt>);
-JEI.hideItem(<item:minecraft:prismarine>);
-JEI.hideItem(<item:minecraft:prismarine_brick_slab>);
-JEI.hideItem(<item:minecraft:prismarine_brick_stairs>);
-JEI.hideItem(<item:minecraft:prismarine_bricks>);
-JEI.hideItem(<item:minecraft:prismarine_crystals>);
-JEI.hideItem(<item:minecraft:prismarine_shard>);
-JEI.hideItem(<item:minecraft:prismarine_slab>);
-JEI.hideItem(<item:minecraft:prismarine_stairs>);
-JEI.hideItem(<item:minecraft:prismarine_wall>);
-JEI.hideItem(<item:minecraft:pufferfish_spawn_egg>);
-JEI.hideItem(<item:minecraft:purple_shulker_box>);
-JEI.hideItem(<item:minecraft:rabbit_spawn_egg>);
-JEI.hideItem(<item:minecraft:ravager_spawn_egg>);
-JEI.hideItem(<item:minecraft:red_mushroom_block>);
-JEI.hideItem(<item:minecraft:red_nether_brick_slab>);
-JEI.hideItem(<item:minecraft:red_nether_brick_stairs>);
-JEI.hideItem(<item:minecraft:red_nether_brick_wall>);
-JEI.hideItem(<item:minecraft:red_nether_bricks>);
-JEI.hideItem(<item:minecraft:red_shulker_box>);
-JEI.hideItem(<item:minecraft:redstone_ore>);
-JEI.hideItem(<item:minecraft:respawn_anchor>);
-JEI.hideItem(<item:minecraft:salmon_spawn_egg>);
-JEI.hideItem(<item:minecraft:sea_lantern>);
-JEI.hideItem(<item:minecraft:sheep_spawn_egg>);
-JEI.hideItem(<item:minecraft:shulker_box>);
-JEI.hideItem(<item:minecraft:shulker_shell>);
-JEI.hideItem(<item:minecraft:shulker_spawn_egg>);
-JEI.hideItem(<item:minecraft:silverfish_spawn_egg>);
-JEI.hideItem(<item:minecraft:skeleton_horse_spawn_egg>);
-JEI.hideItem(<item:minecraft:skeleton_skull>);
-JEI.hideItem(<item:minecraft:skeleton_spawn_egg>);
-JEI.hideItem(<item:minecraft:slime_spawn_egg>);
-JEI.hideItem(<item:minecraft:soul_sand>);
-JEI.hideItem(<item:minecraft:soul_soil>);
-JEI.hideItem(<item:minecraft:spectral_arrow>);
-JEI.hideItem(<item:minecraft:spider_eye>);
-JEI.hideItem(<item:minecraft:spider_spawn_egg>);
-JEI.hideItem(<item:minecraft:splash_potion>);
-JEI.hideItem(<item:minecraft:sponge>);
-JEI.hideItem(<item:minecraft:squid_spawn_egg>);
-JEI.hideItem(<item:minecraft:stone_axe>);
-JEI.hideItem(<item:minecraft:stone_hoe>);
-JEI.hideItem(<item:minecraft:stone_pickaxe>);
-JEI.hideItem(<item:minecraft:stone_shovel>);
-JEI.hideItem(<item:minecraft:stone_sword>);
-JEI.hideItem(<item:minecraft:stray_spawn_egg>);
-JEI.hideItem(<item:minecraft:strider_spawn_egg>);
-JEI.hideItem(<item:minecraft:tipped_arrow>);
-JEI.hideItem(<item:minecraft:tnt>);
-JEI.hideItem(<item:minecraft:tnt_minecart>);
-JEI.hideItem(<item:minecraft:trader_llama_spawn_egg>);
-JEI.hideItem(<item:minecraft:tropical_fish_spawn_egg>);
-JEI.hideItem(<item:minecraft:turtle_spawn_egg>);
-JEI.hideItem(<item:minecraft:twisting_vines>);
-JEI.hideItem(<item:minecraft:vex_spawn_egg>);
-JEI.hideItem(<item:minecraft:villager_spawn_egg>);
-JEI.hideItem(<item:minecraft:vindicator_spawn_egg>);
-JEI.hideItem(<item:minecraft:wandering_trader_spawn_egg>);
-JEI.hideItem(<item:minecraft:warped_fungus>);
-JEI.hideItem(<item:minecraft:warped_fungus_on_a_stick>);
-JEI.hideItem(<item:minecraft:warped_nylium>);
-JEI.hideItem(<item:minecraft:warped_roots>);
-JEI.hideItem(<item:minecraft:warped_wart_block>);
-JEI.hideItem(<item:minecraft:weeping_vines>);
-JEI.hideItem(<item:minecraft:wet_sponge>);
-JEI.hideItem(<item:minecraft:white_shulker_box>);
-JEI.hideItem(<item:minecraft:witch_spawn_egg>);
-JEI.hideItem(<item:minecraft:wither_rose>);
-JEI.hideItem(<item:minecraft:wither_skeleton_skull>);
-JEI.hideItem(<item:minecraft:wither_skeleton_spawn_egg>);
-JEI.hideItem(<item:minecraft:wolf_spawn_egg>);
-JEI.hideItem(<item:minecraft:wooden_axe>);
-JEI.hideItem(<item:minecraft:wooden_hoe>);
-JEI.hideItem(<item:minecraft:wooden_pickaxe>);
-JEI.hideItem(<item:minecraft:wooden_shovel>);
-JEI.hideItem(<item:minecraft:wooden_sword>);
-JEI.hideItem(<item:minecraft:yellow_shulker_box>);
-JEI.hideItem(<item:minecraft:zoglin_spawn_egg>);
-JEI.hideItem(<item:minecraft:zombie_head>);
-JEI.hideItem(<item:minecraft:zombie_horse_spawn_egg>);
-JEI.hideItem(<item:minecraft:zombie_spawn_egg>);
-JEI.hideItem(<item:minecraft:zombie_villager_spawn_egg>);
-JEI.hideItem(<item:minecraft:zombified_piglin_spawn_egg>);
-JEI.hideItem(<item:quark:ancient_tome>);
-JEI.hideItem(<item:quark:apple_crate>);
-JEI.hideItem(<item:quark:basalt>);
-JEI.hideItem(<item:quark:basalt_bricks>);
-JEI.hideItem(<item:quark:basalt_bricks_slab>);
-JEI.hideItem(<item:quark:basalt_bricks_stairs>);
-JEI.hideItem(<item:quark:basalt_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:basalt_bricks_wall>);
-JEI.hideItem(<item:quark:basalt_pavement>);
-JEI.hideItem(<item:quark:basalt_pillar>);
-JEI.hideItem(<item:quark:basalt_slab>);
-JEI.hideItem(<item:quark:basalt_speleothem>);
-JEI.hideItem(<item:quark:basalt_stairs>);
-JEI.hideItem(<item:quark:basalt_vertical_slab>);
-JEI.hideItem(<item:quark:basalt_wall>);
-JEI.hideItem(<item:quark:beetroot_crate>);
-JEI.hideItem(<item:quark:berry_sack>);
-JEI.hideItem(<item:quark:biotite>);
-JEI.hideItem(<item:quark:biotite_block>);
-JEI.hideItem(<item:quark:biotite_block_slab>);
-JEI.hideItem(<item:quark:biotite_block_stairs>);
-JEI.hideItem(<item:quark:biotite_block_vertical_slab>);
-JEI.hideItem(<item:quark:biotite_bricks>);
-JEI.hideItem(<item:quark:biotite_ore>);
-JEI.hideItem(<item:quark:biotite_pillar>);
-JEI.hideItem(<item:quark:blackstone_bricks>);
-JEI.hideItem(<item:quark:blackstone_bricks_slab>);
-JEI.hideItem(<item:quark:blackstone_bricks_stairs>);
-JEI.hideItem(<item:quark:blackstone_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:blackstone_bricks_wall>);
-JEI.hideItem(<item:quark:blaze_lantern>);
-JEI.hideItem(<item:quark:blue_nether_bricks>);
-JEI.hideItem(<item:quark:blue_nether_bricks_slab>);
-JEI.hideItem(<item:quark:blue_nether_bricks_stairs>);
-JEI.hideItem(<item:quark:blue_nether_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:blue_nether_bricks_wall>);
-JEI.hideItem(<item:quark:bonded_ravager_hide>);
-JEI.hideItem(<item:quark:carrot_crate>);
-JEI.hideItem(<item:quark:charcoal_block>);
-JEI.hideItem(<item:quark:charred_nether_bricks>);
-JEI.hideItem(<item:quark:charred_nether_bricks_slab>);
-JEI.hideItem(<item:quark:charred_nether_bricks_stairs>);
-JEI.hideItem(<item:quark:charred_nether_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:charred_nether_bricks_wall>);
-JEI.hideItem(<item:quark:chiseled_basalt_bricks>);
-JEI.hideItem(<item:quark:chiseled_biotite_block>);
-JEI.hideItem(<item:quark:chiseled_myalite_bricks>);
-JEI.hideItem(<item:quark:chiseled_soul_sandstone>);
-JEI.hideItem(<item:quark:chorus_fruit_block>);
-JEI.hideItem(<item:quark:chorus_twist>);
-JEI.hideItem(<item:quark:chorus_weeds>);
-JEI.hideItem(<item:quark:cobbedstone>);
-JEI.hideItem(<item:quark:cobbedstone_slab>);
-JEI.hideItem(<item:quark:cobbedstone_stairs>);
-JEI.hideItem(<item:quark:cobbedstone_vertical_slab>);
-JEI.hideItem(<item:quark:cobbedstone_wall>);
-JEI.hideItem(<item:quark:cocoa_beans_sack>);
-JEI.hideItem(<item:quark:crab_spawn_egg>);
-JEI.hideItem(<item:quark:crate>);
-JEI.hideItem(<item:quark:cut_soul_sandstone>);
-JEI.hideItem(<item:quark:cut_soul_sandstone_slab>);
-JEI.hideItem(<item:quark:cut_soul_sandstone_vertical_slab>);
-JEI.hideItem(<item:quark:dark_elder_prismarine>);
-JEI.hideItem(<item:quark:dark_elder_prismarine_slab>);
-JEI.hideItem(<item:quark:dark_elder_prismarine_stairs>);
-JEI.hideItem(<item:quark:dark_elder_prismarine_vertical_slab>);
-JEI.hideItem(<item:quark:dark_prismarine_vertical_slab>);
-JEI.hideItem(<item:quark:diamond_heart>);
-JEI.hideItem(<item:quark:dirt_bricks>);
-JEI.hideItem(<item:quark:dirt_bricks_slab>);
-JEI.hideItem(<item:quark:dirt_bricks_stairs>);
-JEI.hideItem(<item:quark:dirt_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:dirt_bricks_wall>);
-JEI.hideItem(<item:quark:dragon_scale>);
-JEI.hideItem(<item:quark:duskbound_block>);
-JEI.hideItem(<item:quark:duskbound_block_slab>);
-JEI.hideItem(<item:quark:duskbound_block_stairs>);
-JEI.hideItem(<item:quark:duskbound_block_vertical_slab>);
-JEI.hideItem(<item:quark:duskbound_lantern>);
-JEI.hideItem(<item:quark:elder_prismarine>);
-JEI.hideItem(<item:quark:elder_prismarine_bricks>);
-JEI.hideItem(<item:quark:elder_prismarine_bricks_slab>);
-JEI.hideItem(<item:quark:elder_prismarine_bricks_stairs>);
-JEI.hideItem(<item:quark:elder_prismarine_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:elder_prismarine_slab>);
-JEI.hideItem(<item:quark:elder_prismarine_stairs>);
-JEI.hideItem(<item:quark:elder_prismarine_vertical_slab>);
-JEI.hideItem(<item:quark:elder_prismarine_wall>);
-JEI.hideItem(<item:quark:elder_sea_lantern>);
-JEI.hideItem(<item:quark:ender_watcher>);
-JEI.hideItem(<item:quark:flamerang>);
-JEI.hideItem(<item:quark:forgotten_hat>);
-JEI.hideItem(<item:quark:forgotten_spawn_egg>);
-JEI.hideItem(<item:quark:foxhound_spawn_egg>);
-JEI.hideItem(<item:quark:frog_spawn_egg>);
-JEI.hideItem(<item:quark:glowcelium>);
-JEI.hideItem(<item:quark:glowshroom>);
-JEI.hideItem(<item:quark:glowshroom_block>);
-JEI.hideItem(<item:quark:glowshroom_stem>);
-JEI.hideItem(<item:quark:golden_apple_crate>);
-JEI.hideItem(<item:quark:golden_frog_leg>);
-JEI.hideItem(<item:quark:gravisand>);
-JEI.hideItem(<item:quark:gunpowder_sack>);
-JEI.hideItem(<item:quark:iron_rod>);
-JEI.hideItem(<item:quark:magnet>);
-JEI.hideItem(<item:quark:matrix_enchanter>);
-JEI.hideItem(<item:quark:mushroom_chest>);
-JEI.hideItem(<item:quark:mushroom_trapped_chest>);
-JEI.hideItem(<item:quark:music_disc_chatter>);
-JEI.hideItem(<item:quark:music_disc_clock>);
-JEI.hideItem(<item:quark:music_disc_crickets>);
-JEI.hideItem(<item:quark:music_disc_drips>);
-JEI.hideItem(<item:quark:music_disc_fire>);
-JEI.hideItem(<item:quark:music_disc_ocean>);
-JEI.hideItem(<item:quark:music_disc_rain>);
-JEI.hideItem(<item:quark:music_disc_wind>);
-JEI.hideItem(<item:quark:myalite>);
-JEI.hideItem(<item:quark:myalite_bricks>);
-JEI.hideItem(<item:quark:myalite_bricks_slab>);
-JEI.hideItem(<item:quark:myalite_bricks_stairs>);
-JEI.hideItem(<item:quark:myalite_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:myalite_bricks_wall>);
-JEI.hideItem(<item:quark:myalite_crystal>);
-JEI.hideItem(<item:quark:myalite_pavement>);
-JEI.hideItem(<item:quark:myalite_pillar>);
-JEI.hideItem(<item:quark:myalite_slab>);
-JEI.hideItem(<item:quark:myalite_stairs>);
-JEI.hideItem(<item:quark:myalite_vertical_slab>);
-JEI.hideItem(<item:quark:myalite_wall>);
-JEI.hideItem(<item:quark:nether_brick_chest>);
-JEI.hideItem(<item:quark:nether_brick_trapped_chest>);
-JEI.hideItem(<item:quark:nether_brick_vertical_slab>);
-JEI.hideItem(<item:quark:nether_wart_sack>);
-JEI.hideItem(<item:quark:netherrack_bricks>);
-JEI.hideItem(<item:quark:netherrack_bricks_slab>);
-JEI.hideItem(<item:quark:netherrack_bricks_stairs>);
-JEI.hideItem(<item:quark:netherrack_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:netherrack_bricks_wall>);
-JEI.hideItem(<item:quark:netherrack_speleothem>);
-JEI.hideItem(<item:quark:obsidian_pressure_plate>);
-JEI.hideItem(<item:quark:pickarang>);
-JEI.hideItem(<item:quark:pipe>);
-JEI.hideItem(<item:quark:polished_basalt>);
-JEI.hideItem(<item:quark:polished_basalt_slab>);
-JEI.hideItem(<item:quark:polished_basalt_stairs>);
-JEI.hideItem(<item:quark:polished_basalt_vertical_slab>);
-JEI.hideItem(<item:quark:polished_myalite>);
-JEI.hideItem(<item:quark:polished_myalite_slab>);
-JEI.hideItem(<item:quark:polished_myalite_stairs>);
-JEI.hideItem(<item:quark:polished_myalite_vertical_slab>);
-JEI.hideItem(<item:quark:potato_crate>);
-JEI.hideItem(<item:quark:prismarine_brick_vertical_slab>);
-JEI.hideItem(<item:quark:prismarine_chest>);
-JEI.hideItem(<item:quark:prismarine_trapped_chest>);
-JEI.hideItem(<item:quark:prismarine_vertical_slab>);
-JEI.hideItem(<item:quark:purpur_chest>);
-JEI.hideItem(<item:quark:purpur_trapped_chest>);
-JEI.hideItem(<item:quark:ravager_hide>);
-JEI.hideItem(<item:quark:red_nether_brick_vertical_slab>);
-JEI.hideItem(<item:quark:redstone_inductor>);
-JEI.hideItem(<item:quark:redstone_randomizer>);
-JEI.hideItem(<item:quark:shiba_spawn_egg>);
-JEI.hideItem(<item:quark:smooth_basalt>);
-JEI.hideItem(<item:quark:smooth_basalt_slab>);
-JEI.hideItem(<item:quark:smooth_basalt_stairs>);
-JEI.hideItem(<item:quark:smooth_basalt_vertical_slab>);
-JEI.hideItem(<item:quark:smooth_basalt_wall>);
-JEI.hideItem(<item:quark:smooth_biotite>);
-JEI.hideItem(<item:quark:smooth_biotite_slab>);
-JEI.hideItem(<item:quark:smooth_biotite_stairs>);
-JEI.hideItem(<item:quark:smooth_biotite_vertical_slab>);
-JEI.hideItem(<item:quark:smooth_soul_sandstone>);
-JEI.hideItem(<item:quark:smooth_soul_sandstone_slab>);
-JEI.hideItem(<item:quark:smooth_soul_sandstone_stairs>);
-JEI.hideItem(<item:quark:smooth_soul_sandstone_vertical_slab>);
-JEI.hideItem(<item:quark:soul_bead>);
-JEI.hideItem(<item:quark:soul_compass>);
-JEI.hideItem(<item:quark:soul_sandstone>);
-JEI.hideItem(<item:quark:soul_sandstone_bricks>);
-JEI.hideItem(<item:quark:soul_sandstone_bricks_slab>);
-JEI.hideItem(<item:quark:soul_sandstone_bricks_stairs>);
-JEI.hideItem(<item:quark:soul_sandstone_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:soul_sandstone_bricks_wall>);
-JEI.hideItem(<item:quark:soul_sandstone_slab>);
-JEI.hideItem(<item:quark:soul_sandstone_stairs>);
-JEI.hideItem(<item:quark:soul_sandstone_vertical_slab>);
-JEI.hideItem(<item:quark:soul_sandstone_wall>);
-JEI.hideItem(<item:quark:stoneling_spawn_egg>);
-JEI.hideItem(<item:quark:toretoise_spawn_egg>);
-JEI.hideItem(<item:quark:twisted_blackstone_bricks>);
-JEI.hideItem(<item:quark:twisted_blackstone_bricks_slab>);
-JEI.hideItem(<item:quark:twisted_blackstone_bricks_stairs>);
-JEI.hideItem(<item:quark:twisted_blackstone_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:twisted_blackstone_bricks_wall>);
-JEI.hideItem(<item:quark:vanilla_basalt_bricks>);
-JEI.hideItem(<item:quark:vanilla_basalt_bricks_slab>);
-JEI.hideItem(<item:quark:vanilla_basalt_bricks_stairs>);
-JEI.hideItem(<item:quark:vanilla_basalt_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:vanilla_basalt_bricks_wall>);
-JEI.hideItem(<item:quark:weather_sensor>);
-JEI.hideItem(<item:quark:weeping_blackstone_bricks>);
-JEI.hideItem(<item:quark:weeping_blackstone_bricks_slab>);
-JEI.hideItem(<item:quark:weeping_blackstone_bricks_stairs>);
-JEI.hideItem(<item:quark:weeping_blackstone_bricks_vertical_slab>);
-JEI.hideItem(<item:quark:weeping_blackstone_bricks_wall>);
-JEI.hideItem(<item:quark:wraith_spawn_egg>);
-JEI.hideItem(<item:quark:wrapped_spawn_egg>);
-JEI.hideItem(<item:structurize:sceptersteel>);
-JEI.hideItem(<item:structurize:sceptertag>);
-JEI.hideItem(<item:structurize:shapetool>);
-JEI.hideItem(<item:tconstruct:blaze_head>);
-JEI.hideItem(<item:tconstruct:blazewood>);
-JEI.hideItem(<item:tconstruct:blazewood_slab>);
-JEI.hideItem(<item:tconstruct:blazewood_stairs>);
-JEI.hideItem(<item:tconstruct:blazing_blood_bucket>);
-JEI.hideItem(<item:tconstruct:blazing_bone>);
-JEI.hideItem(<item:tconstruct:blood_cake>);
-JEI.hideItem(<item:tconstruct:blood_congealed_slime>);
-JEI.hideItem(<item:tconstruct:blood_earth_slime_grass>);
-JEI.hideItem(<item:tconstruct:blood_ender_slime_grass>);
-JEI.hideItem(<item:tconstruct:blood_ichor_slime_grass>);
-JEI.hideItem(<item:tconstruct:blood_sky_slime_grass>);
-JEI.hideItem(<item:tconstruct:blood_slime>);
-JEI.hideItem(<item:tconstruct:blood_slime_ball>);
-JEI.hideItem(<item:tconstruct:blood_slime_boots>);
-JEI.hideItem(<item:tconstruct:blood_slime_fern>);
-JEI.hideItem(<item:tconstruct:blood_slime_grass_seeds>);
-JEI.hideItem(<item:tconstruct:blood_slime_leaves>);
-JEI.hideItem(<item:tconstruct:blood_slime_sapling>);
-JEI.hideItem(<item:tconstruct:blood_slime_tall_grass>);
-JEI.hideItem(<item:tconstruct:blood_vanilla_slime_grass>);
-JEI.hideItem(<item:tconstruct:bloodbone>);
-JEI.hideItem(<item:tconstruct:bloodshroom_button>);
-JEI.hideItem(<item:tconstruct:bloodshroom_door>);
-JEI.hideItem(<item:tconstruct:bloodshroom_fence>);
-JEI.hideItem(<item:tconstruct:bloodshroom_fence_gate>);
-JEI.hideItem(<item:tconstruct:bloodshroom_log>);
-JEI.hideItem(<item:tconstruct:bloodshroom_planks>);
-JEI.hideItem(<item:tconstruct:bloodshroom_planks_slab>);
-JEI.hideItem(<item:tconstruct:bloodshroom_planks_stairs>);
-JEI.hideItem(<item:tconstruct:bloodshroom_pressure_plate>);
-JEI.hideItem(<item:tconstruct:bloodshroom_sign>);
-JEI.hideItem(<item:tconstruct:bloodshroom_trapdoor>);
-JEI.hideItem(<item:tconstruct:bloodshroom_wood>);
-JEI.hideItem(<item:tconstruct:cave_spider_head>);
-JEI.hideItem(<item:tconstruct:clear_item_frame>);
-JEI.hideItem(<item:tconstruct:cobalt_ore>);
-JEI.hideItem(<item:tconstruct:creative_slot>);
-JEI.hideItem(<item:tconstruct:debris_nugget>);
-JEI.hideItem(<item:tconstruct:dragon_scale>);
-JEI.hideItem(<item:tconstruct:drowned_head>);
-JEI.hideItem(<item:tconstruct:earth_cake>);
-JEI.hideItem(<item:tconstruct:earth_congealed_slime>);
-JEI.hideItem(<item:tconstruct:earth_earth_slime_grass>);
-JEI.hideItem(<item:tconstruct:earth_ender_slime_grass>);
-JEI.hideItem(<item:tconstruct:earth_ichor_slime_grass>);
-JEI.hideItem(<item:tconstruct:earth_sky_slime_grass>);
-JEI.hideItem(<item:tconstruct:earth_slime_boots>);
-JEI.hideItem(<item:tconstruct:earth_slime_crystal>);
-JEI.hideItem(<item:tconstruct:earth_slime_dirt>);
-JEI.hideItem(<item:tconstruct:earth_slime_fern>);
-JEI.hideItem(<item:tconstruct:earth_slime_grass_seeds>);
-JEI.hideItem(<item:tconstruct:earth_slime_leaves>);
-JEI.hideItem(<item:tconstruct:earth_slime_sapling>);
-JEI.hideItem(<item:tconstruct:earth_slime_sling>);
-JEI.hideItem(<item:tconstruct:earth_slime_tall_grass>);
-JEI.hideItem(<item:tconstruct:earth_vanilla_slime_grass>);
-JEI.hideItem(<item:tconstruct:efln_ball>);
-JEI.hideItem(<item:tconstruct:ender_cake>);
-JEI.hideItem(<item:tconstruct:ender_congealed_slime>);
-JEI.hideItem(<item:tconstruct:ender_earth_slime_grass>);
-JEI.hideItem(<item:tconstruct:ender_ender_slime_grass>);
-JEI.hideItem(<item:tconstruct:ender_ichor_slime_grass>);
-JEI.hideItem(<item:tconstruct:ender_sky_slime_grass>);
-JEI.hideItem(<item:tconstruct:ender_slime>);
-JEI.hideItem(<item:tconstruct:ender_slime_ball>);
-JEI.hideItem(<item:tconstruct:ender_slime_boots>);
-JEI.hideItem(<item:tconstruct:ender_slime_bucket>);
-JEI.hideItem(<item:tconstruct:ender_slime_crystal>);
-JEI.hideItem(<item:tconstruct:ender_slime_dirt>);
-JEI.hideItem(<item:tconstruct:ender_slime_fern>);
-JEI.hideItem(<item:tconstruct:ender_slime_grass_seeds>);
-JEI.hideItem(<item:tconstruct:ender_slime_leaves>);
-JEI.hideItem(<item:tconstruct:ender_slime_sapling>);
-JEI.hideItem(<item:tconstruct:ender_slime_sling>);
-JEI.hideItem(<item:tconstruct:ender_slime_spawn_egg>);
-JEI.hideItem(<item:tconstruct:ender_slime_tall_grass>);
-JEI.hideItem(<item:tconstruct:ender_slime_vine>);
-JEI.hideItem(<item:tconstruct:ender_vanilla_slime_grass>);
-JEI.hideItem(<item:tconstruct:enderman_head>);
-JEI.hideItem(<item:tconstruct:gold_item_frame>);
-JEI.hideItem(<item:tconstruct:greenheart_button>);
-JEI.hideItem(<item:tconstruct:greenheart_door>);
-JEI.hideItem(<item:tconstruct:greenheart_fence>);
-JEI.hideItem(<item:tconstruct:greenheart_fence_gate>);
-JEI.hideItem(<item:tconstruct:greenheart_log>);
-JEI.hideItem(<item:tconstruct:greenheart_planks>);
-JEI.hideItem(<item:tconstruct:greenheart_planks_slab>);
-JEI.hideItem(<item:tconstruct:greenheart_planks_stairs>);
-JEI.hideItem(<item:tconstruct:greenheart_pressure_plate>);
-JEI.hideItem(<item:tconstruct:greenheart_sign>);
-JEI.hideItem(<item:tconstruct:greenheart_trapdoor>);
-JEI.hideItem(<item:tconstruct:greenheart_wood>);
-JEI.hideItem(<item:tconstruct:husk_head>);
-JEI.hideItem(<item:tconstruct:ichor_congealed_slime>);
-JEI.hideItem(<item:tconstruct:ichor_slime>);
-JEI.hideItem(<item:tconstruct:ichor_slime_ball>);
-JEI.hideItem(<item:tconstruct:ichor_slime_boots>);
-JEI.hideItem(<item:tconstruct:ichor_slime_crystal>);
-JEI.hideItem(<item:tconstruct:ichor_slime_dirt>);
-JEI.hideItem(<item:tconstruct:ichor_slime_sling>);
-JEI.hideItem(<item:tconstruct:lavawood>);
-JEI.hideItem(<item:tconstruct:lavawood_slab>);
-JEI.hideItem(<item:tconstruct:lavawood_stairs>);
-JEI.hideItem(<item:tconstruct:liquid_soul_bucket>);
-JEI.hideItem(<item:tconstruct:magma_bucket>);
-JEI.hideItem(<item:tconstruct:magma_cake>);
-JEI.hideItem(<item:tconstruct:molten_debris_bucket>);
-JEI.hideItem(<item:tconstruct:molten_ender_bucket>);
-JEI.hideItem(<item:tconstruct:molten_netherite_bucket>);
-JEI.hideItem(<item:tconstruct:molten_pig_iron_bucket>);
-JEI.hideItem(<item:tconstruct:molten_queens_slime_bucket>);
-JEI.hideItem(<item:tconstruct:molten_slimesteel_bucket>);
-JEI.hideItem(<item:tconstruct:nahuatl>);
-JEI.hideItem(<item:tconstruct:nahuatl_fence>);
-JEI.hideItem(<item:tconstruct:nahuatl_slab>);
-JEI.hideItem(<item:tconstruct:nahuatl_stairs>);
-JEI.hideItem(<item:tconstruct:necrotic_bone>);
-JEI.hideItem(<item:tconstruct:nether_grout>);
-JEI.hideItem(<item:tconstruct:netherite_nugget>);
-JEI.hideItem(<item:tconstruct:pig_iron_block>);
-JEI.hideItem(<item:tconstruct:pig_iron_ingot>);
-JEI.hideItem(<item:tconstruct:pig_iron_nugget>);
-JEI.hideItem(<item:tconstruct:queens_slime_block>);
-JEI.hideItem(<item:tconstruct:queens_slime_ingot>);
-JEI.hideItem(<item:tconstruct:queens_slime_nugget>);
-JEI.hideItem(<item:tconstruct:scorched_bricks_fence>);
-JEI.hideItem(<item:tconstruct:seared_bricks_wall>);
-JEI.hideItem(<item:tconstruct:seared_cobble_wall>);
-JEI.hideItem(<item:tconstruct:sky_cake>);
-JEI.hideItem(<item:tconstruct:sky_congealed_slime>);
-JEI.hideItem(<item:tconstruct:sky_earth_slime_grass>);
-JEI.hideItem(<item:tconstruct:sky_ender_slime_grass>);
-JEI.hideItem(<item:tconstruct:sky_ichor_slime_grass>);
-JEI.hideItem(<item:tconstruct:sky_sky_slime_grass>);
-JEI.hideItem(<item:tconstruct:sky_slime>);
-JEI.hideItem(<item:tconstruct:sky_slime_ball>);
-JEI.hideItem(<item:tconstruct:sky_slime_boots>);
-JEI.hideItem(<item:tconstruct:sky_slime_bucket>);
-JEI.hideItem(<item:tconstruct:sky_slime_crystal>);
-JEI.hideItem(<item:tconstruct:sky_slime_dirt>);
-JEI.hideItem(<item:tconstruct:sky_slime_fern>);
-JEI.hideItem(<item:tconstruct:sky_slime_grass_seeds>);
-JEI.hideItem(<item:tconstruct:sky_slime_leaves>);
-JEI.hideItem(<item:tconstruct:sky_slime_sapling>);
-JEI.hideItem(<item:tconstruct:sky_slime_sling>);
-JEI.hideItem(<item:tconstruct:sky_slime_spawn_egg>);
-JEI.hideItem(<item:tconstruct:sky_slime_tall_grass>);
-JEI.hideItem(<item:tconstruct:sky_slime_vine>);
-JEI.hideItem(<item:tconstruct:sky_vanilla_slime_grass>);
-JEI.hideItem(<item:tconstruct:skyroot_button>);
-JEI.hideItem(<item:tconstruct:skyroot_door>);
-JEI.hideItem(<item:tconstruct:skyroot_fence>);
-JEI.hideItem(<item:tconstruct:skyroot_fence_gate>);
-JEI.hideItem(<item:tconstruct:skyroot_log>);
-JEI.hideItem(<item:tconstruct:skyroot_planks>);
-JEI.hideItem(<item:tconstruct:skyroot_planks_slab>);
-JEI.hideItem(<item:tconstruct:skyroot_planks_stairs>);
-JEI.hideItem(<item:tconstruct:skyroot_pressure_plate>);
-JEI.hideItem(<item:tconstruct:skyroot_sign>);
-JEI.hideItem(<item:tconstruct:skyroot_trapdoor>);
-JEI.hideItem(<item:tconstruct:skyroot_wood>);
-JEI.hideItem(<item:tconstruct:slimesteel_block>);
-JEI.hideItem(<item:tconstruct:slimesteel_ingot>);
-JEI.hideItem(<item:tconstruct:slimesteel_nugget>);
-JEI.hideItem(<item:tconstruct:slimesteel_reinforcement>);
-JEI.hideItem(<item:tconstruct:soul_glass>);
-JEI.hideItem(<item:tconstruct:soul_glass_pane>);
-JEI.hideItem(<item:tconstruct:spider_head>);
-JEI.hideItem(<item:tconstruct:stray_head>);
-JEI.hideItem(<item:tconstruct:stripped_bloodshroom_log>);
-JEI.hideItem(<item:tconstruct:stripped_bloodshroom_wood>);
-JEI.hideItem(<item:tconstruct:stripped_greenheart_log>);
-JEI.hideItem(<item:tconstruct:stripped_greenheart_wood>);
-JEI.hideItem(<item:tconstruct:stripped_skyroot_log>);
-JEI.hideItem(<item:tconstruct:stripped_skyroot_wood>);
-JEI.hideItem(<item:tconstruct:terracube_spawn_egg>);
-JEI.hideItem(<item:tconstruct:tinkers_gadgetry>);
-JEI.hideItem(<item:waddles:adelie_penguin_spawn_egg>);
+var hide = [
+    <item:additionalbanners:dragon>,
+    <item:additionalbanners:moon>,
+    <item:additionalbanners:phantom>,
+    <item:additionalbanners:squares>,
+    <item:alexsmobs:ancient_dart>,
+    <item:alexsmobs:animal_dictionary>,
+    <item:alexsmobs:blood_sac>,
+    <item:alexsmobs:blood_sprayer>,
+    <item:alexsmobs:bone_serpent_tooth>,
+    <item:alexsmobs:capsid>,
+    <item:alexsmobs:centipede_leg>,
+    <item:alexsmobs:centipede_leggings>,
+    <item:alexsmobs:chorus_on_a_stick>,
+    <item:alexsmobs:cockroach_ootheca>,
+    <item:alexsmobs:cockroach_wing>,
+    <item:alexsmobs:cockroach_wing_fragment>,
+    <item:alexsmobs:dimensional_carver>,
+    <item:alexsmobs:dropbear_claw>,
+    <item:alexsmobs:enderiophage_rocket>,
+    <item:alexsmobs:endolocator>,
+    <item:alexsmobs:fish_oil>,
+    <item:alexsmobs:guster_eye>,
+    <item:alexsmobs:gustmaker>,
+    <item:alexsmobs:hemolymph_blaster>,
+    <item:alexsmobs:hemolymph_sac>,
+    <item:alexsmobs:lava_bottle>,
+    <item:alexsmobs:mimicream>,
+    <item:alexsmobs:mosquito_larva>,
+    <item:alexsmobs:mosquito_proboscis>,
+    <item:alexsmobs:music_disc_daze>,
+    <item:alexsmobs:music_disc_thime>,
+    <item:alexsmobs:mysterious_worm>,
+    <item:alexsmobs:pocket_sand>,
+    <item:alexsmobs:poison_bottle>,
+    <item:alexsmobs:shield_of_the_deep>,
+    <item:alexsmobs:sombrero>,
+    <item:alexsmobs:soul_heart>,
+    <item:alexsmobs:spawn_egg_alligator_snapping_turtle>,
+    <item:alexsmobs:spawn_egg_bald_eagle>,
+    <item:alexsmobs:spawn_egg_blobfish>,
+    <item:alexsmobs:spawn_egg_bone_serpent>,
+    <item:alexsmobs:spawn_egg_cachalot_whale>,
+    <item:alexsmobs:spawn_egg_capuchin_monkey>,
+    <item:alexsmobs:spawn_egg_centipede>,
+    <item:alexsmobs:spawn_egg_cockroach>,
+    <item:alexsmobs:spawn_egg_crimson_mosquito>,
+    <item:alexsmobs:spawn_egg_crocodile>,
+    <item:alexsmobs:spawn_egg_crow>,
+    <item:alexsmobs:spawn_egg_dropbear>,
+    <item:alexsmobs:spawn_egg_elephant>,
+    <item:alexsmobs:spawn_egg_emu>,
+    <item:alexsmobs:spawn_egg_endergrade>,
+    <item:alexsmobs:spawn_egg_enderiophage>,
+    <item:alexsmobs:spawn_egg_fly>,
+    <item:alexsmobs:spawn_egg_frilled_shark>,
+    <item:alexsmobs:spawn_egg_gazelle>,
+    <item:alexsmobs:spawn_egg_gorilla>,
+    <item:alexsmobs:spawn_egg_grizzly_bear>,
+    <item:alexsmobs:spawn_egg_guster>,
+    <item:alexsmobs:spawn_egg_hammerhead_shark>,
+    <item:alexsmobs:spawn_egg_hummingbird>,
+    <item:alexsmobs:spawn_egg_kangaroo>,
+    <item:alexsmobs:spawn_egg_komodo_dragon>,
+    <item:alexsmobs:spawn_egg_leafcutter_ant>,
+    <item:alexsmobs:spawn_egg_lobster>,
+    <item:alexsmobs:spawn_egg_mantis_shrimp>,
+    <item:alexsmobs:spawn_egg_mimic_octopus>,
+    <item:alexsmobs:spawn_egg_mimicube>,
+    <item:alexsmobs:spawn_egg_moose>,
+    <item:alexsmobs:spawn_egg_mungus>,
+    <item:alexsmobs:spawn_egg_orca>,
+    <item:alexsmobs:spawn_egg_platypus>,
+    <item:alexsmobs:spawn_egg_raccoon>,
+    <item:alexsmobs:spawn_egg_rattlesnake>,
+    <item:alexsmobs:spawn_egg_roadrunner>,
+    <item:alexsmobs:spawn_egg_seal>,
+    <item:alexsmobs:spawn_egg_seagull>,
+    <item:alexsmobs:spawn_egg_shoebill>,
+    <item:alexsmobs:spawn_egg_snow_leopard>,
+    <item:alexsmobs:spawn_egg_soul_vulture>,
+    <item:alexsmobs:spawn_egg_spectre>,
+    <item:alexsmobs:spawn_egg_straddler>,
+    <item:alexsmobs:spawn_egg_stradpole>,
+    <item:alexsmobs:spawn_egg_sunbird>,
+    <item:alexsmobs:spawn_egg_tarantula_hawk>,
+    <item:alexsmobs:spawn_egg_tasmanian_devil>,
+    <item:alexsmobs:spawn_egg_tiger>,
+    <item:alexsmobs:spawn_egg_void_worm>,
+    <item:alexsmobs:spawn_egg_warped_mosco>,
+    <item:alexsmobs:spawn_egg_warped_toad>,
+    <item:alexsmobs:straddleboard>,
+    <item:alexsmobs:straddlite>,
+    <item:alexsmobs:stradpole_bucket>,
+    <item:alexsmobs:tarantula_hawk_elytra>,
+    <item:alexsmobs:tarantula_hawk_wing>,
+    <item:alexsmobs:tarantula_hawk_wing_fragment>,
+    <item:alexsmobs:void_worm_beak>,
+    <item:alexsmobs:void_worm_eye>,
+    <item:alexsmobs:void_worm_mandible>,
+    <item:alexsmobs:warped_mixture>,
+    <item:alexsmobs:warped_muscle>,
+    <item:aquaculture:arrau_turtle_spawn_egg>,
+    <item:aquaculture:box_turtle_spawn_egg>,
+    <item:aquaculture:diamond_fillet_knife>,
+    <item:aquaculture:diamond_fishing_rod>,
+    <item:aquaculture:diamond_hook>,
+    <item:aquaculture:frog>,
+    <item:aquaculture:frog_legs_cooked>,
+    <item:aquaculture:frog_legs_raw>,
+    <item:aquaculture:gold_fillet_knife>,
+    <item:aquaculture:gold_fishing_rod>,
+    <item:aquaculture:gold_hook>,
+    <item:aquaculture:iron_fishing_rod>,
+    <item:aquaculture:neptunes_bounty>,
+    <item:aquaculture:neptunium_axe>,
+    <item:aquaculture:neptunium_block>,
+    <item:aquaculture:neptunium_boots>,
+    <item:aquaculture:neptunium_bow>,
+    <item:aquaculture:neptunium_chestplate>,
+    <item:aquaculture:neptunium_fillet_knife>,
+    <item:aquaculture:neptunium_fishing_rod>,
+    <item:aquaculture:neptunium_helmet>,
+    <item:aquaculture:neptunium_hoe>,
+    <item:aquaculture:neptunium_ingot>,
+    <item:aquaculture:neptunium_leggings>,
+    <item:aquaculture:neptunium_nugget>,
+    <item:aquaculture:neptunium_pickaxe>,
+    <item:aquaculture:neptunium_shovel>,
+    <item:aquaculture:neptunium_sword>,
+    <item:aquaculture:nether_star_hook>,
+    <item:aquaculture:redstone_hook>,
+    <item:aquaculture:starshell_turtle_spawn_egg>,
+    <item:berry_good:music_disc_fox>,
+    <item:buzzier_bees:endermite_bottle>,
+    <item:buzzier_bees:four_leaf_clover>,
+    <item:buzzier_bees:honey_lamp>,
+    <item:buzzier_bees:moobloom_spawn_egg>,
+    <item:buzzier_bees:silverfish_bottle>,
+    <item:buzzier_bees:soul_candle>,
+    <item:buzzier_bees:wither_rose_scented_candle>,
+    <item:ceramics:clay_boots>,
+    <item:ceramics:clay_chestplate>,
+    <item:ceramics:clay_helmet>,
+    <item:ceramics:clay_leggings>,
+    <item:ceramics:clay_plate>,
+    <item:ceramics:dragon_bricks>,
+    <item:ceramics:dragon_bricks_slab>,
+    <item:ceramics:dragon_bricks_stairs>,
+    <item:ceramics:dragon_bricks_wall>,
+    <item:ceramics:marine_bricks>,
+    <item:ceramics:marine_bricks_slab>,
+    <item:ceramics:marine_bricks_stairs>,
+    <item:ceramics:marine_bricks_wall>,
+    <item:ceramics:unfired_clay_plate>,
+    <item:cfm:acacia_bedside_cabinet>,
+    <item:cfm:acacia_cabinet>,
+    <item:cfm:acacia_chair>,
+    <item:cfm:acacia_coffee_table>,
+    <item:cfm:acacia_desk>,
+    <item:cfm:acacia_desk_cabinet>,
+    <item:cfm:acacia_kitchen_counter>,
+    <item:cfm:acacia_kitchen_drawer>,
+    <item:cfm:acacia_kitchen_sink_dark>,
+    <item:cfm:acacia_kitchen_sink_light>,
+    <item:cfm:acacia_table>,
+    <item:cfm:andesite_bedside_cabinet>,
+    <item:cfm:andesite_cabinet>,
+    <item:cfm:andesite_chair>,
+    <item:cfm:andesite_coffee_table>,
+    <item:cfm:andesite_desk>,
+    <item:cfm:andesite_desk_cabinet>,
+    <item:cfm:andesite_table>,
+    <item:cfm:birch_bedside_cabinet>,
+    <item:cfm:birch_cabinet>,
+    <item:cfm:birch_chair>,
+    <item:cfm:birch_coffee_table>,
+    <item:cfm:birch_desk>,
+    <item:cfm:birch_desk_cabinet>,
+    <item:cfm:birch_kitchen_counter>,
+    <item:cfm:birch_kitchen_drawer>,
+    <item:cfm:birch_kitchen_sink_dark>,
+    <item:cfm:birch_kitchen_sink_light>,
+    <item:cfm:birch_table>,
+    <item:cfm:black_kitchen_counter>,
+    <item:cfm:black_kitchen_drawer>,
+    <item:cfm:black_kitchen_sink>,
+    <item:cfm:blue_kitchen_counter>,
+    <item:cfm:blue_kitchen_drawer>,
+    <item:cfm:blue_kitchen_sink>,
+    <item:cfm:brown_kitchen_counter>,
+    <item:cfm:brown_kitchen_drawer>,
+    <item:cfm:brown_kitchen_sink>,
+    <item:cfm:crimson_bedside_cabinet>,
+    <item:cfm:crimson_cabinet>,
+    <item:cfm:crimson_chair>,
+    <item:cfm:crimson_coffee_table>,
+    <item:cfm:crimson_desk>,
+    <item:cfm:crimson_desk_cabinet>,
+    <item:cfm:crimson_kitchen_counter>,
+    <item:cfm:crimson_kitchen_drawer>,
+    <item:cfm:crimson_kitchen_sink_dark>,
+    <item:cfm:crimson_kitchen_sink_light>,
+    <item:cfm:crimson_table>,
+    <item:cfm:cyan_kitchen_counter>,
+    <item:cfm:cyan_kitchen_drawer>,
+    <item:cfm:cyan_kitchen_sink>,
+    <item:cfm:dark_oak_bedside_cabinet>,
+    <item:cfm:dark_oak_cabinet>,
+    <item:cfm:dark_oak_chair>,
+    <item:cfm:dark_oak_coffee_table>,
+    <item:cfm:dark_oak_desk>,
+    <item:cfm:dark_oak_desk_cabinet>,
+    <item:cfm:dark_oak_kitchen_counter>,
+    <item:cfm:dark_oak_kitchen_drawer>,
+    <item:cfm:dark_oak_kitchen_sink_dark>,
+    <item:cfm:dark_oak_kitchen_sink_light>,
+    <item:cfm:dark_oak_table>,
+    <item:cfm:diorite_bedside_cabinet>,
+    <item:cfm:diorite_cabinet>,
+    <item:cfm:diorite_chair>,
+    <item:cfm:diorite_coffee_table>,
+    <item:cfm:diorite_desk>,
+    <item:cfm:diorite_desk_cabinet>,
+    <item:cfm:diorite_table>,
+    <item:cfm:fridge_dark>,
+    <item:cfm:fridge_light>,
+    <item:cfm:granite_bedside_cabinet>,
+    <item:cfm:granite_cabinet>,
+    <item:cfm:granite_chair>,
+    <item:cfm:granite_coffee_table>,
+    <item:cfm:granite_desk>,
+    <item:cfm:granite_desk_cabinet>,
+    <item:cfm:granite_table>,
+    <item:cfm:gray_kitchen_counter>,
+    <item:cfm:gray_kitchen_drawer>,
+    <item:cfm:gray_kitchen_sink>,
+    <item:cfm:green_kitchen_counter>,
+    <item:cfm:green_kitchen_drawer>,
+    <item:cfm:green_kitchen_sink>,
+    <item:cfm:jungle_bedside_cabinet>,
+    <item:cfm:jungle_cabinet>,
+    <item:cfm:jungle_chair>,
+    <item:cfm:jungle_coffee_table>,
+    <item:cfm:jungle_desk>,
+    <item:cfm:jungle_desk_cabinet>,
+    <item:cfm:jungle_kitchen_counter>,
+    <item:cfm:jungle_kitchen_drawer>,
+    <item:cfm:jungle_kitchen_sink_dark>,
+    <item:cfm:jungle_kitchen_sink_light>,
+    <item:cfm:jungle_table>,
+    <item:cfm:light_blue_kitchen_counter>,
+    <item:cfm:light_blue_kitchen_drawer>,
+    <item:cfm:light_blue_kitchen_sink>,
+    <item:cfm:light_gray_kitchen_counter>,
+    <item:cfm:light_gray_kitchen_drawer>,
+    <item:cfm:light_gray_kitchen_sink>,
+    <item:cfm:lime_kitchen_counter>,
+    <item:cfm:lime_kitchen_drawer>,
+    <item:cfm:lime_kitchen_sink>,
+    <item:cfm:magenta_kitchen_counter>,
+    <item:cfm:magenta_kitchen_drawer>,
+    <item:cfm:magenta_kitchen_sink>,
+    <item:cfm:oak_bedside_cabinet>,
+    <item:cfm:oak_cabinet>,
+    <item:cfm:oak_chair>,
+    <item:cfm:oak_coffee_table>,
+    <item:cfm:oak_desk>,
+    <item:cfm:oak_desk_cabinet>,
+    <item:cfm:oak_kitchen_counter>,
+    <item:cfm:oak_kitchen_drawer>,
+    <item:cfm:oak_kitchen_sink_dark>,
+    <item:cfm:oak_kitchen_sink_light>,
+    <item:cfm:oak_table>,
+    <item:cfm:orange_kitchen_counter>,
+    <item:cfm:orange_kitchen_drawer>,
+    <item:cfm:orange_kitchen_sink>,
+    <item:cfm:pink_kitchen_counter>,
+    <item:cfm:pink_kitchen_drawer>,
+    <item:cfm:pink_kitchen_sink>,
+    <item:cfm:purple_kitchen_counter>,
+    <item:cfm:purple_kitchen_drawer>,
+    <item:cfm:purple_kitchen_sink>,
+    <item:cfm:red_kitchen_counter>,
+    <item:cfm:red_kitchen_drawer>,
+    <item:cfm:red_kitchen_sink>,
+    <item:cfm:rock_path>,
+    <item:cfm:spruce_bedside_cabinet>,
+    <item:cfm:spruce_cabinet>,
+    <item:cfm:spruce_chair>,
+    <item:cfm:spruce_coffee_table>,
+    <item:cfm:spruce_desk>,
+    <item:cfm:spruce_desk_cabinet>,
+    <item:cfm:spruce_kitchen_counter>,
+    <item:cfm:spruce_kitchen_drawer>,
+    <item:cfm:spruce_kitchen_sink_dark>,
+    <item:cfm:spruce_kitchen_sink_light>,
+    <item:cfm:spruce_table>,
+    <item:cfm:stone_bedside_cabinet>,
+    <item:cfm:stone_cabinet>,
+    <item:cfm:stone_chair>,
+    <item:cfm:stone_coffee_table>,
+    <item:cfm:stone_desk>,
+    <item:cfm:stone_desk_cabinet>,
+    <item:cfm:stone_table>,
+    <item:cfm:stripped_acacia_bedside_cabinet>,
+    <item:cfm:stripped_acacia_cabinet>,
+    <item:cfm:stripped_acacia_chair>,
+    <item:cfm:stripped_acacia_coffee_table>,
+    <item:cfm:stripped_acacia_desk>,
+    <item:cfm:stripped_acacia_desk_cabinet>,
+    <item:cfm:stripped_acacia_kitchen_counter>,
+    <item:cfm:stripped_acacia_kitchen_drawer>,
+    <item:cfm:stripped_acacia_kitchen_sink_dark>,
+    <item:cfm:stripped_acacia_kitchen_sink_light>,
+    <item:cfm:stripped_acacia_table>,
+    <item:cfm:stripped_birch_bedside_cabinet>,
+    <item:cfm:stripped_birch_cabinet>,
+    <item:cfm:stripped_birch_chair>,
+    <item:cfm:stripped_birch_coffee_table>,
+    <item:cfm:stripped_birch_desk>,
+    <item:cfm:stripped_birch_desk_cabinet>,
+    <item:cfm:stripped_birch_kitchen_counter>,
+    <item:cfm:stripped_birch_kitchen_drawer>,
+    <item:cfm:stripped_birch_kitchen_sink_dark>,
+    <item:cfm:stripped_birch_kitchen_sink_light>,
+    <item:cfm:stripped_birch_table>,
+    <item:cfm:stripped_crimson_bedside_cabinet>,
+    <item:cfm:stripped_crimson_cabinet>,
+    <item:cfm:stripped_crimson_chair>,
+    <item:cfm:stripped_crimson_coffee_table>,
+    <item:cfm:stripped_crimson_desk>,
+    <item:cfm:stripped_crimson_desk_cabinet>,
+    <item:cfm:stripped_crimson_kitchen_counter>,
+    <item:cfm:stripped_crimson_kitchen_drawer>,
+    <item:cfm:stripped_crimson_kitchen_sink_dark>,
+    <item:cfm:stripped_crimson_kitchen_sink_light>,
+    <item:cfm:stripped_crimson_table>,
+    <item:cfm:stripped_dark_oak_bedside_cabinet>,
+    <item:cfm:stripped_dark_oak_cabinet>,
+    <item:cfm:stripped_dark_oak_chair>,
+    <item:cfm:stripped_dark_oak_coffee_table>,
+    <item:cfm:stripped_dark_oak_desk>,
+    <item:cfm:stripped_dark_oak_desk_cabinet>,
+    <item:cfm:stripped_dark_oak_kitchen_counter>,
+    <item:cfm:stripped_dark_oak_kitchen_drawer>,
+    <item:cfm:stripped_dark_oak_kitchen_sink_dark>,
+    <item:cfm:stripped_dark_oak_kitchen_sink_light>,
+    <item:cfm:stripped_dark_oak_table>,
+    <item:cfm:stripped_jungle_bedside_cabinet>,
+    <item:cfm:stripped_jungle_cabinet>,
+    <item:cfm:stripped_jungle_chair>,
+    <item:cfm:stripped_jungle_coffee_table>,
+    <item:cfm:stripped_jungle_desk>,
+    <item:cfm:stripped_jungle_desk_cabinet>,
+    <item:cfm:stripped_jungle_kitchen_counter>,
+    <item:cfm:stripped_jungle_kitchen_drawer>,
+    <item:cfm:stripped_jungle_kitchen_sink_dark>,
+    <item:cfm:stripped_jungle_kitchen_sink_light>,
+    <item:cfm:stripped_jungle_table>,
+    <item:cfm:stripped_oak_bedside_cabinet>,
+    <item:cfm:stripped_oak_cabinet>,
+    <item:cfm:stripped_oak_chair>,
+    <item:cfm:stripped_oak_coffee_table>,
+    <item:cfm:stripped_oak_desk>,
+    <item:cfm:stripped_oak_desk_cabinet>,
+    <item:cfm:stripped_oak_kitchen_counter>,
+    <item:cfm:stripped_oak_kitchen_drawer>,
+    <item:cfm:stripped_oak_kitchen_sink_dark>,
+    <item:cfm:stripped_oak_kitchen_sink_light>,
+    <item:cfm:stripped_oak_table>,
+    <item:cfm:stripped_spruce_bedside_cabinet>,
+    <item:cfm:stripped_spruce_cabinet>,
+    <item:cfm:stripped_spruce_chair>,
+    <item:cfm:stripped_spruce_coffee_table>,
+    <item:cfm:stripped_spruce_desk>,
+    <item:cfm:stripped_spruce_desk_cabinet>,
+    <item:cfm:stripped_spruce_kitchen_counter>,
+    <item:cfm:stripped_spruce_kitchen_drawer>,
+    <item:cfm:stripped_spruce_kitchen_sink_dark>,
+    <item:cfm:stripped_spruce_kitchen_sink_light>,
+    <item:cfm:stripped_spruce_table>,
+    <item:cfm:stripped_warped_bedside_cabinet>,
+    <item:cfm:stripped_warped_cabinet>,
+    <item:cfm:stripped_warped_chair>,
+    <item:cfm:stripped_warped_coffee_table>,
+    <item:cfm:stripped_warped_desk>,
+    <item:cfm:stripped_warped_desk_cabinet>,
+    <item:cfm:stripped_warped_kitchen_counter>,
+    <item:cfm:stripped_warped_kitchen_drawer>,
+    <item:cfm:stripped_warped_kitchen_sink_dark>,
+    <item:cfm:stripped_warped_kitchen_sink_light>,
+    <item:cfm:stripped_warped_table>,
+    <item:cfm:warped_bedside_cabinet>,
+    <item:cfm:warped_cabinet>,
+    <item:cfm:warped_chair>,
+    <item:cfm:warped_coffee_table>,
+    <item:cfm:warped_desk>,
+    <item:cfm:warped_desk_cabinet>,
+    <item:cfm:warped_kitchen_counter>,
+    <item:cfm:warped_kitchen_drawer>,
+    <item:cfm:warped_kitchen_sink_dark>,
+    <item:cfm:warped_kitchen_sink_light>,
+    <item:cfm:warped_table>,
+    <item:cfm:white_kitchen_counter>,
+    <item:cfm:white_kitchen_drawer>,
+    <item:cfm:white_kitchen_sink>,
+    <item:cfm:yellow_kitchen_counter>,
+    <item:cfm:yellow_kitchen_drawer>,
+    <item:cfm:yellow_kitchen_sink>,
+    <item:curios:amulet>,
+    <item:curios:crown>,
+    <item:curios:knuckles>,
+    <item:curios:ring>,
+    <item:inspirations:blue_enlightened_bush>,
+    <item:inspirations:dimension_compass>,
+    <item:inspirations:green_enlightened_bush>,
+    <item:inspirations:red_enlightened_bush>,
+    <item:inspirations:white_enlightened_bush>,
+    <item:minecolonies:amazonchiefegg>,
+    <item:minecolonies:amazonegg>,
+    <item:minecolonies:barbarcheregg>,
+    <item:minecolonies:barbarianegg>,
+    <item:minecolonies:barbchiefegg>,
+    <item:minecolonies:chorus_bread>,
+    <item:minecolonies:golden_bread>,
+    <item:minecolonies:mercegg>,
+    <item:minecolonies:mummyarcheregg>,
+    <item:minecolonies:mummyegg>,
+    <item:minecolonies:norsemenarcheregg>,
+    <item:minecolonies:norsemenchiefegg>,
+    <item:minecolonies:pharaoegg>,
+    <item:minecolonies:piratearcheregg>,
+    <item:minecolonies:piratecaptainegg>,
+    <item:minecolonies:pirateegg>,
+    <item:minecolonies:scepterpermission>,
+    <item:minecolonies:shieldmaidenegg>,
+    <item:minecolonies:supplycampdeployer>,
+    <item:minecolonies:supplychestdeployer>,
+    <item:minecraft:ancient_debris>,
+    <item:minecraft:basalt>,
+    <item:minecraft:bat_spawn_egg>,
+    <item:minecraft:beacon>,
+    <item:minecraft:bee_spawn_egg>,
+    <item:minecraft:black_shulker_box>,
+    <item:minecraft:blaze_powder>,
+    <item:minecraft:blaze_rod>,
+    <item:minecraft:blaze_spawn_egg>,
+    <item:minecraft:blue_shulker_box>,
+    <item:minecraft:brewing_stand>,
+    <item:minecraft:brown_mushroom_block>,
+    <item:minecraft:brown_shulker_box>,
+    <item:minecraft:cat_spawn_egg>,
+    <item:minecraft:cave_spider_spawn_egg>,
+    <item:minecraft:chicken_spawn_egg>,
+    <item:minecraft:chorus_flower>,
+    <item:minecraft:chorus_fruit>,
+    <item:minecraft:chorus_plant>,
+    <item:minecraft:cod_spawn_egg>,
+    <item:minecraft:conduit>,
+    <item:minecraft:cow_spawn_egg>,
+    <item:minecraft:creeper_banner_pattern>,
+    <item:minecraft:creeper_head>,
+    <item:minecraft:creeper_spawn_egg>,
+    <item:minecraft:crimson_fungus>,
+    <item:minecraft:crimson_nylium>,
+    <item:minecraft:crimson_roots>,
+    <item:minecraft:crying_obsidian>,
+    <item:minecraft:cyan_shulker_box>,
+    <item:minecraft:dark_prismarine>,
+    <item:minecraft:dark_prismarine_slab>,
+    <item:minecraft:dark_prismarine_stairs>,
+    <item:minecraft:diamond_axe>,
+    <item:minecraft:diamond_boots>,
+    <item:minecraft:diamond_chestplate>,
+    <item:minecraft:diamond_helmet>,
+    <item:minecraft:diamond_hoe>,
+    <item:minecraft:diamond_horse_armor>,
+    <item:minecraft:diamond_leggings>,
+    <item:minecraft:diamond_pickaxe>,
+    <item:minecraft:diamond_shovel>,
+    <item:minecraft:diamond_sword>,
+    <item:minecraft:dolphin_spawn_egg>,
+    <item:minecraft:donkey_spawn_egg>,
+    <item:minecraft:dragon_breath>,
+    <item:minecraft:dragon_head>,
+    <item:minecraft:drowned_spawn_egg>,
+    <item:minecraft:elder_guardian_spawn_egg>,
+    <item:minecraft:elytra>,
+    <item:minecraft:enchanted_book>,
+    <item:minecraft:enchanted_golden_apple>,
+    <item:minecraft:enchanting_table>,
+    <item:minecraft:end_crystal>,
+    <item:minecraft:end_portal_frame>,
+    <item:minecraft:end_rod>,
+    <item:minecraft:end_stone>,
+    <item:minecraft:end_stone_brick_wall>,
+    <item:minecraft:ender_chest>,
+    <item:minecraft:ender_eye>,
+    <item:minecraft:ender_pearl>,
+    <item:minecraft:enderman_spawn_egg>,
+    <item:minecraft:endermite_spawn_egg>,
+    <item:minecraft:evoker_spawn_egg>,
+    <item:minecraft:experience_bottle>,
+    <item:minecraft:fermented_spider_eye>,
+    <item:minecraft:fire_charge>,
+    <item:minecraft:firework_rocket>,
+    <item:minecraft:firework_star>,
+    <item:minecraft:fox_spawn_egg>,
+    <item:minecraft:ghast_spawn_egg>,
+    <item:minecraft:ghast_tear>,
+    <item:minecraft:glistering_melon_slice>,
+    <item:minecraft:globe_banner_pattern>,
+    <item:minecraft:golden_apple>,
+    <item:minecraft:golden_axe>,
+    <item:minecraft:golden_boots>,
+    <item:minecraft:golden_carrot>,
+    <item:minecraft:golden_chestplate>,
+    <item:minecraft:golden_helmet>,
+    <item:minecraft:golden_hoe>,
+    <item:minecraft:golden_horse_armor>,
+    <item:minecraft:golden_leggings>,
+    <item:minecraft:golden_pickaxe>,
+    <item:minecraft:golden_shovel>,
+    <item:minecraft:golden_sword>,
+    <item:minecraft:gray_shulker_box>,
+    <item:minecraft:green_shulker_box>,
+    <item:minecraft:guardian_spawn_egg>,
+    <item:minecraft:gunpowder>,
+    <item:minecraft:heart_of_the_sea>,
+    <item:minecraft:hoglin_spawn_egg>,
+    <item:minecraft:horse_spawn_egg>,
+    <item:minecraft:husk_spawn_egg>,
+    <item:minecraft:infested_chiseled_stone_bricks>,
+    <item:minecraft:infested_cobblestone>,
+    <item:minecraft:infested_cracked_stone_bricks>,
+    <item:minecraft:infested_mossy_stone_bricks>,
+    <item:minecraft:infested_stone>,
+    <item:minecraft:infested_stone_bricks>,
+    <item:minecraft:iron_axe>,
+    <item:minecraft:iron_boots>,
+    <item:minecraft:iron_chestplate>,
+    <item:minecraft:iron_helmet>,
+    <item:minecraft:iron_hoe>,
+    <item:minecraft:iron_leggings>,
+    <item:minecraft:iron_pickaxe>,
+    <item:minecraft:iron_shovel>,
+    <item:minecraft:iron_sword>,
+    <item:minecraft:jukebox>,
+    <item:minecraft:light_blue_shulker_box>,
+    <item:minecraft:light_gray_shulker_box>,
+    <item:minecraft:lime_shulker_box>,
+    <item:minecraft:lingering_potion>,
+    <item:minecraft:llama_spawn_egg>,
+    <item:minecraft:magenta_shulker_box>,
+    <item:minecraft:magma_cream>,
+    <item:minecraft:magma_cube_spawn_egg>,
+    <item:minecraft:mooshroom_spawn_egg>,
+    <item:minecraft:mule_spawn_egg>,
+    <item:minecraft:mushroom_stem>,
+    <item:minecraft:music_disc_11>,
+    <item:minecraft:music_disc_13>,
+    <item:minecraft:music_disc_blocks>,
+    <item:minecraft:music_disc_cat>,
+    <item:minecraft:music_disc_chirp>,
+    <item:minecraft:music_disc_far>,
+    <item:minecraft:music_disc_mall>,
+    <item:minecraft:music_disc_mellohi>,
+    <item:minecraft:music_disc_pigstep>,
+    <item:minecraft:music_disc_stal>,
+    <item:minecraft:music_disc_strad>,
+    <item:minecraft:music_disc_wait>,
+    <item:minecraft:music_disc_ward>,
+    <item:minecraft:mycelium>,
+    <item:minecraft:nether_brick_wall>,
+    <item:minecraft:nether_gold_ore>,
+    <item:minecraft:nether_quartz_ore>,
+    <item:minecraft:nether_sprouts>,
+    <item:minecraft:nether_star>,
+    <item:minecraft:nether_wart>,
+    <item:minecraft:nether_wart_block>,
+    <item:minecraft:netherite_axe>,
+    <item:minecraft:netherite_block>,
+    <item:minecraft:netherite_boots>,
+    <item:minecraft:netherite_chestplate>,
+    <item:minecraft:netherite_helmet>,
+    <item:minecraft:netherite_hoe>,
+    <item:minecraft:netherite_ingot>,
+    <item:minecraft:netherite_leggings>,
+    <item:minecraft:netherite_pickaxe>,
+    <item:minecraft:netherite_scrap>,
+    <item:minecraft:netherite_shovel>,
+    <item:minecraft:netherite_sword>,
+    <item:minecraft:netherrack>,
+    <item:minecraft:ocelot_spawn_egg>,
+    <item:minecraft:orange_shulker_box>,
+    <item:minecraft:panda_spawn_egg>,
+    <item:minecraft:parrot_spawn_egg>,
+    <item:minecraft:petrified_oak_slab>,
+    <item:minecraft:phantom_membrane>,
+    <item:minecraft:phantom_spawn_egg>,
+    <item:minecraft:pig_spawn_egg>,
+    <item:minecraft:piglin_banner_pattern>,
+    <item:minecraft:piglin_brute_spawn_egg>,
+    <item:minecraft:piglin_spawn_egg>,
+    <item:minecraft:pillager_spawn_egg>,
+    <item:minecraft:pink_shulker_box>,
+    <item:minecraft:polar_bear_spawn_egg>,
+    <item:minecraft:polished_basalt>,
+    <item:minecraft:prismarine>,
+    <item:minecraft:prismarine_brick_slab>,
+    <item:minecraft:prismarine_brick_stairs>,
+    <item:minecraft:prismarine_bricks>,
+    <item:minecraft:prismarine_crystals>,
+    <item:minecraft:prismarine_shard>,
+    <item:minecraft:prismarine_slab>,
+    <item:minecraft:prismarine_stairs>,
+    <item:minecraft:prismarine_wall>,
+    <item:minecraft:pufferfish_spawn_egg>,
+    <item:minecraft:purple_shulker_box>,
+    <item:minecraft:rabbit_spawn_egg>,
+    <item:minecraft:ravager_spawn_egg>,
+    <item:minecraft:red_mushroom_block>,
+    <item:minecraft:red_nether_brick_slab>,
+    <item:minecraft:red_nether_brick_stairs>,
+    <item:minecraft:red_nether_brick_wall>,
+    <item:minecraft:red_nether_bricks>,
+    <item:minecraft:red_shulker_box>,
+    <item:minecraft:redstone_ore>,
+    <item:minecraft:respawn_anchor>,
+    <item:minecraft:salmon_spawn_egg>,
+    <item:minecraft:sea_lantern>,
+    <item:minecraft:sheep_spawn_egg>,
+    <item:minecraft:shulker_box>,
+    <item:minecraft:shulker_shell>,
+    <item:minecraft:shulker_spawn_egg>,
+    <item:minecraft:silverfish_spawn_egg>,
+    <item:minecraft:skeleton_horse_spawn_egg>,
+    <item:minecraft:skeleton_skull>,
+    <item:minecraft:skeleton_spawn_egg>,
+    <item:minecraft:skull_banner_pattern>,
+    <item:minecraft:slime_spawn_egg>,
+    <item:minecraft:soul_sand>,
+    <item:minecraft:soul_soil>,
+    <item:minecraft:spectral_arrow>,
+    <item:minecraft:spider_eye>,
+    <item:minecraft:spider_spawn_egg>,
+    <item:minecraft:splash_potion>,
+    <item:minecraft:sponge>,
+    <item:minecraft:squid_spawn_egg>,
+    <item:minecraft:stone_axe>,
+    <item:minecraft:stone_hoe>,
+    <item:minecraft:stone_pickaxe>,
+    <item:minecraft:stone_shovel>,
+    <item:minecraft:stone_sword>,
+    <item:minecraft:stray_spawn_egg>,
+    <item:minecraft:strider_spawn_egg>,
+    <item:minecraft:tipped_arrow>,
+    <item:minecraft:tnt>,
+    <item:minecraft:tnt_minecart>,
+    <item:minecraft:trader_llama_spawn_egg>,
+    <item:minecraft:tropical_fish_spawn_egg>,
+    <item:minecraft:turtle_spawn_egg>,
+    <item:minecraft:twisting_vines>,
+    <item:minecraft:vex_spawn_egg>,
+    <item:minecraft:villager_spawn_egg>,
+    <item:minecraft:vindicator_spawn_egg>,
+    <item:minecraft:wandering_trader_spawn_egg>,
+    <item:minecraft:warped_fungus>,
+    <item:minecraft:warped_fungus_on_a_stick>,
+    <item:minecraft:warped_nylium>,
+    <item:minecraft:warped_roots>,
+    <item:minecraft:warped_wart_block>,
+    <item:minecraft:weeping_vines>,
+    <item:minecraft:wet_sponge>,
+    <item:minecraft:white_shulker_box>,
+    <item:minecraft:witch_spawn_egg>,
+    <item:minecraft:wither_rose>,
+    <item:minecraft:wither_skeleton_skull>,
+    <item:minecraft:wither_skeleton_spawn_egg>,
+    <item:minecraft:wolf_spawn_egg>,
+    <item:minecraft:wooden_axe>,
+    <item:minecraft:wooden_hoe>,
+    <item:minecraft:wooden_pickaxe>,
+    <item:minecraft:wooden_shovel>,
+    <item:minecraft:wooden_sword>,
+    <item:minecraft:yellow_shulker_box>,
+    <item:minecraft:zoglin_spawn_egg>,
+    <item:minecraft:zombie_head>,
+    <item:minecraft:zombie_horse_spawn_egg>,
+    <item:minecraft:zombie_spawn_egg>,
+    <item:minecraft:zombie_villager_spawn_egg>,
+    <item:minecraft:zombified_piglin_spawn_egg>,
+    <item:quark:ancient_tome>,
+    <item:quark:apple_crate>,
+    <item:quark:basalt>,
+    <item:quark:basalt_bricks>,
+    <item:quark:basalt_bricks_slab>,
+    <item:quark:basalt_bricks_stairs>,
+    <item:quark:basalt_bricks_vertical_slab>,
+    <item:quark:basalt_bricks_wall>,
+    <item:quark:basalt_pavement>,
+    <item:quark:basalt_pillar>,
+    <item:quark:basalt_slab>,
+    <item:quark:basalt_speleothem>,
+    <item:quark:basalt_stairs>,
+    <item:quark:basalt_vertical_slab>,
+    <item:quark:basalt_wall>,
+    <item:quark:beetroot_crate>,
+    <item:quark:berry_sack>,
+    <item:quark:biotite>,
+    <item:quark:biotite_block>,
+    <item:quark:biotite_block_slab>,
+    <item:quark:biotite_block_stairs>,
+    <item:quark:biotite_block_vertical_slab>,
+    <item:quark:biotite_bricks>,
+    <item:quark:biotite_ore>,
+    <item:quark:biotite_pillar>,
+    <item:quark:black_candle>,
+    <item:quark:blackstone_bricks>,
+    <item:quark:blackstone_bricks_slab>,
+    <item:quark:blackstone_bricks_stairs>,
+    <item:quark:blackstone_bricks_vertical_slab>,
+    <item:quark:blackstone_bricks_wall>,
+    <item:quark:blank_rune>,
+    <item:quark:blaze_lantern>,
+    <item:quark:blue_candle>,
+    <item:quark:blue_nether_bricks>,
+    <item:quark:blue_nether_bricks_slab>,
+    <item:quark:blue_nether_bricks_stairs>,
+    <item:quark:blue_nether_bricks_vertical_slab>,
+    <item:quark:blue_nether_bricks_wall>,
+    <item:quark:bonded_ravager_hide>,
+    <item:quark:brown_candle>,
+    <item:quark:carrot_crate>,
+    <item:quark:charcoal_block>,
+    <item:quark:charred_nether_bricks>,
+    <item:quark:charred_nether_bricks_slab>,
+    <item:quark:charred_nether_bricks_stairs>,
+    <item:quark:charred_nether_bricks_vertical_slab>,
+    <item:quark:charred_nether_bricks_wall>,
+    <item:quark:chiseled_basalt_bricks>,
+    <item:quark:chiseled_biotite_block>,
+    <item:quark:chiseled_myalite_bricks>,
+    <item:quark:chiseled_soul_sandstone>,
+    <item:quark:chorus_fruit_block>,
+    <item:quark:chorus_twist>,
+    <item:quark:chorus_weeds>,
+    <item:quark:cobbedstone>,
+    <item:quark:cobbedstone_slab>,
+    <item:quark:cobbedstone_stairs>,
+    <item:quark:cobbedstone_vertical_slab>,
+    <item:quark:cobbedstone_wall>,
+    <item:quark:cocoa_beans_sack>,
+    <item:quark:crab_spawn_egg>,
+    <item:quark:crate>,
+    <item:quark:cut_soul_sandstone>,
+    <item:quark:cut_soul_sandstone_slab>,
+    <item:quark:cut_soul_sandstone_vertical_slab>,
+    <item:quark:cyan_candle>,
+    <item:quark:dark_elder_prismarine>,
+    <item:quark:dark_elder_prismarine_slab>,
+    <item:quark:dark_elder_prismarine_stairs>,
+    <item:quark:dark_elder_prismarine_vertical_slab>,
+    <item:quark:dark_prismarine_vertical_slab>,
+    <item:quark:diamond_heart>,
+    <item:quark:dirt_bricks>,
+    <item:quark:dirt_bricks_slab>,
+    <item:quark:dirt_bricks_stairs>,
+    <item:quark:dirt_bricks_vertical_slab>,
+    <item:quark:dirt_bricks_wall>,
+    <item:quark:dragon_scale>,
+    <item:quark:duskbound_block>,
+    <item:quark:duskbound_block_slab>,
+    <item:quark:duskbound_block_stairs>,
+    <item:quark:duskbound_block_vertical_slab>,
+    <item:quark:duskbound_lantern>,
+    <item:quark:elder_prismarine>,
+    <item:quark:elder_prismarine_bricks>,
+    <item:quark:elder_prismarine_bricks_slab>,
+    <item:quark:elder_prismarine_bricks_stairs>,
+    <item:quark:elder_prismarine_bricks_vertical_slab>,
+    <item:quark:elder_prismarine_slab>,
+    <item:quark:elder_prismarine_stairs>,
+    <item:quark:elder_prismarine_vertical_slab>,
+    <item:quark:elder_prismarine_wall>,
+    <item:quark:elder_sea_lantern>,
+    <item:quark:ender_watcher>,
+    <item:quark:flamerang>,
+    <item:quark:forgotten_hat>,
+    <item:quark:forgotten_spawn_egg>,
+    <item:quark:foxhound_spawn_egg>,
+    <item:quark:frog_spawn_egg>,
+    <item:quark:glowcelium>,
+    <item:quark:glowshroom>,
+    <item:quark:glowshroom_block>,
+    <item:quark:glowshroom_stem>,
+    <item:quark:golden_apple_crate>,
+    <item:quark:golden_frog_leg>,
+    <item:quark:gravisand>,
+    <item:quark:gray_candle>,
+    <item:quark:green_candle>,
+    <item:quark:gunpowder_sack>,
+    <item:quark:iron_rod>,
+    <item:quark:light_blue_candle>,
+    <item:quark:light_gray_candle>,
+    <item:quark:lime_candle>,
+    <item:quark:magenta_candle>,
+    <item:quark:magnet>,
+    <item:quark:matrix_enchanter>,
+    <item:quark:mushroom_chest>,
+    <item:quark:mushroom_trapped_chest>,
+    <item:quark:music_disc_chatter>,
+    <item:quark:music_disc_clock>,
+    <item:quark:music_disc_crickets>,
+    <item:quark:music_disc_drips>,
+    <item:quark:music_disc_fire>,
+    <item:quark:music_disc_ocean>,
+    <item:quark:music_disc_rain>,
+    <item:quark:music_disc_wind>,
+    <item:quark:myalite>,
+    <item:quark:myalite_bricks>,
+    <item:quark:myalite_bricks_slab>,
+    <item:quark:myalite_bricks_stairs>,
+    <item:quark:myalite_bricks_vertical_slab>,
+    <item:quark:myalite_bricks_wall>,
+    <item:quark:myalite_crystal>,
+    <item:quark:myalite_pavement>,
+    <item:quark:myalite_pillar>,
+    <item:quark:myalite_slab>,
+    <item:quark:myalite_stairs>,
+    <item:quark:myalite_vertical_slab>,
+    <item:quark:myalite_wall>,
+    <item:quark:nether_brick_chest>,
+    <item:quark:nether_brick_trapped_chest>,
+    <item:quark:nether_brick_vertical_slab>,
+    <item:quark:nether_wart_sack>,
+    <item:quark:netherrack_bricks>,
+    <item:quark:netherrack_bricks_slab>,
+    <item:quark:netherrack_bricks_stairs>,
+    <item:quark:netherrack_bricks_vertical_slab>,
+    <item:quark:netherrack_bricks_wall>,
+    <item:quark:netherrack_speleothem>,
+    <item:quark:obsidian_pressure_plate>,
+    <item:quark:orange_candle>,
+    <item:quark:pickarang>,
+    <item:quark:pink_candle>,
+    <item:quark:pipe>,
+    <item:quark:polished_basalt>,
+    <item:quark:polished_basalt_slab>,
+    <item:quark:polished_basalt_stairs>,
+    <item:quark:polished_basalt_vertical_slab>,
+    <item:quark:polished_myalite>,
+    <item:quark:polished_myalite_slab>,
+    <item:quark:polished_myalite_stairs>,
+    <item:quark:polished_myalite_vertical_slab>,
+    <item:quark:potato_crate>,
+    <item:quark:prismarine_brick_vertical_slab>,
+    <item:quark:prismarine_chest>,
+    <item:quark:prismarine_trapped_chest>,
+    <item:quark:prismarine_vertical_slab>,
+    <item:quark:purple_candle>,
+    <item:quark:purpur_chest>,
+    <item:quark:purpur_trapped_chest>,
+    <item:quark:ravager_hide>,
+    <item:quark:red_candle>,
+    <item:quark:red_nether_brick_vertical_slab>,
+    <item:quark:redstone_inductor>,
+    <item:quark:redstone_randomizer>,
+    <item:quark:shiba_spawn_egg>,
+    <item:quark:slime_in_a_bucket>,
+    <item:quark:smooth_basalt>,
+    <item:quark:smooth_basalt_slab>,
+    <item:quark:smooth_basalt_stairs>,
+    <item:quark:smooth_basalt_vertical_slab>,
+    <item:quark:smooth_basalt_wall>,
+    <item:quark:smooth_biotite>,
+    <item:quark:smooth_biotite_slab>,
+    <item:quark:smooth_biotite_stairs>,
+    <item:quark:smooth_biotite_vertical_slab>,
+    <item:quark:smooth_soul_sandstone>,
+    <item:quark:smooth_soul_sandstone_slab>,
+    <item:quark:smooth_soul_sandstone_stairs>,
+    <item:quark:smooth_soul_sandstone_vertical_slab>,
+    <item:quark:soul_bead>,
+    <item:quark:soul_compass>,
+    <item:quark:soul_sandstone>,
+    <item:quark:soul_sandstone_bricks>,
+    <item:quark:soul_sandstone_bricks_slab>,
+    <item:quark:soul_sandstone_bricks_stairs>,
+    <item:quark:soul_sandstone_bricks_vertical_slab>,
+    <item:quark:soul_sandstone_bricks_wall>,
+    <item:quark:soul_sandstone_slab>,
+    <item:quark:soul_sandstone_stairs>,
+    <item:quark:soul_sandstone_vertical_slab>,
+    <item:quark:soul_sandstone_wall>,
+    <item:quark:stoneling_spawn_egg>,
+    <item:quark:toretoise_spawn_egg>,
+    <item:quark:twisted_blackstone_bricks>,
+    <item:quark:twisted_blackstone_bricks_slab>,
+    <item:quark:twisted_blackstone_bricks_stairs>,
+    <item:quark:twisted_blackstone_bricks_vertical_slab>,
+    <item:quark:twisted_blackstone_bricks_wall>,
+    <item:quark:vanilla_basalt_bricks>,
+    <item:quark:vanilla_basalt_bricks_slab>,
+    <item:quark:vanilla_basalt_bricks_stairs>,
+    <item:quark:vanilla_basalt_bricks_vertical_slab>,
+    <item:quark:vanilla_basalt_bricks_wall>,
+    <item:quark:weather_sensor>,
+    <item:quark:weeping_blackstone_bricks>,
+    <item:quark:weeping_blackstone_bricks_slab>,
+    <item:quark:weeping_blackstone_bricks_stairs>,
+    <item:quark:weeping_blackstone_bricks_vertical_slab>,
+    <item:quark:weeping_blackstone_bricks_wall>,
+    <item:quark:white_candle>,
+    <item:quark:wraith_spawn_egg>,
+    <item:quark:wrapped_spawn_egg>,
+    <item:quark:yellow_candle>,
+    <item:structurize:sceptersteel>,
+    <item:structurize:sceptertag>,
+    <item:structurize:shapetool>,
+    <item:tconstruct:bacon>,
+    <item:tconstruct:blaze_head>,
+    <item:tconstruct:blazing_blood_bucket>,
+    <item:tconstruct:blazing_bone>,
+    <item:tconstruct:blood_cake>,
+    <item:tconstruct:blood_congealed_slime>,
+    <item:tconstruct:blood_earth_slime_grass>,
+    <item:tconstruct:blood_ender_slime_grass>,
+    <item:tconstruct:blood_ichor_slime_grass>,
+    <item:tconstruct:blood_sky_slime_grass>,
+    <item:tconstruct:blood_slime>,
+    <item:tconstruct:blood_slime_ball>,
+    <item:tconstruct:blood_slime_boots>,
+    <item:tconstruct:blood_slime_fern>,
+    <item:tconstruct:blood_slime_grass_seeds>,
+    <item:tconstruct:blood_slime_leaves>,
+    <item:tconstruct:blood_slime_sapling>,
+    <item:tconstruct:blood_slime_tall_grass>,
+    <item:tconstruct:blood_vanilla_slime_grass>,
+    <item:tconstruct:bloodbone>,
+    <item:tconstruct:bloodshroom_button>,
+    <item:tconstruct:bloodshroom_door>,
+    <item:tconstruct:bloodshroom_fence>,
+    <item:tconstruct:bloodshroom_fence_gate>,
+    <item:tconstruct:bloodshroom_log>,
+    <item:tconstruct:bloodshroom_planks>,
+    <item:tconstruct:bloodshroom_planks_slab>,
+    <item:tconstruct:bloodshroom_planks_stairs>,
+    <item:tconstruct:bloodshroom_pressure_plate>,
+    <item:tconstruct:bloodshroom_sign>,
+    <item:tconstruct:bloodshroom_trapdoor>,
+    <item:tconstruct:bloodshroom_wood>,
+    <item:tconstruct:cave_spider_head>,
+    <item:tconstruct:clear_item_frame>,
+    <item:tconstruct:cobalt_ore>,
+    <item:tconstruct:creative_slot>,
+    <item:tconstruct:debris_nugget>,
+    <item:tconstruct:diamond_item_frame>,
+    <item:tconstruct:dragon_scale>,
+    <item:tconstruct:drowned_head>,
+    <item:tconstruct:earth_cake>,
+    <item:tconstruct:earth_congealed_slime>,
+    <item:tconstruct:earth_earth_slime_grass>,
+    <item:tconstruct:earth_ender_slime_grass>,
+    <item:tconstruct:earth_ichor_slime_grass>,
+    <item:tconstruct:earth_sky_slime_grass>,
+    <item:tconstruct:earth_slime_boots>,
+    <item:tconstruct:earth_slime_bucket>,
+    <item:tconstruct:earth_slime_crystal>,
+    <item:tconstruct:earth_slime_dirt>,
+    <item:tconstruct:earth_slime_fern>,
+    <item:tconstruct:earth_slime_grass_seeds>,
+    <item:tconstruct:earth_slime_leaves>,
+    <item:tconstruct:earth_slime_sapling>,
+    <item:tconstruct:earth_slime_sling>,
+    <item:tconstruct:earth_slime_tall_grass>,
+    <item:tconstruct:earth_vanilla_slime_grass>,
+    <item:tconstruct:efln_ball>,
+    <item:tconstruct:ender_cake>,
+    <item:tconstruct:ender_congealed_slime>,
+    <item:tconstruct:ender_earth_slime_grass>,
+    <item:tconstruct:ender_ender_slime_grass>,
+    <item:tconstruct:ender_ichor_slime_grass>,
+    <item:tconstruct:ender_sky_slime_grass>,
+    <item:tconstruct:ender_slime>,
+    <item:tconstruct:ender_slime_ball>,
+    <item:tconstruct:ender_slime_boots>,
+    <item:tconstruct:ender_slime_bucket>,
+    <item:tconstruct:ender_slime_crystal>,
+    <item:tconstruct:ender_slime_dirt>,
+    <item:tconstruct:ender_slime_fern>,
+    <item:tconstruct:ender_slime_grass_seeds>,
+    <item:tconstruct:ender_slime_leaves>,
+    <item:tconstruct:ender_slime_sapling>,
+    <item:tconstruct:ender_slime_sling>,
+    <item:tconstruct:ender_slime_spawn_egg>,
+    <item:tconstruct:ender_slime_tall_grass>,
+    <item:tconstruct:ender_slime_vine>,
+    <item:tconstruct:ender_vanilla_slime_grass>,
+    <item:tconstruct:enderman_head>,
+    <item:tconstruct:gold_item_frame>,
+    <item:tconstruct:greenheart_button>,
+    <item:tconstruct:greenheart_door>,
+    <item:tconstruct:greenheart_fence>,
+    <item:tconstruct:greenheart_fence_gate>,
+    <item:tconstruct:greenheart_log>,
+    <item:tconstruct:greenheart_planks>,
+    <item:tconstruct:greenheart_planks_slab>,
+    <item:tconstruct:greenheart_planks_stairs>,
+    <item:tconstruct:greenheart_pressure_plate>,
+    <item:tconstruct:greenheart_sign>,
+    <item:tconstruct:greenheart_trapdoor>,
+    <item:tconstruct:greenheart_wood>,
+    <item:tconstruct:husk_head>,
+    <item:tconstruct:ichor_congealed_slime>,
+    <item:tconstruct:ichor_slime>,
+    <item:tconstruct:ichor_slime_ball>,
+    <item:tconstruct:ichor_slime_boots>,
+    <item:tconstruct:ichor_slime_crystal>,
+    <item:tconstruct:ichor_slime_dirt>,
+    <item:tconstruct:ichor_slime_sling>,
+    <item:tconstruct:liquid_soul_bucket>,
+    <item:tconstruct:magma_bucket>,
+    <item:tconstruct:magma_cake>,
+    <item:tconstruct:manyullyn_item_frame>,
+    <item:tconstruct:molten_debris_bucket>,
+    <item:tconstruct:molten_ender_bucket>,
+    <item:tconstruct:molten_netherite_bucket>,
+    <item:tconstruct:molten_pig_iron_bucket>,
+    <item:tconstruct:molten_queens_slime_bucket>,
+    <item:tconstruct:molten_slimesteel_bucket>,
+    <item:tconstruct:nahuatl>,
+    <item:tconstruct:nahuatl_fence>,
+    <item:tconstruct:nahuatl_slab>,
+    <item:tconstruct:nahuatl_stairs>,
+    <item:tconstruct:necrotic_bone>,
+    <item:tconstruct:nether_grout>,
+    <item:tconstruct:netherite_item_frame>,
+    <item:tconstruct:netherite_nugget>,
+    <item:tconstruct:pig_iron_block>,
+    <item:tconstruct:pig_iron_ingot>,
+    <item:tconstruct:pig_iron_nugget>,
+    <item:tconstruct:piggy_backpack>,
+    <item:tconstruct:queens_slime_block>,
+    <item:tconstruct:queens_slime_ingot>,
+    <item:tconstruct:queens_slime_nugget>,
+    <item:tconstruct:reversed_gold_item_frame>,
+    <item:tconstruct:scorched_bricks_fence>,
+    <item:tconstruct:silky_cloth>,
+    <item:tconstruct:sky_cake>,
+    <item:tconstruct:sky_congealed_slime>,
+    <item:tconstruct:sky_earth_slime_grass>,
+    <item:tconstruct:sky_ender_slime_grass>,
+    <item:tconstruct:sky_ichor_slime_grass>,
+    <item:tconstruct:sky_sky_slime_grass>,
+    <item:tconstruct:sky_slime>,
+    <item:tconstruct:sky_slime_ball>,
+    <item:tconstruct:sky_slime_boots>,
+    <item:tconstruct:sky_slime_bucket>,
+    <item:tconstruct:sky_slime_crystal>,
+    <item:tconstruct:sky_slime_dirt>,
+    <item:tconstruct:sky_slime_fern>,
+    <item:tconstruct:sky_slime_grass_seeds>,
+    <item:tconstruct:sky_slime_leaves>,
+    <item:tconstruct:sky_slime_sapling>,
+    <item:tconstruct:sky_slime_sling>,
+    <item:tconstruct:sky_slime_spawn_egg>,
+    <item:tconstruct:sky_slime_tall_grass>,
+    <item:tconstruct:sky_slime_vine>,
+    <item:tconstruct:sky_vanilla_slime_grass>,
+    <item:tconstruct:skyroot_button>,
+    <item:tconstruct:skyroot_door>,
+    <item:tconstruct:skyroot_fence>,
+    <item:tconstruct:skyroot_fence_gate>,
+    <item:tconstruct:skyroot_log>,
+    <item:tconstruct:skyroot_planks>,
+    <item:tconstruct:skyroot_planks_slab>,
+    <item:tconstruct:skyroot_planks_stairs>,
+    <item:tconstruct:skyroot_pressure_plate>,
+    <item:tconstruct:skyroot_sign>,
+    <item:tconstruct:skyroot_trapdoor>,
+    <item:tconstruct:skyroot_wood>,
+    <item:tconstruct:slimesteel_block>,
+    <item:tconstruct:slimesteel_ingot>,
+    <item:tconstruct:slimesteel_nugget>,
+    <item:tconstruct:slimesteel_reinforcement>,
+    <item:tconstruct:soul_glass>,
+    <item:tconstruct:soul_glass_pane>,
+    <item:tconstruct:spider_head>,
+    <item:tconstruct:stray_head>,
+    <item:tconstruct:stripped_bloodshroom_log>,
+    <item:tconstruct:stripped_bloodshroom_wood>,
+    <item:tconstruct:stripped_greenheart_log>,
+    <item:tconstruct:stripped_greenheart_wood>,
+    <item:tconstruct:stripped_skyroot_log>,
+    <item:tconstruct:stripped_skyroot_wood>,
+    <item:tconstruct:terracube_spawn_egg>,
+    <item:tconstruct:tinkers_gadgetry>,
+    <item:waddles:adelie_penguin_spawn_egg>
+] as IItemStack[];
+for item in hide {
+    JEI.hideItem(item);
+}

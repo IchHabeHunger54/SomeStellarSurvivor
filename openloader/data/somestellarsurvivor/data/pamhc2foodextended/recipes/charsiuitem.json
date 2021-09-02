@@ -13,14 +13,13 @@
       "item": "pamhc2foodextended:fivespiceitem"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     },
     {
       "tag": "forge:condiments/soysauce"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:charsiuitem"
   },
   "type": "minecraft:crafting_shapeless"

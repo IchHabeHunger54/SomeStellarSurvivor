@@ -1,35 +1,36 @@
 {
-  "effects": [
-    "Your tool is now a bucket",
-    "Tank size can be increased with Tank Upgrade",
-    "Single Level",
-    "Requires 1 Ability Slot"
-  ],
   "modifier_id": "tconstruct:bucketing",
   "text": [
     {
-      "text": "\u00c2\u00a7oThis is a bucket.\u00c2\u00a7r"
+      "text": "§oThis is a bucket.§r"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "pargraph": true,
-      "text": "\u00c2\u00a7lDear God.\u00c2\u00a7r"
+	{
+      "text": "§lDear God.§r",
+	  "pargraph": true
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "pargraph": true,
-      "text": "\u00c2\u00a7oThere's more.\u00c2\u00a7r"
+	 {
+      "text": "§oThere's more.§r",
+	  "pargraph": true
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "pargraph": true,
-      "text": "\u00c2\u00a7lNooo.\u00c2\u00a7r"
+	 {
+      "text": "§lNooo.§r",
+	  "pargraph": true
     }
+	
+  ],
+  "effects": [
+    "Your tool is now a bucket",
+	"Tank size can be increased with Tank Upgrade",
+    "Single Level",
+    "Requires 1 Ability Slot"
   ]
 }

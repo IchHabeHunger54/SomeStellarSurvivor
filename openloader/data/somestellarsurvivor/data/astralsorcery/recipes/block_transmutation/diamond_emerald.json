@@ -1,13 +1,11 @@
 {
   "display": {
-    "count": 1,
     "item": "minecraft:emerald_ore"
   },
   "input": [
     {
       "block": "minecraft:diamond_ore",
       "display": {
-        "count": 1,
         "item": "minecraft:diamond_ore"
       }
     }

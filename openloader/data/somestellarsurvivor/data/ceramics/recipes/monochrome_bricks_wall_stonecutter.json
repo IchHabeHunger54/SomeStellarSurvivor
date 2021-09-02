@@ -1,0 +1,8 @@
+{
+  "count": 1,
+  "ingredient": {
+    "item": "ceramics:monochrome_bricks"
+  },
+  "result": "ceramics:monochrome_bricks_wall",
+  "type": "minecraft:stonecutting"
+}

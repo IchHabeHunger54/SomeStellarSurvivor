@@ -1,12 +1,12 @@
 {
+  "title": "Interaction Abilities",
   "text": [
     {
       "text": "Interaction abilites change the way the tool interacts with blocks, entites, and even air."
     },
     {
-      "paragraph": true,
-      "text": "Due to their nature, they will often severly conflict with other interaction abilities."
+      "text": "Due to their nature, they will often severly conflict with other interaction abilities.",
+      "paragraph": true
     }
-  ],
-  "title": "Interaction Abilities"
+  ]
 }

@@ -1,10 +1,6 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/blockhuthospital": 1
-    }
-  ],
+  "researchLevel": 1,
   "exclusiveChildResearch": true,
   "icon": "minecolonies:blockhuthospital",
   "requirements": [
@@ -13,5 +9,9 @@
       "quantity": 1
     }
   ],
-  "researchLevel": 1
+  "effects": [
+    {
+      "minecolonies:effects/blockhuthospital": 1
+    }
+  ]
 }

@@ -1,9 +1,8 @@
 {
   "cookingtime": 200,
-  "experience": 0.35,
   "ingredient": {
     "tag": "forge:crops/tealeaf"
   },
   "result": "pamhc2crops:hotteaitem",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

@@ -1,10 +1,5 @@
 {
-  "properties": [
-    "Advanced mining tool",
-    "3x3 AoE Mining",
-    "Effective on stone and ores",
-    "Starts with Smite II"
-  ],
+  "tool": "tconstruct:sledge_hammer",
   "text": [
     {
       "text": "The Sledge Hammer is a broad mining tool. It harvests blocks in a wide range and is effective against undead."
@@ -16,5 +11,10 @@
       "text": "It is optimal for mining out large areas and long mining trips."
     }
   ],
-  "tool": "tconstruct:sledge_hammer"
+  "properties": [
+    "Advanced mining tool",
+    "3x3 AoE Mining",
+    "Effective on stone and ores",
+    "Starts with Smite II"
+  ]
 }

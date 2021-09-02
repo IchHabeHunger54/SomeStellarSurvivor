@@ -1,0 +1,16 @@
+{
+  "key": {
+    "p": {
+      "item": "minecraft:clay_ball"
+    }
+  },
+  "pattern": [
+    "ppp",
+    "ppp"
+  ],
+  "result": {
+    "count": 3,
+    "item": "ceramics:clay_channel"
+  },
+  "type": "minecraft:crafting_shaped"
+}

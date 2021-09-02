@@ -18,7 +18,7 @@
       "tag": "forge:feathers"
     },
     "C": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "D": {
       "item": "astralsorcery:parchment"
@@ -29,7 +29,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:constellation_paper"
     }
   ],

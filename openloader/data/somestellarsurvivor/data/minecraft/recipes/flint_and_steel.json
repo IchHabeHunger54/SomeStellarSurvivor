@@ -1,7 +1,7 @@
 {
   "ingredients": [
     {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     {
       "item": "minecraft:flint"

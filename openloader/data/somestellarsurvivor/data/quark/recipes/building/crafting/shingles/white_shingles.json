@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "shingles",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "minecraft:white_terracotta"

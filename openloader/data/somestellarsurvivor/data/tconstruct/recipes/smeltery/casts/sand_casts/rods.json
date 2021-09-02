@@ -3,7 +3,7 @@
     "item": "tconstruct:blank_sand_cast"
   },
   "pattern": {
-    "tag": "forge:rods"
+    "item": "minecraft:stick"
   },
   "result": "tconstruct:rod_sand_cast",
   "type": "tconstruct:molding_table"

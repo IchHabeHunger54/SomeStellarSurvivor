@@ -4,66 +4,66 @@
       "bonus_rolls": 1,
       "entries": [
         {
-          "type": "empty",
+          "type": "minecraft:empty",
           "weight": 50
         },
         {
           "name": "minecolonies:pirate_hat",
           "quality": 1,
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecolonies:pirate_legs",
           "quality": 1,
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecolonies:pirate_boots",
           "quality": 1,
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecolonies:pirate_top",
           "quality": 1,
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecolonies:pirate_cap",
           "quality": 1,
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecolonies:pirate_leggins",
           "quality": 1,
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecolonies:pirate_shoes",
           "quality": 1,
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecolonies:pirate_chest",
           "quality": 1,
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecolonies:iron_scimitar",
           "quality": 1,
-          "type": "item",
-          "weight": 25
+          "type": "minecraft:item",
+          "weight": 32
         },
         {
           "name": "minecolonies:ancienttome",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 50
         }
       ],

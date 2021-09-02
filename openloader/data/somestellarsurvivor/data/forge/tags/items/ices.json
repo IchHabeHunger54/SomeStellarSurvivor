@@ -1,7 +1,7 @@
 {
   "replace": true,
   "values": [
-    "#forge:ices/blueice",
+    "minecraft:blue_ice",
     "#forge:ices/ice",
     "#forge:ices/packedice",
     "#forge:ices/snowball"

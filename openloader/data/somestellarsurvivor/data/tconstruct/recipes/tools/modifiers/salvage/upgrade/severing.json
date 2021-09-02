@@ -3,7 +3,7 @@
   "modifier": "tconstruct:severing",
   "salvage": [
     {
-      "tag": "forge:ingots/copper"
+      "item": "tconstruct:copper_ingot"
     },
     {
       "item": "tconstruct:necrotic_bone",

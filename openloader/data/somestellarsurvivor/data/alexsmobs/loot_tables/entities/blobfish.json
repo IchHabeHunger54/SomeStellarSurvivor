@@ -3,33 +3,10 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": 1,
-              "function": "minecraft:set_count"
-            }
-          ],
           "name": "alexsmobs:blobfish",
           "type": "minecraft:item"
         }
       ],
-      "name": "blobfish",
-      "rolls": 1
-    },
-    {
-      "conditions": [
-        {
-          "chance": 0.05,
-          "condition": "minecraft:random_chance"
-        }
-      ],
-      "entries": [
-        {
-          "name": "minecraft:bone_meal",
-          "type": "minecraft:item"
-        }
-      ],
-      "name": "blobfish_bm",
       "rolls": 1
     }
   ],

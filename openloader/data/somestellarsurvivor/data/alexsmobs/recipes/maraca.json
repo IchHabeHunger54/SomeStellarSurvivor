@@ -7,7 +7,7 @@
       "item": "alexsmobs:rattlesnake_rattle"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [
@@ -16,7 +16,6 @@
     " S "
   ],
   "result": {
-    "count": 1,
     "item": "alexsmobs:maraca"
   },
   "type": "minecraft:crafting_shaped"

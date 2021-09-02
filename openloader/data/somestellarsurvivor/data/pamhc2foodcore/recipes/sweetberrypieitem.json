@@ -4,7 +4,7 @@
       "tag": "forge:tool_bakeware"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:crops/sweetberry"
@@ -14,7 +14,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodcore:sweetberrypieitem"
   },
   "type": "minecraft:crafting_shapeless"

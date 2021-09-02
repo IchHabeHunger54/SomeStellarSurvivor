@@ -1,5 +1,4 @@
 {
-  "group": "tconstruct:seared_stone_stairs",
   "key": {
     "B": {
       "item": "tconstruct:seared_stone"
@@ -11,7 +10,7 @@
     "BBB"
   ],
   "result": {
-    "count": 4,
+    "count": 6,
     "item": "tconstruct:seared_stone_stairs"
   },
   "type": "minecraft:crafting_shaped"

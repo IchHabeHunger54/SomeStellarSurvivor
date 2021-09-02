@@ -4,7 +4,7 @@
       "item": "tconstruct:seared_brick"
     },
     "C": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "P": {
       "item": "tconstruct:seared_glass_pane"

@@ -43,7 +43,7 @@
         {
           "type": "forge:not",
           "value": {
-            "tag": "forge:ingots/iron",
+            "item": "minecraft:iron_ingot",
             "type": "forge:tag_empty"
           }
         }

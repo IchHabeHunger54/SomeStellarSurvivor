@@ -1,0 +1,20 @@
+{
+  "key": {
+    "B": {
+      "tag": "ceramics:porcelain_block"
+    },
+    "D": {
+      "tag": "forge:dyes/purple"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BDB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "item": "ceramics:purple_porcelain"
+  },
+  "type": "minecraft:crafting_shaped"
+}

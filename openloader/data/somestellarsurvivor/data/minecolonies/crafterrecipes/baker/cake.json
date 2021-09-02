@@ -1,14 +1,14 @@
 {
-  "count": 1,
+  "type" : "recipe",
   "crafter": "baker_crafting",
   "inputs": [
     {
-      "count": 1,
-      "item": "minecolonies:cake_batter"
+        "item" : "minecolonies:cake_batter",
+        "count": 1
     }
   ],
-  "intermediate": "minecraft:furnace",
-  "min-building-level": 2,
   "result": "minecraft:cake",
-  "type": "recipe"
+  "count": 1,
+  "intermediate" : "minecraft:furnace",
+  "min-building-level" : 2
 }

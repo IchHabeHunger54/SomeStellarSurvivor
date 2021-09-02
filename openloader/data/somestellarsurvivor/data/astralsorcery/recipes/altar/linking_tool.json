@@ -10,7 +10,7 @@
       "tag": "minecraft:logs"
     },
     "B": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "C": {
       "item": "astralsorcery:aquamarine"
@@ -25,7 +25,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:linking_tool"
     }
   ],

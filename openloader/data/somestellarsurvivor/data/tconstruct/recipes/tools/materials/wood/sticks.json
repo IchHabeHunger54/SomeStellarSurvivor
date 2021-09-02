@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:rods/wooden"
+    "item": "minecraft:stick"
   },
   "material": "tconstruct:wood",
   "needed": 2,

@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/manyullyn"
+    "item": "tconstruct:manyullyn_ingot"
   },
   "material": "tconstruct:manyullyn",
   "needed": 1,

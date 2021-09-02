@@ -10,7 +10,7 @@
   ],
   "key": {
     "A": {
-      "tag": "forge:dusts/glowstone"
+      "item": "minecraft:glowstone_dust"
     },
     "B": {
       "item": "astralsorcery:aquamarine"
@@ -24,7 +24,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:colored_lens_push"
     }
   ],

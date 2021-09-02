@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:storage_blocks/emerald"
+    "item": "minecraft:emerald_block"
   },
   "result": {
     "amount": 1296,

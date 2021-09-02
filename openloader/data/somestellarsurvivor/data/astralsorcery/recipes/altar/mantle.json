@@ -28,12 +28,11 @@
       "item": "minecraft:leather_chestplate"
     },
     "E": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     }
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:mantle"
     }
   ],
@@ -46,10 +45,10 @@
   ],
   "relay_inputs": [
     {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
       "tag": "forge:feathers"

@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "speleothems",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "marble",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:marble"

@@ -7,6 +7,8 @@
     "#forge:ingots/gold",
     "#forge:ingots/rose_gold",
     "#forge:ingots/silicon_bronze",
+    "#forge:ingots/starmetal",
+    "tconstruct:scorched_brick",
     "tconstruct:seared_brick"
   ]
 }

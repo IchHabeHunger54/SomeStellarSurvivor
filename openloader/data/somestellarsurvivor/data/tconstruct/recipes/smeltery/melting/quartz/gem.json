@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:gems/quartz"
+    "item": "minecraft:quartz"
   },
   "result": {
     "amount": 144,

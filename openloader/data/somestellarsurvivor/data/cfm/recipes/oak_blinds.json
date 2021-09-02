@@ -1,11 +1,10 @@
 {
-  "group": "blinds",
   "key": {
     "L": {
       "item": "minecraft:oak_log"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [

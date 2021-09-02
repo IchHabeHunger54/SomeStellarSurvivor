@@ -1,13 +1,13 @@
 {
   "inputs": [
     {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     {
       "item": "minecraft:golden_carrot"
     },
     {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     {
       "tag": "forge:ender_pearls"

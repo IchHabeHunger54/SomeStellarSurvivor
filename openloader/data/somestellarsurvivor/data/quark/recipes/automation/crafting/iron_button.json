@@ -1,16 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "iron_metal_button",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "tag": "minecraft:wooden_buttons"
     },
     {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   ],
   "result": {

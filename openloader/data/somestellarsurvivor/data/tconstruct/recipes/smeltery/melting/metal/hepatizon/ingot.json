@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/hepatizon"
+    "item": "tconstruct:hepatizon_ingot"
   },
   "result": {
     "amount": 144,

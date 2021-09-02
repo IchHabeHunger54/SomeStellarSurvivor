@@ -6,10 +6,9 @@
   "duration": 100,
   "fluidInput": "astralsorcery:liquid_starlight",
   "input": {
-    "tag": "forge:ores/lapis"
+    "item": "minecraft:lapis_ore"
   },
   "output": {
-    "count": 1,
     "item": "minecraft:lapis_block"
   },
   "type": "astralsorcery:infuser"

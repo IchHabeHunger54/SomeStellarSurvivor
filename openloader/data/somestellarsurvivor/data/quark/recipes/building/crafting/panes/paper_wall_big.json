@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "paper_decor",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:paper_wall"

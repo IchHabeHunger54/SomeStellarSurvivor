@@ -7,14 +7,13 @@
       "tag": "forge:water"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "item": "minecraft:redstone"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:energydrinkitem"
   },
   "type": "minecraft:crafting_shapeless"

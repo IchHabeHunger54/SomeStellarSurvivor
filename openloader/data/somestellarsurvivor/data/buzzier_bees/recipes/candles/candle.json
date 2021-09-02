@@ -1,7 +1,7 @@
 {
   "key": {
     "#": {
-      "tag": "buzzier_bees:candle_wick"
+      "item": "minecraft:string"
     },
     "S": {
       "tag": "buzzier_bees:candle_base"
@@ -12,7 +12,6 @@
     "S"
   ],
   "result": {
-    "count": 1,
     "item": "buzzier_bees:candle"
   },
   "type": "minecraft:crafting_shaped"

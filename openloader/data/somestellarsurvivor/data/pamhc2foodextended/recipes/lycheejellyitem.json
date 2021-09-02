@@ -7,11 +7,10 @@
       "tag": "forge:fruits/lychee"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:lycheejellyitem"
   },
   "type": "minecraft:crafting_shapeless"

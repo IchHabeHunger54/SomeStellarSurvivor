@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:wheat"
+      "tag": "forge:grain"
     },
     "T": {
       "item": "structurize:sceptergold"

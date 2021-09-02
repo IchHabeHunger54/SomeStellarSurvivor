@@ -1,11 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "glass_shard",
-      "type": "quark:flag"
-    }
-  ],
-  "group": "quark:glass_shard",
   "key": {
     "#": {
       "item": "quark:lime_shard"

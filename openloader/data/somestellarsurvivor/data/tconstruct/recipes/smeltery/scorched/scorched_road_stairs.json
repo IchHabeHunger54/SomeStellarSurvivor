@@ -1,5 +1,4 @@
 {
-  "group": "tconstruct:scorched_road_stairs",
   "key": {
     "B": {
       "item": "tconstruct:scorched_road"
@@ -11,7 +10,7 @@
     "BBB"
   ],
   "result": {
-    "count": 4,
+    "count": 6,
     "item": "tconstruct:scorched_road_stairs"
   },
   "type": "minecraft:crafting_shaped"

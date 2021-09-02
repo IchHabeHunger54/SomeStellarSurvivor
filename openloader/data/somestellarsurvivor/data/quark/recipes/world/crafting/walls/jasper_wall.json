@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "jasper",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:jasper"

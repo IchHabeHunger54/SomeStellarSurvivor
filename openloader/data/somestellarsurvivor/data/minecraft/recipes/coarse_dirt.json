@@ -1,19 +1,15 @@
 {
-  "key": {
-    "D": {
+  "ingredients": [
+    {
       "item": "minecraft:dirt"
     },
-    "G": {
+    {
       "item": "minecraft:gravel"
     }
-  },
-  "pattern": [
-    "DG",
-    "GD"
   ],
   "result": {
-    "count": 4,
+    "count": 2,
     "item": "minecraft:coarse_dirt"
   },
-  "type": "minecraft:crafting_shaped"
+  "type": "minecraft:crafting_shapeless"
 }

@@ -6,8 +6,34 @@
           "functions": [
             {
               "count": {
-                "max": 3.0,
-                "min": 1.0,
+                "max": 2,
+                "min": 0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "minecraft:looting_enchant"
+            }
+          ],
+          "name": "quark:tallow",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "entries": [
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 0,
                 "type": "minecraft:uniform"
               },
               "function": "minecraft:set_count"
@@ -28,8 +54,8 @@
             },
             {
               "count": {
-                "max": 1.0,
-                "min": 0.0
+                "max": 1,
+                "min": 0
               },
               "function": "minecraft:looting_enchant"
             }

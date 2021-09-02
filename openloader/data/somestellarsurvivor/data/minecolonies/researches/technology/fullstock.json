@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/minimumstockmultiplier": 3
-    }
-  ],
-  "icon": "minecraft:ender_chest",
   "parentResearch": "minecolonies:technology/capacity",
+  "researchLevel": 5,
+  "subtitle": "com.minecolonies.research.technology.fullstock.subtitle",
+  "icon": "minecraft:ender_chest",
   "requirements": [
     {
       "building": "miner",
@@ -17,6 +14,9 @@
       "quantity": 64
     }
   ],
-  "researchLevel": 5,
-  "subtitle": "com.minecolonies.research.technology.fullstock.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/minimumstockmultiplier": 3
+    }
+  ]
 }

@@ -1,4 +1,8 @@
 {
   "replace": true,
-  "values": []
+  "values": [
+    "#minecolonies:cook_ingredient",
+    "#minecolonies:cook_ingredient_excluded",
+    "#minecolonies:cook_product"
+  ]
 }

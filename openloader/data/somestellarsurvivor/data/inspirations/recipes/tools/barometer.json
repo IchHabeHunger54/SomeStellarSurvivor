@@ -1,23 +1,9 @@
 {
-  "conditions": [
-    {
-      "prop": "tools_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "barometer",
-      "type": "inspirations:config"
-    }
-  ],
   "key": {
     "B": {
       "item": "minecraft:glass_bottle"
     },
-    "R": {
-      "tag": "forge:dusts/redstone"
-    },
     "W": {
-      "count": 1,
       "item": "minecraft:potion",
       "nbt": "{Potion:\"minecraft:water\"}",
       "type": "forge:nbt"
@@ -25,7 +11,7 @@
   },
   "pattern": [
     " W",
-    "BR"
+    "B "
   ],
   "result": {
     "item": "inspirations:barometer"

@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "color_slime",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "tag": "quark:slime_blocks"
@@ -14,7 +8,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "quark:blue_slime_block"
   },
   "type": "minecraft:crafting_shapeless"

@@ -1,44 +1,45 @@
 {
+  "title":"Features",
   "text": [
     {
-      "text": "\u00e2\u20ac\u00a2 Early smeltery"
+      "text": "• Early smeltery"
     },
-    {
+	{
       "text": "\n"
     },
     {
-      "text": "\u00e2\u20ac\u00a2 Gives +3 nuggets per ore"
+      "text": "• Gives +3 nuggets per ore"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Heater can be replaced with seared tank which can increase temperature"
+	{
+      "text": "• Heater can be replaced with seared tank which can increase temperature"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Internal capacity of 9 ingots"
+	{
+      "text": "• Internal capacity of 9 ingots"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Melts 3 items at once "
+	{
+      "text": "• Melts 3 items at once "
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Very fuel effecient "
+	{
+      "text": "• Very fuel effecient "
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Ideal for melting Piglin drops such as gold swords or armor"
+	{
+      "text": "• Ideal for melting Piglin drops such as gold swords or armor"
     }
-  ],
-  "title": "Features"
+    
+  ]
 }

@@ -3,22 +3,14 @@
     {
       "conditions": [
         {
-          "condition": "quark:flag",
-          "flag": "crab_brewing"
-        },
-        {
-          "condition": "killed_by_player"
-        },
-        {
-          "chance": 0.25,
-          "condition": "random_chance_with_looting",
-          "looting_multiplier": 0.03
+          "chance": 0.5,
+          "condition": "random_chance"
         }
       ],
       "entries": [
         {
           "name": "quark:crab_shell",
-          "type": "item"
+          "type": "minecraft:item"
         }
       ],
       "name": "shell",
@@ -62,7 +54,6 @@
           "type": "minecraft:item"
         }
       ],
-      "name": "legs",
       "rolls": 1
     }
   ],

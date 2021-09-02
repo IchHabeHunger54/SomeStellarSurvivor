@@ -1,11 +1,8 @@
 {
   "replace": true,
   "values": [
-    "#minecraft:logs",
-    "#minecraft:planks",
-    "#minecraft:wooden_slabs",
-    "minecraft:stick",
-    "#minecolonies:mechanic_ingredient",
-    "#minecolonies:dyer_ingredient"
+    "#minecolonies:blacksmith_ingredient",
+    "#minecolonies:blacksmith_ingredient_excluded",
+    "#minecolonies:blacksmith_product"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:storage_blocks/manyullyn"
+    "item": "tconstruct:manyullyn_block"
   },
   "result": {
     "amount": 1296,

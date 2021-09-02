@@ -10,11 +10,10 @@
       "tag": "forge:batter"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:powdereddonutitem"
   },
   "type": "minecraft:crafting_shapeless"

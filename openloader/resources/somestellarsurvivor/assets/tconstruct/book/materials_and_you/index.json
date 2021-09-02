@@ -1,30 +1,31 @@
 [
   {
+    "name": "intro",
     "data": "sections/introduction.json",
     "icon": {
       "item": {
         "id": "tconstruct:pattern"
       }
-    },
-    "name": "intro"
+    }
   },
   {
+    "name": "tier_one_materials",
     "icon": {
       "item": {
         "id": "minecraft:stone"
       }
-    },
-    "name": "tier_one_materials"
+    }
   },
   {
+    "name": "tools",
     "data": "sections/tools.json",
     "icon": {
       "item": {
         "id": "tconstruct:pickaxe",
         "nbt": {
-          "Damage": 0,
           "tic_broken": false,
           "tic_display_tool": true,
+          "Damage": 0,
           "tic_materials": [
             "tconstruct:ui_render_head",
             "tconstruct:ui_render_handle",
@@ -32,16 +33,16 @@
           ]
         }
       }
-    },
-    "name": "tools"
+    }
   },
   {
+    "name": "further_reading",
     "data": "sections/furtherreading.json",
     "icon": {
       "item": {
         "id": "tconstruct:puny_smelting"
       }
-    },
-    "name": "further_reading"
+    }
   }
+
 ]

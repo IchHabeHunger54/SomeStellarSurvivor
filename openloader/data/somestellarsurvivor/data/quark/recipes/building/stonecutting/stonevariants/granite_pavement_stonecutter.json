@@ -1,22 +1,7 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_pavement",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "granite",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 1,
   "ingredient": {
-    "item": "minecraft:granite"
+    "item": "quark:granite_pillar"
   },
   "result": "quark:granite_pavement",
   "type": "minecraft:stonecutting"

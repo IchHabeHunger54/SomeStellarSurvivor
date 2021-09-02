@@ -1,9 +1,0 @@
-{
-  "cookingtime": 250,
-  "experience": 0.2,
-  "ingredient": {
-    "item": "aquaculture:frog_legs_raw"
-  },
-  "result": "aquaculture:frog_legs_cooked",
-  "type": "minecraft:campfire_cooking"
-}

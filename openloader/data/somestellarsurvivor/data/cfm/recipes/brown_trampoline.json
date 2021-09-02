@@ -1,11 +1,10 @@
 {
-  "group": "trampoline",
   "key": {
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "S": {
-      "tag": "forge:slimeballs"
+      "item": "minecraft:slime_ball"
     },
     "W": {
       "item": "minecraft:brown_wool"

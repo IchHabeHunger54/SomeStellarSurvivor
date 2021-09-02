@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/happinessmultiplier": 1
-    }
-  ],
-  "icon": "minecolonies:textures/icons/research/happy1.png",
   "parentResearch": "minecolonies:civilian/firstaid",
+  "researchLevel": 2,
+  "sortOrder": 2,
+  "icon": "minecolonies:textures/icons/research/happy1.png",
   "requirements": [
     {
       "building": "cook",
@@ -17,6 +14,9 @@
       "quantity": 1
     }
   ],
-  "researchLevel": 2,
-  "sortOrder": 2
+  "effects": [
+    {
+      "minecolonies:effects/happinessmultiplier": 1
+    }
+  ]
 }

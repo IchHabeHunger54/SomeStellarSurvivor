@@ -13,11 +13,10 @@
       "tag": "forge:crops/spiceleaf"
     },
     {
-      "tag": "forge:crops/mustard"
+      "tag": "forge:crops/mustardseeds"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:gourmetmuttonpattyitem"
   },
   "type": "minecraft:crafting_shapeless"

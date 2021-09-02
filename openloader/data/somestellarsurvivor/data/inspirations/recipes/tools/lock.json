@@ -1,20 +1,10 @@
 {
-  "conditions": [
-    {
-      "prop": "tools_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "lock",
-      "type": "inspirations:config"
-    }
-  ],
   "key": {
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "N": {
-      "tag": "forge:nuggets/iron"
+      "item": "minecraft:iron_nugget"
     }
   },
   "pattern": [

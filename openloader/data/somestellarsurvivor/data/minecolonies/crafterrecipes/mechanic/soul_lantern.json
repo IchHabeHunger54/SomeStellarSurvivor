@@ -1,22 +1,22 @@
 {
-  "count": 1,
+  "type" : "recipe",
   "crafter": "mechanic_crafting",
   "inputs": [
     {
-      "count": 3,
-      "item": "minecraft:iron_nugget"
+      "item" : "minecraft:iron_nugget",
+      "count": 3
     },
     {
-      "count": 1,
-      "item": "minecraft:glass_bottle"
+      "item" : "minecraft:glass_bottle",
+      "count": 1
     },
     {
-      "count": 1,
-      "item": "minecraft:soul_torch"
+      "item" : "minecraft:soul_torch",
+      "count": 1
     }
   ],
-  "intermediate": "minecraft:air",
-  "min-building-level": 3,
   "result": "minecraft:soul_lantern",
-  "type": "recipe"
+  "count": 1,
+  "intermediate" : "minecraft:air",
+  "min-building-level" : 3
 }

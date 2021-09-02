@@ -1,6 +1,18 @@
 {
   "replace": true,
   "values": [
-    "minecraft:cactus"
+    "#minecraft:leaves",
+    "#minecraft:logs",
+    "#minecraft:planks",
+    "#minecraft:wooden_slabs",
+    "minecraft:cactus",
+    "mcwfurnitures:oak_plate",
+    "mcwfurnitures:spruce_plate",
+    "mcwfurnitures:birch_plate",
+    "mcwfurnitures:jungle_plate",
+    "mcwfurnitures:acacia_plate",
+    "mcwfurnitures:dark_oak_plate",
+    "mcwfurnitures:crimson_plate",
+    "mcwfurnitures:warped_plate"
   ]
 }

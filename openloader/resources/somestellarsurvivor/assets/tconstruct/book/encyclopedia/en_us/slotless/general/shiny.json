@@ -1,13 +1,13 @@
 {
-  "effects": [
-    "Single use",
-    "Slotless"
-  ],
   "modifier_id": "tconstruct:shiny",
-  "more_text_space": true,
   "text": [
     {
       "text": "Makes the tool glow as if enchanted. Thats is it, it is just decorative."
     }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Single use",
+    "Slotless"
   ]
 }

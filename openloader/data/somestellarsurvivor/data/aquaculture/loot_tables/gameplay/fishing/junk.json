@@ -10,37 +10,12 @@
         {
           "name": "aquaculture:fish_bones",
           "type": "minecraft:item",
-          "weight": 4
+          "weight": 10
         },
         {
           "name": "aquaculture:tin_can",
           "type": "minecraft:item",
           "weight": 10
-        },
-        {
-          "name": "aquaculture:box",
-          "type": "minecraft:item",
-          "weight": 6
-        },
-        {
-          "name": "aquaculture:lockbox",
-          "type": "minecraft:item",
-          "weight": 4
-        },
-        {
-          "name": "aquaculture:treasure_chest",
-          "type": "minecraft:item",
-          "weight": 1
-        },
-        {
-          "name": "aquaculture:goldfish",
-          "type": "minecraft:item",
-          "weight": 4
-        },
-        {
-          "name": "aquaculture:message_in_a_bottle",
-          "type": "minecraft:item",
-          "weight": 5
         },
         {
           "conditions": [
@@ -55,15 +30,6 @@
                   "BEACH",
                   "SWAMP"
                 ]
-              }
-            },
-            {
-              "condition": "minecraft:inverted",
-              "term": {
-                "condition": "minecraft:location_check",
-                "predicate": {
-                  "biome": "minecraft:deep_frozen_ocean"
-                }
               }
             }
           ],
@@ -89,7 +55,7 @@
           ],
           "name": "minecraft:kelp",
           "type": "minecraft:item",
-          "weight": 9
+          "weight": 10
         },
         {
           "conditions": [
@@ -108,7 +74,7 @@
           "weight": 10
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "type": "minecraft:fishing"

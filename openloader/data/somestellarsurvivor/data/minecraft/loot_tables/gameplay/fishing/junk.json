@@ -5,7 +5,7 @@
         {
           "name": "minecraft:lily_pad",
           "type": "minecraft:item",
-          "weight": 17
+          "weight": 10
         },
         {
           "functions": [
@@ -19,7 +19,7 @@
           ],
           "name": "minecraft:leather_boots",
           "type": "minecraft:item",
-          "weight": 10
+          "weight": 2
         },
         {
           "name": "minecraft:leather",
@@ -45,7 +45,7 @@
         {
           "name": "minecraft:string",
           "type": "minecraft:item",
-          "weight": 5
+          "weight": 10
         },
         {
           "functions": [
@@ -64,22 +64,17 @@
         {
           "name": "minecraft:bowl",
           "type": "minecraft:item",
-          "weight": 10
+          "weight": 8
         },
         {
           "name": "minecraft:stick",
           "type": "minecraft:item",
-          "weight": 5
+          "weight": 8
         },
         {
-          "functions": [
-            {
-              "count": 10,
-              "function": "minecraft:set_count"
-            }
-          ],
           "name": "minecraft:ink_sac",
-          "type": "minecraft:item"
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
           "name": "minecraft:tripwire_hook",
@@ -90,63 +85,9 @@
           "name": "minecraft:rotten_flesh",
           "type": "minecraft:item",
           "weight": 10
-        },
-        {
-          "conditions": [
-            {
-              "condition": "minecraft:alternative",
-              "terms": [
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biome": "minecraft:jungle"
-                  }
-                },
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biome": "minecraft:jungle_hills"
-                  }
-                },
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biome": "minecraft:jungle_edge"
-                  }
-                },
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biome": "minecraft:bamboo_jungle"
-                  }
-                },
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biome": "minecraft:modified_jungle"
-                  }
-                },
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biome": "minecraft:modified_jungle_edge"
-                  }
-                },
-                {
-                  "condition": "minecraft:location_check",
-                  "predicate": {
-                    "biome": "minecraft:bamboo_jungle_hills"
-                  }
-                }
-              ]
-            }
-          ],
-          "name": "minecraft:bamboo",
-          "type": "minecraft:item",
-          "weight": 10
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "type": "minecraft:fishing"

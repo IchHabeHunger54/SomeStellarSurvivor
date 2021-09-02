@@ -12,8 +12,8 @@
   },
   "pattern": [
     "XSX",
-    "IXI",
-    "XXX"
+    "XXX",
+    "III"
   ],
   "result": {
     "item": "minecolonies:blockstash"

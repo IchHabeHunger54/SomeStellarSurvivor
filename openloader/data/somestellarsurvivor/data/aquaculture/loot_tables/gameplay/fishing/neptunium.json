@@ -1,28 +1,8 @@
 {
   "pools": [
     {
-      "entries": [
-        {
-          "functions": [
-            {
-              "entries": [
-                {
-                  "name": "aquaculture:box/neptunes_bounty",
-                  "type": "minecraft:loot_table"
-                }
-              ],
-              "function": "minecraft:set_contents"
-            }
-          ],
-          "name": "aquaculture:neptunes_bounty",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "aquaculture:gameplay/fishing/fish",
-          "type": "minecraft:loot_table"
-        }
-      ],
-      "rolls": 1.0
+      "entries": [],
+      "rolls": 1
     }
   ],
   "type": "minecraft:fishing"

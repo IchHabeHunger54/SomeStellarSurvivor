@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutfletcher": 1
-    }
-  ],
-  "icon": "minecolonies:blockhutfletcher",
   "parentResearch": "minecolonies:technology/woodwork",
+  "researchLevel": 2,
+  "icon": "minecolonies:blockhutfletcher",
   "requirements": [
     {
       "building": "sawmill",
@@ -17,5 +13,9 @@
       "quantity": 16
     }
   ],
-  "researchLevel": 2
+  "effects": [
+    {
+      "minecolonies:effects/blockhutfletcher": 1
+    }
+  ]
 }

@@ -1,0 +1,8 @@
+{
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "ceramics:clay_cistern"
+  },
+  "result": "ceramics:terracotta_cistern",
+  "type": "ceramics:kiln"
+}

@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:combat",
-  "effects": [
-    {
-      "minecolonies:effects/fleeingdamagemultiplier": 2
-    }
-  ],
-  "icon": "minecraft:iron_boots",
   "parentResearch": "minecolonies:combat/feint",
+  "researchLevel": 4,
+  "icon": "minecraft:iron_boots",
   "requirements": [
     {
       "building": "guardtower",
@@ -17,5 +13,9 @@
       "quantity": 16
     }
   ],
-  "researchLevel": 4
+  "effects": [
+    {
+      "minecolonies:effects/fleeingdamagemultiplier": 2
+    }
+  ]
 }

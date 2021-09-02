@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_bricks",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "granite",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
       "item": "minecraft:polished_granite"

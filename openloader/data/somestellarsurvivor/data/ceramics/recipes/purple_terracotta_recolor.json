@@ -1,0 +1,20 @@
+{
+  "key": {
+    "B": {
+      "tag": "ceramics:colored_terracotta"
+    },
+    "D": {
+      "tag": "forge:dyes/purple"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BDB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:purple_terracotta"
+  },
+  "type": "minecraft:crafting_shaped"
+}

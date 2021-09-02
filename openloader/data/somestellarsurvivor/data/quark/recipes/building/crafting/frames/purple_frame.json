@@ -1,11 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "item_frames",
-      "type": "quark:flag"
-    }
-  ],
-  "group": "quark:item_frames",
   "ingredients": [
     {
       "item": "minecraft:item_frame"

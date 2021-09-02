@@ -1,19 +1,8 @@
 {
   "count": 1,
-  "ingredient": [
-    {
-      "item": "tconstruct:seared_stone"
-    },
-    {
-      "base": {
-        "tag": "tconstruct:seared_bricks"
-      },
-      "type": "mantle:without",
-      "without": {
-        "item": "tconstruct:seared_triangle_bricks"
-      }
-    }
-  ],
+  "ingredient": {
+    "item": "tconstruct:seared_fancy_bricks"
+  },
   "result": "tconstruct:seared_triangle_bricks",
   "type": "minecraft:stonecutting"
 }

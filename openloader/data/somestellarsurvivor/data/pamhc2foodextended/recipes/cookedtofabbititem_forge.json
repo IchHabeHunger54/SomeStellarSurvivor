@@ -1,9 +1,8 @@
 {
   "cookingtime": 200,
-  "experience": 0.35,
   "ingredient": {
     "item": "pamhc2foodextended:rawtofabbititem"
   },
   "result": "pamhc2foodextended:cookedtofabbititem",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

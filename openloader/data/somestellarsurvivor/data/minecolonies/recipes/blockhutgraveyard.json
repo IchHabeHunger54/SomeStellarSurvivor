@@ -7,7 +7,7 @@
       "item": "structurize:sceptergold"
     },
     "X": {
-      "item": "minecraft:stone"
+      "tag": "minecraft:planks"
     }
   },
   "pattern": [

@@ -1,11 +1,10 @@
 {
-  "group": "rope_and_nail",
   "key": {
     "a": {
       "item": "minecraft:string"
     },
     "x": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [

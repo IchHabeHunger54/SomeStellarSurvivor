@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "marble",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:polished_marble"

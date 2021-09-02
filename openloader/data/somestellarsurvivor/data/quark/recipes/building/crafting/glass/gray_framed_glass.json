@@ -1,47 +1,20 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "framed_glass",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
-  "ingredients": [
-    {
+  "key": {
+    "#": {
       "item": "quark:framed_glass"
     },
-    {
-      "item": "quark:framed_glass"
-    },
-    {
-      "item": "quark:framed_glass"
-    },
-    {
-      "item": "quark:framed_glass"
-    },
-    {
-      "item": "quark:framed_glass"
-    },
-    {
-      "item": "quark:framed_glass"
-    },
-    {
-      "item": "quark:framed_glass"
-    },
-    {
-      "item": "quark:framed_glass"
-    },
-    {
+    "D": {
       "tag": "forge:dyes/gray"
     }
+  },
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
   ],
   "result": {
     "count": 8,
     "item": "quark:gray_framed_glass"
   },
-  "type": "minecraft:crafting_shapeless"
+  "type": "minecraft:crafting_shaped"
 }

@@ -9,7 +9,7 @@
     {
       "max": 2,
       "min": 2,
-      "tag": "forge:ingots/manyullyn"
+      "item": "tconstruct:manyullyn_ingot"
     }
   ],
   "slots": {

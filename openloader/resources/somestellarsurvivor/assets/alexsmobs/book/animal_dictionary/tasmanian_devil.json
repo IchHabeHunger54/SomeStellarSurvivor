@@ -1,23 +1,28 @@
 {
+  "parent": "root.json",
+  "text": "tasmanian_devil.txt",
+  "title": "Tasmanian Devil",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:tasmanian_devil",
-      "follow_cursor": false,
-      "page": 0,
+      "x": 90,
+      "y": 76,
+      "page" : 0,
+      "scale": 2.4,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "scale": 2.4,
-      "x": 90,
-      "y": 76
+      "follow_cursor": false
     }
-  ],
-  "images": [],
-  "item_renders": [],
-  "linked_page_buttons": [],
-  "parent": "root.json",
-  "recipes": [],
-  "tabula_renders": [],
-  "text": "tasmanian_devil.txt",
-  "title": "Tasmanian Devil"
+  ]
 }

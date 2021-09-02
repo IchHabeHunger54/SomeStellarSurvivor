@@ -10,11 +10,10 @@
       "tag": "forge:ices"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:sorbetitem"
   },
   "type": "minecraft:crafting_shapeless"

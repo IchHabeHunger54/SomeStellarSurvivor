@@ -8,7 +8,7 @@
     "tag": "tconstruct:molten_cobalt"
   },
   "result": {
-    "tag": "forge:ingots/cobalt"
+    "item": "tconstruct:cobalt_ingot"
   },
   "type": "tconstruct:casting_table"
 }

@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "tag": "forge:gems/quartz"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "ceramics:unfired_porcelain"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

@@ -1,24 +1,19 @@
 {
   "key": {
-    "H": [
-      {
-        "item": "minecraft:hay_block"
-      },
-      {
-        "item": "minecraft:pumpkin"
-      }
-    ],
-    "L": {
-      "item": "minecraft:leather"
+    "H": {
+      "item": "minecraft:hay_block"
     },
-    "S": {
-      "item": "minecraft:stick"
+    "T": {
+      "item": "structurize:sceptergold"
+    },
+    "X": {
+      "tag": "minecraft:planks"
     }
   },
   "pattern": [
-    " H ",
-    "SLS",
-    " S "
+    "XTX",
+    "XHX",
+    "XXX"
   ],
   "result": {
     "item": "minecolonies:blockhutfield"

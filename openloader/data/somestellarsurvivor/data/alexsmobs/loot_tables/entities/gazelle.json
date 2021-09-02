@@ -34,11 +34,10 @@
             }
           ],
           "name": "minecraft:mutton",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
-      "name": "gazelle",
       "rolls": 1
     },
     {
@@ -61,12 +60,13 @@
             }
           ],
           "name": "alexsmobs:gazelle_horn",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
       "name": "gazelle_horn",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

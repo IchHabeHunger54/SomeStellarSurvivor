@@ -1,11 +1,10 @@
 {
-  "group": "picket_fence",
   "key": {
     "C": {
       "item": "minecraft:light_blue_concrete"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [

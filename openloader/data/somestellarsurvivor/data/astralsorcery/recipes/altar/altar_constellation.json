@@ -8,13 +8,13 @@
   ],
   "key": {
     "A": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "B": {
       "item": "astralsorcery:marble_pillar"
     },
     "C": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     },
     "D": {
       "item": "astralsorcery:marble_chiseled"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:altar_constellation"
     }
   ],

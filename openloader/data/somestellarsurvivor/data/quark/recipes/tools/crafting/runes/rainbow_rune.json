@@ -1,21 +1,8 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "color_runes",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "cave_crystal_runes",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
-  "group": "quark:crystal_rune",
   "key": {
+    "A": {
+      "item": "quark:black_crystal"
+    },
     "B": {
       "item": "quark:blue_crystal"
     },
@@ -31,9 +18,6 @@
     "R": {
       "item": "quark:red_crystal"
     },
-    "S": {
-      "tag": "forge:stone"
-    },
     "V": {
       "item": "quark:violet_crystal"
     },
@@ -45,9 +29,9 @@
     }
   },
   "pattern": [
-    "RWV",
-    "OSI",
-    "YGB"
+    "ABG",
+    "IOR",
+    "VWY"
   ],
   "result": {
     "item": "quark:rainbow_rune"

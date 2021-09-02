@@ -10,11 +10,10 @@
       "item": "pamhc2foodextended:misopasteitem"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:taiyakiitem"
   },
   "type": "minecraft:crafting_shapeless"

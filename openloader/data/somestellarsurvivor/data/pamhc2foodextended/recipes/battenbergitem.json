@@ -7,7 +7,7 @@
       "tag": "forge:dough"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "item": "pamhc2foodextended:marzipanitem"
@@ -23,7 +23,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:battenbergitem"
   },
   "type": "minecraft:crafting_shapeless"

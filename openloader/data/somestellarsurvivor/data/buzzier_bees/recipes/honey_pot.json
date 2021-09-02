@@ -13,7 +13,6 @@
     "###"
   ],
   "result": {
-    "count": 1,
     "item": "buzzier_bees:honey_pot"
   },
   "type": "minecraft:crafting_shaped"

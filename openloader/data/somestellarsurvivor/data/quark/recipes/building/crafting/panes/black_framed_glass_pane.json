@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "framed_glass",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:black_framed_glass"

@@ -1,26 +1,7 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_bricks",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "stone_chiseled",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "diorite",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 1,
   "ingredient": {
-    "item": "minecraft:diorite"
+    "item": "quark:diorite_pavement"
   },
   "result": "quark:chiseled_diorite_bricks",
   "type": "minecraft:stonecutting"

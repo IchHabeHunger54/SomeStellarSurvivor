@@ -16,7 +16,7 @@
       "item": "minecraft:rotten_flesh"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "astralsorcery:mantle"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:mantle"
     }
   ],

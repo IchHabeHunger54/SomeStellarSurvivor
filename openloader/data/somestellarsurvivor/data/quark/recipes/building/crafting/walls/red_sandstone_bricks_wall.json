@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "sandstone_bricks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:red_sandstone_bricks"

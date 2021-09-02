@@ -3,12 +3,6 @@
     {
       "entries": [
         {
-          "functions": [
-            {
-              "count": 1,
-              "function": "minecraft:set_count"
-            }
-          ],
           "name": "minecraft:bamboo",
           "type": "minecraft:item"
         }

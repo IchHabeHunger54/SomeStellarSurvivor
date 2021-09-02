@@ -1,0 +1,15 @@
+{
+  "key": {
+    "b": {
+      "item": "ceramics:unfired_porcelain"
+    }
+  },
+  "pattern": [
+    "bb",
+    "bb"
+  ],
+  "result": {
+    "item": "ceramics:unfired_porcelain_block"
+  },
+  "type": "minecraft:crafting_shaped"
+}

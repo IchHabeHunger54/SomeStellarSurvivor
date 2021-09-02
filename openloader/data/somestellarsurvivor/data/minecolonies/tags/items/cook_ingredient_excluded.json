@@ -1,6 +1,8 @@
 {
   "replace": true,
   "values": [
-    "#forge:grain"
+    "#minecolonies:baker_ingredient",
+    "#minecolonies:baker_ingredient_excluded",
+    "#minecolonies:baker_product"
   ]
 }

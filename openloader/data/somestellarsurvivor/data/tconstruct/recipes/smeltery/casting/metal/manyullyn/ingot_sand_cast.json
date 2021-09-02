@@ -9,7 +9,7 @@
     "tag": "tconstruct:molten_manyullyn"
   },
   "result": {
-    "tag": "forge:ingots/manyullyn"
+    "item": "tconstruct:manyullyn_ingot"
   },
   "type": "tconstruct:casting_table"
 }

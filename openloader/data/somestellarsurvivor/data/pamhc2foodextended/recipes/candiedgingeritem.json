@@ -4,14 +4,13 @@
       "tag": "forge:tool_saucepan"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:crops/ginger"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:candiedgingeritem"
   },
   "type": "minecraft:crafting_shapeless"

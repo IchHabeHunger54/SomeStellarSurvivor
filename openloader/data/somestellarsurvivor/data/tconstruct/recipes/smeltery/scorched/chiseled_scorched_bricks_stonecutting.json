@@ -1,13 +1,7 @@
 {
   "count": 1,
   "ingredient": {
-    "base": {
-      "tag": "tconstruct:scorched_blocks"
-    },
-    "type": "mantle:without",
-    "without": {
-      "item": "tconstruct:chiseled_scorched_bricks"
-    }
+    "item": "tconstruct:scorched_road"
   },
   "result": "tconstruct:chiseled_scorched_bricks",
   "type": "minecraft:stonecutting"

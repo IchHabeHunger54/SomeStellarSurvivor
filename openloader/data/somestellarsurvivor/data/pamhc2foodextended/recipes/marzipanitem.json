@@ -4,14 +4,13 @@
       "tag": "forge:tool_mixingbowl"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     },
     {
       "tag": "forge:crops/almond"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:marzipanitem"
   },
   "type": "minecraft:crafting_shapeless"

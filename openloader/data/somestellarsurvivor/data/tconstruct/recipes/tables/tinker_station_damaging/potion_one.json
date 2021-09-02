@@ -1,7 +1,6 @@
 {
   "damage_amount": 25,
   "ingredient": {
-    "count": 1,
     "item": "minecraft:potion",
     "nbt": "{Potion:\"minecraft:harming\"}",
     "type": "forge:nbt"

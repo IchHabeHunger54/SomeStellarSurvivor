@@ -6,7 +6,7 @@
           "functions": [
             {
               "count": {
-                "max": 2,
+                "max": 1,
                 "min": 0
               },
               "function": "set_count"
@@ -20,12 +20,12 @@
             }
           ],
           "name": "alexsmobs:maggot",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
-      "name": "fly",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

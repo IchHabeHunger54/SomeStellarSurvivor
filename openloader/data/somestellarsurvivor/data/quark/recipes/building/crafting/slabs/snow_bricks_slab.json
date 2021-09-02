@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "snow_bricks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:snow_bricks"

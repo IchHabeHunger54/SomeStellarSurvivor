@@ -1,23 +1,28 @@
 {
+  "parent": "root.json",
+  "text": "kangaroo.txt",
+  "title": "Kangaroo",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:kangaroo",
-      "follow_cursor": false,
-      "page": 0,
+      "x": 105,
+      "y": 95,
+      "page" : 0,
+      "scale": 1.15,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "scale": 1.15,
-      "x": 105,
-      "y": 95
+      "follow_cursor": false
     }
-  ],
-  "images": [],
-  "item_renders": [],
-  "linked_page_buttons": [],
-  "parent": "root.json",
-  "recipes": [],
-  "tabula_renders": [],
-  "text": "kangaroo.txt",
-  "title": "Kangaroo"
+  ]
 }

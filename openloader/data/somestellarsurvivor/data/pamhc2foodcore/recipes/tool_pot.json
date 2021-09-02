@@ -1,7 +1,7 @@
 {
   "key": {
     "a": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "b": {
       "item": "minecraft:brick"

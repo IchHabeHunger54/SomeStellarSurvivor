@@ -1,9 +1,8 @@
 {
-  "cookingtime": 200,
-  "experience": 0.35,
+  "cookingtime": 600,
   "ingredient": {
     "item": "aquaculture:fish_fillet_raw"
   },
   "result": "aquaculture:fish_fillet_cooked",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

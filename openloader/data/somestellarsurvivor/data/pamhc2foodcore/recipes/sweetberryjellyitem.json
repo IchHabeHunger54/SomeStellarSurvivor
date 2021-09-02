@@ -7,11 +7,10 @@
       "tag": "forge:sweetberryjuice"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodcore:sweetberryjellyitem"
   },
   "type": "minecraft:crafting_shapeless"

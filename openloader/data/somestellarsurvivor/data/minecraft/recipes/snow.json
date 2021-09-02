@@ -5,10 +5,10 @@
     }
   },
   "pattern": [
-    "###"
+    "##"
   ],
   "result": {
-    "count": 6,
+    "count": 4,
     "item": "minecraft:snow"
   },
   "type": "minecraft:crafting_shaped"

@@ -3,14 +3,17 @@
     "#": {
       "tag": "minecraft:logs"
     },
+    "S": {
+      "item": "minecraft:smooth_stone"
+    },
     "X": {
       "item": "minecraft:furnace"
     }
   },
   "pattern": [
-    " # ",
+    "S#S",
     "#X#",
-    " # "
+    "S#S"
   ],
   "result": {
     "item": "minecraft:smoker"

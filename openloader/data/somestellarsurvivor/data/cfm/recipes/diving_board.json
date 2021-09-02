@@ -5,14 +5,10 @@
     },
     "G": {
       "item": "minecraft:light_gray_concrete"
-    },
-    "S": {
-      "tag": "forge:slimeballs"
     }
   },
   "pattern": [
     "CCC",
-    "SSS",
     "G  "
   ],
   "result": {

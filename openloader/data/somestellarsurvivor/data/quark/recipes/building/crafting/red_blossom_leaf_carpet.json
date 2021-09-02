@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "leaf_carpet",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "blossom_trees",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:red_blossom_leaves"

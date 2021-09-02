@@ -7,11 +7,10 @@
       "tag": "forge:crops/apple"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:applecideritem"
   },
   "type": "minecraft:crafting_shapeless"

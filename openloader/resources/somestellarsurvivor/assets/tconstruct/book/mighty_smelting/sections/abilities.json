@@ -1,85 +1,86 @@
 [
+ 
   {
-    "data": "abilities/general.json",
     "name": "general",
-    "type": "tinkers_text"
+    "type": "tinkers_text",
+    "data": "abilities/general.json"
   },
   {
-    "data": "abilities/general/dual_wielding.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/general/dual_wielding.json"
   },
   {
-    "data": "abilities/general/draconic.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/general/draconic.json"
   },
   {
-    "data": "abilities/general/gilded.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/general/gilded.json"
   },
   {
-    "data": "abilities/general/luck.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/general/luck.json"
   },
   {
-    "data": "abilities/general/melting.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/general/melting.json"
   },
   {
-    "data": "abilities/general/unbreakable.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/general/unbreakable.json"
   },
   {
-    "data": "abilities/harvest.json",
     "name": "harvest",
-    "type": "tinkers_text"
+    "type": "tinkers_text",
+    "data": "abilities/harvest.json"
   },
   {
-    "data": "abilities/harvest/autosmelt.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/harvest/autosmelt.json"
   },
   {
-    "data": "abilities/harvest/exchanging.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/harvest/exchanging.json"
   },
   {
-    "data": "abilities/harvest/expanded.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/harvest/expanded.json"
   },
   {
-    "data": "abilities/harvest/reach.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/harvest/reach.json"
   },
   {
-    "data": "abilities/harvest/silky.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/harvest/silky.json"
   },
   {
-    "data": "abilities/interact.json",
     "name": "interact",
-    "type": "tinkers_text"
+    "type": "tinkers_text",
+    "data": "abilities/interact.json"
   },
   {
-    "data": "abilities/interact/bucketing.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/interact/bucketing.json"
   },
   {
-    "data": "abilities/interact/firestarter.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/interact/firestarter.json"
   },
   {
-    "data": "abilities/interact/glowing.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/interact/glowing.json"
   },
   {
-    "data": "abilities/interact/pathing.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/interact/pathing.json"
   },
   {
-    "data": "abilities/interact/stripping.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/interact/stripping.json"
   },
   {
-    "data": "abilities/interact/tilling.json",
-    "type": "modifier"
+    "type": "modifier",
+    "data": "abilities/interact/tilling.json"
   }
 ]

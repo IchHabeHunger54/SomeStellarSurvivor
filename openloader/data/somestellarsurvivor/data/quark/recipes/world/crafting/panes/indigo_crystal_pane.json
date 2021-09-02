@@ -1,11 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "cave_crystal_underground_biome",
-      "type": "quark:flag"
-    }
-  ],
-  "group": "quark:crystal_sheet",
   "key": {
     "#": {
       "item": "quark:indigo_crystal"

@@ -7,11 +7,10 @@
       "tag": "forge:fruits/pear"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:pearjellyitem"
   },
   "type": "minecraft:crafting_shapeless"

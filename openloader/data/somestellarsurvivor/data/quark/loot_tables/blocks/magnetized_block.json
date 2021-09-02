@@ -1,9 +1,3 @@
 {
-  "pools": [
-    {
-      "entries": [],
-      "rolls": 0
-    }
-  ],
   "type": "minecraft:block"
 }

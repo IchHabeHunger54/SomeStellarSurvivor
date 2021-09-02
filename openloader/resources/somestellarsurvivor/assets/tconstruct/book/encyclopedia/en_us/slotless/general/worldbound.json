@@ -1,13 +1,13 @@
 {
-  "effects": [
-    "Single use",
-    "Slotless"
-  ],
   "modifier_id": "tconstruct:worldbound",
-  "more_text_space": true,
   "text": [
     {
       "text": "Alternative to netherite that makes tools invulnerable when dropped without requiring an upgrade slot. Does not grant any stat boosts"
     }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Single use",
+    "Slotless"
   ]
 }

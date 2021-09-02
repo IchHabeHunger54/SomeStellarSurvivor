@@ -1,6 +1,8 @@
 {
   "replace": true,
   "values": [
-    "#forge:ingots"
+    "#minecolonies:fletcher_ingredient",
+    "#minecolonies:fletcher_ingredient_excluded",
+    "#minecolonies:fletcher_product"
   ]
 }

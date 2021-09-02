@@ -7,11 +7,10 @@
       "tag": "forge:fruits/rambutan"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:rambutanjellyitem"
   },
   "type": "minecraft:crafting_shapeless"

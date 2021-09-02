@@ -1,8 +1,5 @@
 {
-  "hidden": [
-    "structurereq",
-    "sgui2"
-  ],
+  "title": "Smeltery",
   "subText": "The Mighty Smeltery is yours to control.",
-  "title": "Smeltery"
+  "hidden": ["structurereq", "sgui2"]
 }

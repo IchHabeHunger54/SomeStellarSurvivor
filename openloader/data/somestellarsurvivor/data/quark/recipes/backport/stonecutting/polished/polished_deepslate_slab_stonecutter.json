@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "deepslate",
-      "type": "quark:flag"
-    }
-  ],
   "count": 2,
   "ingredient": {
     "item": "quark:polished_deepslate"

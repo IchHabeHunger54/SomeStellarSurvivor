@@ -1,12 +1,12 @@
 {
-  "image": {
-    "file": "tconstruct:book/images/alloyer.png"
+  "title":"Alloyer",
+    "image": {
+     "file": "tconstruct:book/images/alloyer.png"
   },
   "text": [
     {
-      "paragraph": true,
-      "text": "Alloy Ahead!"
+      "text": "Alloy Ahead!",
+      "paragraph": true
     }
-  ],
-  "title": "Alloyer"
+	]
 }

@@ -1,0 +1,21 @@
+{
+  "key": {
+    "c": {
+      "tag": "ceramics:terracotta_cisterns",
+      "type": "ceramics:no_nbt"
+    },
+    "d": {
+      "tag": "forge:dyes/brown"
+    }
+  },
+  "pattern": [
+    "ccc",
+    "cdc",
+    "ccc"
+  ],
+  "result": {
+    "count": 8,
+    "item": "ceramics:brown_terracotta_cistern"
+  },
+  "type": "minecraft:crafting_shaped"
+}

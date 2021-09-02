@@ -1,0 +1,20 @@
+{
+  "key": {
+    "B": {
+      "item": "minecraft:bricks"
+    },
+    "i": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BiB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "item": "ceramics:lava_bricks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

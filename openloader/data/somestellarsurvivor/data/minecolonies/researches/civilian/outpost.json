@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/citizencapaddition": 1
-    }
-  ],
-  "icon": "minecolonies:blockhutcitizen:50",
   "parentResearch": "minecolonies:civilian/keen",
+  "researchLevel": 2,
+  "icon": "minecolonies:blockhutcitizen:50",
   "requirements": [
     {
       "building": "citizen",
@@ -17,5 +13,9 @@
       "quantity": 64
     }
   ],
-  "researchLevel": 2
+  "effects": [
+    {
+      "minecolonies:effects/citizencapaddition": 1
+    }
+  ]
 }

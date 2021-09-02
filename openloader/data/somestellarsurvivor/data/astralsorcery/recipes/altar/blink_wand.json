@@ -10,18 +10,17 @@
       "item": "astralsorcery:marble_runed"
     },
     "B": {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     },
     "C": {
       "tag": "forge:ender_pearls"
     },
     "D": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     }
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:blink_wand"
     }
   ],

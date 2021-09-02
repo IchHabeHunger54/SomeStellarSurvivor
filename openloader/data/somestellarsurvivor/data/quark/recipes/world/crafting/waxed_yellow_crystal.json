@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "cave_crystal_underground_biome",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "item": "quark:yellow_crystal"

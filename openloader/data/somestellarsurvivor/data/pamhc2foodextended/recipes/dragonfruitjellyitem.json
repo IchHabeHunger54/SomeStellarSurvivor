@@ -7,11 +7,10 @@
       "tag": "forge:fruits/dragonfruit"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:dragonfruitjellyitem"
   },
   "type": "minecraft:crafting_shapeless"

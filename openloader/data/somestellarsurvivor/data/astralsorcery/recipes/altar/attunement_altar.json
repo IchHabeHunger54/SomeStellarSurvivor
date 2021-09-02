@@ -26,12 +26,11 @@
       "type": "astralsorcery:crystal"
     },
     "E": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     }
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:attunement_altar"
     }
   ],

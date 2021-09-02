@@ -5,7 +5,7 @@
     "name": "tconstruct:molten_manyullyn"
   },
   "result": {
-    "tag": "forge:storage_blocks/manyullyn"
+    "item": "tconstruct:manyullyn_block"
   },
   "type": "tconstruct:casting_basin"
 }

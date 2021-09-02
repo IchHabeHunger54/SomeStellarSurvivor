@@ -7,11 +7,10 @@
       "tag": "forge:fruits/pineapple"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:pineapplejellyitem"
   },
   "type": "minecraft:crafting_shapeless"

@@ -1,15 +1,6 @@
 {
-  "conditions": [
-    {
-      "flag": "vertical_slabs",
-      "type": "abnormals_core:quark_flag"
-    }
-  ],
-  "count": 1,
+  "count": 2,
   "ingredient": [
-    {
-      "item": "minecraft:honeycomb_block"
-    },
     {
       "item": "buzzier_bees:honeycomb_bricks"
     }

@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "astralsorcery:black_marble_raw",
+    "astralsorcery:black_marble_arch",
+    "astralsorcery:black_marble_bricks",
+    "astralsorcery:black_marble_chiseled",
+    "astralsorcery:black_marble_engraved",
+    "astralsorcery:black_marble_pillar",
+    "astralsorcery:black_marble_runed"
+  ]
+}

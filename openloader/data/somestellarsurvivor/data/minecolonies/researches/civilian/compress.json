@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/regenerationmultiplier": 4
-    }
-  ],
-  "icon": "minecolonies:textures/icons/research/regeneration4.png",
   "parentResearch": "minecolonies:civilian/bandages",
+  "researchLevel": 5,
+  "icon": "minecolonies:textures/icons/research/regeneration4.png",
   "requirements": [
     {
       "building": "library",
@@ -17,5 +13,9 @@
       "quantity": 32
     }
   ],
-  "researchLevel": 5
+  "effects": [
+    {
+      "minecolonies:effects/regenerationmultiplier": 4
+    }
+  ]
 }

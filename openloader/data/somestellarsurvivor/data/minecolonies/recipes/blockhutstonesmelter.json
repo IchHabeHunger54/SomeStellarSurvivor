@@ -1,8 +1,5 @@
 {
   "key": {
-    "A": {
-      "item": "minecraft:stone_bricks"
-    },
     "F": {
       "item": "minecraft:furnace"
     },
@@ -15,7 +12,7 @@
   },
   "pattern": [
     "XTX",
-    "AFA",
+    "XFX",
     "XXX"
   ],
   "result": {

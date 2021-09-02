@@ -1,8 +1,7 @@
 {
-  "group": "chest_minecart",
   "key": {
     "A": {
-      "tag": "forge:chests/wooden"
+      "item": "minecraft:chest"
     },
     "B": {
       "item": "minecraft:minecart"

@@ -1,9 +1,9 @@
 {
   "ingredient": {
-    "tag": "forge:storage_blocks/iron"
+    "item": "minecraft:iron_block"
   },
   "leftover": {
-    "tag": "forge:ingots/iron"
+    "item": "minecraft:iron_ingot"
   },
   "material": "tconstruct:iron",
   "needed": 1,

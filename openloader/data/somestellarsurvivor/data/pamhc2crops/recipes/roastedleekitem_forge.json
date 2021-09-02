@@ -1,9 +1,8 @@
 {
   "cookingtime": 200,
-  "experience": 0.35,
   "ingredient": {
     "tag": "forge:crops/leek"
   },
   "result": "pamhc2crops:roastedleekitem",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

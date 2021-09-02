@@ -1,11 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "variant_chests",
-      "type": "quark:flag"
-    }
-  ],
-  "group": "acacia_chest",
   "key": {
     "#": {
       "item": "minecraft:acacia_planks"
@@ -17,7 +10,6 @@
     "###"
   ],
   "result": {
-    "count": 1,
     "item": "quark:acacia_chest"
   },
   "type": "minecraft:crafting_shaped"

@@ -1,6 +1,6 @@
 {
-  "coverColor": 0x616161,
-  "drawSectionListText": true,
-  "subtitle": "by Thruul M'Gon",
-  "title": "Mighty Smelting"
+    "title": "Mighty Smelting",
+    "subtitle": "by Thruul M'Gon",
+    "drawSectionListText": true,
+    "coverColor": 0x616161
 }

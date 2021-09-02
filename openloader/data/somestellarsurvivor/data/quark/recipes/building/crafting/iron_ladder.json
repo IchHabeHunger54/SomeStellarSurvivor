@@ -1,16 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "iron_ladder",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "N": {
-      "tag": "forge:nuggets/iron"
+      "item": "minecraft:iron_nugget"
     }
   },
   "pattern": [

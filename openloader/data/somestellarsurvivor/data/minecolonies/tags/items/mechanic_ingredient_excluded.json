@@ -1,4 +1,8 @@
 {
   "replace": true,
-  "values": []
+  "values": [
+    "#minecolonies:glassblower_ingredient",
+    "#minecolonies:glassblower_ingredient_excluded",
+    "#minecolonies:glassblower_product"
+  ]
 }

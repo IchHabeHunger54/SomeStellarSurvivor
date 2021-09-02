@@ -21,7 +21,7 @@
       "item": "astralsorcery:resonating_gem"
     },
     "D": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     },
     "E": {
       "item": "astralsorcery:black_marble_runed"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:refraction_table"
     }
   ],

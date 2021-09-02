@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/silicon_bronze"
+    "item": "tconstruct:tinkers_bronze_ingot"
   },
   "result": {
     "amount": 144,

@@ -1,9 +1,12 @@
 {
-  "cookingtime": 200,
-  "experience": 0.1,
-  "ingredient": {
-    "item": "minecraft:netherrack"
+  "ingredients": [
+    {
+      "item": "minecraft:nether_bricks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:nether_brick"
   },
-  "result": "minecraft:nether_brick",
-  "type": "minecraft:smelting"
+  "type": "minecraft:crafting_shapeless"
 }

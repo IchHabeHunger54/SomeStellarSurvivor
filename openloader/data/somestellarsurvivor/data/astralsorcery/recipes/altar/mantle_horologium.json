@@ -13,7 +13,7 @@
   "focus_constellation": "astralsorcery:horologium",
   "key": {
     "A": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "B": {
       "item": "astralsorcery:mantle"
@@ -29,7 +29,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:mantle"
     }
   ],
@@ -43,10 +42,10 @@
   "recipe_class": "astralsorcery:constellation_base_nbt_copy",
   "relay_inputs": [
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     },
     {
       "tag": "forge:ender_pearls"

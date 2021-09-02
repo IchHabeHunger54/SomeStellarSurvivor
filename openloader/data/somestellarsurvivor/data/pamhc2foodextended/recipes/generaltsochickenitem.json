@@ -10,7 +10,7 @@
       "tag": "forge:crops/broccoli"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:flour"
@@ -23,7 +23,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:generaltsochickenitem"
   },
   "type": "minecraft:crafting_shapeless"

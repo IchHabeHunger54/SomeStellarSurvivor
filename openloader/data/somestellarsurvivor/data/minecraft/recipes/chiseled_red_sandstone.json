@@ -1,14 +1,15 @@
 {
   "key": {
-    "#": {
-      "item": "minecraft:red_sandstone_slab"
+    "N": {
+      "item": "quark:red_sandstone_bricks"
     }
   },
   "pattern": [
-    "#",
-    "#"
+    "NN",
+    "NN"
   ],
   "result": {
+    "count": 4,
     "item": "minecraft:chiseled_red_sandstone"
   },
   "type": "minecraft:crafting_shaped"

@@ -1,10 +1,7 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutsmeltery": 1
-    }
-  ],
+  "researchLevel": 1,
+  "sortOrder": 5,
   "icon": "minecolonies:blockhutsmeltery",
   "requirements": [
     {
@@ -16,6 +13,9 @@
       "quantity": 4
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 5
+  "effects": [
+    {
+      "minecolonies:effects/blockhutsmeltery": 1
+    }
+  ]
 }

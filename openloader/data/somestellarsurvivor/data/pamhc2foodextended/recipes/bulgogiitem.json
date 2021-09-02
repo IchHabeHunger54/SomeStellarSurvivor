@@ -13,7 +13,7 @@
       "tag": "forge:condiments/soysauce"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:spices/blackpepper"
@@ -29,7 +29,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:bulgogiitem"
   },
   "type": "minecraft:crafting_shapeless"

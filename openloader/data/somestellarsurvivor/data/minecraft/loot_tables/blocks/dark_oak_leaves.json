@@ -14,19 +14,6 @@
                       "predicate": {
                         "tag": "forge:shears"
                       }
-                    },
-                    {
-                      "condition": "minecraft:match_tool",
-                      "predicate": {
-                        "enchantments": [
-                          {
-                            "enchantment": "minecraft:silk_touch",
-                            "levels": {
-                              "min": 1
-                            }
-                          }
-                        ]
-                      }
                     }
                   ]
                 }
@@ -41,9 +28,9 @@
                 },
                 {
                   "chances": [
+                    0.025,
                     0.05,
-                    0.0625,
-                    0.083333336,
+                    0.075,
                     0.1
                   ],
                   "condition": "minecraft:table_bonus",
@@ -71,83 +58,6 @@
                 "predicate": {
                   "tag": "forge:shears"
                 }
-              },
-              {
-                "condition": "minecraft:match_tool",
-                "predicate": {
-                  "enchantments": [
-                    {
-                      "enchantment": "minecraft:silk_touch",
-                      "levels": {
-                        "min": 1
-                      }
-                    }
-                  ]
-                }
-              }
-            ]
-          }
-        }
-      ],
-      "entries": [
-        {
-          "conditions": [
-            {
-              "chances": [
-                0.02,
-                0.022222223,
-                0.025,
-                0.033333335,
-                0.1
-              ],
-              "condition": "minecraft:table_bonus",
-              "enchantment": "minecraft:fortune"
-            }
-          ],
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            },
-            {
-              "function": "minecraft:explosion_decay"
-            }
-          ],
-          "name": "minecraft:stick",
-          "type": "minecraft:item"
-        }
-      ],
-      "rolls": 1
-    },
-    {
-      "conditions": [
-        {
-          "condition": "minecraft:inverted",
-          "term": {
-            "condition": "minecraft:alternative",
-            "terms": [
-              {
-                "condition": "minecraft:match_tool",
-                "predicate": {
-                  "tag": "forge:shears"
-                }
-              },
-              {
-                "condition": "minecraft:match_tool",
-                "predicate": {
-                  "enchantments": [
-                    {
-                      "enchantment": "minecraft:silk_touch",
-                      "levels": {
-                        "min": 1
-                      }
-                    }
-                  ]
-                }
               }
             ]
           }
@@ -161,17 +71,17 @@
             },
             {
               "chances": [
-                0.005,
-                0.0055555557,
-                0.00625,
-                0.008333334,
-                0.025
+                0.01,
+                0.02,
+                0.03,
+                0.04,
+                0.05
               ],
               "condition": "minecraft:table_bonus",
               "enchantment": "minecraft:fortune"
             }
           ],
-          "name": "minecraft:apple",
+          "name": "minecraft:stick",
           "type": "minecraft:item"
         }
       ],

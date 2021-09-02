@@ -10,7 +10,7 @@
       "item": "astralsorcery:marble_runed"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "tag": "forge:dyes/blue"
@@ -18,7 +18,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:grapple_wand"
     }
   ],

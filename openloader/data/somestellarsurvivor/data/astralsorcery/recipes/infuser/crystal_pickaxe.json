@@ -9,7 +9,6 @@
     "item": "astralsorcery:crystal_pickaxe"
   },
   "output": {
-    "count": 1,
     "item": "astralsorcery:infused_crystal_pickaxe"
   },
   "type": "astralsorcery:infuser"

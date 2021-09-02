@@ -19,11 +19,10 @@
       "tag": "forge:egg"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:strawberrysouffleitem"
   },
   "type": "minecraft:crafting_shapeless"

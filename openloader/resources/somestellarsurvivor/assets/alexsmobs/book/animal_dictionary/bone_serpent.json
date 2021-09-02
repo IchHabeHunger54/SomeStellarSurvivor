@@ -1,67 +1,72 @@
 {
+  "parent": "root.json",
+  "text": "bone_serpent.txt",
+  "title": "Bone Serpent",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:bone_serpent_part",
-      "follow_cursor": false,
-      "page": 0,
-      "rot_x": 30,
-      "rot_y": 270,
-      "rot_z": 0,
-      "scale": 0.6,
       "x": 40,
-      "y": 87
-    },
-    {
-      "entity": "alexsmobs:bone_serpent_part",
-      "follow_cursor": false,
-      "page": 0,
+      "y": 87,
+      "page" : 0,
+      "scale": 0.6,
       "rot_x": 30,
       "rot_y": 270,
       "rot_z": 0,
-      "scale": 0.8,
+      "follow_cursor": false
+    },
+    {
+      "entity": "alexsmobs:bone_serpent_part",
       "x": 60,
-      "y": 90
-    },
-    {
-      "entity": "alexsmobs:bone_serpent_part",
-      "follow_cursor": false,
-      "page": 0,
+      "y": 90,
+      "page" : 0,
+      "scale": 0.8,
       "rot_x": 30,
       "rot_y": 270,
       "rot_z": 0,
-      "scale": 0.8,
+      "follow_cursor": false
+    },
+    {
+      "entity": "alexsmobs:bone_serpent_part",
       "x": 80,
-      "y": 90
-    },
-    {
-      "entity": "alexsmobs:bone_serpent_part",
-      "follow_cursor": false,
-      "page": 0,
+      "y": 90,
+      "page" : 0,
+      "scale": 0.8,
       "rot_x": 30,
       "rot_y": 270,
       "rot_z": 0,
-      "scale": 0.8,
+      "follow_cursor": false
+    },
+    {
+      "entity": "alexsmobs:bone_serpent_part",
       "x": 100,
-      "y": 90
+      "y": 90,
+      "page" : 0,
+      "scale": 0.8,
+      "rot_x": 30,
+      "rot_y": 270,
+      "rot_z": 0,
+      "follow_cursor": false
     },
     {
       "entity": "alexsmobs:bone_serpent",
-      "follow_cursor": false,
-      "page": 0,
+      "x": 130,
+      "y": 92,
+      "page" : 0,
+      "scale": 0.8,
       "rot_x": 30,
       "rot_y": 230,
       "rot_z": 0,
-      "scale": 0.8,
-      "x": 130,
-      "y": 92
+      "follow_cursor": false
     }
-  ],
-  "images": [],
-  "item_renders": [],
-  "linked_page_buttons": [],
-  "parent": "root.json",
-  "recipes": [],
-  "tabula_renders": [],
-  "text": "bone_serpent.txt",
-  "title": "Bone Serpent"
+  ]
 }

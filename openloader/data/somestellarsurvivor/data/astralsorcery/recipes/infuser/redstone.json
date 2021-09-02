@@ -6,10 +6,9 @@
   "duration": 100,
   "fluidInput": "astralsorcery:liquid_starlight",
   "input": {
-    "tag": "forge:dusts/redstone"
+    "item": "minecraft:redstone"
   },
   "output": {
-    "count": 1,
     "item": "minecraft:gunpowder"
   },
   "type": "astralsorcery:infuser"

@@ -1,6 +1,6 @@
 {
   "cast": {
-    "tag": "forge:cobblestone"
+    "item": "minecraft:cobblestone"
   },
   "cast_consumed": true,
   "cooling_time": 39,

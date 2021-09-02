@@ -9,7 +9,6 @@
     "tag": "forge:ores/redstone"
   },
   "output": {
-    "count": 1,
     "item": "minecraft:redstone_block"
   },
   "type": "astralsorcery:infuser"

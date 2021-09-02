@@ -1,6 +1,5 @@
 {
   "ingredient": {
-    "count": 1,
     "item": "tconstruct:copper_can",
     "type": "forge:nbt"
   },

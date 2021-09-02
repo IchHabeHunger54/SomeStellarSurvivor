@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    "#forge:sugar/sugar"
+    "minecraft:sugar"
   ]
 }

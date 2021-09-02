@@ -1,12 +1,5 @@
 {
-  "conditions": [
-    {
-      "flag": "deepslate",
-      "type": "quark:flag"
-    }
-  ],
   "cookingtime": 200,
-  "experience": 0.1,
   "ingredient": {
     "item": "quark:cobbled_deepslate"
   },

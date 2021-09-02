@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/tooldurabilitymultiplier": 3
-    }
-  ],
-  "icon": "minecraft:iron_pickaxe",
   "parentResearch": "minecolonies:technology/hardened",
+  "researchLevel": 4,
+  "icon": "minecraft:iron_pickaxe",
   "requirements": [
     {
       "building": "blacksmith",
@@ -17,5 +13,9 @@
       "quantity": 32
     }
   ],
-  "researchLevel": 4
+  "effects": [
+    {
+      "minecolonies:effects/tooldurabilitymultiplier": 3
+    }
+  ]
 }

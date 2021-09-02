@@ -7,11 +7,10 @@
       "tag": "forge:fruits/papaya"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:papayajellyitem"
   },
   "type": "minecraft:crafting_shapeless"

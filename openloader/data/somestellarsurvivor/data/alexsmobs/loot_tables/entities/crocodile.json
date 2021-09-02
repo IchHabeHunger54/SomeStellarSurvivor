@@ -20,11 +20,10 @@
             }
           ],
           "name": "alexsmobs:crocodile_scute",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
-      "name": "crocodile",
       "rolls": 1
     },
     {
@@ -47,11 +46,10 @@
             }
           ],
           "name": "alexsmobs:crocodile_egg",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
-      "name": "crocodile",
       "rolls": 1
     }
   ]

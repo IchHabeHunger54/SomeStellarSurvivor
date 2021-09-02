@@ -10,7 +10,7 @@
   ],
   "key": {
     "A": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "B": {
       "item": "astralsorcery:glass_lens"
@@ -21,7 +21,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:infused_glass"
     }
   ],

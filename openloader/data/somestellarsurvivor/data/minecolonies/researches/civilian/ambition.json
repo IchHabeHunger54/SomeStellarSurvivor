@@ -1,10 +1,7 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutmysticalsite": 1
-    }
-  ],
+  "researchLevel": 1,
+  "sortOrder": 5,
   "icon": "minecolonies:blockhutmysticalsite",
   "requirements": [
     {
@@ -12,6 +9,9 @@
       "quantity": 1
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 5
+  "effects": [
+    {
+      "minecolonies:effects/blockhutmysticalsite": 1
+    }
+  ]
 }

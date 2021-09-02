@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "thatch",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "minecraft:wheat"
@@ -15,7 +9,6 @@
     "##"
   ],
   "result": {
-    "count": 4,
     "item": "quark:thatch"
   },
   "type": "minecraft:crafting_shaped"

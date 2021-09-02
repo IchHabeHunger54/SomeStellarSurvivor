@@ -1,13 +1,11 @@
 {
   "display": {
-    "count": 1,
     "item": "minecraft:cake"
   },
   "input": [
     {
       "block": "minecraft:pumpkin",
       "display": {
-        "count": 1,
         "item": "minecraft:pumpkin"
       }
     }

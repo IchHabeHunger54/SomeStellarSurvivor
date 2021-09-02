@@ -1,15 +1,8 @@
 {
-  "conditions": [
-    {
-      "flag": "deepslate",
-      "type": "quark:flag"
-    }
-  ],
-  "cookingtime": 200,
-  "experience": 0.1,
+  "cookingtime": 100,
   "ingredient": {
     "item": "quark:deepslate_tiles"
   },
   "result": "quark:cracked_deepslate_tiles",
-  "type": "minecraft:smelting"
+  "type": "ceramics:kiln"
 }

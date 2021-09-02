@@ -1,23 +1,28 @@
 {
+  "parent": "root.json",
+  "text": "mimic_octopus.txt",
+  "title": "Mimic Octopus",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:mimic_octopus",
-      "follow_cursor": false,
-      "page": 0,
+      "x": 80,
+      "y": 75,
+      "page" : 0,
+      "scale": 1.9,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "scale": 1.9,
-      "x": 80,
-      "y": 75
+      "follow_cursor": false
     }
-  ],
-  "images": [],
-  "item_renders": [],
-  "linked_page_buttons": [],
-  "parent": "root.json",
-  "recipes": [],
-  "tabula_renders": [],
-  "text": "mimic_octopus.txt",
-  "title": "Mimic Octopus"
+  ]
 }

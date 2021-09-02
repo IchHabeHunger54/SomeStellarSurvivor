@@ -6,7 +6,7 @@
     }
   ],
   "ingredient": {
-    "tag": "forge:ores/diamond"
+    "item": "minecraft:diamond_ore"
   },
   "result": {
     "amount": 144,

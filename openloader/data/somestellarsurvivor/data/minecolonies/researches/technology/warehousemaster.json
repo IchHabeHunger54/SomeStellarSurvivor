@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/recipemodeunlock": 1
-    }
-  ],
-  "icon": "minecolonies:blockminecoloniesrack",
   "parentResearch": "minecolonies:technology/memoryaid",
+  "researchLevel": 3,
+  "subtitle": "com.minecolonies.research.technology.warehousemaster.subtitle",
+  "icon": "minecolonies:blockminecoloniesrack",
   "requirements": [
     {
       "building": "sawmill",
@@ -17,7 +14,10 @@
       "quantity": 3
     }
   ],
-  "researchLevel": 3,
-  "sortOrder": 2,
-  "subtitle": "com.minecolonies.research.technology.warehousemaster.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/recipemodeunlock": 1
+    }
+  ],
+  "sortOrder": 2
 }

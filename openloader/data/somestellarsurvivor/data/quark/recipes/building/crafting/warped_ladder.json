@@ -1,13 +1,7 @@
 {
-  "conditions": [
-    {
-      "flag": "variant_ladders",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "W": {
       "item": "minecraft:warped_planks"

@@ -19,10 +19,10 @@
       "tag": "minecraft:saplings"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     },
     "D": {
       "item": "astralsorcery:shifting_star"
@@ -30,7 +30,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:shifting_star_aevitas"
     }
   ],
@@ -49,7 +48,7 @@
       "item": "astralsorcery:illumination_powder"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
       "tag": "minecraft:saplings"
@@ -58,7 +57,7 @@
       "item": "astralsorcery:illumination_powder"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     }
   ],
   "starlight": 4800,

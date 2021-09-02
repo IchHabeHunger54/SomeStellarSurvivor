@@ -7,14 +7,13 @@
       "tag": "forge:fruits/gooseberry"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:dough"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:gooseberrypieitem"
   },
   "type": "minecraft:crafting_shapeless"

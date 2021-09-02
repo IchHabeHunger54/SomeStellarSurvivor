@@ -1,19 +1,19 @@
 {
   "key": {
     "#": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "X": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    "X X",
     "X#X",
-    "X X"
+    "X#X",
+    "X#X"
   ],
   "result": {
-    "count": 16,
+    "count": 6,
     "item": "minecraft:rail"
   },
   "type": "minecraft:crafting_shaped"

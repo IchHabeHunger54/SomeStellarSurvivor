@@ -4,7 +4,7 @@
       "item": "structurize:sceptergold"
     },
     "T": {
-      "item": "minecraft:glass"
+      "tag": "forge:glass"
     },
     "X": {
       "tag": "minecraft:planks"

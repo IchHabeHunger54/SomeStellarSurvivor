@@ -1,9 +1,0 @@
-{
-  "cookingtime": 400,
-  "experience": 1.0,
-  "ingredient": {
-    "item": "tconstruct:sky_slime_ball"
-  },
-  "result": "tconstruct:sky_slime_crystal",
-  "type": "minecraft:blasting"
-}

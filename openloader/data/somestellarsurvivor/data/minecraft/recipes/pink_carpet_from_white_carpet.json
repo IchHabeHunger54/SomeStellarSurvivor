@@ -1,11 +1,10 @@
 {
-  "group": "carpet",
   "key": {
     "#": {
-      "item": "minecraft:white_carpet"
+      "tag": "minecraft:carpets"
     },
     "$": {
-      "item": "minecraft:pink_dye"
+      "tag": "forge:dyes/pink"
     }
   },
   "pattern": [

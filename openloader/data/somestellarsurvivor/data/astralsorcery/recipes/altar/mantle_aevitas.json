@@ -16,7 +16,7 @@
       "tag": "minecraft:saplings"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "astralsorcery:mantle"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:mantle"
     }
   ],
@@ -49,7 +48,7 @@
       "tag": "minecraft:saplings"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
       "tag": "forge:seeds/wheat"

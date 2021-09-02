@@ -2,9 +2,6 @@
   "count": 1,
   "ingredient": [
     {
-      "item": "minecraft:honeycomb_block"
-    },
-    {
       "item": "buzzier_bees:honeycomb_bricks"
     }
   ],

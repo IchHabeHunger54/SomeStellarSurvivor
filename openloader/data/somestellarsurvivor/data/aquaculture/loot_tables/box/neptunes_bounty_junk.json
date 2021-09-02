@@ -1,92 +1,9 @@
 {
   "pools": [
     {
-      "entries": [
-        {
-          "name": "minecraft:air",
-          "type": "minecraft:item",
-          "weight": 15
-        },
-        {
-          "name": "aquaculture:driftwood",
-          "type": "minecraft:item",
-          "weight": 5
-        },
-        {
-          "name": "aquaculture:message_in_a_bottle",
-          "type": "minecraft:item",
-          "weight": 1
-        },
-        {
-          "conditions": [
-            {
-              "condition": "aquaculture:biome_tag_check",
-              "predicate": {
-                "exclude": [
-                  "SNOWY"
-                ],
-                "include": [
-                  "WATER",
-                  "BEACH",
-                  "SWAMP"
-                ]
-              }
-            },
-            {
-              "condition": "minecraft:inverted",
-              "term": {
-                "condition": "minecraft:location_check",
-                "predicate": {
-                  "biome": "minecraft:deep_frozen_ocean"
-                }
-              }
-            }
-          ],
-          "name": "minecraft:seagrass",
-          "type": "minecraft:item",
-          "weight": 10
-        },
-        {
-          "conditions": [
-            {
-              "condition": "aquaculture:biome_tag_check",
-              "predicate": {
-                "exclude": [
-                  "HOT",
-                  "SNOWY"
-                ],
-                "include": [
-                  "OCEAN",
-                  "BEACH"
-                ]
-              }
-            }
-          ],
-          "name": "minecraft:kelp",
-          "type": "minecraft:item",
-          "weight": 10
-        },
-        {
-          "conditions": [
-            {
-              "condition": "aquaculture:biome_tag_check",
-              "predicate": {
-                "exclude": [
-                  "OCEAN",
-                  "BEACH"
-                ]
-              }
-            }
-          ],
-          "name": "aquaculture:algae",
-          "type": "minecraft:item",
-          "weight": 10
-        }
-      ],
-      "rolls": {
-        "max": 13,
-        "min": 6
-      }
+      "entries": [],
+      "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:fishing"
 }

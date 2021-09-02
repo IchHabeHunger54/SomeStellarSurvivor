@@ -4,7 +4,7 @@
       "item": "tconstruct:scorched_brick"
     },
     "C": {
-      "tag": "forge:ingots/cobalt"
+      "item": "tconstruct:cobalt_ingot"
     }
   },
   "pattern": [

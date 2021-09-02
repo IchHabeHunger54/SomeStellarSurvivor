@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "tallow_and_candles",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "T": {
       "item": "quark:tallow"

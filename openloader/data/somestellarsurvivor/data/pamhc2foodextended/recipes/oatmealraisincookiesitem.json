@@ -7,14 +7,13 @@
       "tag": "forge:batter"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "item": "pamhc2foodextended:raisinsitem"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:oatmealraisincookiesitem"
   },
   "type": "minecraft:crafting_shapeless"

@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:gems/emerald"
+    "item": "minecraft:emerald"
   },
   "result": {
     "amount": 144,

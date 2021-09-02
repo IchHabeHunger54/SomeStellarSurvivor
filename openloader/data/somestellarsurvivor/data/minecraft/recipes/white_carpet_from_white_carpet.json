@@ -1,0 +1,20 @@
+{
+  "key": {
+    "#": {
+      "tag": "minecraft:carpets"
+    },
+    "$": {
+      "tag": "forge:dyes/white"
+    }
+  },
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:white_carpet"
+  },
+  "type": "minecraft:crafting_shaped"
+}

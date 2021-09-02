@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "stools",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "minecraft:red_wool"
@@ -18,7 +12,6 @@
     "WWW"
   ],
   "result": {
-    "count": 1,
     "item": "quark:red_stool"
   },
   "type": "minecraft:crafting_shaped"

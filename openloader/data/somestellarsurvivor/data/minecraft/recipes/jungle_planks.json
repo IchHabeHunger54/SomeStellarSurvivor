@@ -1,4 +1,12 @@
 {
-  "recipes": [],
-  "type": "forge:conditional"
+  "ingredients": [
+    {
+      "tag": "minecraft:jungle_logs"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:jungle_planks"
+  },
+  "type": "minecraft:crafting_shapeless"
 }

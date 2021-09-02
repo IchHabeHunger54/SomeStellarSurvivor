@@ -15,7 +15,7 @@
       "tag": "forge:dyes/black"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "tag": "forge:feathers"
@@ -29,7 +29,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:constellation_paper"
     }
   ],
@@ -43,10 +42,10 @@
   "recipe_class": "astralsorcery:constellation_base",
   "relay_inputs": [
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     },
     {
       "tag": "forge:ender_pearls"

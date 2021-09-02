@@ -1,10 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:iron_ingot"
-    },
-    "C": {
-      "item": "minecraft:cobblestone"
+      "item": "minecraft:piston"
     },
     "T": {
       "item": "structurize:sceptergold"
@@ -15,7 +12,7 @@
   },
   "pattern": [
     "XTX",
-    "CBC",
+    "XBX",
     "XXX"
   ],
   "result": {

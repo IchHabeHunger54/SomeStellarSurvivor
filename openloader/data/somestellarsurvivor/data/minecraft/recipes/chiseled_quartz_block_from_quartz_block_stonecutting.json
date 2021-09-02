@@ -1,7 +1,7 @@
 {
   "count": 1,
   "ingredient": {
-    "item": "minecraft:quartz_block"
+    "item": "minecraft:quartz_pillar"
   },
   "result": "minecraft:chiseled_quartz_block",
   "type": "minecraft:stonecutting"

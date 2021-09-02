@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/healingsaturationlimitaddition": 4
-    }
-  ],
-  "icon": "minecraft:honey_bottle",
   "parentResearch": "minecolonies:civilian/vitality",
+  "researchLevel": 5,
+  "icon": "minecraft:honey_bottle",
   "requirements": [
     {
       "building": "cook",
@@ -17,5 +13,9 @@
       "quantity": 32
     }
   ],
-  "researchLevel": 5
+  "effects": [
+    {
+      "minecolonies:effects/healingsaturationlimitaddition": 4
+    }
+  ]
 }

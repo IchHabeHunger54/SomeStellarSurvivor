@@ -1,11 +1,10 @@
 {
-  "group": "upgraded_fence",
   "key": {
     "L": {
       "item": "minecraft:spruce_log"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [

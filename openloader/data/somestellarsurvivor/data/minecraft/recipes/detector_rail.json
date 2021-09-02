@@ -3,17 +3,17 @@
     "#": {
       "item": "minecraft:stone_pressure_plate"
     },
-    "R": {
-      "item": "minecraft:redstone"
+    "S": {
+      "item": "minecraft:stick"
     },
     "X": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    "X X",
+    "XSX",
     "X#X",
-    "XRX"
+    "XSX"
   ],
   "result": {
     "count": 6,

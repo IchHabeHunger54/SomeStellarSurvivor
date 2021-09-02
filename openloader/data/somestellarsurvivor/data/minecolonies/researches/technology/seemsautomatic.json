@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockplacespeedmultiplier": 4
-    }
-  ],
-  "icon": "minecraft:blaze_powder",
   "parentResearch": "minecolonies:technology/tools",
+  "researchLevel": 5,
+  "subtitle": "com.minecolonies.research.technology.seemsautomatic.subtitle",
+  "icon": "minecraft:blaze_powder",
   "requirements": [
     {
       "building": "blacksmith",
@@ -17,6 +14,9 @@
       "quantity": 512
     }
   ],
-  "researchLevel": 5,
-  "subtitle": "com.minecolonies.research.technology.seemsautomatic.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/blockplacespeedmultiplier": 4
+    }
+  ]
 }

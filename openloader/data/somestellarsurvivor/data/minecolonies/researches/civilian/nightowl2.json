@@ -1,12 +1,10 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/workingdayhaddition": 2
-    }
-  ],
-  "icon": "minecraft:clock:2",
   "parentResearch": "minecolonies:civilian/nightowl",
+  "researchLevel": 4,
+  "subtitle": "com.minecolonies.research.civilian.nightowl2.subtitle",
+  "sortOrder": 2,
+  "icon": "minecraft:clock:2",
   "requirements": [
     {
       "building": "townhall",
@@ -17,7 +15,9 @@
       "quantity": 75
     }
   ],
-  "researchLevel": 4,
-  "sortOrder": 2,
-  "subtitle": "com.minecolonies.research.civilian.nightowl2.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/workingdayhaddition": 2
+    }
+  ]
 }

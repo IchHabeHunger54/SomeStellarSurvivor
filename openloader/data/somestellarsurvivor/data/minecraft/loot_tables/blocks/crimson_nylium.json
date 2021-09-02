@@ -3,37 +3,13 @@
     {
       "entries": [
         {
-          "children": [
+          "conditions": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "name": "minecraft:crimson_nylium",
-              "type": "minecraft:item"
-            },
-            {
-              "conditions": [
-                {
-                  "condition": "minecraft:survives_explosion"
-                }
-              ],
-              "name": "minecraft:netherrack",
-              "type": "minecraft:item"
+              "condition": "minecraft:survives_explosion"
             }
           ],
-          "type": "minecraft:alternatives"
+          "name": "minecraft:netherrack",
+          "type": "minecraft:item"
         }
       ],
       "rolls": 1

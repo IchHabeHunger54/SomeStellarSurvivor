@@ -1,10 +1,7 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutcomposter": 1
-    }
-  ],
+  "researchLevel": 1,
+  "subtitle": "com.minecolonies.research.technology.biodegradable.subtitle",
   "icon": "minecolonies:blockhutcomposter",
   "requirements": [
     {
@@ -16,6 +13,9 @@
       "quantity": 64
     }
   ],
-  "researchLevel": 1,
-  "subtitle": "com.minecolonies.research.technology.biodegradable.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/blockhutcomposter": 1
+    }
+  ]
 }

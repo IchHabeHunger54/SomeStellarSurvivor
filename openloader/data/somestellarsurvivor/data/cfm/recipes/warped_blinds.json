@@ -1,11 +1,10 @@
 {
-  "group": "blinds",
   "key": {
     "L": {
       "item": "minecraft:warped_stem"
     },
     "S": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [

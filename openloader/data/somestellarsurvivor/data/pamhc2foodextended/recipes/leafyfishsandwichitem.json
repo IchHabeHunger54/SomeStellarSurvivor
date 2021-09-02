@@ -4,14 +4,13 @@
       "tag": "forge:tool_cuttingboard"
     },
     {
-      "tag": "pamhc2foodcore:basicfishsandwhichitem"
+      "item": "pamhc2foodcore:basicfishsandwichitem"
     },
     {
       "tag": "forge:leafyvegetables"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:leafyfishsandwichitem"
   },
   "type": "minecraft:crafting_shapeless"

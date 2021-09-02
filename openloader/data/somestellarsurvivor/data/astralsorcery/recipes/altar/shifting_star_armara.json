@@ -16,13 +16,13 @@
   "focus_constellation": "astralsorcery:armara",
   "key": {
     "A": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     },
     "D": {
       "item": "astralsorcery:shifting_star"
@@ -30,7 +30,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:shifting_star_armara"
     }
   ],
@@ -43,22 +42,22 @@
   ],
   "relay_inputs": [
     {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     {
       "item": "astralsorcery:illumination_powder"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     {
       "item": "astralsorcery:illumination_powder"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     }
   ],
   "starlight": 4800,

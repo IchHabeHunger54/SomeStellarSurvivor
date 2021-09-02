@@ -25,12 +25,11 @@
       "item": "astralsorcery:infused_glass"
     },
     "E": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     }
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:observatory"
     }
   ],
@@ -52,7 +51,7 @@
       "item": "astralsorcery:illumination_powder"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
       "item": "astralsorcery:illumination_powder"
@@ -64,7 +63,7 @@
       "item": "astralsorcery:illumination_powder"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     }
   ],
   "starlight": 3200,

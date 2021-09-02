@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/gold"
+    "item": "minecraft:gold_ingot"
   },
   "result": {
     "amount": 144,

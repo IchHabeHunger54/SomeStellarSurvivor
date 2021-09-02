@@ -1,8 +1,7 @@
 {
-  "group": "wooden_fence_gate",
   "key": {
     "#": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "W": {
       "item": "minecraft:acacia_planks"
@@ -13,6 +12,7 @@
     "#W#"
   ],
   "result": {
+    "count": 2,
     "item": "minecraft:acacia_fence_gate"
   },
   "type": "minecraft:crafting_shaped"

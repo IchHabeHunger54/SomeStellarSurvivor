@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "glass_shard",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:dirty_glass"

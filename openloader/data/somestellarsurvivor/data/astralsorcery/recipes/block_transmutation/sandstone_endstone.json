@@ -1,13 +1,11 @@
 {
   "display": {
-    "count": 1,
     "item": "minecraft:end_stone"
   },
   "input": [
     {
       "block": "minecraft:sandstone",
       "display": {
-        "count": 1,
         "item": "minecraft:sandstone"
       }
     }

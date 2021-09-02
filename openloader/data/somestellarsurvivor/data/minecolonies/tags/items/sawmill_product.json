@@ -13,6 +13,17 @@
     "#structurize:shingle_slabs/moss_slate",
     "#structurize:shingle_slabs/slate",
     "#structurize:shingle_slabs/thatched",
-    "#structurize:timber_frames/timber_frames"
+    "#structurize:timber_frames/timber_frames",
+    "#minecraft:planks",
+    "#minecraft:wooden_slabs",
+    "#minecraft:wooden_stairs",
+    "mcwfurnitures:oak_plate",
+    "mcwfurnitures:spruce_plate",
+    "mcwfurnitures:birch_plate",
+    "mcwfurnitures:jungle_plate",
+    "mcwfurnitures:acacia_plate",
+    "mcwfurnitures:dark_oak_plate",
+    "mcwfurnitures:crimson_plate",
+    "mcwfurnitures:warped_plate"
   ]
 }

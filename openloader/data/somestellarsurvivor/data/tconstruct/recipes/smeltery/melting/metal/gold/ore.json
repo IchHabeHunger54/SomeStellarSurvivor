@@ -18,7 +18,7 @@
           }
         ],
         "ingredient": {
-          "tag": "forge:ores/gold"
+          "item": "minecraft:gold_ore"
         },
         "result": {
           "amount": 144,
@@ -47,7 +47,7 @@
           }
         ],
         "ingredient": {
-          "tag": "forge:ores/gold"
+          "item": "minecraft:gold_ore"
         },
         "result": {
           "amount": 144,

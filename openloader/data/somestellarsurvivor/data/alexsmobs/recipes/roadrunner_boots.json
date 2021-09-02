@@ -7,16 +7,14 @@
       "item": "alexsmobs:roadrunner_feather"
     },
     "S": {
-      "item": "minecraft:chiseled_sandstone"
+      "tag": "minecraft:sand"
     }
   },
   "pattern": [
-    "F F",
-    "F F",
-    "SBS"
+    "FBF",
+    "FSF"
   ],
   "result": {
-    "count": 1,
     "item": "alexsmobs:roadrunner_boots"
   },
   "type": "minecraft:crafting_shaped"

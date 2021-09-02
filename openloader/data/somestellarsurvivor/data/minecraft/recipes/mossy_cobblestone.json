@@ -1,7 +1,7 @@
 {
   "ingredients": [
     {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:cobblestone"
     },
     {
       "item": "minecraft:vine"

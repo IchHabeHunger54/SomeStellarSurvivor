@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "values": [
+    "ceramics:black_porcelain",
+    "ceramics:blue_porcelain",
+    "ceramics:brown_porcelain",
+    "ceramics:cyan_porcelain",
+    "ceramics:gray_porcelain",
+    "ceramics:green_porcelain",
+    "ceramics:light_blue_porcelain",
+    "ceramics:light_gray_porcelain",
+    "ceramics:lime_porcelain",
+    "ceramics:magenta_porcelain",
+    "ceramics:orange_porcelain",
+    "ceramics:pink_porcelain",
+    "ceramics:purple_porcelain",
+    "ceramics:red_porcelain",
+    "ceramics:white_porcelain",
+    "ceramics:yellow_porcelain"
+  ]
+}

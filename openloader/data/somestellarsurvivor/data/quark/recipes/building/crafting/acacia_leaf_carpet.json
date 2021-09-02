@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "leaf_carpet",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "minecraft:acacia_leaves"

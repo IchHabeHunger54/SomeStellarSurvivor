@@ -1,19 +1,19 @@
 {
-  "count": 4,
+  "type" : "recipe",
   "crafter": "baker_crafting",
   "inputs": [
     {
-      "count": 8,
-      "item": "minecraft:wheat"
+        "item" : "minecraft:wheat",
+        "count": 8
     },
     {
-      "count": 1,
-      "item": "minecraft:chorus_fruit"
+        "item" : "minecraft:chorus_fruit",
+        "count": 1
     }
   ],
-  "intermediate": "minecraft:air",
-  "research-id": "minecolonies:technology/knowtheend",
   "result": "minecolonies:chorus_bread",
-  "show-tooltip": true,
-  "type": "recipe"
+  "count": 4,
+  "intermediate" : "minecraft:air",
+  "research-id" : "minecolonies:technology/knowtheend",
+  "show-tooltip": true
 }

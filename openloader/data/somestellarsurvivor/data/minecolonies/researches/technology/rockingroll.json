@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutcrusher": 1
-    }
-  ],
-  "icon": "minecolonies:blockhutcrusher",
   "parentResearch": "minecolonies:technology/stonecake",
+  "researchLevel": 2,
+  "icon": "minecolonies:blockhutcrusher",
   "requirements": [
     {
       "building": "stonemason",
@@ -17,5 +13,9 @@
       "quantity": 64
     }
   ],
-  "researchLevel": 2
+  "effects": [
+    {
+      "minecolonies:effects/blockhutcrusher": 1
+    }
+  ]
 }

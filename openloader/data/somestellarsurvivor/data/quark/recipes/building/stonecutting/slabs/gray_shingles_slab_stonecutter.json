@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "shingles",
-      "type": "quark:flag"
-    }
-  ],
   "count": 2,
   "ingredient": {
     "item": "quark:gray_shingles"

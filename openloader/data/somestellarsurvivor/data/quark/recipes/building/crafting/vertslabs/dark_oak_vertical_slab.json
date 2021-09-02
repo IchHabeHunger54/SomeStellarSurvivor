@@ -1,23 +1,11 @@
 {
-  "conditions": [
+  "ingredients": [
     {
-      "flag": "vertical_slabs",
-      "type": "quark:flag"
-    }
-  ],
-  "key": {
-    "#": {
       "item": "minecraft:dark_oak_slab"
     }
-  },
-  "pattern": [
-    "#",
-    "#",
-    "#"
   ],
   "result": {
-    "count": 3,
     "item": "quark:dark_oak_vertical_slab"
   },
-  "type": "minecraft:crafting_shaped"
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,23 +1,28 @@
 {
+  "parent": "root.json",
+  "text": "dropbear.txt",
+  "title": "Dropbear",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:dropbear",
-      "follow_cursor": false,
-      "page": 0,
+      "x": 90,
+      "y": 105,
+      "page" : 0,
+      "scale": 1.6,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "scale": 1.6,
-      "x": 90,
-      "y": 105
+      "follow_cursor": false
     }
-  ],
-  "images": [],
-  "item_renders": [],
-  "linked_page_buttons": [],
-  "parent": "root.json",
-  "recipes": [],
-  "tabula_renders": [],
-  "text": "dropbear.txt",
-  "title": "Dropbear"
+  ]
 }

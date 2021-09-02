@@ -13,14 +13,13 @@
       "tag": "forge:crops/pecan"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:milk"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:museliitem"
   },
   "type": "minecraft:crafting_shapeless"

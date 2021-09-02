@@ -7,11 +7,10 @@
       "tag": "forge:fruits/guava"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:guavajellyitem"
   },
   "type": "minecraft:crafting_shapeless"

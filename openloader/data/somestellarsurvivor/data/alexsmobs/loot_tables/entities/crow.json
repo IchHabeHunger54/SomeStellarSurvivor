@@ -20,12 +20,13 @@
             }
           ],
           "name": "minecraft:feather",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
       "name": "crow",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

@@ -7,7 +7,7 @@
       "item": "minecraft:green_carpet"
     },
     "S": {
-      "tag": "forge:string"
+      "item": "minecraft:string"
     }
   },
   "pattern": [

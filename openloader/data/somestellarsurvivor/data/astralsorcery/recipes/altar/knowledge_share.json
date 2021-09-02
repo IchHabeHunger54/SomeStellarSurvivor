@@ -16,7 +16,7 @@
       "tag": "forge:feathers"
     },
     "D": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "E": {
       "item": "astralsorcery:parchment"
@@ -24,7 +24,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:knowledge_share"
     }
   ],

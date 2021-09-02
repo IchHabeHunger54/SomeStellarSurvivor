@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "blackstone_variant_bricks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:twisted_blackstone_bricks"

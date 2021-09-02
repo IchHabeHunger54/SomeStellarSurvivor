@@ -1,0 +1,19 @@
+{
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "X": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "minecraft:name_tag"
+  },
+  "type": "minecraft:crafting_shaped"
+}

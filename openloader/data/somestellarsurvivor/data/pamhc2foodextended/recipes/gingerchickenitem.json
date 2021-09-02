@@ -13,11 +13,10 @@
       "tag": "forge:onions"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:gingerchickenitem"
   },
   "type": "minecraft:crafting_shapeless"

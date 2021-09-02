@@ -1,13 +1,7 @@
 {
-  "conditions": [
-    {
-      "flag": "celebratory_lamps",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "G": {
-      "item": "minecraft:glass"
+      "tag": "forge:glass"
     },
     "S": {
       "item": "minecraft:stone"

@@ -10,7 +10,7 @@
   ],
   "key": {
     "A": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "B": {
       "item": "astralsorcery:resonating_gem"
@@ -24,7 +24,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:colored_lens_spectral"
     }
   ],

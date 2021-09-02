@@ -10,14 +10,13 @@
       "tag": "forge:cream"
     },
     {
-      "tag": "forge:vanilla"
+      "tag": "forge:spices/vanilla"
     },
     {
       "tag": "forge:dough"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:raspberrytrifleitem"
   },
   "type": "minecraft:crafting_shapeless"

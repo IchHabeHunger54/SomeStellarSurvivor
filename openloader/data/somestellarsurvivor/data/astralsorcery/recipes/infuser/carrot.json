@@ -9,7 +9,6 @@
     "tag": "forge:crops/carrot"
   },
   "output": {
-    "count": 1,
     "item": "minecraft:golden_carrot"
   },
   "type": "astralsorcery:infuser"

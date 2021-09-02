@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "color_slime",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "item": "quark:blue_slime_block"

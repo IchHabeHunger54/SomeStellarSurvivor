@@ -1,45 +1,15 @@
 {
   "pools": [
     {
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
       "entries": [
         {
-          "children": [
-            {
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "name": "minecraft:soul_campfire",
-              "type": "minecraft:item"
-            },
-            {
-              "conditions": [
-                {
-                  "condition": "minecraft:survives_explosion"
-                }
-              ],
-              "functions": [
-                {
-                  "count": 1,
-                  "function": "minecraft:set_count"
-                }
-              ],
-              "name": "minecraft:soul_soil",
-              "type": "minecraft:item"
-            }
-          ],
-          "type": "minecraft:alternatives"
+          "name": "minecraft:soul_campfire",
+          "type": "minecraft:item"
         }
       ],
       "rolls": 1

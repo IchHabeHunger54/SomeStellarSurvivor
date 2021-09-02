@@ -6,7 +6,7 @@
     }
   ],
   "ingredient": {
-    "tag": "forge:ores/copper"
+    "item": "tconstruct:copper_ore"
   },
   "result": {
     "amount": 144,

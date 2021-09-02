@@ -1,4 +1,5 @@
 {
+  "title": "Faucets",
   "image": {
     "file": "tconstruct:book/images/faucet_pour.png"
   },
@@ -6,6 +7,5 @@
     {
       "text": "For all your kitchen and bathroom... er fluid moving needs."
     }
-  ],
-  "title": "Faucets"
+  ] 
 }

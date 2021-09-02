@@ -1,9 +1,8 @@
 {
   "cookingtime": 200,
-  "experience": 0.35,
   "ingredient": {
     "item": "pamhc2foodextended:rawtofeakitem"
   },
   "result": "pamhc2foodextended:cookedtofeakitem",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

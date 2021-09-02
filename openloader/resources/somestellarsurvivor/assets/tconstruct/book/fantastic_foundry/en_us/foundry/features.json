@@ -1,56 +1,57 @@
 {
+  "title":"Features",
   "text": [
     {
-      "text": "\u00e2\u20ac\u00a2 Gives +6 nuggets per ore"
+      "text": "• Gives +6 nuggets per ore"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Gives byproducts from ores"
+	 {
+      "text": "• Gives byproducts from ores"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 The foundry can not alloy which is a superior breakthrough so you never have to worry about accidentally mixing materials again"
+	{
+      "text": "• The foundry can not alloy which is a superior breakthrough so you never have to worry about accidentally mixing materials again"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Can hold mulitple metals"
+	{
+      "text": "• Can hold mulitple metals"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Extendable capacity"
+	{
+      "text": "• Extendable capacity"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Much larger storage capacity than the puny smeltery"
+	{
+      "text": "• Much larger storage capacity than the puny smeltery"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Can melt blocks that give multiple outputs"
+	{
+      "text": "• Can melt blocks that give multiple outputs"
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Fuel efficiency depends on size "
+	{
+      "text": "• Fuel efficiency depends on size "
     },
-    {
+	{
       "text": "\n"
     },
-    {
-      "text": "\u00e2\u20ac\u00a2 Useful for Nether-only runs and mass storage of liquids "
+	{
+      "text": "• Useful for Nether-only runs and mass storage of liquids "
     }
-  ],
-  "title": "Features"
+    
+  ]
 }

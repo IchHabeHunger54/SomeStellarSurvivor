@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:white_concrete_powder"
+      "tag": "minecolonies:concrete_powder"
     },
     "T": {
       "item": "structurize:sceptergold"

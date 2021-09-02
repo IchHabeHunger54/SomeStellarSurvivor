@@ -4,18 +4,13 @@
       "item": "alexsmobs:moose_antler"
     },
     "I": {
-      "tag": "forge:ingots/iron"
-    },
-    "S": {
-      "tag": "forge:string"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    "AIA",
-    "S S"
+    "AIA"
   ],
   "result": {
-    "count": 1,
     "item": "alexsmobs:moose_headgear"
   },
   "type": "minecraft:crafting_shaped"

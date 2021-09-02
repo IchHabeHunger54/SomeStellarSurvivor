@@ -1,0 +1,8 @@
+{
+  "count": 2,
+  "ingredient": {
+    "item": "ceramics:lava_bricks"
+  },
+  "result": "ceramics:lava_bricks_slab",
+  "type": "minecraft:stonecutting"
+}

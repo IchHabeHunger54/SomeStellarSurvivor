@@ -7,11 +7,10 @@
       "tag": "forge:fruits/durian"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:durianjellyitem"
   },
   "type": "minecraft:crafting_shapeless"

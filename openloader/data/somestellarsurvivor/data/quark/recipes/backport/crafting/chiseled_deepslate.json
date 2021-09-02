@@ -1,21 +1,15 @@
 {
-  "conditions": [
-    {
-      "flag": "deepslate",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
-      "item": "quark:cobbled_deepslate_slab"
+      "item": "quark:deepslate_tiles"
     }
   },
   "pattern": [
-    "#",
-    "#"
+    "##",
+    "##"
   ],
   "result": {
-    "count": 1,
+    "count": 4,
     "item": "quark:chiseled_deepslate"
   },
   "type": "minecraft:crafting_shaped"

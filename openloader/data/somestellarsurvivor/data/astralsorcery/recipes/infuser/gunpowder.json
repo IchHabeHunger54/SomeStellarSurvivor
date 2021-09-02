@@ -9,7 +9,6 @@
     "tag": "forge:gunpowder"
   },
   "output": {
-    "count": 1,
     "item": "minecraft:glowstone_dust"
   },
   "type": "astralsorcery:infuser"

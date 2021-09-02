@@ -6,7 +6,6 @@
     }
   ],
   "ingredient": {
-    "count": 1,
     "item": "tconstruct:scorched_ingot_tank",
     "type": "forge:nbt"
   },

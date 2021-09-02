@@ -1,16 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "sandy_bricks",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "item": "minecraft:bricks"
     },
     {
-      "item": "minecraft:sand"
+      "tag": "minecraft:sand"
     }
   ],
   "result": {

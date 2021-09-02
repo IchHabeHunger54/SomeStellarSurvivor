@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "tag": "comforts:sleeping_bags"
+    },
+    {
+      "tag": "forge:dyes/white"
+    }
+  ],
+  "result": {
+    "item": "comforts:sleeping_bag_white"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

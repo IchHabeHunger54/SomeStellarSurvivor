@@ -6,7 +6,7 @@
   "duration": 100,
   "fluidInput": "astralsorcery:liquid_starlight",
   "input": {
-    "tag": "forge:ores/emerald"
+    "item": "minecraft:emerald_ore"
   },
   "output": {
     "count": 5,

@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_bricks",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "marble",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 1,
   "ingredient": {
     "item": "quark:polished_marble"

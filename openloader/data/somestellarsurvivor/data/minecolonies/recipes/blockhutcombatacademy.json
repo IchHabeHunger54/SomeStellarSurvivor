@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:iron_sword"
+      "item": "minecraft:stone_sword"
     },
     "T": {
       "item": "structurize:sceptergold"
@@ -12,11 +12,10 @@
   },
   "pattern": [
     "XTX",
-    "BBB",
+    "XBX",
     "XXX"
   ],
   "result": {
-    "count": 1,
     "item": "minecolonies:blockhutcombatacademy"
   },
   "type": "minecraft:crafting_shaped"

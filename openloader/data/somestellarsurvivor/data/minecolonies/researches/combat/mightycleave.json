@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:combat",
-  "effects": [
-    {
-      "minecolonies:effects/meleedamageaddition": 4
-    }
-  ],
-  "icon": "minecraft:golden_sword",
   "parentResearch": "minecolonies:combat/cleave",
+  "researchLevel": 5,
+  "icon": "minecraft:golden_sword",
   "requirements": [
     {
       "building": "barracks",
@@ -17,5 +13,9 @@
       "quantity": 16
     }
   ],
-  "researchLevel": 5
+  "effects": [
+    {
+      "minecolonies:effects/meleedamageaddition": 4
+    }
+  ]
 }

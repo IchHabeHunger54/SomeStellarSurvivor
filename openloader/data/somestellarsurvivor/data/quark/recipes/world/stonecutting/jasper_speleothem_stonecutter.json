@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "speleothems",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "jasper",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 2,
   "ingredient": {
     "item": "quark:jasper"

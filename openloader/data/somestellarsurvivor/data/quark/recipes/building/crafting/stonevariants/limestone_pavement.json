@@ -1,31 +1,15 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_pavement",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "limestone",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
-      "item": "quark:polished_limestone"
+      "item": "quark:limestone_pillar"
     }
   },
   "pattern": [
-    "###",
-    "###",
-    "###"
+    "##",
+    "##"
   ],
   "result": {
-    "count": 9,
+    "count": 4,
     "item": "quark:limestone_pavement"
   },
   "type": "minecraft:crafting_shaped"

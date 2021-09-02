@@ -7,18 +7,18 @@
             {
               "count": {
                 "max": 1,
-                "min": -1
+                "min": 0
               },
               "function": "set_count"
             }
           ],
           "name": "alexsmobs:raccoon_tail",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
-      "name": "raccoon",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

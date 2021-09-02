@@ -1,31 +1,15 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_pavement",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "slate",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
-      "item": "quark:polished_slate"
+      "item": "quark:slate_pillar"
     }
   },
   "pattern": [
-    "###",
-    "###",
-    "###"
+    "##",
+    "##"
   ],
   "result": {
-    "count": 9,
+    "count": 4,
     "item": "quark:slate_pavement"
   },
   "type": "minecraft:crafting_shaped"

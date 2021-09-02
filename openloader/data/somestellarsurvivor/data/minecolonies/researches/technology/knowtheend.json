@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/knowledgeoftheendunlock": 1
-    }
-  ],
-  "icon": "minecolonies:chorus_bread",
   "parentResearch": "minecolonies:technology/theflintstones",
+  "researchLevel": 3,
+  "subtitle": "com.minecolonies.research.technology.knowtheend.subtitle",
+  "icon": "minecolonies:chorus_bread",
   "requirements": [
     {
       "building": "baker",
@@ -17,6 +14,9 @@
       "quantity": 64
     }
   ],
-  "researchLevel": 3,
-  "subtitle": "com.minecolonies.research.technology.knowtheend.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/knowledgeoftheendunlock": 1
+    }
+  ]
 }

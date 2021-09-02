@@ -6,7 +6,6 @@
     }
   ],
   "ingredient": {
-    "count": 1,
     "item": "tconstruct:scorched_fuel_tank",
     "type": "forge:nbt"
   },

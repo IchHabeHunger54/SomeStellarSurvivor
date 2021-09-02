@@ -1,13 +1,7 @@
 {
-  "conditions": [
-    {
-      "flag": "deepslate",
-      "type": "quark:flag"
-    }
-  ],
   "count": 1,
   "ingredient": {
-    "item": "quark:cobbled_deepslate"
+    "item": "quark:deepslate_tiles"
   },
   "result": "quark:chiseled_deepslate",
   "type": "minecraft:stonecutting"

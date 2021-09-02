@@ -3,8 +3,9 @@
     "type": "blank"
   },
   {
-    "data": "introduction/thruul.json",
     "name": "thruul",
-    "type": "text"
+    "type": "text",
+    "data": "introduction/thruul.json"
   }
+   
 ]

@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "permafrost_underground_biome",
-      "type": "quark:flag"
-    }
-  ],
   "count": 2,
   "ingredient": {
     "item": "quark:permafrost"

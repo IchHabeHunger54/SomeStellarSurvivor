@@ -1,7 +1,7 @@
 {
   "key": {
     "#": {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:cobblestone"
     },
     "R": {
       "item": "minecraft:redstone"
@@ -10,7 +10,7 @@
       "tag": "minecraft:planks"
     },
     "X": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [

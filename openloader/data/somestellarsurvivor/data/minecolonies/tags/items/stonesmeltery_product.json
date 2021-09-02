@@ -1,15 +1,15 @@
 {
   "replace": true,
   "values": [
-    "#minecraft:stone_bricks",
-    "#forge:stone",
     "#minecolonies:glazed_terracotta",
     "minecraft:brick",
     "minecraft:charcoal",
+    "minecraft:cracked_stone_bricks",
     "minecraft:smooth_quartz",
     "minecraft:smooth_red_sandstone",
     "minecraft:smooth_sandstone",
     "minecraft:smooth_stone",
+    "minecraft:stone",
     "minecraft:terracotta"
   ]
 }

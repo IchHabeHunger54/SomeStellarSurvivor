@@ -1,23 +1,13 @@
 {
-  "conditions": [
-    {
-      "prop": "building_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "rope",
-      "type": "inspirations:config"
-    }
-  ],
   "key": {
     "S": {
       "item": "minecraft:string"
     }
   },
   "pattern": [
-    "SS",
-    "SS",
-    "SS"
+    "S",
+    "S",
+    "S"
   ],
   "result": {
     "count": 3,

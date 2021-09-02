@@ -1,17 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "vertical_planks",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "item": "quark:vertical_dark_oak_planks"
     }
   ],
   "result": {
-    "count": 1,
     "item": "minecraft:dark_oak_planks"
   },
   "type": "minecraft:crafting_shapeless"

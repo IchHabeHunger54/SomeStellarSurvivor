@@ -10,7 +10,7 @@
       "item": "astralsorcery:illumination_powder"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "astralsorcery:glass_lens"
@@ -28,7 +28,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:resonator",
       "nbt": "{astralsorcery:{upgrades:[0,2],selected_upgrade:2}}"
     }

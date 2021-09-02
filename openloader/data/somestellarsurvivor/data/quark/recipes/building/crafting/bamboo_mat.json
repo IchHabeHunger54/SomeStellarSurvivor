@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "bamboo_mat",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "B": {
       "item": "minecraft:bamboo"

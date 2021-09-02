@@ -7,7 +7,7 @@
       "item": "minecraft:orange_carpet"
     },
     "S": {
-      "tag": "forge:string"
+      "item": "minecraft:string"
     }
   },
   "pattern": [

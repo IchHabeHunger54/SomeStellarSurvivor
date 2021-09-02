@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:gems/diamond"
+    "item": "minecraft:diamond"
   },
   "result": {
     "amount": 144,

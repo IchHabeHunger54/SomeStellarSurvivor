@@ -10,7 +10,7 @@
       "item": "astralsorcery:aquamarine"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "astralsorcery:illumination_powder"
@@ -27,7 +27,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:shifting_star"
     }
   ],

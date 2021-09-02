@@ -6,10 +6,9 @@
   "duration": 100,
   "fluidInput": "astralsorcery:liquid_starlight",
   "input": {
-    "tag": "forge:slimeballs"
+    "item": "minecraft:slime_ball"
   },
   "output": {
-    "count": 1,
     "item": "minecraft:magma_cream"
   },
   "type": "astralsorcery:infuser"

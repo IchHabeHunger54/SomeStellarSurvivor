@@ -4,10 +4,10 @@
       "tag": "minecraft:planks"
     },
     "-": {
-      "item": "minecraft:stone_slab"
+      "item": "minecraft:smooth_stone_slab"
     },
     "I": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [

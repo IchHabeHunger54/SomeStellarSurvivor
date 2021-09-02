@@ -7,7 +7,7 @@
       "item": "alexsmobs:cachalot_whale_tooth"
     },
     "P": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
@@ -16,7 +16,6 @@
     " P "
   ],
   "result": {
-    "count": 1,
     "item": "alexsmobs:echolocator"
   },
   "type": "minecraft:crafting_shaped"

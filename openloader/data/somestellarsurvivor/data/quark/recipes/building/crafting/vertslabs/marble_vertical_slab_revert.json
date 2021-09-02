@@ -1,17 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "vertical_slabs",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "item": "quark:marble_vertical_slab"
     }
   ],
   "result": {
-    "count": 1,
     "item": "quark:marble_slab"
   },
   "type": "minecraft:crafting_shapeless"

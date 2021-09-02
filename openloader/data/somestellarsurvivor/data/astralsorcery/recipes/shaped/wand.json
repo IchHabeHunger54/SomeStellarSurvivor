@@ -3,20 +3,19 @@
     "A": {
       "item": "astralsorcery:aquamarine"
     },
-    "E": {
-      "tag": "forge:ender_pearls"
+    "D": {
+      "item": "minecraft:diamond"
     },
     "M": {
       "item": "astralsorcery:marble_raw"
     }
   },
   "pattern": [
-    " AE",
+    " AD",
     " MA",
     "M  "
   ],
   "result": {
-    "count": 1,
     "item": "astralsorcery:wand"
   },
   "type": "minecraft:crafting_shaped"

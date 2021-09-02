@@ -4,16 +4,16 @@
       "item": "minecraft:smooth_stone"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "X": {
       "item": "minecraft:furnace"
     }
   },
   "pattern": [
-    "III",
+    "#I#",
     "IXI",
-    "###"
+    "#I#"
   ],
   "result": {
     "item": "minecraft:blast_furnace"

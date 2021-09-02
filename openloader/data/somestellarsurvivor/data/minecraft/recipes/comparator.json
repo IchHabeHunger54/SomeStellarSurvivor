@@ -4,15 +4,11 @@
       "item": "minecraft:redstone_torch"
     },
     "I": {
-      "item": "minecraft:stone"
-    },
-    "X": {
-      "item": "minecraft:quartz"
+      "item": "minecraft:smooth_stone_slab"
     }
   },
   "pattern": [
-    " # ",
-    "#X#",
+    "###",
     "III"
   ],
   "result": {

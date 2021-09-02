@@ -1,19 +1,14 @@
 {
-  "damageAmount": 1,
-  "ignoreUnbreaking": false,
   "ingredients": [
-    {
-      "type": "bookshelf:any_shear"
-    },
     {
       "item": "minecraft:paper"
     },
     {
-      "item": "minecraft:jack_o_lantern"
+      "item": "minecraft:carved_pumpkin"
     }
   ],
   "result": {
     "item": "additionalbanners:pumpkin"
   },
-  "type": "bookshelf:crafting_shapeless_with_damage"
+  "type": "minecraft:crafting_shapeless"
 }

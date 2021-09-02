@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/happinessmultiplier": 3
-    }
-  ],
-  "icon": "minecolonies:textures/icons/research/happy3.png",
   "parentResearch": "minecolonies:civilian/festival",
+  "researchLevel": 4,
+  "icon": "minecolonies:textures/icons/research/happy3.png",
   "requirements": [
     {
       "building": "cook",
@@ -17,5 +13,9 @@
       "quantity": 18
     }
   ],
-  "researchLevel": 4
+  "effects": [
+    {
+      "minecolonies:effects/happinessmultiplier": 3
+    }
+  ]
 }

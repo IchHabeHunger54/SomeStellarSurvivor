@@ -1,9 +1,19 @@
 {
-  "group": "white_dye",
   "ingredients": [
-    {
-      "item": "minecraft:bone_meal"
-    }
+    [
+      {
+        "item": "minecraft:bone_meal"
+      },
+      {
+        "item": "minecraft:white_tulip"
+      },
+      {
+        "item": "minecraft:lily_of_the_valley"
+      },
+      {
+        "item": "buzzier_bees:white_clover"
+      }
+    ]
   ],
   "result": {
     "item": "minecraft:white_dye"

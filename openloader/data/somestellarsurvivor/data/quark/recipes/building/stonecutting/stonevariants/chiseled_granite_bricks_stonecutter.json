@@ -1,26 +1,7 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_bricks",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "stone_chiseled",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "granite",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 1,
   "ingredient": {
-    "item": "minecraft:granite"
+    "item": "quark:granite_pavement"
   },
   "result": "quark:chiseled_granite_bricks",
   "type": "minecraft:stonecutting"

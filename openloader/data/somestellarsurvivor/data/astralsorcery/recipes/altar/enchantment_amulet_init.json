@@ -14,13 +14,13 @@
       "item": "minecraft:ender_eye"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "D": {
-      "tag": "forge:string"
+      "item": "minecraft:string"
     },
     "E": {
       "item": "astralsorcery:shifting_star"
@@ -28,7 +28,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:enchantment_amulet"
     }
   ],

@@ -1,57 +1,57 @@
 [
   {
-    "data": "intro/advertisements.json",
     "name": "advertisements",
-    "type": "text"
+    "type": "text",
+    "data": "intro/advertisements.json"
   },
   {
-    "data": "intro/welcome.json",
     "name": "introduction",
-    "type": "text"
+    "type": "text",
+    "data": "intro/welcome.json"
   },
   {
-    "data": "intro/partbuilder.json",
     "name": "partbuilder",
-    "type": "imageText2"
+    "type": "imageText2",
+    "data": "intro/partbuilder.json"
   },
   {
-    "data": "intro/pattern_craft.json",
     "name": "pattern_craft",
-    "type": "crafting"
+    "type": "crafting",
+    "data": "intro/pattern_craft.json"
   },
   {
-    "data": "intro/partbuilder_craft.json",
     "name": "partbuilder_craft",
-    "type": "crafting"
+    "type": "crafting",
+    "data": "intro/partbuilder_craft.json"
   },
   {
-    "data": "intro/tinkerstation.json",
     "name": "tinkerstation",
-    "type": "imageText2"
+    "type": "imageText2",
+    "data": "intro/tinkerstation.json"
   },
   {
-    "data": "intro/tinkerstation2.json",
     "name": "tinkerstation2",
-    "type": "text"
+    "type": "text",
+    "data": "intro/tinkerstation2.json"
   },
   {
-    "data": "intro/tinkerstation_craft.json",
     "name": "tinkerstation_craft",
-    "type": "crafting"
+    "type": "crafting",
+    "data": "intro/tinkerstation_craft.json"
   },
   {
-    "data": "intro/storage.json",
     "name": "storage",
-    "type": "text"
+    "type": "text",
+    "data": "intro/storage.json"
   },
   {
-    "data": "intro/partchest_craft.json",
     "name": "partchest_craft",
-    "type": "crafting"
+    "type": "crafting",
+    "data": "intro/partchest_craft.json"
   },
   {
-    "data": "intro/modifierchest_craft.json",
     "name": "modifierchest_craft",
-    "type": "crafting"
+    "type": "crafting",
+    "data": "intro/modifierchest_craft.json"
   }
 ]

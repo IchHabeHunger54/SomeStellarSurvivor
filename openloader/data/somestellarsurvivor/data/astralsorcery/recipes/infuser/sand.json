@@ -9,7 +9,6 @@
     "tag": "forge:sand"
   },
   "output": {
-    "count": 1,
     "item": "minecraft:clay"
   },
   "type": "astralsorcery:infuser"

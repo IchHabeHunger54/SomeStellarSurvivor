@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:combat",
-  "effects": [
-    {
-      "minecolonies:effects/whirlwindabilityunlock": 1
-    }
-  ],
-  "icon": "minecolonies:iron_scimitar",
   "parentResearch": "minecolonies:combat/arrowpierce",
+  "researchLevel": 4,
+  "icon": "minecolonies:iron_scimitar",
   "requirements": [
     {
       "building": "barracks",
@@ -25,5 +21,9 @@
       "quantity": 128
     }
   ],
-  "researchLevel": 4
+  "effects": [
+    {
+      "minecolonies:effects/whirlwindabilityunlock": 1
+    }
+  ]
 }

@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "speleothems",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "jasper",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:jasper"

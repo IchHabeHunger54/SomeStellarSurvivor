@@ -1,14 +1,13 @@
 {
-  "ingredients": [
-    {
-      "item": "minecraft:book"
-    },
-    {
-      "item": "tconstruct:nether_grout"
-    }
-  ],
-  "result": {
-    "item": "tconstruct:fantastic_foundry"
+  "cast": {
+    "item": "minecraft:book"
   },
-  "type": "minecraft:crafting_shapeless"
+  "cast_consumed": true,
+  "cooling_time": 50,
+  "fluid": {
+    "amount": 144,
+    "name": "tconstruct:scorched_stone"
+  },
+  "result": "tconstruct:fantastic_foundry",
+  "type": "tconstruct:casting_table"
 }

@@ -9,30 +9,6 @@
           "weight": 4
         },
         {
-          "functions": [
-            {
-              "decoration": "red_x",
-              "function": "minecraft:exploration_map",
-              "skip_existing_chunks": false,
-              "zoom": 1
-            }
-          ],
-          "name": "minecraft:map",
-          "type": "minecraft:item",
-          "weight": 6
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{Potion:\"minecraft:water\"}"
-            }
-          ],
-          "name": "minecraft:potion",
-          "type": "minecraft:item",
-          "weight": 10
-        },
-        {
           "functions": [],
           "name": "minecraft:scute",
           "type": "minecraft:item",
@@ -42,20 +18,20 @@
           "functions": [],
           "name": "minecraft:ink_sac",
           "type": "minecraft:item",
-          "weight": 19
+          "weight": 20
         },
         {
           "functions": [],
           "name": "alexsmobs:shark_tooth",
           "type": "minecraft:item",
-          "weight": 21
+          "weight": 20
         },
         {
           "functions": [
             {
               "count": {
-                "max": 10.0,
-                "min": 1.0,
+                "max": 5,
+                "min": 1,
                 "type": "minecraft:uniform"
               },
               "function": "minecraft:set_count"
@@ -69,8 +45,8 @@
           "functions": [
             {
               "count": {
-                "max": 4.0,
-                "min": 2.0,
+                "max": 5.0,
+                "min": 1.0,
                 "type": "minecraft:uniform"
               },
               "function": "minecraft:set_count"
@@ -84,23 +60,8 @@
           "functions": [
             {
               "count": {
-                "max": 5.0,
-                "min": 2.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "minecraft:prismarine_shard",
-          "type": "minecraft:item",
-          "weight": 8
-        },
-        {
-          "functions": [
-            {
-              "count": {
                 "max": 32.0,
-                "min": 5.0,
+                "min": 4.0,
                 "type": "minecraft:uniform"
               },
               "function": "minecraft:set_count"
@@ -109,11 +70,6 @@
           "name": "minecraft:clay_ball",
           "type": "minecraft:item",
           "weight": 20
-        },
-        {
-          "name": "minecraft:prismarine_crystals",
-          "type": "minecraft:item",
-          "weight": 10
         },
         {
           "name": "minecraft:nautilus_shell",
@@ -126,34 +82,29 @@
           "weight": 1
         },
         {
-          "name": "minecraft:turtle_egg",
+          "name": "minecraft:tube_coral",
           "type": "minecraft:item",
           "weight": 1
         },
         {
-          "name": "minecraft:tube_coral",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
           "name": "minecraft:brain_coral",
           "type": "minecraft:item",
-          "weight": 2
+          "weight": 1
         },
         {
           "name": "minecraft:bubble_coral",
           "type": "minecraft:item",
-          "weight": 2
+          "weight": 1
         },
         {
           "name": "minecraft:fire_coral",
           "type": "minecraft:item",
-          "weight": 2
+          "weight": 1
         },
         {
           "name": "minecraft:horn_coral",
           "type": "minecraft:item",
-          "weight": 2
+          "weight": 1
         },
         {
           "name": "minecraft:tube_coral_block",
@@ -179,31 +130,6 @@
           "name": "minecraft:horn_coral_block",
           "type": "minecraft:item",
           "weight": 1
-        },
-        {
-          "name": "alexsmobs:lobster_bucket",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
-          "name": "alexsmobs:music_disc_thime",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
-          "functions": [
-            {
-              "count": {
-                "max": 2.0,
-                "min": 1.0,
-                "type": "minecraft:uniform"
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "minecraft:wet_sponge",
-          "type": "minecraft:item",
-          "weight": 20
         },
         {
           "functions": [

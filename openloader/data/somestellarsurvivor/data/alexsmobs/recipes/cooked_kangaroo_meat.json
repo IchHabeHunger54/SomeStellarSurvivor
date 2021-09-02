@@ -1,9 +1,8 @@
 {
-  "cookingtime": 200,
-  "experience": 0.15,
+  "cookingtime": 600,
   "ingredient": {
     "item": "alexsmobs:kangaroo_meat"
   },
   "result": "alexsmobs:cooked_kangaroo_meat",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/healingsaturationlimitaddition": 1
-    }
-  ],
-  "icon": "minecraft:glass_bottle",
   "parentResearch": "minecolonies:civilian/stamina",
+  "researchLevel": 2,
+  "sortOrder": 2,
+  "icon": "minecraft:glass_bottle",
   "requirements": [
     {
       "building": "cook",
@@ -17,6 +14,9 @@
       "quantity": 1
     }
   ],
-  "researchLevel": 2,
-  "sortOrder": 2
+  "effects": [
+    {
+      "minecolonies:effects/healingsaturationlimitaddition": 1
+    }
+  ]
 }

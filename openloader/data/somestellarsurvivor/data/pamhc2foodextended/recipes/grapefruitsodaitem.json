@@ -7,14 +7,13 @@
       "tag": "forge:water"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:crops/grapefruit"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:grapefruitsodaitem"
   },
   "type": "minecraft:crafting_shapeless"

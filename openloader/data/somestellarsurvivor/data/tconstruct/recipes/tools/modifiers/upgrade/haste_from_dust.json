@@ -1,7 +1,7 @@
 {
   "amount_per_item": 1,
   "input": {
-    "tag": "forge:dusts/redstone"
+    "item": "minecraft:redstone"
   },
   "max_level": 5,
   "needed_per_level": 45,

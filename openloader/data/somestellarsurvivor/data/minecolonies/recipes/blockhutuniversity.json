@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:book"
+      "item": "minecraft:enchanted_book"
     },
     "T": {
       "item": "structurize:sceptergold"
@@ -13,7 +13,7 @@
   "pattern": [
     "XTX",
     "XBX",
-    "XBX"
+    "XXX"
   ],
   "result": {
     "item": "minecolonies:blockhutuniversity"

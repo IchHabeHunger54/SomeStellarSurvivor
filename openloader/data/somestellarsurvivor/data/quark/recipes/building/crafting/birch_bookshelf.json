@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "variant_bookshelves",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "minecraft:birch_planks"
@@ -19,7 +13,6 @@
     "###"
   ],
   "result": {
-    "count": 1,
     "item": "quark:birch_bookshelf"
   },
   "type": "minecraft:crafting_shaped"

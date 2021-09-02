@@ -4,38 +4,18 @@
       "bonus_rolls": 1,
       "entries": [
         {
-          "type": "empty",
+          "type": "minecraft:empty",
           "weight": 50
         },
         {
           "name": "minecolonies:chiefsword",
           "quality": 1,
-          "type": "item",
-          "weight": 3
-        },
-        {
-          "name": "minecraft:diamond_sword",
-          "type": "item",
-          "weight": 5
-        },
-        {
-          "name": "minecraft:golden_sword",
-          "type": "item",
-          "weight": 10
-        },
-        {
-          "name": "minecraft:iron_sword",
-          "type": "item",
-          "weight": 20
-        },
-        {
-          "name": "minecraft:stone_sword",
-          "type": "item",
-          "weight": 30
+          "type": "minecraft:item",
+          "weight": 32
         },
         {
           "name": "minecolonies:ancienttome",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 50
         }
       ],

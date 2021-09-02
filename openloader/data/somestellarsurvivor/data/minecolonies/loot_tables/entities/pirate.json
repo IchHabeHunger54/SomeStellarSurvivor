@@ -4,17 +4,17 @@
       "bonus_rolls": 1,
       "entries": [
         {
-          "type": "empty",
+          "type": "minecraft:empty",
           "weight": 80
         },
         {
           "name": "minecolonies:iron_scimitar",
-          "type": "item",
-          "weight": 10
+          "type": "minecraft:item",
+          "weight": 50
         },
         {
           "name": "minecolonies:ancienttome",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 10
         }
       ],

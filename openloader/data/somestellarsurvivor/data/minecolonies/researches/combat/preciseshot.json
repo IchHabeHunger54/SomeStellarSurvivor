@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:combat",
-  "effects": [
-    {
-      "minecolonies:effects/archerdamageaddition": 1
-    }
-  ],
-  "icon": "minecraft:arrow",
   "parentResearch": "minecolonies:combat/accuracy",
+  "researchLevel": 2,
+  "sortOrder": 2,
+  "icon": "minecraft:arrow",
   "requirements": [
     {
       "building": "barracks",
@@ -17,6 +14,9 @@
       "quantity": 16
     }
   ],
-  "researchLevel": 2,
-  "sortOrder": 2
+  "effects": [
+    {
+      "minecolonies:effects/archerdamageaddition": 1
+    }
+  ]
 }

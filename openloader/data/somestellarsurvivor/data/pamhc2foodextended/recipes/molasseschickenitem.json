@@ -7,7 +7,7 @@
       "tag": "forge:rawchicken"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:crops/garlic"
@@ -20,7 +20,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:molasseschickenitem"
   },
   "type": "minecraft:crafting_shapeless"

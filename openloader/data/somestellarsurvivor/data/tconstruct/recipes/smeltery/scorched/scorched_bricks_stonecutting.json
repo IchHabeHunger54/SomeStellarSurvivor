@@ -1,13 +1,7 @@
 {
   "count": 1,
   "ingredient": {
-    "base": {
-      "tag": "tconstruct:scorched_blocks"
-    },
-    "type": "mantle:without",
-    "without": {
-      "item": "tconstruct:scorched_bricks"
-    }
+    "item": "tconstruct:polished_scorched_stone"
   },
   "result": "tconstruct:scorched_bricks",
   "type": "minecraft:stonecutting"

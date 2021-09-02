@@ -4,10 +4,10 @@
       "item": "minecraft:iron_bars"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "W": {
-      "item": "minecraft:black_wool"
+      "item": "minecraft:gray_concrete"
     }
   },
   "pattern": [

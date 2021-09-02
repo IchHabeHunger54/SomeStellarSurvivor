@@ -1,37 +1,37 @@
 [
   {
-    "data": "tools/sword.json",
     "name": "sword",
-    "type": "tool"
+    "type": "tool",
+    "data": "tools/sword.json"
   },
   {
-    "data": "tools/dagger.json",
     "name": "dagger",
-    "type": "tool"
+    "type": "tool",
+    "data": "tools/dagger.json"
   },
   {
-    "data": "tools/axe.json",
     "name": "axe",
-    "type": "tool"
+    "type": "tool",
+    "data": "tools/axe.json"
   },
   {
-    "data": "tools/kama.json",
     "name": "kama",
-    "type": "tool"
+    "type": "tool",
+    "data": "tools/kama.json"
   },
   {
-    "data": "tools/mattock.json",
     "name": "mattock",
-    "type": "tool"
+    "type": "tool",
+    "data": "tools/mattock.json"
   },
   {
-    "data": "tools/pickaxe.json",
     "name": "pickaxe",
-    "type": "tool"
+    "type": "tool",
+    "data": "tools/pickaxe.json"
   },
   {
-    "data": "tools/repairing.json",
-    "name": "repairing",
-    "type": "imageText2"
+	"name": "repairing",
+    "type": "imageText2",
+    "data": "tools/repairing.json"
   }
 ]

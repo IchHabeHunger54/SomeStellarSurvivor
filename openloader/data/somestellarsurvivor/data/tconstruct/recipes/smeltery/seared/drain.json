@@ -4,7 +4,7 @@
       "item": "tconstruct:seared_brick"
     },
     "C": {
-      "tag": "forge:ingots/copper"
+      "item": "tconstruct:copper_ingot"
     }
   },
   "pattern": [

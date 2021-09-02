@@ -1,9 +1,8 @@
 {
-  "cookingtime": 200,
-  "experience": 0.35,
+  "cookingtime": 600,
   "ingredient": {
     "item": "berry_good:sweet_berry_mince"
   },
   "result": "berry_good:sweet_berry_meatballs",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

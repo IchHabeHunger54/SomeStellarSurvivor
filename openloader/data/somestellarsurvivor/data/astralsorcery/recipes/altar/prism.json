@@ -13,13 +13,13 @@
       "item": "astralsorcery:resonating_gem"
     },
     "B": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "C": {
       "tag": "forge:glass_panes"
     },
     "D": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "E": {
       "item": "astralsorcery:glass_lens"
@@ -40,7 +40,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:prism"
     }
   ],

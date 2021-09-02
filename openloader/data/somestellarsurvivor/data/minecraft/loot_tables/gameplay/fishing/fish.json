@@ -10,20 +10,20 @@
         {
           "name": "minecraft:salmon",
           "type": "minecraft:item",
-          "weight": 25
+          "weight": 20
         },
         {
           "name": "minecraft:tropical_fish",
           "type": "minecraft:item",
-          "weight": 2
+          "weight": 5
         },
         {
           "name": "minecraft:pufferfish",
           "type": "minecraft:item",
-          "weight": 13
+          "weight": 15
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "type": "minecraft:fishing"

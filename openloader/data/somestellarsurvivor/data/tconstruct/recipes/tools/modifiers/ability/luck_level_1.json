@@ -2,19 +2,19 @@
   "ability_slots": 1,
   "inputs": [
     {
-      "tag": "forge:ingots/copper"
+      "item": "tconstruct:copper_ingot"
     },
     {
       "item": "minecraft:cornflower"
     },
     {
-      "tag": "forge:ingots/copper"
+      "item": "tconstruct:copper_ingot"
     },
     {
-      "tag": "forge:storage_blocks/lapis"
+      "item": "minecraft:lapis_block"
     },
     {
-      "tag": "forge:storage_blocks/lapis"
+      "item": "minecraft:lapis_block"
     }
   ],
   "max_level": 1,

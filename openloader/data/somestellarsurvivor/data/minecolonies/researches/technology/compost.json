@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/farmingmultiplier": 3
-    }
-  ],
-  "icon": "minecraft:bone",
   "parentResearch": "minecolonies:technology/dung",
+  "researchLevel": 4,
+  "icon": "minecraft:bone",
   "requirements": [
     {
       "building": "miner",
@@ -17,5 +13,9 @@
       "quantity": 256
     }
   ],
-  "researchLevel": 4
+  "effects": [
+    {
+      "minecolonies:effects/farmingmultiplier": 3
+    }
+  ]
 }

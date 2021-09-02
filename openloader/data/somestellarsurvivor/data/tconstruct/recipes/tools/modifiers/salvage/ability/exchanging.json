@@ -3,7 +3,7 @@
   "modifier": "tconstruct:exchanging",
   "salvage": [
     {
-      "tag": "forge:ingots/hepatizon"
+      "item": "tconstruct:hepatizon_ingot"
     },
     {
       "chance": 0.9,

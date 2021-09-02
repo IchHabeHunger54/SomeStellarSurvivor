@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "duskbound_blocks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:duskbound_block"
@@ -16,7 +10,7 @@
     "###"
   ],
   "result": {
-    "count": 4,
+    "count": 6,
     "item": "quark:duskbound_block_stairs"
   },
   "type": "minecraft:crafting_shaped"

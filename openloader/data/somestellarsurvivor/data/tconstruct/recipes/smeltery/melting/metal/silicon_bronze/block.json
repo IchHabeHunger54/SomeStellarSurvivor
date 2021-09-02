@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:storage_blocks/silicon_bronze"
+    "item": "tconstruct:tinkers_bronze_block"
   },
   "result": {
     "amount": 1296,

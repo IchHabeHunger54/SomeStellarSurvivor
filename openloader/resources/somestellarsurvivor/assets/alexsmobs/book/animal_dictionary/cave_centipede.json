@@ -1,67 +1,72 @@
 {
+  "parent": "root.json",
+  "text": "cave_centipede.txt",
+  "title": "Cave Centipede",
+  "linked_page_buttons": [
+  ],
+  "images": [
+  ],
+  "item_renders": [
+  ],
+  "recipes": [
+  ],
+  "tabula_renders": [
+  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:centipede_tail",
-      "follow_cursor": false,
-      "page": 0,
-      "rot_x": 30,
-      "rot_y": 270,
-      "rot_z": 0,
-      "scale": 0.8,
       "x": 60,
-      "y": 70
-    },
-    {
-      "entity": "alexsmobs:centipede_body",
-      "follow_cursor": false,
-      "page": 0,
+      "y": 70,
+      "page" : 0,
+      "scale": 0.8,
       "rot_x": 30,
       "rot_y": 270,
       "rot_z": 0,
-      "scale": 0.8,
+      "follow_cursor": false
+    },
+    {
+      "entity": "alexsmobs:centipede_body",
       "x": 80,
-      "y": 70
-    },
-    {
-      "entity": "alexsmobs:centipede_body",
-      "follow_cursor": false,
-      "page": 0,
+      "y": 70,
+      "page" : 0,
+      "scale": 0.8,
       "rot_x": 30,
       "rot_y": 270,
       "rot_z": 0,
-      "scale": 0.8,
+      "follow_cursor": false
+    },
+    {
+      "entity": "alexsmobs:centipede_body",
       "x": 102,
-      "y": 70
-    },
-    {
-      "entity": "alexsmobs:centipede_body",
-      "follow_cursor": false,
-      "page": 0,
+      "y": 70,
+      "page" : 0,
+      "scale": 0.8,
       "rot_x": 30,
       "rot_y": 270,
       "rot_z": 0,
-      "scale": 0.8,
+      "follow_cursor": false
+    },
+    {
+      "entity": "alexsmobs:centipede_body",
       "x": 124,
-      "y": 70
+      "y": 70,
+      "page" : 0,
+      "scale": 0.8,
+      "rot_x": 30,
+      "rot_y": 270,
+      "rot_z": 0,
+      "follow_cursor": false
     },
     {
       "entity": "alexsmobs:centipede_head",
-      "follow_cursor": false,
-      "page": 0,
+      "x": 145,
+      "y": 70,
+      "page" : 0,
+      "scale": 0.8,
       "rot_x": 30,
       "rot_y": 270,
       "rot_z": 0,
-      "scale": 0.8,
-      "x": 145,
-      "y": 70
+      "follow_cursor": false
     }
-  ],
-  "images": [],
-  "item_renders": [],
-  "linked_page_buttons": [],
-  "parent": "root.json",
-  "recipes": [],
-  "tabula_renders": [],
-  "text": "cave_centipede.txt",
-  "title": "Cave Centipede"
+  ]
 }

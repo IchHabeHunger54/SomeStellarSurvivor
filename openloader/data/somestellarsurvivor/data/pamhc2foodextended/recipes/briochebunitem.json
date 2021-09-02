@@ -19,11 +19,10 @@
       "tag": "forge:cream"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:briochebunitem"
   },
   "type": "minecraft:crafting_shapeless"

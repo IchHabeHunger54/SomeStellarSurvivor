@@ -1,20 +1,11 @@
 {
-  "conditions": [
-    {
-      "flag": "feeding_trough",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
-      "tag": "minecraft:planks"
-    },
-    "F": {
-      "tag": "forge:fence_gates/wooden"
+      "tag": "minecraft:wooden_slabs"
     }
   },
   "pattern": [
-    "F F",
+    "# #",
     "###"
   ],
   "result": {

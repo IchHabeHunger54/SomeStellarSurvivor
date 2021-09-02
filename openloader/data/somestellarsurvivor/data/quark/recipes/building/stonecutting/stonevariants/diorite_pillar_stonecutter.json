@@ -1,22 +1,7 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_pillar",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "diorite",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 1,
   "ingredient": {
-    "item": "minecraft:diorite"
+    "item": "quark:diorite_bricks"
   },
   "result": "quark:diorite_pillar",
   "type": "minecraft:stonecutting"

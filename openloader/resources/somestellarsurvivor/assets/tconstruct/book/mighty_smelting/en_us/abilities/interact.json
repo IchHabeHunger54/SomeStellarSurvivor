@@ -1,12 +1,12 @@
 {
+  "title":"Interact",
   "text": [
     {
       "text": "These abilites all affect your interactions."
     },
     {
-      "paragraph": true,
-      "text": "Due to their nature some interaction abilities will conflict."
+      "text": "Due to their nature some interaction abilities will conflict.",
+      "paragraph": true
     }
-  ],
-  "title": "Interact"
+  ]
 }

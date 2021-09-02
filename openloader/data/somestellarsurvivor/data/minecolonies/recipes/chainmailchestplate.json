@@ -1,16 +1,13 @@
 {
   "key": {
-    "I": {
-      "item": "minecraft:iron_ingot"
-    },
-    "N": {
-      "item": "minecraft:iron_nugget"
+    "C": {
+      "item": "minecraft:chain"
     }
   },
   "pattern": [
-    "I I",
-    "NNN",
-    "NNN"
+    "C C",
+    "CCC",
+    "CCC"
   ],
   "result": {
     "item": "minecraft:chainmail_chestplate"

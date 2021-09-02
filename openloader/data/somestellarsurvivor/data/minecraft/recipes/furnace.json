@@ -1,7 +1,7 @@
 {
   "key": {
     "#": {
-      "tag": "minecraft:stone_crafting_materials"
+      "item": "minecraft:cobblestone"
     }
   },
   "pattern": [

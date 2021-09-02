@@ -1,18 +1,13 @@
 {
-  "group": "scented_candles",
   "ingredients": [
     {
       "item": "buzzier_bees:candle"
     },
     {
       "item": "minecraft:lily_of_the_valley"
-    },
-    {
-      "item": "minecraft:popped_chorus_fruit"
     }
   ],
   "result": {
-    "count": 1,
     "item": "buzzier_bees:lily_of_the_valley_scented_candle"
   },
   "type": "minecraft:crafting_shapeless"

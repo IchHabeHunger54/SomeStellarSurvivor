@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "shingles",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:brown_shingles"
@@ -16,7 +10,7 @@
     "###"
   ],
   "result": {
-    "count": 4,
+    "count": 6,
     "item": "quark:brown_shingles_stairs"
   },
   "type": "minecraft:crafting_shaped"

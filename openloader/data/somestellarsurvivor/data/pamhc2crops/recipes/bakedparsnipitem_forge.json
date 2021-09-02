@@ -1,9 +1,8 @@
 {
-  "cookingtime": 200,
-  "experience": 0.35,
+  "cookingtime": 600,
   "ingredient": {
     "tag": "forge:crops/parsnip"
   },
   "result": "pamhc2crops:bakedparsnipitem",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

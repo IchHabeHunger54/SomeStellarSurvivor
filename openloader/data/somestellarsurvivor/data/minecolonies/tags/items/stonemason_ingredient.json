@@ -2,11 +2,11 @@
   "replace": true,
   "values": [
     "#forge:stone",
+    "minecraft:brick",
     "minecraft:cobblestone",
     "minecraft:nether_brick",
     "minecraft:popped_chorus_fruit",
     "minecraft:purpur_block",
-    "minecraft:purpur_pillar",
     "#minecraft:slabs",
     "quark:cactus_paste"
   ]

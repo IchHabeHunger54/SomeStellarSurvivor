@@ -1,7 +1,7 @@
 {
   "key": {
     "A": {
-      "item": "minecraft:iron_sword"
+      "item": "minecraft:stone_sword"
     },
     "B": {
       "item": "minecolonies:blockhutguardtower"
@@ -10,7 +10,7 @@
       "item": "minecraft:bow"
     },
     "X": {
-      "item": "minecraft:yellow_banner"
+      "tag": "minecraft:banners"
     }
   },
   "pattern": [

@@ -21,7 +21,7 @@
       "tag": "forge:feathers"
     },
     "D": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "E": {
       "item": "astralsorcery:parchment"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:constellation_paper"
     }
   ],
@@ -49,10 +48,10 @@
       "item": "minecraft:coal"
     },
     {
-      "tag": "forge:dusts/redstone"
+      "item": "minecraft:redstone"
     },
     {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     {
       "tag": "forge:gunpowder"

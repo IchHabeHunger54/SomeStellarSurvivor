@@ -27,16 +27,16 @@
       "tag": "minecraft:sand"
     },
     {
-      "tag": "forge:gravel"
+      "item": "minecraft:gravel"
     },
     {
-      "tag": "forge:gravel"
+      "item": "minecraft:gravel"
     },
     {
-      "tag": "forge:gravel"
+      "item": "minecraft:gravel"
     },
     {
-      "tag": "forge:gravel"
+      "item": "minecraft:gravel"
     }
   ],
   "result": {

@@ -13,10 +13,10 @@
   "focus_constellation": "astralsorcery:armara",
   "key": {
     "A": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "astralsorcery:mantle"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:mantle"
     }
   ],
@@ -46,16 +45,16 @@
   "recipe_class": "astralsorcery:constellation_base_nbt_copy",
   "relay_inputs": [
     {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     {
-      "tag": "forge:leather"
+      "item": "minecraft:leather"
     },
     {
       "item": "minecraft:clay_ball"
     },
     {
-      "tag": "forge:dusts/glowstone"
+      "item": "minecraft:glowstone_dust"
     }
   ],
   "starlight": 6400,

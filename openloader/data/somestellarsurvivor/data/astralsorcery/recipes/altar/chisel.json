@@ -13,12 +13,11 @@
       "tag": "forge:nuggets/gold"
     },
     "C": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     }
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:chisel"
     }
   ],

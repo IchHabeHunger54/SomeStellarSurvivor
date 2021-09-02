@@ -7,14 +7,13 @@
       "tag": "forge:nutbutters"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     },
     {
       "tag": "forge:bread"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:honeysandwichitem"
   },
   "type": "minecraft:crafting_shapeless"

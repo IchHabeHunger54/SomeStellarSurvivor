@@ -4,13 +4,13 @@
       "bonus_rolls": 1,
       "entries": [
         {
-          "type": "empty",
+          "type": "minecraft:empty",
           "weight": 80
         },
         {
           "name": "minecolonies:ancienttome",
-          "type": "item",
-          "weight": 30
+          "type": "minecraft:item",
+          "weight": 10
         }
       ],
       "name": "minecolonies:mummy",

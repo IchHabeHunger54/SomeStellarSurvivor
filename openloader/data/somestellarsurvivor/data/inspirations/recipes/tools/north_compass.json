@@ -1,26 +1,15 @@
 {
-  "conditions": [
-    {
-      "prop": "tools_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "north_compass",
-      "type": "inspirations:config"
-    }
-  ],
   "key": {
-    "I": {
-      "tag": "forge:ingots/iron"
+    "C": {
+      "item": "minecraft:compass"
     },
-    "N": {
-      "tag": "forge:nuggets/iron"
+    "I": {
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    " I ",
-    "INI",
-    " I "
+    "I",
+    "C"
   ],
   "result": {
     "item": "inspirations:north_compass"

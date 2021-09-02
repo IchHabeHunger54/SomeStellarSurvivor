@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "chest_reversion",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "tag": "quark:revertable_chests"

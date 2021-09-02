@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/moreoresmultiplier": 4
-    }
-  ],
-  "icon": "minecraft:lapis_block",
   "parentResearch": "minecolonies:technology/richveins",
+  "researchLevel": 5,
+  "icon": "minecraft:lapis_block",
   "requirements": [
     {
       "building": "blacksmith",
@@ -17,5 +13,9 @@
       "quantity": 64
     }
   ],
-  "researchLevel": 5
+  "effects": [
+    {
+      "minecolonies:effects/moreoresmultiplier": 4
+    }
+  ]
 }

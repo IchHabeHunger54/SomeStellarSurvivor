@@ -1,11 +1,10 @@
 {
-  "group": "dyed_bed",
   "ingredients": [
     {
-      "item": "minecraft:white_bed"
+      "tag": "minecraft:beds"
     },
     {
-      "item": "minecraft:blue_dye"
+      "tag": "forge:dyes/blue"
     }
   ],
   "result": {

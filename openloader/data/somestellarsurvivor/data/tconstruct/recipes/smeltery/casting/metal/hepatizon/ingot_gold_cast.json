@@ -8,7 +8,7 @@
     "tag": "tconstruct:molten_hepatizon"
   },
   "result": {
-    "tag": "forge:ingots/hepatizon"
+    "item": "tconstruct:hepatizon_ingot"
   },
   "type": "tconstruct:casting_table"
 }

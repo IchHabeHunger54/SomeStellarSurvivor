@@ -1,12 +1,5 @@
 {
-  "conditions": [
-    {
-      "flag": "midori",
-      "type": "quark:flag"
-    }
-  ],
   "cookingtime": 200,
-  "experience": 1.0,
   "ingredient": {
     "item": "minecraft:cactus"
   },

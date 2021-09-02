@@ -9,7 +9,7 @@
     "tag": "tconstruct:molten_copper"
   },
   "result": {
-    "tag": "forge:ingots/copper"
+    "item": "tconstruct:copper_ingot"
   },
   "type": "tconstruct:casting_table"
 }

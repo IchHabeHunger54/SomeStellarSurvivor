@@ -31,6 +31,8 @@
 		"Knockback Scales With Size" = true
 		#EXPERIMENTAL! This will make explosion blast blocks away. Blocks that can't land will drop the block as a TNT would have destroyed it.
 		"Enable Flying Blocks" = false
+		#Explosions will start from the middle of the entity instead of feets.
+		"Explosions at Half Entity" = true
 
 	#Apply potion effects on certain hunger / health / experience level
 	[Miscellaneous.Debuffing]
@@ -188,7 +190,7 @@
 	[Combat.Stats]
 		#If true, Swords, Axes and Tridents get a -1 damage.
 		"Reduced Weapon Damage" = false
-		#If true, Diamond armor will get -1.5 toughness, Netherite gets a total of +2 armor points and Protection is disabled.
+		#If true, Diamond armor will get -1 toughness, Netherite gets a total of +2 armor points and Protection is disabled.
 		"Armor Adjustments" = false
 		#If true, Power Enchantment will be nerfed to deal half damage.
 		"Nerf Power" = true

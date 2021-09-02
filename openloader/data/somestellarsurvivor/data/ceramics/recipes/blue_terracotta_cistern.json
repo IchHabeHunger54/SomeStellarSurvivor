@@ -1,0 +1,21 @@
+{
+  "key": {
+    "c": {
+      "tag": "ceramics:terracotta_cisterns",
+      "type": "ceramics:no_nbt"
+    },
+    "d": {
+      "tag": "forge:dyes/blue"
+    }
+  },
+  "pattern": [
+    "ccc",
+    "cdc",
+    "ccc"
+  ],
+  "result": {
+    "count": 4,
+    "item": "ceramics:blue_terracotta_cistern"
+  },
+  "type": "minecraft:crafting_shaped"
+}

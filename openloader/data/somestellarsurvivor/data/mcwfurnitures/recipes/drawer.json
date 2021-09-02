@@ -4,7 +4,7 @@
       "item": "minecraft:stick"
     },
     "B": {
-      "tag": "forge:chests/wooden"
+      "tag": "forge:chests"
     },
     "C": {
       "item": "minecraft:iron_nugget"
@@ -15,7 +15,6 @@
     "ACA"
   ],
   "result": {
-    "count": 1,
     "item": "mcwfurnitures:drawer"
   },
   "type": "minecraft:crafting_shaped"

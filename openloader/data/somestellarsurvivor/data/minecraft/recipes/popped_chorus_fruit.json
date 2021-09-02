@@ -1,9 +1,12 @@
 {
-  "cookingtime": 200,
-  "experience": 0.1,
-  "ingredient": {
-    "item": "minecraft:chorus_fruit"
+  "ingredients": [
+    {
+      "item": "minecraft:purpur_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:popped_chorus_fruit"
   },
-  "result": "minecraft:popped_chorus_fruit",
-  "type": "minecraft:smelting"
+  "type": "minecraft:crafting_shapeless"
 }

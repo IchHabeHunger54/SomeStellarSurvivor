@@ -7,7 +7,7 @@
   ],
   "key": {
     "#": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
@@ -16,7 +16,7 @@
     "###"
   ],
   "result": {
-    "count": 24,
+    "count": 8,
     "item": "quark:iron_plate"
   },
   "type": "minecraft:crafting_shaped"

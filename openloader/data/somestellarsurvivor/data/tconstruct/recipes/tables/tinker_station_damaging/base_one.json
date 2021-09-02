@@ -1,7 +1,6 @@
 {
   "damage_amount": 1,
   "ingredient": {
-    "count": 1,
     "item": "minecraft:potion",
     "nbt": "{Potion:\"minecraft:mundane\"}",
     "type": "forge:nbt"

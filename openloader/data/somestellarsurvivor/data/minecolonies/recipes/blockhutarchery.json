@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:bow"
+      "item": "minecraft:target"
     },
     "T": {
       "item": "structurize:sceptergold"
@@ -12,11 +12,10 @@
   },
   "pattern": [
     "XTX",
-    "BBB",
+    "XBX",
     "XXX"
   ],
   "result": {
-    "count": 1,
     "item": "minecolonies:blockhutarchery"
   },
   "type": "minecraft:crafting_shaped"

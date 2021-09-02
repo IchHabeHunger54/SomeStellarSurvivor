@@ -4,7 +4,7 @@
       "item": "mcwfurnitures:crimson_plate"
     },
     "B": {
-      "item": "minecraft:bookshelf"
+      "item": "quark:crimson_bookshelf"
     }
   },
   "pattern": [
@@ -13,7 +13,6 @@
     "AAA"
   ],
   "result": {
-    "count": 1,
     "item": "mcwfurnitures:crimson_furniture_7"
   },
   "type": "minecraft:crafting_shaped"

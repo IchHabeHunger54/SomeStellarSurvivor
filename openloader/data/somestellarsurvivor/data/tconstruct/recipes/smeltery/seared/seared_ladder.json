@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "tag": "tconstruct:seared_bricks"
+      "item": "tconstruct:seared_bricks"
     },
     "b": {
       "item": "tconstruct:seared_brick"
@@ -9,11 +9,10 @@
   },
   "pattern": [
     "b b",
-    "b b",
-    "BBB"
+    "bBb",
+    "b b"
   ],
   "result": {
-    "count": 4,
     "item": "tconstruct:seared_ladder"
   },
   "type": "minecraft:crafting_shaped"

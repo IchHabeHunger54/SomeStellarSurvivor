@@ -1,12 +1,10 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutconcretemixer": 1
-    }
-  ],
-  "icon": "minecolonies:blockhutconcretemixer",
   "parentResearch": "minecolonies:technology/rockingroll",
+  "researchLevel": 3,
+  "subtitle": "com.minecolonies.research.technology.pavetheroad.subtitle",
+  "sortOrder": 2,
+  "icon": "minecolonies:blockhutconcretemixer",
   "requirements": [
     {
       "building": "crusher",
@@ -17,7 +15,9 @@
       "quantity": 32
     }
   ],
-  "researchLevel": 3,
-  "sortOrder": 2,
-  "subtitle": "com.minecolonies.research.technology.pavetheroad.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/blockhutconcretemixer": 1
+    }
+  ]
 }

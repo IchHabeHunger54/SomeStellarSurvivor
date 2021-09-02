@@ -1,7 +1,7 @@
 {
   "ingredients": [
     {
-      "tag": "forge:sand/colorless"
+      "item": "minecraft:sand"
     }
   ],
   "result": {

@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:iron_boots"
+      "item": "minecraft:chainmail_boots"
     },
     "T": {
       "item": "structurize:sceptergold"
@@ -16,7 +16,6 @@
     "XXX"
   ],
   "result": {
-    "count": 2,
     "item": "minecolonies:blockhutdeliveryman"
   },
   "type": "minecraft:crafting_shaped"

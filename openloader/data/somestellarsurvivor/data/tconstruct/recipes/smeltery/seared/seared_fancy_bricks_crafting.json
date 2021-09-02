@@ -1,14 +1,15 @@
 {
   "key": {
-    "s": {
-      "item": "tconstruct:seared_bricks_slab"
+    "b": {
+      "item": "tconstruct:seared_bricks"
     }
   },
   "pattern": [
-    "s",
-    "s"
+    "bb",
+    "bb"
   ],
   "result": {
+    "count": 4,
     "item": "tconstruct:seared_fancy_bricks"
   },
   "type": "minecraft:crafting_shaped"

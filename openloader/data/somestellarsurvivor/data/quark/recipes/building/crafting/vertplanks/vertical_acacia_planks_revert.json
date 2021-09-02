@@ -1,17 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "vertical_planks",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "item": "quark:vertical_acacia_planks"
     }
   ],
   "result": {
-    "count": 1,
     "item": "minecraft:acacia_planks"
   },
   "type": "minecraft:crafting_shapeless"

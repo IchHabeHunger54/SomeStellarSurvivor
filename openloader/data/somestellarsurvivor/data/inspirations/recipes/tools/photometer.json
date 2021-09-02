@@ -1,26 +1,16 @@
 {
-  "conditions": [
-    {
-      "prop": "tools_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "photometer",
-      "type": "inspirations:config"
-    }
-  ],
   "key": {
     "B": {
       "item": "minecraft:glass_bottle"
     },
     "G": {
-      "tag": "forge:dusts/glowstone"
+      "item": "minecraft:glowstone_dust"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "R": {
-      "tag": "forge:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   },
   "pattern": [

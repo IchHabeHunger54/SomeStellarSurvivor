@@ -7,11 +7,10 @@
       "tag": "forge:fruits/apricot"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:apricotjellyitem"
   },
   "type": "minecraft:crafting_shapeless"

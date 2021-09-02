@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:storage_blocks/copper"
+    "item": "tconstruct:copper_block"
   },
   "result": {
     "amount": 1296,

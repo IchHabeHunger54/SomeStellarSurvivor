@@ -4,14 +4,14 @@
       "bonus_rolls": 1,
       "entries": [
         {
-          "type": "empty",
+          "type": "minecraft:empty",
           "weight": 50
         },
         {
           "name": "minecolonies:pharaoscepter",
           "quality": 1,
-          "type": "item",
-          "weight": 3
+          "type": "minecraft:item",
+          "weight": 32
         },
         {
           "functions": [
@@ -32,8 +32,8 @@
             }
           ],
           "name": "minecraft:arrow",
-          "type": "item",
-          "weight": 20
+          "type": "minecraft:item",
+          "weight": 30
         },
         {
           "functions": [
@@ -54,12 +54,12 @@
             }
           ],
           "name": "minecolonies:firearrow",
-          "type": "item",
-          "weight": 10
+          "type": "minecraft:item",
+          "weight": 20
         },
         {
           "name": "minecolonies:ancienttome",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 50
         }
       ],

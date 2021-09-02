@@ -1,22 +1,16 @@
 {
-  "conditions": [
-    {
-      "flag": "chute",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "S": {
-      "tag": "forge:rods/wooden"
+      "tag": "forge:chests"
     },
     "W": {
       "tag": "minecraft:planks"
     }
   },
   "pattern": [
-    "WWW",
-    "SWS",
-    " S "
+    "W W",
+    "WSW",
+    " W "
   ],
   "result": {
     "item": "quark:chute"

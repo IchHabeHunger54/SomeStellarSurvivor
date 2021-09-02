@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/podzolchancemultiplier": 2
-    }
-  ],
-  "icon": "minecraft:podzol",
   "parentResearch": "minecolonies:technology/podzolchance",
+  "researchLevel": 3,
+  "subtitle": "com.minecolonies.research.technology.podzolchance2.subtitle",
+  "icon": "minecraft:podzol",
   "requirements": [
     {
       "building": "composter",
@@ -17,6 +14,9 @@
       "quantity": 32
     }
   ],
-  "researchLevel": 3,
-  "subtitle": "com.minecolonies.research.technology.podzolchance2.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/podzolchancemultiplier": 2
+    }
+  ]
 }

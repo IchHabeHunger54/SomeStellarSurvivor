@@ -10,15 +10,14 @@
       "item": "astralsorcery:marble_runed"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
-      "tag": "forge:gems/diamond"
+      "item": "minecraft:diamond"
     }
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:exchange_wand"
     }
   ],

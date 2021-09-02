@@ -1,14 +1,13 @@
 {
-  "group": "hammock",
   "key": {
     "a": {
       "item": "minecraft:lime_wool"
     },
     "s": {
-      "tag": "forge:string"
+      "item": "minecraft:string"
     },
     "w": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [

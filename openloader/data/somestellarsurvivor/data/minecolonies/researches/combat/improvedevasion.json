@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:combat",
-  "effects": [
-    {
-      "minecolonies:effects/archerarmormultiplier": 4
-    }
-  ],
-  "icon": "minecraft:golden_boots",
   "parentResearch": "minecolonies:combat/evasion",
+  "researchLevel": 5,
+  "subtitle": "com.minecolonies.research.combat.improvedevasion.subtitle",
+  "icon": "minecraft:golden_boots",
   "requirements": [
     {
       "building": "archery",
@@ -17,6 +14,9 @@
       "quantity": 16
     }
   ],
-  "researchLevel": 5,
-  "subtitle": "com.minecolonies.research.combat.improvedevasion.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/archerarmormultiplier": 4
+    }
+  ]
 }

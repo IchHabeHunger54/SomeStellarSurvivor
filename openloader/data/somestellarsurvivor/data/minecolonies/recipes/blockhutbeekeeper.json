@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:beehive"
+      "tag": "minecraft:beehives"
     },
     "T": {
       "item": "structurize:sceptergold"
@@ -16,7 +16,7 @@
     "XXX"
   ],
   "result": {
-    "item": "minecolonies:blockhutbeekeeper"
+    "item": "minecolonies:blockhutarchery"
   },
   "type": "minecraft:crafting_shaped"
 }

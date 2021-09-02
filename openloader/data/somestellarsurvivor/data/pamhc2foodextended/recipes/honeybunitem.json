@@ -10,14 +10,13 @@
       "tag": "forge:egg"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     },
     {
       "tag": "forge:dough"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:honeybunitem"
   },
   "type": "minecraft:crafting_shapeless"

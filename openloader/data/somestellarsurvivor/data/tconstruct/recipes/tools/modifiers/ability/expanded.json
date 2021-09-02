@@ -5,7 +5,7 @@
       "item": "minecraft:piston"
     },
     {
-      "tag": "forge:ingots/silicon_bronze"
+      "item": "tconstruct:tinkers_bronze_ingot"
     },
     {
       "item": "minecraft:piston"

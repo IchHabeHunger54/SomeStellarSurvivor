@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "midori",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:midori_block"

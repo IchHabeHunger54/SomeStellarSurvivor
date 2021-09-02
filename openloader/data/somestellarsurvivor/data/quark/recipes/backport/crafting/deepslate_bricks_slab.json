@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "deepslate",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:deepslate_bricks"

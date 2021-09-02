@@ -1,7 +1,7 @@
 {
   "amount_per_item": 4,
   "input": {
-    "tag": "forge:storage_blocks/quartz"
+    "item": "minecraft:quartz_block"
   },
   "leftover": "minecraft:quartz",
   "max_level": 5,

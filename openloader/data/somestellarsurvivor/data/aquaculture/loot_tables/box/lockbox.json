@@ -5,74 +5,38 @@
         {
           "entryName": "iron_ingot",
           "name": "minecraft:iron_ingot",
-          "type": "item",
-          "weight": 8
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
           "entryName": "gold_ingot",
           "name": "minecraft:gold_ingot",
-          "type": "item",
-          "weight": 7
-        },
-        {
-          "entryName": "golden_apple",
-          "name": "minecraft:golden_apple",
-          "type": "item",
-          "weight": 5
-        },
-        {
-          "entryName": "dandelion",
-          "name": "minecraft:dandelion",
-          "type": "item",
-          "weight": 8
-        },
-        {
-          "entryName": "redstone",
-          "name": "minecraft:redstone",
-          "type": "item",
-          "weight": 8
+          "type": "minecraft:item",
+          "weight": 10
         },
         {
           "entryName": "book",
           "name": "minecraft:book",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 10
         },
         {
           "entryName": "paper",
           "name": "minecraft:paper",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 10
         },
         {
           "entryName": "compass",
           "name": "minecraft:compass",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 10
         },
         {
           "entryName": "clock",
           "name": "minecraft:clock",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 10
-        },
-        {
-          "entryName": "glowstone_dust",
-          "name": "minecraft:glowstone_dust",
-          "type": "item",
-          "weight": 7
-        },
-        {
-          "entryName": "gunpowder",
-          "name": "minecraft:gunpowder",
-          "type": "item",
-          "weight": 10
-        },
-        {
-          "entryName": "quartz",
-          "name": "minecraft:quartz",
-          "type": "item",
-          "weight": 7
         }
       ],
       "name": "aquaculture:lockbox_loot",

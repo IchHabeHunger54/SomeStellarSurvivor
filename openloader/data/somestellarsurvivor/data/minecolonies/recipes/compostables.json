@@ -6,9 +6,6 @@
       "type": "minecolonies:food"
     },
     {
-      "type": "minecolonies:plant"
-    },
-    {
       "tag": "minecolonies:compostables"
     }
   ],

@@ -1,0 +1,17 @@
+{
+  "key": {
+    "B": {
+      "item": "ceramics:monochrome_bricks"
+    }
+  },
+  "pattern": [
+    "B  ",
+    "BB ",
+    "BBB"
+  ],
+  "result": {
+    "count": 6,
+    "item": "ceramics:monochrome_bricks_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,16 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "variant_chests",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
-  "group": "crimson_chest",
   "key": {
     "#": {
       "item": "minecraft:crimson_planks"
@@ -22,7 +10,6 @@
     "###"
   ],
   "result": {
-    "count": 1,
     "item": "quark:crimson_chest"
   },
   "type": "minecraft:crafting_shaped"

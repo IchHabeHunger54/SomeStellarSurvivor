@@ -1,8 +1,5 @@
 {
-  "properties": [
-    "Medium Damage",
-    "Sweep attack"
-  ],
+  "tool": "tconstruct:sword",
   "text": [
     {
       "text": "The sword is a versatile weapon. It has average damage and allows you to knock back multiple enemies at once with a sweep attack, all while keeping your other hand free."
@@ -11,5 +8,8 @@
       "text": "\n"
     }
   ],
-  "tool": "tconstruct:sword"
+  "properties": [
+    "Medium Damage",
+    "Sweep attack"
+  ]
 }

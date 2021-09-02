@@ -1,11 +1,10 @@
 {
-  "group": "stained_glass_pane",
   "key": {
     "#": {
       "item": "minecraft:glass_pane"
     },
     "$": {
-      "item": "minecraft:brown_dye"
+      "tag": "forge:dyes/brown"
     }
   },
   "pattern": [

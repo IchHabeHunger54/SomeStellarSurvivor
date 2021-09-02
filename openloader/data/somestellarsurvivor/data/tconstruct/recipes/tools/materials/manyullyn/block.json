@@ -1,9 +1,9 @@
 {
   "ingredient": {
-    "tag": "forge:storage_blocks/manyullyn"
+    "item": "tconstruct:manyullyn_block"
   },
   "leftover": {
-    "tag": "forge:ingots/manyullyn"
+    "item": "tconstruct:manyullyn_ingot"
   },
   "material": "tconstruct:manyullyn",
   "needed": 1,

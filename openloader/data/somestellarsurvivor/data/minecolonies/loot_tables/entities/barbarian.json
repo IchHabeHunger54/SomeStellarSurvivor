@@ -4,32 +4,17 @@
       "bonus_rolls": 1,
       "entries": [
         {
-          "type": "empty",
+          "type": "minecraft:empty",
           "weight": 80
         },
         {
-          "name": "minecraft:diamond_axe",
-          "type": "item",
-          "weight": 1
-        },
-        {
-          "name": "minecraft:golden_axe",
-          "type": "item",
-          "weight": 5
-        },
-        {
-          "name": "minecraft:iron_axe",
-          "type": "item",
-          "weight": 15
-        },
-        {
           "name": "minecraft:stone_axe",
-          "type": "item",
-          "weight": 20
+          "type": "minecraft:item",
+          "weight": 50
         },
         {
           "name": "minecolonies:ancienttome",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 10
         }
       ],

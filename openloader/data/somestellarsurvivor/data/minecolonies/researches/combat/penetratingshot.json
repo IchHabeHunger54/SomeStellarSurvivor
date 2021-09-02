@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:combat",
-  "effects": [
-    {
-      "minecolonies:effects/archerdamageaddition": 2
-    }
-  ],
-  "icon": "minecraft:bow",
   "parentResearch": "minecolonies:combat/preciseshot",
+  "researchLevel": 3,
+  "icon": "minecraft:bow",
   "requirements": [
     {
       "building": "archery",
@@ -17,5 +13,9 @@
       "quantity": 32
     }
   ],
-  "researchLevel": 3
+  "effects": [
+    {
+      "minecolonies:effects/archerdamageaddition": 2
+    }
+  ]
 }

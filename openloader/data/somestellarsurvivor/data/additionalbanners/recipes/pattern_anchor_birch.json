@@ -1,19 +1,14 @@
 {
-  "damageAmount": 1,
-  "ignoreUnbreaking": false,
   "ingredients": [
-    {
-      "type": "bookshelf:any_shear"
-    },
     {
       "item": "minecraft:paper"
     },
     {
-      "item": "minecraft:birch_boat"
+      "item": "minecraft:clay_ball"
     }
   ],
   "result": {
-    "item": "additionalbanners:anchor"
+    "item": "additionalbanners:balance"
   },
-  "type": "bookshelf:crafting_shapeless_with_damage"
+  "type": "minecraft:crafting_shapeless"
 }

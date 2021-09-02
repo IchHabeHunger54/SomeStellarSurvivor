@@ -20,12 +20,12 @@
             }
           ],
           "name": "alexsmobs:leafcutter_ant_pupa",
-          "type": "item",
+          "type": "minecraft:item",
           "weight": 1
         }
       ],
-      "name": "fly",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:entity"
 }

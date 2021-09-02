@@ -1,27 +1,3 @@
 {
-  "pools": [
-    {
-      "entries": [
-        {
-          "children": [
-            {
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "item": "minecraft:shears"
-                  }
-                }
-              ],
-              "name": "quark:chorus_twist",
-              "type": "minecraft:item"
-            }
-          ],
-          "type": "minecraft:alternatives"
-        }
-      ],
-      "rolls": 1
-    }
-  ],
   "type": "minecraft:block"
 }

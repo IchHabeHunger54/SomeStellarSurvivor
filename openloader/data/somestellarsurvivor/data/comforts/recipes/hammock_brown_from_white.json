@@ -1,1 +1,14 @@
-{"group":"dyed_hammock","ingredients":[{"item":"comforts:hammock_white"},{"tag":"forge:dyes/brown"}],"result":{"item":"comforts:hammock_brown"},"type":"minecraft:crafting_shapeless"}
+{
+  "ingredients": [
+    {
+      "tag": "comforts:hammocks"
+    },
+    {
+      "tag": "forge:dyes/brown"
+    }
+  ],
+  "result": {
+    "item": "comforts:hammock_brown"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

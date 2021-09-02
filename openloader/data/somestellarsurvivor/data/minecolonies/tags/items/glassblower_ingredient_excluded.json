@@ -1,6 +1,8 @@
 {
   "replace": true,
   "values": [
-    "#forge:dyes"
+    "#minecolonies:dyer_ingredient",
+    "#minecolonies:dyer_ingredient_excluded",
+    "#minecolonies:dyer_product"
   ]
 }

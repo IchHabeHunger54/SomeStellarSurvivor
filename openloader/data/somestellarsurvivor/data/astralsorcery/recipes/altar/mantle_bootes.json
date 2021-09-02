@@ -16,7 +16,7 @@
       "tag": "forge:crops/wheat"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "astralsorcery:mantle"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:mantle"
     }
   ],
@@ -55,7 +54,7 @@
       "item": "minecraft:apple"
     },
     {
-      "tag": "forge:leather"
+      "item": "minecraft:leather"
     }
   ],
   "starlight": 6400,

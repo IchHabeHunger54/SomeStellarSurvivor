@@ -1,28 +1,10 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "forge:not",
-          "value": {
-            "flag": "ravager_hide",
-            "type": "quark:flag"
-          }
-        },
-        {
-          "flag": "backpack",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "C": {
-      "tag": "forge:chests/wooden"
+      "tag": "forge:chests"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "L": {
       "item": "minecraft:leather"
@@ -34,7 +16,6 @@
     "LIL"
   ],
   "result": {
-    "count": 1,
     "item": "quark:backpack"
   },
   "type": "minecraft:crafting_shaped"

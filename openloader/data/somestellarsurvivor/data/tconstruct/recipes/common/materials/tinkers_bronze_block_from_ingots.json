@@ -1,8 +1,7 @@
 {
-  "group": "tconstruct:tinkers_bronze_block",
   "key": {
     "#": {
-      "tag": "forge:ingots/silicon_bronze"
+      "item": "tconstruct:tinkers_bronze_ingot"
     },
     "*": {
       "item": "tconstruct:tinkers_bronze_ingot"

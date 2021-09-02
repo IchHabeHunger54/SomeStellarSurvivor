@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "hedges",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "blossom_trees",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "L": {
       "item": "quark:yellow_blossom_leaves"

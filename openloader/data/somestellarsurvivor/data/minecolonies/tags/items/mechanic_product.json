@@ -5,15 +5,7 @@
     "#minecraft:pressure_plates",
     "#minecraft:rails",
     "#forge:chests/trapped",
-    "minecraft:daylight_detector",
     "minecraft:honey_block",
-    "minecraft:honeycomb_block",
-    "minecraft:jack_o_lantern",
-    "minecraft:lantern",
-    "minecraft:lever",
-    "minecraft:sticky_piston",
-    "minecraft:torch",
-    "minecraft:tripwire_hook",
-    "quark:lit_lamp"
+    "minecraft:honeycomb_block"
   ]
 }

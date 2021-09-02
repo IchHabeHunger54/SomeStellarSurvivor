@@ -1,9 +1,11 @@
 {
-  "cookingtime": 125,
-  "experience": 0.1,
-  "ingredient": {
-    "item": "aquaculture:jellyfish"
+  "ingredients": [
+    {
+      "item": "aquaculture:jellyfish"
+    }
+  ],
+  "result": {
+    "item": "minecraft:slime_ball"
   },
-  "result": "minecraft:slime_ball",
-  "type": "minecraft:smelting"
+  "type": "minecraft:crafting_shapeless"
 }

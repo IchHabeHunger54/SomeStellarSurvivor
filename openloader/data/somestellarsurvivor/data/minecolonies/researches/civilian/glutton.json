@@ -1,18 +1,18 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/saturationmultiplier": 5
-    }
-  ],
-  "icon": "minecolonies:textures/icons/research/saturation5.png",
   "parentResearch": "minecolonies:civilian/epicure",
+  "researchLevel": 6,
+  "subtitle": "com.minecolonies.research.civilian.glutton.subtitle",
+  "icon": "minecolonies:textures/icons/research/saturation5.png",
   "requirements": [
     {
       "item": "minecraft:cookie",
       "quantity": 512
     }
   ],
-  "researchLevel": 6,
-  "subtitle": "com.minecolonies.research.civilian.glutton.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/saturationmultiplier": 5
+    }
+  ]
 }

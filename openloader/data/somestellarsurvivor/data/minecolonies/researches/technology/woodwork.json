@@ -1,10 +1,8 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutsawmill": 1
-    }
-  ],
+  "researchLevel": 1,
+  "subtitle": "com.minecolonies.research.technology.woodwork.subtitle",
+  "sortOrder": 4,
   "icon": "minecolonies:blockhutsawmill",
   "requirements": [
     {
@@ -16,7 +14,9 @@
       "quantity": 64
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 4,
-  "subtitle": "com.minecolonies.research.technology.woodwork.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/blockhutsawmill": 1
+    }
+  ]
 }

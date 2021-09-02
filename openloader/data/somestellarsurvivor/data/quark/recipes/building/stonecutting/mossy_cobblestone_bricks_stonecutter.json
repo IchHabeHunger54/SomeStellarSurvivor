@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "cobblestone_bricks",
-      "type": "quark:flag"
-    }
-  ],
   "count": 1,
   "ingredient": {
     "item": "minecraft:mossy_cobblestone"

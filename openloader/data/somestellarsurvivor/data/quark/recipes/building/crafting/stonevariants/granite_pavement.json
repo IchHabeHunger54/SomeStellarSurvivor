@@ -1,31 +1,15 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_pavement",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "granite",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
-      "item": "minecraft:polished_granite"
+      "item": "quark:granite_pillar"
     }
   },
   "pattern": [
-    "###",
-    "###",
-    "###"
+    "##",
+    "##"
   ],
   "result": {
-    "count": 9,
+    "count": 4,
     "item": "quark:granite_pavement"
   },
   "type": "minecraft:crafting_shaped"

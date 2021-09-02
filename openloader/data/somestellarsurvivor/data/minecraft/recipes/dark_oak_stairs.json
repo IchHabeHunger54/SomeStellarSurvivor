@@ -1,5 +1,4 @@
 {
-  "group": "wooden_stairs",
   "key": {
     "#": {
       "item": "minecraft:dark_oak_planks"
@@ -11,7 +10,7 @@
     "###"
   ],
   "result": {
-    "count": 4,
+    "count": 6,
     "item": "minecraft:dark_oak_stairs"
   },
   "type": "minecraft:crafting_shaped"

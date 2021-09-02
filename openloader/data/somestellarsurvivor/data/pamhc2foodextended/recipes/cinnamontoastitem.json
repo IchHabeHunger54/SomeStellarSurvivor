@@ -10,14 +10,13 @@
       "tag": "forge:groundcinnamon"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:butter"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:cinnamontoastitem"
   },
   "type": "minecraft:crafting_shapeless"

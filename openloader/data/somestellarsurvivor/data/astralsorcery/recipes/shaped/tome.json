@@ -1,8 +1,5 @@
 {
   "key": {
-    "A": {
-      "item": "astralsorcery:aquamarine"
-    },
     "B": {
       "item": "minecraft:book"
     },
@@ -11,12 +8,10 @@
     }
   },
   "pattern": [
-    " P ",
-    "ABA",
-    " A "
+    "P",
+    "B"
   ],
   "result": {
-    "count": 1,
     "item": "astralsorcery:tome"
   },
   "type": "minecraft:crafting_shaped"

@@ -1,0 +1,8 @@
+{
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "ceramics:clay_channel"
+  },
+  "result": "ceramics:terracotta_channel",
+  "type": "ceramics:kiln"
+}

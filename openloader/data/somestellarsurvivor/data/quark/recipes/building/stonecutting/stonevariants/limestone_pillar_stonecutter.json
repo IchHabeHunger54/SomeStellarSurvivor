@@ -1,22 +1,7 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_pillar",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "limestone",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 1,
   "ingredient": {
-    "item": "quark:limestone"
+    "item": "quark:limestone_bricks"
   },
   "result": "quark:limestone_pillar",
   "type": "minecraft:stonecutting"

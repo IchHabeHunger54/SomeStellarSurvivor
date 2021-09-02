@@ -7,7 +7,7 @@
       "tag": "forge:crops/sweetpotato"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:crops/soybean"
@@ -23,7 +23,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:hoisinsauceitem"
   },
   "type": "minecraft:crafting_shapeless"

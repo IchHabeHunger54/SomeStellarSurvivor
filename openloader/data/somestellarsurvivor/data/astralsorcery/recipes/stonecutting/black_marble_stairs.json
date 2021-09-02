@@ -1,7 +1,7 @@
 {
   "count": 1,
   "ingredient": {
-    "item": "astralsorcery:black_marble_raw"
+    "item": "astralsorcery:black_marble_bricks"
   },
   "result": "astralsorcery:black_marble_stairs",
   "type": "minecraft:stonecutting"

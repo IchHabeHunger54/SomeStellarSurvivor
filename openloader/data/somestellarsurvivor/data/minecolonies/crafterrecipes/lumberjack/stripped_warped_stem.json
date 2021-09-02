@@ -1,23 +1,23 @@
 {
-  "alternate-output": [
-    {
-      "count": 1,
-      "item": "minecraft:warped_hyphae"
-    },
-    {
-      "count": 1,
-      "item": "minecraft:stripped_warped_hyphae"
-    }
-  ],
-  "count": 1,
+  "type" : "recipe",
   "crafter": "lumberjack_custom",
   "inputs": [
     {
-      "count": 1,
-      "item": "minecraft:warped_stem"
+        "item" : "minecraft:warped_stem",
+        "count": 1
     }
   ],
-  "intermediate": "minecraft:air",
+  "alternate-output" : [
+    {
+        "item" : "minecraft:warped_hyphae",
+        "count": 1
+    },
+    {
+        "item" : "minecraft:stripped_warped_hyphae",
+        "count": 1
+    }
+  ],
   "result": "minecraft:stripped_warped_stem",
-  "type": "recipe"
+  "count": 1,
+  "intermediate" : "minecraft:air"
 }

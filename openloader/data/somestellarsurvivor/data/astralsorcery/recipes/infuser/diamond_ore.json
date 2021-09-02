@@ -6,7 +6,7 @@
   "duration": 100,
   "fluidInput": "astralsorcery:liquid_starlight",
   "input": {
-    "tag": "forge:ores/diamond"
+    "item": "minecraft:diamond_ore"
   },
   "output": {
     "count": 5,

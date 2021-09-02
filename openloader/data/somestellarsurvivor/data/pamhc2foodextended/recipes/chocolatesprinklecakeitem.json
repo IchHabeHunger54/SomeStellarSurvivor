@@ -7,7 +7,7 @@
       "tag": "forge:cocoapowder"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:dough"
@@ -23,7 +23,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:chocolatesprinklecakeitem"
   },
   "type": "minecraft:crafting_shapeless"

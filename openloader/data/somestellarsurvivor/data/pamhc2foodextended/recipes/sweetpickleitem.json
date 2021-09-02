@@ -10,11 +10,10 @@
       "tag": "forge:crops/cucumber"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:sweetpickleitem"
   },
   "type": "minecraft:crafting_shapeless"

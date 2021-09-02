@@ -1,4 +1,8 @@
 {
   "replace": true,
-  "values": []
+  "values": [
+    "#minecolonies:mechanic_ingredient",
+    "#minecolonies:mechanic_ingredient_excluded",
+    "#minecolonies:mechanic_product"
+  ]
 }

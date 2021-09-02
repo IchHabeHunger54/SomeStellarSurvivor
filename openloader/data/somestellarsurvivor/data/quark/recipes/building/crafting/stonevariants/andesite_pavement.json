@@ -1,31 +1,15 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_pavement",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "andesite",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "key": {
     "#": {
-      "item": "minecraft:polished_andesite"
+      "item": "quark:andesite_pillar"
     }
   },
   "pattern": [
-    "###",
-    "###",
-    "###"
+    "##",
+    "##"
   ],
   "result": {
-    "count": 9,
+    "count": 4,
     "item": "quark:andesite_pavement"
   },
   "type": "minecraft:crafting_shaped"

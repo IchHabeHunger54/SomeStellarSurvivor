@@ -1,23 +1,23 @@
 {
-  "count": 1,
+  "type" : "recipe",
   "crafter": "blacksmith_crafting",
   "inputs": [
     {
-      "count": 4,
-      "item": "minecraft:iron_ingot"
+      "item" : "minecraft:iron_ingot",
+      "count": 4
     },
     {
-      "count": 1,
-      "item": "minecraft:leather"
+      "item" : "minecraft:leather",
+      "count": 1
     },
     {
-      "count": 1,
-      "item": "minecraft:coal"
+      "item" : "minecraft:coal",
+      "count": 1
     }
   ],
-  "min-building-level": 4,
-  "research-id": "minecolonies:combat/platearmor",
   "result": "minecolonies:plate_armor_helmet",
-  "show-tooltip": true,
-  "type": "recipe"
+  "count": 1,
+  "min-building-level" : 4,
+  "research-id" : "minecolonies:combat/platearmor",
+  "show-tooltip": true
 }

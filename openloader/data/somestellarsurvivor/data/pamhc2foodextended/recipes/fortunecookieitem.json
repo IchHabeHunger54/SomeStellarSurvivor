@@ -7,14 +7,13 @@
       "tag": "forge:dough"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "item": "minecraft:paper"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:fortunecookieitem"
   },
   "type": "minecraft:crafting_shapeless"

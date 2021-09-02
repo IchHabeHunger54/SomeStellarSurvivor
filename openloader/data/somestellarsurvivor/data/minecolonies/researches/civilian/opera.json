@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/happinessmultiplier": 4
-    }
-  ],
-  "icon": "minecolonies:textures/icons/research/happy4.png",
   "parentResearch": "minecolonies:civilian/spectacle",
+  "researchLevel": 5,
+  "subtitle": "com.minecolonies.research.civilian.opera.subtitle",
+  "icon": "minecolonies:textures/icons/research/happy4.png",
   "requirements": [
     {
       "building": "cook",
@@ -17,6 +14,9 @@
       "quantity": 27
     }
   ],
-  "researchLevel": 5,
-  "subtitle": "com.minecolonies.research.civilian.opera.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/happinessmultiplier": 4
+    }
+  ]
 }

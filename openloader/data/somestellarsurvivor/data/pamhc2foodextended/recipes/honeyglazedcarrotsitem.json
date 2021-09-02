@@ -7,7 +7,7 @@
       "tag": "forge:crops/carrot"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     },
     {
       "tag": "forge:butter"
@@ -17,7 +17,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:honeyglazedcarrotsitem"
   },
   "type": "minecraft:crafting_shapeless"

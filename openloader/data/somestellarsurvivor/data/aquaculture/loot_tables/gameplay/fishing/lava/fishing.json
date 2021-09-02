@@ -4,21 +4,21 @@
       "entries": [
         {
           "name": "aquaculture:gameplay/fishing/lava/junk",
-          "quality": -2,
+          "quality": -1,
           "type": "minecraft:loot_table",
-          "weight": 10
+          "weight": 16
         },
         {
           "name": "aquaculture:gameplay/fishing/lava/treasure",
           "quality": 2,
           "type": "minecraft:loot_table",
-          "weight": 5
+          "weight": 4
         },
         {
           "name": "aquaculture:gameplay/fishing/lava/fish",
           "quality": -1,
           "type": "minecraft:loot_table",
-          "weight": 85
+          "weight": 80
         }
       ],
       "rolls": 1

@@ -4,7 +4,7 @@
       "item": "minecraft:snowball"
     },
     "X": {
-      "tag": "forge:dusts/glowstone"
+      "item": "minecraft:glowstone_dust"
     }
   },
   "pattern": [

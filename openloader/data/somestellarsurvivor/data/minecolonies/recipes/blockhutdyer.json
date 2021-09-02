@@ -4,7 +4,7 @@
       "item": "structurize:sceptergold"
     },
     "T": {
-      "item": "minecraft:red_dye"
+      "tag": "forge:dyes"
     },
     "X": {
       "tag": "minecraft:planks"

@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/levelingmultiplier": 2
-    }
-  ],
-  "icon": "minecraft:experience_bottle:2",
   "parentResearch": "minecolonies:civilian/diligent",
+  "researchLevel": 3,
+  "icon": "minecraft:experience_bottle:2",
   "requirements": [
     {
       "building": "library",
@@ -17,5 +13,9 @@
       "quantity": 12
     }
   ],
-  "researchLevel": 3
+  "effects": [
+    {
+      "minecolonies:effects/levelingmultiplier": 2
+    }
+  ]
 }

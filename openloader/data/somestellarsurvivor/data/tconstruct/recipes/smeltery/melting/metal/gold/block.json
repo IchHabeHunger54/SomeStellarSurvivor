@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:storage_blocks/gold"
+    "item": "minecraft:gold_block"
   },
   "result": {
     "amount": 1296,

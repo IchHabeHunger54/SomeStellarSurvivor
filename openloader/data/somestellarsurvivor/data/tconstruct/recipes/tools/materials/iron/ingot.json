@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:ingots/iron"
+    "item": "minecraft:iron_ingot"
   },
   "material": "tconstruct:iron",
   "needed": 1,

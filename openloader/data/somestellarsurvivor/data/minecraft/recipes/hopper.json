@@ -4,7 +4,7 @@
       "tag": "forge:chests/wooden"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [

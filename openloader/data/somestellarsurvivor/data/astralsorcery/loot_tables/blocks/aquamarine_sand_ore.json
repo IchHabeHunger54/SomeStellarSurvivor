@@ -5,25 +5,6 @@
         {
           "children": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "name": "astralsorcery:aquamarine_sand_ore",
-              "type": "minecraft:item"
-            },
-            {
               "functions": [
                 {
                   "count": {
@@ -34,7 +15,9 @@
                   "function": "minecraft:set_count"
                 },
                 {
-                  "function": "astralsorcery:linear_luck_bonus"
+                  "enchantment": "minecraft:fortune",
+                  "formula": "minecraft:ore_drops",
+                  "function": "minecraft:apply_bonus"
                 },
                 {
                   "function": "minecraft:explosion_decay"

@@ -1,34 +1,22 @@
 {
-  "recipes": [
-    {
-      "conditions": [
-        {
-          "type": "toolbelt:enable_normal_crafting"
-        }
-      ],
-      "recipe": {
-        "key": {
-          "g": {
-            "item": "minecraft:gold_ingot"
-          },
-          "l": {
-            "item": "minecraft:leather"
-          },
-          "s": {
-            "item": "minecraft:string"
-          }
-        },
-        "pattern": [
-          "sgs",
-          "l l",
-          "sls"
-        ],
-        "result": {
-          "item": "toolbelt:pouch"
-        },
-        "type": "minecraft:crafting_shaped"
-      }
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "l": {
+      "item": "minecraft:leather"
+    },
+    "s": {
+      "item": "minecraft:string"
     }
+  },
+  "pattern": [
+    "sgs",
+    "l l",
+    "sls"
   ],
-  "type": "forge:conditional"
+  "result": {
+    "item": "toolbelt:pouch"
+  },
+  "type": "minecraft:crafting_shaped"
 }

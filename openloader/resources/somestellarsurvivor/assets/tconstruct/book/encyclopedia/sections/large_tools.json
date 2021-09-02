@@ -1,37 +1,38 @@
 [
   {
-    "data": "large_tools/info.json",
     "name": "info",
-    "type": "text"
+    "type": "text",
+    "data": "large_tools/info.json"
   },
   {
-    "data": "large_tools/cleaver.json",
     "name": "cleaver",
-    "type": "tool"
+    "type": "tool",
+    "data": "large_tools/cleaver.json"
   },
   {
-    "data": "large_tools/broad_axe.json",
     "name": "broad_axe",
-    "type": "tool"
+    "type": "tool",
+    "data": "large_tools/broad_axe.json"
   },
   {
-    "data": "large_tools/scythe.json",
     "name": "scythe",
-    "type": "tool"
+    "type": "tool",
+    "data": "large_tools/scythe.json"
   },
   {
-    "data": "large_tools/excavator.json",
     "name": "excavator",
-    "type": "tool"
+    "type": "tool",
+    "data": "large_tools/excavator.json"
   },
+  
   {
-    "data": "large_tools/sledge_hammer.json",
     "name": "sledge_hammer",
-    "type": "tool"
+    "type": "tool",
+    "data": "large_tools/sledge_hammer.json"
   },
   {
-    "data": "large_tools/vein_hammer.json",
     "name": "vein_hammer",
-    "type": "tool"
+    "type": "tool",
+    "data": "large_tools/vein_hammer.json"
   }
 ]

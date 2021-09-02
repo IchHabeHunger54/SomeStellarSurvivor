@@ -7,7 +7,7 @@
       "tag": "forge:water"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:crops/orange"
@@ -20,7 +20,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:turkishdelightitem"
   },
   "type": "minecraft:crafting_shapeless"

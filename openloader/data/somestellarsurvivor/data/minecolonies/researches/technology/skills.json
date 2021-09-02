@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockplacespeedmultiplier": 2
-    }
-  ],
-  "icon": "minecraft:glowstone",
   "parentResearch": "minecolonies:technology/ability",
+  "researchLevel": 3,
+  "subtitle": "com.minecolonies.research.technology.skills.subtitle",
+  "icon": "minecraft:glowstone",
   "requirements": [
     {
       "building": "miner",
@@ -17,6 +14,9 @@
       "quantity": 128
     }
   ],
-  "researchLevel": 3,
-  "subtitle": "com.minecolonies.research.technology.skills.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/blockplacespeedmultiplier": 2
+    }
+  ]
 }

@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "sturdy_stone",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "C": {
       "item": "minecraft:cobblestone"

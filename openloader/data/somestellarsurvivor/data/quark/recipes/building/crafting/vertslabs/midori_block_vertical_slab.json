@@ -1,23 +1,11 @@
 {
-  "conditions": [
+  "ingredients": [
     {
-      "flag": "vertical_slabs",
-      "type": "quark:flag"
-    }
-  ],
-  "key": {
-    "#": {
       "item": "quark:midori_block_slab"
     }
-  },
-  "pattern": [
-    "#",
-    "#",
-    "#"
   ],
   "result": {
-    "count": 3,
-    "item": "quark:midori_block_vertical_slab"
+    "item": "quark:magenta_shingles_vertical_slab"
   },
-  "type": "minecraft:crafting_shaped"
+  "type": "minecraft:crafting_shapeless"
 }

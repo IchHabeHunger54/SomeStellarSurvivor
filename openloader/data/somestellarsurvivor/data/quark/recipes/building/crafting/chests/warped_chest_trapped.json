@@ -1,15 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "variant_chests",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "ingredients": [
     {
       "item": "quark:warped_chest"

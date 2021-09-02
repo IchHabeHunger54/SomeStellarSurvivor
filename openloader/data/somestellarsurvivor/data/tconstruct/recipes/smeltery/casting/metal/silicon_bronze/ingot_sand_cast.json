@@ -9,7 +9,7 @@
     "tag": "tconstruct:molten_tinkers_bronze"
   },
   "result": {
-    "tag": "forge:ingots/silicon_bronze"
+    "item": "tconstruct:tinkers_bronze_ingot"
   },
   "type": "tconstruct:casting_table"
 }

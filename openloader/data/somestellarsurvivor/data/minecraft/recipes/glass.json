@@ -1,9 +1,13 @@
 {
   "cookingtime": 200,
-  "experience": 0.1,
-  "ingredient": {
-    "tag": "minecraft:sand"
-  },
+  "ingredient": [
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "quark:dirty_glass"
+    }
+  ],
   "result": "minecraft:glass",
   "type": "minecraft:smelting"
 }

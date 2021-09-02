@@ -13,7 +13,7 @@
   "focus_constellation": "astralsorcery:octans",
   "key": {
     "A": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "B": {
       "item": "astralsorcery:illumination_powder"
@@ -43,7 +43,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:resonator",
       "nbt": "{astralsorcery:{upgrades:[0,1],selected_upgrade:1}}"
     }

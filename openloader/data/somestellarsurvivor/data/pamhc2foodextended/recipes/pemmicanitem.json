@@ -13,11 +13,10 @@
       "tag": "forge:rawmeats"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:pemmicanitem"
   },
   "type": "minecraft:crafting_shapeless"

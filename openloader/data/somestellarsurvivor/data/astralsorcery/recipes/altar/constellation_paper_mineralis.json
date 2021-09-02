@@ -15,13 +15,13 @@
       "tag": "forge:dyes/black"
     },
     "B": {
-      "tag": "forge:ores/iron"
+      "item": "minecraft:iron_ore"
     },
     "C": {
       "tag": "forge:feathers"
     },
     "D": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "E": {
       "item": "astralsorcery:parchment"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:constellation_paper"
     }
   ],
@@ -46,16 +45,16 @@
   "recipe_class": "astralsorcery:constellation_base",
   "relay_inputs": [
     {
-      "tag": "forge:ores/iron"
+      "item": "minecraft:iron_ore"
     },
     {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     {
-      "tag": "forge:dusts/redstone"
+      "item": "minecraft:redstone"
     }
   ],
   "starlight": 3200,

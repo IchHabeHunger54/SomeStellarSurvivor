@@ -13,10 +13,10 @@
   "focus_constellation": "astralsorcery:evorsio",
   "key": {
     "A": {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:cobblestone"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "astralsorcery:mantle"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:mantle"
     }
   ],
@@ -46,7 +45,7 @@
   "recipe_class": "astralsorcery:constellation_base_nbt_copy",
   "relay_inputs": [
     {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:cobblestone"
     },
     {
       "item": "minecraft:flint"

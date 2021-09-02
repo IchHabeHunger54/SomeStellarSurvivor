@@ -6,16 +6,16 @@
           "functions": [
             {
               "count": {
-                "max": 2.0,
-                "min": 0.0,
+                "max": 2,
+                "min": 0,
                 "type": "minecraft:uniform"
               },
               "function": "minecraft:set_count"
             },
             {
               "count": {
-                "max": 1.0,
-                "min": 0.0
+                "max": 1,
+                "min": 0
               },
               "function": "minecraft:looting_enchant"
             }
@@ -27,27 +27,26 @@
       "rolls": 1
     },
     {
-      "conditions": [
-        {
-          "condition": "minecraft:killed_by_player"
-        },
-        {
-          "chance": 0.025,
-          "condition": "minecraft:random_chance_with_looting",
-          "looting_multiplier": 0.01
-        }
-      ],
       "entries": [
         {
-          "name": "minecraft:iron_ingot",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "minecraft:carrot",
-          "type": "minecraft:item"
-        },
-        {
-          "name": "minecraft:potato",
+          "functions": [
+            {
+              "count": {
+                "max": 2,
+                "min": 0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            },
+            {
+              "count": {
+                "max": 1,
+                "min": 0
+              },
+              "function": "minecraft:looting_enchant"
+            }
+          ],
+          "name": "minecraft:bone",
           "type": "minecraft:item"
         }
       ],

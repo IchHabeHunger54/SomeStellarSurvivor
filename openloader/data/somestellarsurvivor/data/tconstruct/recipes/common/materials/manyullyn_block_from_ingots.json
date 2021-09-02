@@ -1,8 +1,7 @@
 {
-  "group": "tconstruct:manyullyn_block",
   "key": {
     "#": {
-      "tag": "forge:ingots/manyullyn"
+      "item": "tconstruct:manyullyn_ingot"
     },
     "*": {
       "item": "tconstruct:manyullyn_ingot"

@@ -1,19 +1,19 @@
 {
   "key": {
     "#": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "R": {
       "item": "minecraft:redstone"
     },
     "X": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     }
   },
   "pattern": [
-    "X X",
     "X#X",
-    "XRX"
+    "XRX",
+    "X#X"
   ],
   "result": {
     "count": 6,

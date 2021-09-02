@@ -13,14 +13,13 @@
       "tag": "forge:crops/ginger"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:egg"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:gingeredrhubarbtartitem"
   },
   "type": "minecraft:crafting_shapeless"

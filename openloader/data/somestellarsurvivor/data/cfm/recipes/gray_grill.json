@@ -1,11 +1,10 @@
 {
-  "group": "grill",
   "key": {
     "B": {
       "item": "minecraft:iron_bars"
     },
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
     },
     "T": {
       "item": "minecraft:gray_terracotta"

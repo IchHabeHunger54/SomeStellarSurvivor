@@ -1,9 +1,9 @@
 {
   "ingredient": {
-    "tag": "forge:storage_blocks/hepatizon"
+    "item": "tconstruct:hepatizon_block"
   },
   "leftover": {
-    "tag": "forge:ingots/hepatizon"
+    "item": "tconstruct:hepatizon_ingot"
   },
   "material": "tconstruct:hepatizon",
   "needed": 1,

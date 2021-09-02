@@ -1,10 +1,8 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutschool": 1
-    }
-  ],
+  "researchLevel": 1,
+  "subtitle": "com.minecolonies.research.civilian.higherlearning.subtitle",
+  "sortOrder": 4,
   "exclusiveChildResearch": true,
   "icon": "minecolonies:blockhutschool",
   "requirements": [
@@ -17,7 +15,9 @@
       "quantity": 3
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 4,
-  "subtitle": "com.minecolonies.research.civilian.higherlearning.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/blockhutschool": 1
+    }
+  ]
 }

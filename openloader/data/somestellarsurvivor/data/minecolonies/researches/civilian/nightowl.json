@@ -1,12 +1,10 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/workingdayhaddition": 1
-    }
-  ],
-  "icon": "minecraft:clock:1",
   "parentResearch": "minecolonies:civilian/circus",
+  "researchLevel": 3,
+  "subtitle": "com.minecolonies.research.civilian.nightowl.subtitle",
+  "sortOrder": 2,
+  "icon": "minecraft:clock:1",
   "requirements": [
     {
       "building": "library",
@@ -17,7 +15,9 @@
       "quantity": 25
     }
   ],
-  "researchLevel": 3,
-  "sortOrder": 2,
-  "subtitle": "com.minecolonies.research.civilian.nightowl.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/workingdayhaddition": 1
+    }
+  ]
 }

@@ -7,11 +7,10 @@
       "tag": "forge:sausage"
     },
     {
-      "item": "pamhc2foodcore:mashedpotatoes"
+      "item": "pamhc2foodcore:mashedpotatoesitem"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:bangersandmashitem"
   },
   "type": "minecraft:crafting_shapeless"

@@ -1,20 +1,19 @@
 {
-  "group": "concrete_powder",
   "ingredients": [
     {
-      "item": "minecraft:black_dye"
+      "tag": "forge:dyes/black"
     },
     {
-      "item": "minecraft:sand"
+      "tag": "minecraft:sand"
     },
     {
-      "item": "minecraft:sand"
+      "tag": "minecraft:sand"
     },
     {
-      "item": "minecraft:sand"
+      "tag": "minecraft:sand"
     },
     {
-      "item": "minecraft:sand"
+      "tag": "minecraft:sand"
     },
     {
       "item": "minecraft:gravel"

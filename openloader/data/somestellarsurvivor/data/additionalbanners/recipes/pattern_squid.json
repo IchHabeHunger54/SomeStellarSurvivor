@@ -1,10 +1,5 @@
 {
-  "damageAmount": 1,
-  "ignoreUnbreaking": false,
   "ingredients": [
-    {
-      "type": "bookshelf:any_shear"
-    },
     {
       "item": "minecraft:paper"
     },
@@ -15,5 +10,5 @@
   "result": {
     "item": "additionalbanners:squid"
   },
-  "type": "bookshelf:crafting_shapeless_with_damage"
+  "type": "minecraft:crafting_shapeless"
 }

@@ -7,11 +7,10 @@
       "tag": "forge:chocolatebar"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:honeycombchocolatebaritem"
   },
   "type": "minecraft:crafting_shapeless"

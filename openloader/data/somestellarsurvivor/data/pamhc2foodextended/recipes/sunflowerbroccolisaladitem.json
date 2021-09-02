@@ -13,14 +13,13 @@
       "tag": "forge:condiments/mayonaise"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:rawpork"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:sunflowerbroccolisaladitem"
   },
   "type": "minecraft:crafting_shapeless"

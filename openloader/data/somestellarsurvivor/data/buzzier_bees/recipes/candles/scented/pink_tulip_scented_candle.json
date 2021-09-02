@@ -1,18 +1,13 @@
 {
-  "group": "scented_candles",
   "ingredients": [
     {
       "item": "buzzier_bees:candle"
     },
     {
       "item": "minecraft:pink_tulip"
-    },
-    {
-      "item": "minecraft:popped_chorus_fruit"
     }
   ],
   "result": {
-    "count": 1,
     "item": "buzzier_bees:pink_tulip_scented_candle"
   },
   "type": "minecraft:crafting_shapeless"

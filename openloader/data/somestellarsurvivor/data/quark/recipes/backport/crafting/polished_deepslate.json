@@ -1,13 +1,7 @@
 {
-  "conditions": [
-    {
-      "flag": "deepslate",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
-      "item": "quark:cobbled_deepslate"
+      "item": "quark:deepslate"
     }
   },
   "pattern": [

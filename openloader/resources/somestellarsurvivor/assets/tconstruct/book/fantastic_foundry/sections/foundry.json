@@ -1,81 +1,81 @@
 [
   {
-    "data": "foundry/index.json",
     "name": "index",
-    "type": "index"
+    "type": "index",
+    "data": "foundry/index.json"
   },
   {
-    "data": "foundry/features.json",
     "name": "features",
-    "type": "text"
+    "type": "text",
+    "data": "foundry/features.json"
   },
   {
-    "data": "foundry/byproducts.json",
     "name": "byproducts",
-    "type": "text"
+    "type": "text",
+    "data": "foundry/byproducts.json"
   },
   {
-    "data": "foundry/controller.json",
     "name": "controller",
-    "type": "image with text below"
+    "type": "image with text below",
+    "data": "foundry/controller.json"
   },
   {
-    "data": "foundry/multiblock.json",
     "name": "structure",
-    "type": "structure"
+    "type": "structure",
+    "data": "foundry/multiblock.json"
   },
   {
-    "data": "foundry/structurerequirements.json",
     "name": "structurereq",
-    "type": "text"
+    "type": "text",
+    "data": "foundry/structurerequirements.json"
   },
   {
-    "data": "foundry/tanks.json",
     "name": "scorched_tanks",
-    "type": "showcase"
+    "type": "showcase",
+    "data": "foundry/tanks.json"
   },
   {
-    "data": "foundry/scorchedblocks.json",
     "name": "scorched_blocks",
-    "type": "showcase"
+    "type": "showcase",
+    "data": "foundry/scorchedblocks.json"
   },
   {
-    "data": "foundry/scorchedladder.json",
     "name": "scorched_ladder",
-    "type": "showcase"
+    "type": "showcase",
+    "data": "foundry/scorchedladder.json"
   },
   {
-    "data": "foundry/scorchedglass.json",
     "name": "scorched_glass",
-    "type": "showcase"
+    "type": "showcase",
+    "data": "foundry/scorchedglass.json"
   },
   {
-    "data": "foundry/scorched_drain.json",
     "name": "scorched_drain",
-    "type": "showcase"
+    "type": "showcase",
+    "data": "foundry/scorched_drain.json"
   },
   {
-    "data": "foundry/scorched_duct.json",
     "name": "scorched_duct",
-    "type": "showcase"
+    "type": "showcase",
+    "data": "foundry/scorched_duct.json"
   },
   {
-    "data": "foundry/scorched_chute.json",
     "name": "scorched_chute",
-    "type": "showcase"
+    "type": "showcase",
+    "data": "foundry/scorched_chute.json"
   },
   {
     "name": "hidden",
     "type": "right_padding"
   },
   {
-    "data": "foundry/gui1.json",
     "name": "fgui1",
-    "type": "imageText2"
+    "type": "imageText2",
+    "data": "foundry/gui1.json"
   },
   {
-    "data": "foundry/gui2.json",
     "name": "fgui2",
-    "type": "text"
+    "type": "text",
+    "data": "foundry/gui2.json"
   }
 ]

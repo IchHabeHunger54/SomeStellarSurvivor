@@ -13,11 +13,10 @@
       "tag": "forge:vinegar"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:lambwithmintsauceitem"
   },
   "type": "minecraft:crafting_shapeless"

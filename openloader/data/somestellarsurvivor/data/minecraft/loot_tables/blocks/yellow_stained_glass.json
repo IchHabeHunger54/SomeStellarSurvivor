@@ -3,66 +3,21 @@
     {
       "entries": [
         {
-          "children": [
+          "functions": [
             {
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "name": "minecraft:yellow_stained_glass",
-              "type": "minecraft:item"
+              "count": {
+                "max": 4,
+                "min": 3,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
             },
             {
-              "conditions": [
-                {
-                  "condition": "quark:flag",
-                  "flag": "glass_shard"
-                }
-              ],
-              "functions": [
-                {
-                  "count": {
-                    "max": 4.0,
-                    "min": 2.0,
-                    "type": "minecraft:uniform"
-                  },
-                  "function": "minecraft:set_count"
-                },
-                {
-                  "enchantment": "minecraft:fortune",
-                  "formula": "minecraft:uniform_bonus_count",
-                  "function": "minecraft:apply_bonus",
-                  "parameters": {
-                    "bonusMultiplier": 1
-                  }
-                },
-                {
-                  "function": "minecraft:limit_count",
-                  "limit": {
-                    "max": 4,
-                    "min": 1
-                  }
-                },
-                {
-                  "function": "minecraft:explosion_decay"
-                }
-              ],
-              "name": "quark:yellow_shard",
-              "type": "minecraft:item"
+              "function": "minecraft:explosion_decay"
             }
           ],
-          "type": "minecraft:alternatives"
+          "name": "quark:yellow_shard",
+          "type": "minecraft:item"
         }
       ],
       "rolls": 1

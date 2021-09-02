@@ -13,7 +13,7 @@
       "tag": "forge:nuggets/gold"
     },
     "B": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "C": {
       "item": "astralsorcery:glass_lens"
@@ -25,7 +25,7 @@
       "tag": "forge:glass_panes"
     },
     "F": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     }
   },
   "output": [

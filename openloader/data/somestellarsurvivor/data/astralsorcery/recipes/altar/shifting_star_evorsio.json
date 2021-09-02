@@ -16,13 +16,13 @@
   "focus_constellation": "astralsorcery:evorsio",
   "key": {
     "A": {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:cobblestone"
     },
     "B": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "C": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     },
     "D": {
       "item": "astralsorcery:shifting_star"
@@ -30,7 +30,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:shifting_star_evorsio"
     }
   ],
@@ -43,22 +42,22 @@
   ],
   "relay_inputs": [
     {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:cobblestone"
     },
     {
       "item": "astralsorcery:illumination_powder"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:cobblestone"
     },
     {
       "item": "astralsorcery:illumination_powder"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     }
   ],
   "starlight": 4800,

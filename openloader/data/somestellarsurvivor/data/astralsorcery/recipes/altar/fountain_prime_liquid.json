@@ -14,7 +14,7 @@
   "focus_constellation": "astralsorcery:octans",
   "key": {
     "A": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "B": {
       "item": "astralsorcery:black_marble_raw"
@@ -23,7 +23,7 @@
       "item": "astralsorcery:resonating_gem"
     },
     "D": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     },
     "E": {
       "item": "astralsorcery:glass_lens"
@@ -31,7 +31,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:fountain_prime_liquid"
     }
   ],
@@ -44,13 +43,13 @@
   ],
   "relay_inputs": [
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     }
   ],
   "starlight": 5600,

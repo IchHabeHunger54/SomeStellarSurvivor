@@ -7,11 +7,10 @@
       "tag": "forge:fruits/date"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:datejellyitem"
   },
   "type": "minecraft:crafting_shapeless"

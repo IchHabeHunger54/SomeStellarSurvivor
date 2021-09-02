@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "slate",
-      "type": "quark:flag"
-    }
-  ],
   "count": 1,
   "ingredient": {
     "item": "quark:slate"

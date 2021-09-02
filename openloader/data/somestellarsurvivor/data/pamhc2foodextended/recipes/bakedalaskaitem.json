@@ -10,14 +10,13 @@
       "tag": "forge:dough"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:icecreams"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:bakedalaskaitem"
   },
   "type": "minecraft:crafting_shapeless"

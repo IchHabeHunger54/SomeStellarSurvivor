@@ -1,39 +1,15 @@
 {
   "pools": [
     {
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
       "entries": [
         {
-          "children": [
-            {
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "name": "minecraft:stone",
-              "type": "minecraft:item"
-            },
-            {
-              "conditions": [
-                {
-                  "condition": "minecraft:survives_explosion"
-                }
-              ],
-              "name": "minecraft:cobblestone",
-              "type": "minecraft:item"
-            }
-          ],
-          "type": "minecraft:alternatives"
+          "name": "minecraft:cobblestone",
+          "type": "minecraft:item"
         }
       ],
       "rolls": 1

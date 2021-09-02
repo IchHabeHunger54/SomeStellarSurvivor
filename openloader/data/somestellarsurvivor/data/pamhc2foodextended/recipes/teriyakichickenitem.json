@@ -13,7 +13,7 @@
       "tag": "forge:condiments/soysauce"
     },
     {
-      "tag": "forge:honey"
+      "item": "minecraft:honey_bottle"
     },
     {
       "tag": "forge:crops/scallion"
@@ -23,7 +23,6 @@
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:teriyakichickenitem"
   },
   "type": "minecraft:crafting_shapeless"

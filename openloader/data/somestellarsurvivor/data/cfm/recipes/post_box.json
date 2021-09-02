@@ -1,16 +1,19 @@
 {
   "key": {
     "I": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "minecraft:lapis_lazuli"
     },
     "S": {
-      "item": "minecraft:blue_shulker_box"
+      "tag": "forge:chests"
     }
   },
   "pattern": [
     "III",
     "ISI",
-    "III"
+    "ILI"
   ],
   "result": {
     "item": "cfm:post_box"

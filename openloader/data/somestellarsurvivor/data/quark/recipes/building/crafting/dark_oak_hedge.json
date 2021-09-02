@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "hedges",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "L": {
       "item": "minecraft:dark_oak_leaves"

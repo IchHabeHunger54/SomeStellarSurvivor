@@ -1,11 +1,10 @@
 {
-  "group": "sign",
   "key": {
     "#": {
       "item": "minecraft:warped_planks"
     },
     "X": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [
@@ -14,7 +13,7 @@
     " X "
   ],
   "result": {
-    "count": 3,
+    "count": 6,
     "item": "minecraft:warped_sign"
   },
   "type": "minecraft:crafting_shaped"

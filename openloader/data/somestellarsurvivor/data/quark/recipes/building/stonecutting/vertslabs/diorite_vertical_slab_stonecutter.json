@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "vertical_slabs",
-      "type": "quark:flag"
-    }
-  ],
   "count": 2,
   "ingredient": {
     "item": "minecraft:diorite"

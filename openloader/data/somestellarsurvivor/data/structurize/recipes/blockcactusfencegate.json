@@ -4,7 +4,7 @@
       "item": "structurize:blockcactusplank"
     },
     "-": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     }
   },
   "pattern": [
@@ -12,6 +12,7 @@
     "-#-"
   ],
   "result": {
+    "count": 2,
     "item": "structurize:blockcactusfencegate"
   },
   "type": "minecraft:crafting_shaped"

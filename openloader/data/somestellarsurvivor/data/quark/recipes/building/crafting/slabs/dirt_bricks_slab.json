@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "dirt_bricks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:dirt_bricks"

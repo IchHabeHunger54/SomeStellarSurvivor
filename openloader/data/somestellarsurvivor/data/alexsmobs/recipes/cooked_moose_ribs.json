@@ -1,9 +1,8 @@
 {
-  "cookingtime": 200,
-  "experience": 0.15,
+  "cookingtime": 600,
   "ingredient": {
     "item": "alexsmobs:moose_ribs"
   },
   "result": "alexsmobs:cooked_moose_ribs",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

@@ -7,14 +7,14 @@
       "item": "minecraft:bricks"
     },
     {
-      "item": "minecraft:sandstone"
+      "tag": "minecraft:sand"
     },
     {
-      "item": "minecraft:sandstone"
+      "tag": "minecraft:sand"
     }
   ],
   "result": {
-    "count": 4,
+    "count": 2,
     "item": "structurize:cream_bricks"
   },
   "type": "minecraft:crafting_shapeless"

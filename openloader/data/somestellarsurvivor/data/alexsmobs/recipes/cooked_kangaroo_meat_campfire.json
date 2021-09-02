@@ -1,6 +1,5 @@
 {
-  "cookingtime": 200,
-  "experience": 0.15,
+  "cookingtime": 600,
   "ingredient": {
     "item": "alexsmobs:kangaroo_meat"
   },

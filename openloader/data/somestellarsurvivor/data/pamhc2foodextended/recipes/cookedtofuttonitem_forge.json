@@ -1,9 +1,8 @@
 {
   "cookingtime": 200,
-  "experience": 0.35,
   "ingredient": {
     "item": "pamhc2foodextended:rawtofuttonitem"
   },
   "result": "pamhc2foodextended:cookedtofuttonitem",
-  "type": "minecraft:smelting"
+  "type": "cfm:grill_cooking"
 }

@@ -16,14 +16,13 @@
       "tag": "forge:cocoapowder"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:spices/groundcinnamon"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:pambitsboxitem"
   },
   "type": "minecraft:crafting_shapeless"

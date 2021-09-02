@@ -1,19 +1,11 @@
 {
-  "damageAmount": 1,
-  "ignoreUnbreaking": false,
   "ingredients": [
     {
-      "type": "bookshelf:any_shear"
-    },
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:oak_boat"
+      "item": "additionalbanners:heart"
     }
   ],
   "result": {
-    "item": "additionalbanners:anchor"
+    "item": "additionalbanners:clubs"
   },
-  "type": "bookshelf:crafting_shapeless_with_damage"
+  "type": "minecraft:crafting_shapeless"
 }

@@ -1,22 +1,7 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "stone_bricks",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "jasper",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
-  "count": 1,
+  "count": 2,
   "ingredient": {
-    "item": "quark:polished_jasper"
+    "item": "quark:jasper_bricks"
   },
   "result": "quark:jasper_bricks_slab",
   "type": "minecraft:stonecutting"

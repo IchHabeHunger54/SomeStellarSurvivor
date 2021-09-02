@@ -1,12 +1,9 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/saturationmultiplier": 1
-    }
-  ],
-  "icon": "minecolonies:textures/icons/research/saturation1.png",
   "parentResearch": "minecolonies:civilian/firstaid",
+  "researchLevel": 2,
+  "sortOrder": 3,
+  "icon": "minecolonies:textures/icons/research/saturation1.png",
   "requirements": [
     {
       "building": "cook",
@@ -17,6 +14,9 @@
       "quantity": 32
     }
   ],
-  "researchLevel": 2,
-  "sortOrder": 3
+  "effects": [
+    {
+      "minecolonies:effects/saturationmultiplier": 1
+    }
+  ]
 }

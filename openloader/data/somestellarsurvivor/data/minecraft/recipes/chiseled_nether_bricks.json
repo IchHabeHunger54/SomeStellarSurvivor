@@ -1,14 +1,15 @@
 {
   "key": {
-    "#": {
-      "item": "minecraft:nether_brick_slab"
+    "N": {
+      "item": "minecraft:nether_bricks"
     }
   },
   "pattern": [
-    "#",
-    "#"
+    "NN",
+    "NN"
   ],
   "result": {
+    "count": 4,
     "item": "minecraft:chiseled_nether_bricks"
   },
   "type": "minecraft:crafting_shaped"

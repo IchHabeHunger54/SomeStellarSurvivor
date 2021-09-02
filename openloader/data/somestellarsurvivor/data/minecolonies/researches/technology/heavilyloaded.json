@@ -1,18 +1,18 @@
 {
   "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/citizeninvslotsaddition": 3
-    }
-  ],
+  "parentResearch": "minecolonies:technology/loaded",
+  "researchLevel": 6,
   "icon": "minecraft:blue_shulker_box",
   "no-reset": true,
-  "parentResearch": "minecolonies:technology/loaded",
   "requirements": [
     {
       "item": "minecraft:emerald",
       "quantity": 256
     }
   ],
-  "researchLevel": 6
+  "effects": [
+    {
+      "minecolonies:effects/citizeninvslotsaddition": 3
+    }
+  ]
 }

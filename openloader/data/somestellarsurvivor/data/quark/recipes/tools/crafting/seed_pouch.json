@@ -1,16 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "seed_pouch",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "H": {
       "item": "minecraft:rabbit_hide"
     },
     "S": {
-      "tag": "forge:string"
+      "item": "minecraft:string"
     },
     "X": {
       "tag": "quark:seed_pouch_holdable"

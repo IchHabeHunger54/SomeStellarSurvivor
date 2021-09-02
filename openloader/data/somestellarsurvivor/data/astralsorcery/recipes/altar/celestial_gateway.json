@@ -8,13 +8,13 @@
   ],
   "key": {
     "A": {
-      "tag": "astralsorcery:stardust"
+      "item": "astralsorcery:stardust"
     },
     "B": {
       "item": "astralsorcery:marble_runed"
     },
     "C": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "D": {
       "item": "astralsorcery:nocturnal_powder"
@@ -32,7 +32,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:celestial_gateway"
     }
   ],

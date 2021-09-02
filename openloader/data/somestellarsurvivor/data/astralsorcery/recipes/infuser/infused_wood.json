@@ -9,7 +9,6 @@
     "item": "astralsorcery:infused_wood"
   },
   "output": {
-    "count": 1,
     "item": "astralsorcery:infused_wood_infused"
   },
   "type": "astralsorcery:infuser"

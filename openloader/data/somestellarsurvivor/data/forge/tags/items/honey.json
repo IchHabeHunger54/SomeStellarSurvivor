@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    "#forge:honey/honey"
+    "minecraft:honey_bottle"
   ]
 }

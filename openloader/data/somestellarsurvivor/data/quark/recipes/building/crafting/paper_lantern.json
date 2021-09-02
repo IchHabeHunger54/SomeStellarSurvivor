@@ -1,13 +1,7 @@
 {
-  "conditions": [
-    {
-      "flag": "paper_decor",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "G": {
-      "tag": "forge:dusts/glowstone"
+      "item": "minecraft:glowstone_dust"
     },
     "P": {
       "item": "minecraft:paper"

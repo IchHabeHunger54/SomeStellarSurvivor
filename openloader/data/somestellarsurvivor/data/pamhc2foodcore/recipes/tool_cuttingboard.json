@@ -4,7 +4,7 @@
       "item": "minecraft:brick"
     },
     "b": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "c": {
       "tag": "minecraft:planks"

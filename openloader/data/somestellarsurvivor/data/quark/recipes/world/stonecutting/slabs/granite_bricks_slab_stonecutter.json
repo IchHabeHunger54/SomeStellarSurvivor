@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "more_stone_variants",
-      "type": "quark:flag"
-    }
-  ],
   "count": 2,
   "ingredient": {
     "item": "quark:granite_bricks"

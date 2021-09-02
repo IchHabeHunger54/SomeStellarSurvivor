@@ -4,7 +4,7 @@
       "item": "mcwfurnitures:spruce_plate"
     },
     "B": {
-      "item": "minecraft:bookshelf"
+      "item": "quark:spruce_bookshelf"
     }
   },
   "pattern": [
@@ -13,7 +13,6 @@
     "AAA"
   ],
   "result": {
-    "count": 1,
     "item": "mcwfurnitures:spruce_furniture_7"
   },
   "type": "minecraft:crafting_shaped"

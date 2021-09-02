@@ -1,0 +1,8 @@
+{
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "ceramics:unfired_clay_bucket"
+  },
+  "result": "ceramics:clay_bucket",
+  "type": "ceramics:kiln"
+}

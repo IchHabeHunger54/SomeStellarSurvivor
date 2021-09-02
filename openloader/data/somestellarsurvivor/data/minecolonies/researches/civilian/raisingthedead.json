@@ -1,12 +1,10 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/usetotemunlock": 1
-    }
-  ],
-  "icon": "minecraft:totem_of_undying",
   "parentResearch": "minecolonies:civilian/resurrectchance2",
+  "researchLevel": 4,
+  "subtitle": "com.minecolonies.research.civilian.raisingthedead.subtitle",
+  "sortOrder": 1,
+  "icon": "minecraft:totem_of_undying",
   "requirements": [
     {
       "building": "graveyard",
@@ -17,7 +15,9 @@
       "quantity": 1
     }
   ],
-  "researchLevel": 4,
-  "sortOrder": 1,
-  "subtitle": "com.minecolonies.research.civilian.raisingthedead.subtitle"
+  "effects": [
+    {
+      "minecolonies:effects/usetotemunlock": 1
+    }
+  ]
 }

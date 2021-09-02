@@ -9,7 +9,6 @@
     "item": "minecraft:dirt"
   },
   "output": {
-    "count": 1,
     "item": "minecraft:grass_block"
   },
   "type": "astralsorcery:infuser"

@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "prop": "building_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "mulch",
-      "type": "inspirations:config"
-    }
-  ],
   "count": 1,
   "ingredient": {
     "tag": "minecraft:planks"

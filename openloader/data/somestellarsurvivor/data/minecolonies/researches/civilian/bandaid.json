@@ -1,12 +1,8 @@
 {
   "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/regenerationmultiplier": 1
-    }
-  ],
-  "icon": "minecolonies:textures/icons/research/regeneration1.png",
   "parentResearch": "minecolonies:civilian/stamina",
+  "researchLevel": 2,
+  "icon": "minecolonies:textures/icons/research/regeneration1.png",
   "requirements": [
     {
       "building": "library",
@@ -17,5 +13,9 @@
       "quantity": 1
     }
   ],
-  "researchLevel": 2
+  "effects": [
+    {
+      "minecolonies:effects/regenerationmultiplier": 1
+    }
+  ]
 }

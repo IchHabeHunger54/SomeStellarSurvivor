@@ -1,9 +1,11 @@
 {
-  "cookingtime": 200,
-  "experience": 0.1,
-  "ingredient": {
-    "item": "minecraft:sea_pickle"
+  "ingredients": [
+    {
+      "item": "minecraft:sea_pickle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lime_dye"
   },
-  "result": "minecraft:lime_dye",
-  "type": "minecraft:smelting"
+  "type": "minecraft:crafting_shapeless"
 }

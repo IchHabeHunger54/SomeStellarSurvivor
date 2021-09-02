@@ -10,7 +10,7 @@
     {
       "max": 2,
       "min": 2,
-      "tag": "forge:ingots/copper"
+      "item": "tconstruct:copper_ingot"
     },
     {
       "item": "minecraft:lapis_lazuli",

@@ -1,23 +1,11 @@
 {
-  "conditions": [
+  "ingredients": [
     {
-      "flag": "vertical_slabs",
-      "type": "quark:flag"
-    }
-  ],
-  "key": {
-    "#": {
       "item": "quark:polished_jasper_slab"
     }
-  },
-  "pattern": [
-    "#",
-    "#",
-    "#"
   ],
   "result": {
-    "count": 3,
     "item": "quark:polished_jasper_vertical_slab"
   },
-  "type": "minecraft:crafting_shaped"
+  "type": "minecraft:crafting_shapeless"
 }

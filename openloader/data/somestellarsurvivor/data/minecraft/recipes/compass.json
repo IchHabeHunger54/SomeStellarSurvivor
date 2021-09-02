@@ -1,7 +1,7 @@
 {
   "key": {
     "#": {
-      "tag": "forge:ingots/iron"
+      "item": "minecraft:gold_ingot"
     },
     "X": {
       "item": "minecraft:redstone"

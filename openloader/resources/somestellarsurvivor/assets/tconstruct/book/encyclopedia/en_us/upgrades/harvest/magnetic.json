@@ -1,17 +1,17 @@
 {
-  "effects": [
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
-  ],
   "modifier_id": "tconstruct:magnetic",
-  "more_text_space": true,
   "text": [
     {
       "text": "After mining blocks or attacking mobs, pulls items within 3 blocks towards the player, ignoring gravity."
     },
     {
-      "paragraph": true,
-      "text": "Each level adds 1 extra block of range, and increases the speed."
+      "text": "Each level adds 1 extra block of range, and increases the speed.",
+      "paragraph": true
     }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
   ]
 }

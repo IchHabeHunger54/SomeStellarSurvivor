@@ -1,54 +1,15 @@
 {
   "pools": [
     {
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
       "entries": [
         {
-          "children": [
-            {
-              "conditions": [
-                {
-                  "condition": "minecraft:match_tool",
-                  "predicate": {
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:silk_touch",
-                        "levels": {
-                          "min": 1
-                        }
-                      }
-                    ]
-                  }
-                }
-              ],
-              "functions": [
-                {
-                  "function": "minecraft:copy_nbt",
-                  "ops": [
-                    {
-                      "op": "replace",
-                      "source": "Bees",
-                      "target": "BlockEntityTag.Bees"
-                    }
-                  ],
-                  "source": "block_entity"
-                },
-                {
-                  "block": "buzzier_bees:crimson_beehive",
-                  "function": "minecraft:copy_state",
-                  "properties": [
-                    "honey_level"
-                  ]
-                }
-              ],
-              "name": "buzzier_bees:crimson_beehive",
-              "type": "minecraft:item"
-            },
-            {
-              "name": "buzzier_bees:crimson_beehive",
-              "type": "minecraft:item"
-            }
-          ],
-          "type": "minecraft:alternatives"
+          "name": "buzzier_bees:crimson_beehive",
+          "type": "minecraft:item"
         }
       ],
       "rolls": 1

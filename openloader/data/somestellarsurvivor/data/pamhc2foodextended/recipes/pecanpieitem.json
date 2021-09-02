@@ -10,14 +10,13 @@
       "tag": "forge:dough"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:butter"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:pecanpieitem"
   },
   "type": "minecraft:crafting_shapeless"

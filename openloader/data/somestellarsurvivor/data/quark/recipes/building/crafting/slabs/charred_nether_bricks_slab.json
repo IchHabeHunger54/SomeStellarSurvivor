@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "flag": "charred_nether_bricks",
-      "type": "quark:flag"
-    }
-  ],
   "key": {
     "#": {
       "item": "quark:charred_nether_bricks"

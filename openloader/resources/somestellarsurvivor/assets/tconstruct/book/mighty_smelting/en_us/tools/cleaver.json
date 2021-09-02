@@ -1,9 +1,5 @@
 {
-  "properties": [
-    "Strong Weapon",
-    "Slow Swinging",
-    "Starts with Severing II"
-  ],
+  "tool": "tconstruct:cleaver",
   "text": [
     {
       "text": "The Cleaver is a high damage, slow swinging weapon."
@@ -12,9 +8,13 @@
       "text": "\n"
     },
     {
-      "paragraph": true,
-      "text": "Off with their heads!"
+      "text": "Off with their heads!",
+	  "paragraph": true
     }
   ],
-  "tool": "tconstruct:cleaver"
+  "properties": [
+    "Strong Weapon",
+    "Slow Swinging",
+    "Starts with Severing II"
+  ]
 }

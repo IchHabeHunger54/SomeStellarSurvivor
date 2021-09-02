@@ -1,8 +1,5 @@
 {
-  "hidden": [
-    "structurereq",
-    "fgui2"
-  ],
+  "title": "Foundry",
   "subText": "There is nothing quite as fantastic as the Foundry.",
-  "title": "Foundry"
+  "hidden": ["structurereq", "fgui2"]
 }

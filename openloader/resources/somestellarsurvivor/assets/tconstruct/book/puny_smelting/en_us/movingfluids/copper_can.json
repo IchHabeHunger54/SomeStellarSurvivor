@@ -1,16 +1,16 @@
 {
+  "title": "Copper Cans",
   "text": [
     {
       "text": "Copper cans (and buckets!) can be used to manually transfer fluids around."
     },
-    {
-      "paragraph": true,
-      "text": "Copper cans hold 1 ingots worth of fluid."
+	{
+      "text": "Copper cans hold 1 ingots worth of fluid.",
+	  "paragraph": true
     },
-    {
-      "paragraph": true,
-      "text": "Copper cans will stack up to 16."
-    }
-  ],
-  "title": "Copper Cans"
+	{
+	  "text": "Copper cans will stack up to 16.",
+	  "paragraph": true
+	}
+  ]
 }

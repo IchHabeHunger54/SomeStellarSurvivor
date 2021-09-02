@@ -1,9 +1,22 @@
 {
-  "group": "magenta_dye",
   "ingredients": [
-    {
-      "item": "minecraft:allium"
-    }
+    [
+      {
+        "item": "minecraft:allium"
+      },
+      {
+        "item": "inspirations:syringa"
+      },
+      {
+        "item": "minecraft:bubble_coral"
+      },
+      {
+        "item": "minecraft:bubble_coral_block"
+      },
+      {
+        "item": "minecraft:bubble_coral_fan"
+      }
+    ]
   ],
   "result": {
     "item": "minecraft:magenta_dye"

@@ -1,0 +1,15 @@
+{
+  "key": {
+    "B": {
+      "item": "minecraft:brick_slab"
+    }
+  },
+  "pattern": [
+    "B",
+    "B"
+  ],
+  "result": {
+    "item": "minecraft:bricks"
+  },
+  "type": "minecraft:crafting_shaped"
+}

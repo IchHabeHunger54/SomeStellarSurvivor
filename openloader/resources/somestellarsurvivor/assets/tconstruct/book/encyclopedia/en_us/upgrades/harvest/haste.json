@@ -1,14 +1,14 @@
 {
-  "effects": [
-    "Can apply levels incrementally",
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
-  ],
   "modifier_id": "tconstruct:haste",
-  "more_text_space": true,
   "text": [
     {
       "text": "Grants +5 mining speed and +5% attack speed per level."
     }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Can apply levels incrementally",
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
   ]
 }

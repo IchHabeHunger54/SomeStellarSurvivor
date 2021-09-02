@@ -1,19 +1,4 @@
 {
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "flag": "shingles",
-          "type": "quark:flag"
-        },
-        {
-          "flag": "vertical_slabs",
-          "type": "quark:flag"
-        }
-      ]
-    }
-  ],
   "count": 2,
   "ingredient": {
     "item": "quark:magenta_shingles"

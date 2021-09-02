@@ -1,16 +1,10 @@
 {
-  "conditions": [
-    {
-      "flag": "gold_metal_button",
-      "type": "quark:flag"
-    }
-  ],
   "ingredients": [
     {
       "tag": "minecraft:wooden_buttons"
     },
     {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     }
   ],
   "result": {

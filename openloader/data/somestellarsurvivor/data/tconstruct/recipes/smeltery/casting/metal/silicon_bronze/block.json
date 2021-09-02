@@ -5,7 +5,7 @@
     "name": "tconstruct:molten_tinkers_bronze"
   },
   "result": {
-    "tag": "forge:storage_blocks/silicon_bronze"
+    "item": "tconstruct:silicon_bronze_block"
   },
   "type": "tconstruct:casting_basin"
 }

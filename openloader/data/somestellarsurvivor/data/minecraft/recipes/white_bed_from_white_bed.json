@@ -1,0 +1,14 @@
+{
+  "ingredients": [
+    {
+      "tag": "minecraft:beds"
+    },
+    {
+      "tag": "forge:dyes/white"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_bed"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

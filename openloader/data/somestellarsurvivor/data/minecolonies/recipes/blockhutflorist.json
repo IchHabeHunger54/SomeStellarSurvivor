@@ -1,7 +1,7 @@
 {
   "key": {
     "B": {
-      "item": "minecraft:poppy"
+      "tag": "minecraft:small_flowers"
     },
     "T": {
       "item": "structurize:sceptergold"

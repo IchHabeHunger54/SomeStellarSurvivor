@@ -10,17 +10,16 @@
       "tag": "forge:butter"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
-      "tag": "forge:sugar"
+      "item": "minecraft:sugar"
     },
     {
       "tag": "forge:egg"
     }
   ],
   "result": {
-    "count": 1,
     "item": "pamhc2foodextended:sugarcookieitem"
   },
   "type": "minecraft:crafting_shapeless"

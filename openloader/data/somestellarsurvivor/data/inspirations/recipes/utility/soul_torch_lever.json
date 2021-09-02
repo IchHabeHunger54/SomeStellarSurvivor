@@ -1,17 +1,7 @@
 {
-  "conditions": [
-    {
-      "prop": "utility_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "torch_lever",
-      "type": "inspirations:config"
-    }
-  ],
   "key": {
     "S": {
-      "tag": "forge:cobblestone"
+      "item": "minecraft:cobblestone"
     },
     "T": {
       "item": "minecraft:soul_torch"

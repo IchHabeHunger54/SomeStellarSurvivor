@@ -5,6 +5,7 @@
     "minecraft:redstone_block",
     "minecraft:redstone_torch",
     "minecraft:glowstone_dust",
-    "minecraft:glowstone"
+    "minecraft:glowstone",
+    "minecraft:slime_ball"
   ]
 }

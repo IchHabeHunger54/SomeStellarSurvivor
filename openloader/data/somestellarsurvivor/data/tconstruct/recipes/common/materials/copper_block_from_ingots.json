@@ -1,8 +1,7 @@
 {
-  "group": "tconstruct:copper_block",
   "key": {
     "#": {
-      "tag": "forge:ingots/copper"
+      "item": "tconstruct:copper_ingot"
     },
     "*": {
       "item": "tconstruct:copper_ingot"

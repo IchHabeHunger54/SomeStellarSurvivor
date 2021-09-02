@@ -7,13 +7,13 @@
   ],
   "key": {
     "A": {
-      "tag": "forge:rods/wooden"
+      "item": "minecraft:stick"
     },
     "B": {
       "item": "astralsorcery:hand_telescope"
     },
     "C": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "D": {
       "tag": "minecraft:planks"
@@ -21,7 +21,6 @@
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:telescope"
     }
   ],

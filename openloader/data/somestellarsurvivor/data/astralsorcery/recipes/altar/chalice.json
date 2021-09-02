@@ -15,18 +15,17 @@
       "item": "astralsorcery:resonating_gem"
     },
     "B": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     },
     "C": {
       "item": "astralsorcery:black_marble_raw"
     },
     "D": {
-      "tag": "astralsorcery:starmetal"
+      "item": "astralsorcery:starmetal_ingot"
     }
   },
   "output": [
     {
-      "count": 1,
       "item": "astralsorcery:chalice"
     }
   ],
