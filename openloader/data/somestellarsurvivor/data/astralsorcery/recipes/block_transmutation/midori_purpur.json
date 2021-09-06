@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:purpur_block"
+  },
+  "input": [
+    {
+      "block": "quark:midori_block",
+      "display": {
+        "item": "quark:midori_block"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:purpur_block"
+  },
+  "starlight": 200,
+  "type": "astralsorcery:block_transmutation"
+}

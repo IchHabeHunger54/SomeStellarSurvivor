@@ -13,6 +13,6 @@
   "output": {
     "block": "astralsorcery:altar_discovery"
   },
-  "starlight": 60,
+  "starlight": 100,
   "type": "astralsorcery:block_transmutation"
 }

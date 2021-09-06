@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:shroomlight"
+  },
+  "input": [
+    {
+      "block": "minecraft:orange_wool",
+      "display": {
+        "item": "minecraft:orange_wool"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:shroomlight"
+  },
+  "starlight": 200,
+  "type": "astralsorcery:block_transmutation"
+}

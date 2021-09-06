@@ -6,10 +6,10 @@
   "duration": 200,
   "fluidInput": "astralsorcery:liquid_starlight",
   "input": {
-    "item": "astralsorcery:aquamarine"
+    "item": "astralsorcery:starmetal_ingot"
   },
   "output": {
-    "item": "astralsorcery:resonating_gem"
+    "item": "tconstruct:cobalt_ingot"
   },
   "type": "astralsorcery:infuser"
 }

@@ -4,7 +4,7 @@
     "item": "astralsorcery:aquamarine"
   },
   "output": "astralsorcery:liquid_starlight",
-  "productionMultiplier": 0.45,
-  "shatterMultiplier": 9.0,
+  "productionMultiplier": 0.25,
+  "shatterMultiplier": 6.0,
   "type": "astralsorcery:lightwell"
 }

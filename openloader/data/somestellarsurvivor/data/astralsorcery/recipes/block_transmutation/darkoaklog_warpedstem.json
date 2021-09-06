@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:warped_stem"
+  },
+  "input": [
+    {
+      "block": "minecraft:dark_oak_log",
+      "display": {
+        "item": "minecraft:dark_oak_log"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:warped_stem"
+  },
+  "starlight": 200,
+  "type": "astralsorcery:block_transmutation"
+}

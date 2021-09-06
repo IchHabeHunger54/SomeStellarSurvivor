@@ -4,7 +4,7 @@
     "item": "astralsorcery:resonating_gem"
   },
   "output": "astralsorcery:liquid_starlight",
-  "productionMultiplier": 0.65,
-  "shatterMultiplier": 15.0,
+  "productionMultiplier": 0.5,
+  "shatterMultiplier": 12.0,
   "type": "astralsorcery:lightwell"
 }

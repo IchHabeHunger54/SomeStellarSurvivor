@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:end_stone_bricks"
+  },
+  "input": [
+    {
+      "block": "minecraft:stone_bricks",
+      "display": {
+        "item": "minecraft:stone_bricks"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:end_stone_bricks"
+  },
+  "starlight": 200,
+  "type": "astralsorcery:block_transmutation"
+}

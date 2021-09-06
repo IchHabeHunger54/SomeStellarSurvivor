@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:crimson_stem"
+  },
+  "input": [
+    {
+      "block": "minecraft:acacia_log",
+      "display": {
+        "item": "minecraft:acacia_log"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:crimson_stem"
+  },
+  "starlight": 200,
+  "type": "astralsorcery:block_transmutation"
+}

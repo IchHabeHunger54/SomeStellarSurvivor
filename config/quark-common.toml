@@ -752,7 +752,7 @@
 					# plateau, modified, ocean, river, water, mesa, forest,
 					# plains, mountain, hills, swamp, sandy, snowy, wasteland,
 					# beach, void, overworld, nether, end]
-					"Biome Types" = ["desert"]
+					"Biome Types" = ["sandy"]
 					"Is Blacklist" = false
 
 				[world.big_stone_clusters.jasper.biomes.biomes]
@@ -1577,7 +1577,7 @@
 				# plateau, modified, ocean, river, water, mesa, forest,
 				# plains, mountain, hills, swamp, sandy, snowy, wasteland,
 				# beach, void, overworld, nether, end]
-				"Biome Types" = ["desert"]
+				"Biome Types" = ["sandy"]
 				"Is Blacklist" = false
 
 	[world.slime_underground_biome]

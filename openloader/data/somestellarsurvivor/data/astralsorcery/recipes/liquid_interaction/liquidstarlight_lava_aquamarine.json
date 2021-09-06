@@ -1,6 +1,6 @@
 {
-  "chanceConsumeReactant1": 0.5,
-  "chanceConsumeReactant2": 0.5,
+  "chanceConsumeReactant1": 0.6,
+  "chanceConsumeReactant2": 0.6,
   "reactant1": "astralsorcery:liquid_starlight",
   "reactant1Amount": 10,
   "reactant2": "minecraft:lava",
