@@ -1,8 +1,8 @@
 {
-  "cookingtime": 200,
+  "cookingtime": 100,
   "ingredient": {
     "item": "minecraft:clay"
   },
   "result": "minecraft:terracotta",
-  "type": "minecraft:smelting"
+  "type": "ceramics:kiln"
 }

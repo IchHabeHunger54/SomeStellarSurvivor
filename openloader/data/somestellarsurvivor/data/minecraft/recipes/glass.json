@@ -1,5 +1,5 @@
 {
-  "cookingtime": 200,
+  "cookingtime": 100,
   "ingredient": [
     {
       "tag": "minecraft:sand"
@@ -9,5 +9,5 @@
     }
   ],
   "result": "minecraft:glass",
-  "type": "minecraft:smelting"
+  "type": "ceramics:kiln"
 }

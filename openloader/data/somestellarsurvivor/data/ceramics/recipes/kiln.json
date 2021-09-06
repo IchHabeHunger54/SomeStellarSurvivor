@@ -4,10 +4,10 @@
       "item": "minecraft:furnace"
     },
     "S": {
-      "item": "minecraft:stone"
+      "item": "minecraft:cobblestone"
     },
     "T": {
-      "item": "minecraft:terracotta"
+      "item": "minecraft:brick"
     }
   },
   "pattern": [
