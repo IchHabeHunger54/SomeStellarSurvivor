@@ -13,6 +13,6 @@
   "output": {
     "block": "astralsorcery:starmetal_ore"
   },
-  "starlight": 100,
+  "starlight": 200,
   "type": "astralsorcery:block_transmutation"
 }

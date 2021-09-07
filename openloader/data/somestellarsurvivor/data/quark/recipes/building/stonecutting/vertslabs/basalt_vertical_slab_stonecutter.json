@@ -1,8 +1,0 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "quark:basalt"
-  },
-  "result": "quark:basalt_vertical_slab",
-  "type": "minecraft:stonecutting"
-}

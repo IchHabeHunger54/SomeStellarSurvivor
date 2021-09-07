@@ -2,10 +2,17 @@ import crafttweaker.api.item.IItemStack;
 import mods.jei.JEI;
 JEI.hideCategory("minecraft:anvil");
 JEI.hideCategory("minecraft:brewing");
+JEI.hideCategory("minecraft:campfire");
 JEI.hideCategory("minecraft:smithing");
 JEI.hideCategory("jei:information");
 JEI.hideCategory("tconstruct:entity_melting");
 JEI.hideCategory("tconstruct:severing");
+JEI.hideCategory("minecolonies:dyer/smelting");
+JEI.hideCategory("minecolonies:glassblower/smelting");
+JEI.hideCategory("minecolonies:stonesmeltery/smelting");
+JEI.hideCategory("minecolonies:crusher/custom");
+JEI.hideCategory("minecolonies:sifter/custom");
+JEI.hideCategory("minecolonies:smelter/smelting");
 var hide = [
     <item:additionalbanners:dragon>,
     <item:additionalbanners:moon>,
@@ -430,6 +437,10 @@ var hide = [
     <item:minecolonies:barbarcheregg>,
     <item:minecolonies:barbarianegg>,
     <item:minecolonies:barbchiefegg>,
+    <item:minecolonies:blockhutcrusher>,
+    <item:minecolonies:blockhutsifter>,
+    <item:minecolonies:blockhutsmeltery>,
+    <item:minecolonies:blockhutstonesmeltery>,
     <item:minecolonies:chorus_bread>,
     <item:minecolonies:golden_bread>,
     <item:minecolonies:mercegg>,
@@ -443,6 +454,10 @@ var hide = [
     <item:minecolonies:pirateegg>,
     <item:minecolonies:scepterpermission>,
     <item:minecolonies:shieldmaidenegg>,
+    <item:minecolonies:sifter_mesh_diamond>,
+    <item:minecolonies:sifter_mesh_flint>,
+    <item:minecolonies:sifter_mesh_iron>,
+    <item:minecolonies:sifter_mesh_string>,
     <item:minecolonies:supplycampdeployer>,
     <item:minecolonies:supplychestdeployer>,
     <item:minecraft:ancient_debris>,
@@ -502,7 +517,6 @@ var hide = [
     <item:minecraft:end_portal_frame>,
     <item:minecraft:end_rod>,
     <item:minecraft:end_stone>,
-    <item:minecraft:end_stone_brick_wall>,
     <item:minecraft:ender_chest>,
     <item:minecraft:ender_eye>,
     <item:minecraft:ender_pearl>,
@@ -580,7 +594,6 @@ var hide = [
     <item:minecraft:music_disc_wait>,
     <item:minecraft:music_disc_ward>,
     <item:minecraft:mycelium>,
-    <item:minecraft:nether_brick_wall>,
     <item:minecraft:nether_gold_ore>,
     <item:minecraft:nether_quartz_ore>,
     <item:minecraft:nether_sprouts>,
@@ -637,7 +650,6 @@ var hide = [
     <item:minecraft:redstone_ore>,
     <item:minecraft:respawn_anchor>,
     <item:minecraft:salmon_spawn_egg>,
-    <item:minecraft:sea_lantern>,
     <item:minecraft:sheep_spawn_egg>,
     <item:minecraft:shulker_box>,
     <item:minecraft:shulker_shell>,
@@ -648,19 +660,12 @@ var hide = [
     <item:minecraft:skeleton_spawn_egg>,
     <item:minecraft:skull_banner_pattern>,
     <item:minecraft:slime_spawn_egg>,
-    <item:minecraft:soul_sand>,
-    <item:minecraft:soul_soil>,
     <item:minecraft:spectral_arrow>,
     <item:minecraft:spider_eye>,
     <item:minecraft:spider_spawn_egg>,
     <item:minecraft:splash_potion>,
     <item:minecraft:sponge>,
     <item:minecraft:squid_spawn_egg>,
-    <item:minecraft:stone_axe>,
-    <item:minecraft:stone_hoe>,
-    <item:minecraft:stone_pickaxe>,
-    <item:minecraft:stone_shovel>,
-    <item:minecraft:stone_sword>,
     <item:minecraft:stray_spawn_egg>,
     <item:minecraft:strider_spawn_egg>,
     <item:minecraft:tipped_arrow>,
@@ -687,11 +692,6 @@ var hide = [
     <item:minecraft:wither_skeleton_skull>,
     <item:minecraft:wither_skeleton_spawn_egg>,
     <item:minecraft:wolf_spawn_egg>,
-    <item:minecraft:wooden_axe>,
-    <item:minecraft:wooden_hoe>,
-    <item:minecraft:wooden_pickaxe>,
-    <item:minecraft:wooden_shovel>,
-    <item:minecraft:wooden_sword>,
     <item:minecraft:yellow_shulker_box>,
     <item:minecraft:zoglin_spawn_egg>,
     <item:minecraft:zombie_head>,
@@ -1109,4 +1109,9 @@ var hide = [
 ] as IItemStack[];
 for item in hide {
     JEI.hideItem(item);
+/*    for recipe in recipes.getAllRecipes() {
+        if item in recipe.ingredients || item == recipe.output {
+            print(recipe.id.toString());
+        }
+    }*/
 }

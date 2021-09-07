@@ -13,6 +13,6 @@
   "output": {
     "block": "minecraft:end_stone_bricks"
   },
-  "starlight": 200,
+  "starlight": 800,
   "type": "astralsorcery:block_transmutation"
 }

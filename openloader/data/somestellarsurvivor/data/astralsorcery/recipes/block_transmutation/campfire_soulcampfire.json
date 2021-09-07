@@ -1,17 +1,17 @@
 {
   "display": {
-    "item": "minecraft:glowstone"
+    "item": "minecraft:soul_campfire"
   },
   "input": [
     {
-      "block": "minecraft:yellow_wool",
+      "block": "minecraft:campfire",
       "display": {
-        "item": "minecraft:yellow_wool"
+        "item": "minecraft:campfire"
       }
     }
   ],
   "output": {
-    "block": "minecraft:glowstone"
+    "block": "minecraft:soul_campfire"
   },
   "starlight": 400,
   "type": "astralsorcery:block_transmutation"

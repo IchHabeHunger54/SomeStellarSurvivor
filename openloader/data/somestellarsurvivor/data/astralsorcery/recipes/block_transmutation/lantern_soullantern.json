@@ -1,17 +1,17 @@
 {
   "display": {
-    "item": "minecraft:glowstone"
+    "item": "minecraft:soul_lantern"
   },
   "input": [
     {
-      "block": "minecraft:yellow_wool",
+      "block": "minecraft:lantern",
       "display": {
-        "item": "minecraft:yellow_wool"
+        "item": "minecraft:lantern"
       }
     }
   ],
   "output": {
-    "block": "minecraft:glowstone"
+    "block": "minecraft:soul_lantern"
   },
   "starlight": 400,
   "type": "astralsorcery:block_transmutation"

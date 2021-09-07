@@ -1,2 +1,4 @@
 import mods.initialinventory.InvHandler;
-InvHandler.addStartingItem("rock_collector_crystal", <item:astralsorcery:rock_collector_crystal>, 1);
+InvHandler.addStartingItem("book", <item:minecraft:written_book>.withTag({pages: [
+    "{\"text\":\"Test\"}" as string
+], title: "Your Punishment" as string, author: "The Astral Academy" as string}), 0);

@@ -13,6 +13,6 @@
   "output": {
     "block": "minecraft:crimson_stem"
   },
-  "starlight": 200,
+  "starlight": 400,
   "type": "astralsorcery:block_transmutation"
 }
