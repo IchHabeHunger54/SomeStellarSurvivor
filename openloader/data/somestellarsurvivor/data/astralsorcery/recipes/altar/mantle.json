@@ -1,14 +1,14 @@
 {
   "altar_type": 3,
-  "duration": 600,
+  "duration": 640,
   "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
     "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:built_in_effect_attunement_sparkle",
     "astralsorcery:altar_default_sparkle",
     "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_trait_focus_circle"
   ],
   "key": {
     "A": {
@@ -51,12 +51,12 @@
       "item": "astralsorcery:stardust"
     },
     {
-      "tag": "forge:feathers"
+      "item": "minecraft:feather"
     },
     {
-      "tag": "forge:ender_pearls"
+      "item": "minecraft:diamond"
     }
   ],
-  "starlight": 4800,
+  "starlight": 3200,
   "type": "astralsorcery:altar"
 }

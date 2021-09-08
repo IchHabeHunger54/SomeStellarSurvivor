@@ -1,24 +1,27 @@
 {
   "altar_type": 2,
-  "duration": 400,
+  "duration": 320,
   "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
     "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle",
     "astralsorcery:altar_default_sparkle",
     "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_constellation_finish"
   ],
   "key": {
     "A": {
-      "item": "astralsorcery:stardust"
-    },
-    "B": {
       "item": "astralsorcery:resonating_gem"
     },
-    "C": {
+    "B": {
       "item": "astralsorcery:illumination_powder"
     },
+    "C": {
+      "item": "astralsorcery:starmetal_ingot"
+    },
     "D": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
       "item": "astralsorcery:glass_lens"
     }
   },
@@ -29,11 +32,11 @@
   ],
   "pattern": [
     "A___A",
-    "__B__",
-    "_CDC_",
-    "__B__",
-    "A___A"
+    "__D__",
+    "_BEB_",
+    "__D__",
+    "C___C"
   ],
-  "starlight": 2000,
+  "starlight": 1600,
   "type": "astralsorcery:altar"
 }

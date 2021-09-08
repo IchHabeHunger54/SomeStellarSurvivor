@@ -1,6 +1,6 @@
 {
   "altar_type": 1,
-  "duration": 200,
+  "duration": 160,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam",
     "astralsorcery:built_in_effect_attunement_sparkle"
@@ -10,7 +10,7 @@
       "item": "astralsorcery:infused_wood_planks"
     },
     "B": {
-      "tag": "forge:nuggets/gold"
+      "item": "minecraft:gold_ingot"
     },
     "C": {
       "item": "astralsorcery:starmetal_ingot"

@@ -1,14 +1,14 @@
 {
   "altar_type": 3,
-  "duration": 600,
+  "duration": 320,
   "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
     "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:built_in_effect_attunement_sparkle",
     "astralsorcery:altar_default_sparkle",
     "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_trait_focus_circle"
   ],
   "focus_constellation": "astralsorcery:octans",
   "key": {
@@ -55,6 +55,6 @@
     "_CCC_"
   ],
   "recipe_class": "astralsorcery:nbt_copy",
-  "starlight": 6400,
+  "starlight": 1600,
   "type": "astralsorcery:altar"
 }

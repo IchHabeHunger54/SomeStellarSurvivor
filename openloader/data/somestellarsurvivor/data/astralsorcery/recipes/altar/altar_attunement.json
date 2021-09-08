@@ -1,6 +1,6 @@
 {
   "altar_type": 0,
-  "duration": 100,
+  "duration": 160,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam",
     "astralsorcery:upgrade_altar"
@@ -42,6 +42,6 @@
     "_____"
   ],
   "recipe_class": "astralsorcery:attunement_upgrade",
-  "starlight": 700,
+  "starlight": 800,
   "type": "astralsorcery:altar"
 }

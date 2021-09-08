@@ -1,19 +1,19 @@
 {
   "altar_type": 2,
-  "duration": 400,
+  "duration": 160,
   "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
     "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle",
     "astralsorcery:altar_default_sparkle",
     "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_constellation_finish"
   ],
   "key": {
     "A": {
       "item": "astralsorcery:aquamarine"
     },
     "B": {
-      "item": "minecraft:iron_pickaxe"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "minecraft:gold_ingot"
@@ -34,9 +34,9 @@
     "A___A",
     "__D__",
     "__E__",
-    "C_B_C",
-    "_____"
+    "__B__",
+    "C___C"
   ],
-  "starlight": 2000,
+  "starlight": 800,
   "type": "astralsorcery:altar"
 }

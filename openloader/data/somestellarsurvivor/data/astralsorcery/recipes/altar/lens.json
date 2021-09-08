@@ -1,6 +1,6 @@
 {
   "altar_type": 1,
-  "duration": 200,
+  "duration": 80,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam",
     "astralsorcery:built_in_effect_attunement_sparkle"
@@ -42,6 +42,6 @@
     "C___C"
   ],
   "recipe_class": "astralsorcery:crystal_count",
-  "starlight": 600,
+  "starlight": 400,
   "type": "astralsorcery:altar"
 }

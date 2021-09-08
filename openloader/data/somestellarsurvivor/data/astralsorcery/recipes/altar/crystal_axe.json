@@ -1,6 +1,6 @@
 {
   "altar_type": 0,
-  "duration": 175,
+  "duration": 40,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam"
   ],
@@ -29,6 +29,6 @@
     "_____"
   ],
   "recipe_class": "astralsorcery:constellation_base_merge",
-  "starlight": 500,
+  "starlight": 200,
   "type": "astralsorcery:altar"
 }

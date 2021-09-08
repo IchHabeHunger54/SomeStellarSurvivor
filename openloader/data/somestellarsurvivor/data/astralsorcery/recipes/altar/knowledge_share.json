@@ -1,6 +1,6 @@
 {
   "altar_type": 1,
-  "duration": 200,
+  "duration": 80,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam",
     "astralsorcery:built_in_effect_attunement_sparkle"
@@ -10,10 +10,10 @@
       "item": "astralsorcery:illumination_powder"
     },
     "B": {
-      "tag": "forge:dyes/black"
+      "item": "minecraft:ink_sac"
     },
     "C": {
-      "tag": "forge:feathers"
+      "item": "minecraft:feather"
     },
     "D": {
       "item": "astralsorcery:stardust"
@@ -34,6 +34,6 @@
     "__B__",
     "A___A"
   ],
-  "starlight": 1400,
+  "starlight": 400,
   "type": "astralsorcery:altar"
 }

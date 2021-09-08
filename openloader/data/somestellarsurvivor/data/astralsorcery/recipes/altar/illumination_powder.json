@@ -1,6 +1,6 @@
 {
   "altar_type": 0,
-  "duration": 60,
+  "duration": 80,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam"
   ],
@@ -20,9 +20,9 @@
   ],
   "pattern": [
     "_____",
-    "__A__",
+    "_AAA_",
     "_ABA_",
-    "__A__",
+    "_AAA_",
     "_____"
   ],
   "starlight": 400,

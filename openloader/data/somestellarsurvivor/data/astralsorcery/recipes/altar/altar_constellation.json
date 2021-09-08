@@ -1,10 +1,10 @@
 {
   "altar_type": 1,
-  "duration": 200,
+  "duration": 320,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:upgrade_altar",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_attunement_sparkle",
+    "astralsorcery:upgrade_altar"
   ],
   "key": {
     "A": {
@@ -37,12 +37,12 @@
   ],
   "pattern": [
     "A___A",
-    "_E_E_",
+    "_EAE_",
     "_DFD_",
     "_BCB_",
     "D___D"
   ],
   "recipe_class": "astralsorcery:constellation_upgrade",
-  "starlight": 1400,
+  "starlight": 1600,
   "type": "astralsorcery:altar"
 }

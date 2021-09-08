@@ -1,26 +1,29 @@
 {
   "altar_type": 3,
-  "duration": 420,
+  "duration": 320,
   "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
     "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:built_in_effect_attunement_sparkle",
     "astralsorcery:altar_default_sparkle",
     "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_trait_focus_circle"
   ],
   "key": {
     "A": {
-      "tag": "forge:dyes/black"
+      "item": "minecraft:ink_sac"
     },
     "B": {
-      "tag": "forge:feathers"
+      "item": "minecraft:string"
     },
     "C": {
-      "item": "astralsorcery:stardust"
+      "item": "minecraft:feather"
     },
     "D": {
+      "item": "astralsorcery:stardust"
+    },
+    "E": {
       "item": "astralsorcery:parchment"
     }
   },
@@ -34,26 +37,25 @@
   ],
   "pattern": [
     "__B__",
-    "__B__",
-    "BCDCB",
+    "__C__",
+    "BDEDB",
     "__A__",
     "__B__"
   ],
   "recipe_class": "astralsorcery:constellation_base",
   "relay_inputs": [
     {
-      "tag": "forge:feathers"
+      "item": "minecraft:string"
     },
     {
-      "item": "minecraft:sugar"
+      "item": "astralsorcery:stardust"
     },
     {
       "item": "minecraft:string"
     },
     {
-      "tag": "minecraft:fishes"
+      "item": "astralsorcery:stardust"
     }
-  ],
-  "starlight": 3200,
+  ],  "starlight": 2400,
   "type": "astralsorcery:altar"
 }

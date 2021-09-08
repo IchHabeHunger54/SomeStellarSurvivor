@@ -1,14 +1,14 @@
 {
   "altar_type": 3,
-  "duration": 600,
+  "duration": 320,
   "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
     "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:built_in_effect_attunement_sparkle",
     "astralsorcery:altar_default_sparkle",
     "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_trait_focus_circle"
   ],
   "key": {
     "A": {
@@ -51,8 +51,11 @@
     },
     {
       "item": "astralsorcery:aquamarine"
+    },
+    {
+      "item": "astralsorcery:aquamarine"
     }
   ],
-  "starlight": 4000,
+  "starlight": 1600,
   "type": "astralsorcery:altar"
 }

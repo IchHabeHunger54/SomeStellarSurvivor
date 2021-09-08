@@ -1,19 +1,19 @@
 {
   "altar_type": 3,
-  "duration": 720,
+  "duration": 640,
   "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
-    "astralsorcery:built_in_effect_trait_relay_highlight",
     "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:built_in_effect_trait_focus_circle",
+    "astralsorcery:built_in_effect_attunement_sparkle",
     "astralsorcery:altar_default_sparkle",
     "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_constellation_finish",
+    "astralsorcery:built_in_effect_trait_relay_highlight",
+    "astralsorcery:built_in_effect_trait_focus_circle"
   ],
   "focus_constellation": "astralsorcery:vicio",
   "key": {
     "A": {
-      "tag": "forge:feathers"
+      "item": "minecraft:feather"
     },
     "B": {
       "item": "astralsorcery:stardust"
@@ -45,18 +45,18 @@
   "recipe_class": "astralsorcery:constellation_base_nbt_copy",
   "relay_inputs": [
     {
-      "tag": "forge:feathers"
+      "item": "minecraft:string"
     },
     {
-      "item": "minecraft:sugar"
+      "item": "astralsorcery:stardust"
     },
     {
       "item": "minecraft:string"
     },
     {
-      "tag": "minecraft:fishes"
+      "item": "astralsorcery:stardust"
     }
   ],
-  "starlight": 6400,
+  "starlight": 3200,
   "type": "astralsorcery:altar"
 }

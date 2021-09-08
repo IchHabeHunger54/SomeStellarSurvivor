@@ -1,10 +1,10 @@
 {
   "altar_type": 1,
-  "duration": 200,
+  "duration": 160,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam",
-    "astralsorcery:gateway_edge",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_attunement_sparkle",
+    "astralsorcery:gateway_edge"
   ],
   "key": {
     "A": {
@@ -37,11 +37,11 @@
   ],
   "pattern": [
     "A___A",
-    "__D__",
+    "_DCD_",
     "_EFE_",
     "_BAB_",
     "C___C"
   ],
-  "starlight": 1400,
+  "starlight": 800,
   "type": "astralsorcery:altar"
 }

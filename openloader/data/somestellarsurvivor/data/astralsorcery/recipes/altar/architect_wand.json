@@ -1,6 +1,6 @@
 {
   "altar_type": 1,
-  "duration": 200,
+  "duration": 160,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam",
     "astralsorcery:built_in_effect_attunement_sparkle"
@@ -13,7 +13,7 @@
       "item": "astralsorcery:stardust"
     },
     "C": {
-      "tag": "forge:dyes/purple"
+      "item": "minecraft:popped_chorus_fruit"
     }
   },
   "output": [
@@ -23,11 +23,11 @@
   ],
   "pattern": [
     "_____",
-    "__BC_",
-    "_CAB_",
-    "_A___",
+    "__B__",
+    "_CAC_",
+    "_AB__",
     "A____"
   ],
-  "starlight": 1200,
+  "starlight": 800,
   "type": "astralsorcery:altar"
 }

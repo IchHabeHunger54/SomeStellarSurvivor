@@ -1,19 +1,19 @@
 {
   "altar_type": 2,
-  "duration": 400,
+  "duration": 160,
   "effects": [
-    "astralsorcery:built_in_effect_constellation_finish",
     "astralsorcery:built_in_effect_discovery_central_beam",
+    "astralsorcery:built_in_effect_attunement_sparkle",
     "astralsorcery:altar_default_sparkle",
     "astralsorcery:built_in_effect_constellation_lines",
-    "astralsorcery:built_in_effect_attunement_sparkle"
+    "astralsorcery:built_in_effect_constellation_finish"
   ],
   "key": {
     "A": {
-      "item": "minecraft:flint"
+      "item": "astralsorcery:aquamarine"
     },
     "B": {
-      "item": "astralsorcery:aquamarine"
+      "item": "astralsorcery:stardust"
     },
     "C": {
       "item": "minecraft:iron_ingot"
@@ -31,12 +31,12 @@
     }
   ],
   "pattern": [
-    "_____",
-    "C_D_C",
-    "_CEC_",
-    "_A_A_",
-    "B___B"
+    "A___A",
+    "__D__",
+    "__E__",
+    "__B__",
+    "C___C"
   ],
-  "starlight": 2000,
+  "starlight": 800,
   "type": "astralsorcery:altar"
 }

@@ -1,6 +1,6 @@
 {
   "altar_type": 0,
-  "duration": 100,
+  "duration": 80,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam"
   ],
@@ -12,9 +12,6 @@
       "tag": "forge:dyes/black"
     },
     "C": {
-      "tag": "minecraft:coals"
-    },
-    "D": {
       "item": "astralsorcery:illumination_powder"
     }
   },
@@ -26,9 +23,9 @@
   ],
   "pattern": [
     "_____",
-    "__B__",
-    "_CDC_",
-    "__A__",
+    "_CAC_",
+    "_BBB_",
+    "_CAC_",
     "_____"
   ],
   "starlight": 800,

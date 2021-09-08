@@ -1,6 +1,6 @@
 {
   "altar_type": 0,
-  "duration": 40,
+  "duration": 20,
   "effects": [
     "astralsorcery:built_in_effect_discovery_central_beam"
   ],
