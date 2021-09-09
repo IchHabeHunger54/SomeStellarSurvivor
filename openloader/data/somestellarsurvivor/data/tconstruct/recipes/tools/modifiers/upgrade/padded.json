@@ -1,15 +1,8 @@
 {
-  "inputs": [
-    {
-      "item": "minecraft:leather"
-    },
-    {
-      "tag": "minecraft:wool"
-    },
-    {
-      "item": "minecraft:leather"
-    }
-  ],
+  "input": {
+    "tag": "minecraft:wool"
+  },
+  "needed_per_level": 64,
   "max_level": 3,
   "result": {
     "level": 1,

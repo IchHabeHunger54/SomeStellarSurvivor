@@ -3,12 +3,8 @@
   "modifier": "tconstruct:autosmelt",
   "salvage": [
     {
-      "chance": 0.4,
-      "item": "minecraft:magma_block"
-    },
-    {
       "item": "tconstruct:blazewood",
-      "max": 2,
+      "max": 5,
       "min": 1
     }
   ],

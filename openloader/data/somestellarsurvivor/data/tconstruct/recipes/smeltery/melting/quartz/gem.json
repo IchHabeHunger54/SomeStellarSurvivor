@@ -6,7 +6,7 @@
     "amount": 144,
     "fluid": "tconstruct:molten_quartz"
   },
-  "temperature": 637,
-  "time": 55,
+  "temperature": 650,
+  "time": 50,
   "type": "tconstruct:melting"
 }

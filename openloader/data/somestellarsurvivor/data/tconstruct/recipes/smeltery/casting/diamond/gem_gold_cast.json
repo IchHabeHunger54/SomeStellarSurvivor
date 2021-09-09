@@ -2,7 +2,7 @@
   "cast": {
     "tag": "tconstruct:casts/multi_use/gem"
   },
-  "cooling_time": 79,
+  "cooling_time": 80,
   "fluid": {
     "amount": 144,
     "tag": "tconstruct:molten_diamond"

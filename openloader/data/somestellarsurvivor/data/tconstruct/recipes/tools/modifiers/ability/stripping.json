@@ -6,10 +6,19 @@
       "type": "tconstruct:material"
     },
     {
-      "tag": "forge:ingots/netherite_scrap"
+      "item": "tconstruct:small_axe_head",
+      "type": "tconstruct:material"
     },
     {
-      "item": "tconstruct:tool_binding",
+      "item": "tconstruct:small_axe_head",
+      "type": "tconstruct:material"
+    },
+    {
+      "item": "tconstruct:small_axe_head",
+      "type": "tconstruct:material"
+    },
+    {
+      "item": "tconstruct:small_axe_head",
       "type": "tconstruct:material"
     }
   ],

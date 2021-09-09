@@ -1,7 +1,0 @@
-{
-  "entity": {
-    "type": "minecraft:phantom"
-  },
-  "result": "minecraft:phantom_membrane",
-  "type": "tconstruct:severing"
-}

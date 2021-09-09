@@ -1,16 +1,11 @@
 {
   "inputs": [
     {
-      "item": "minecraft:wither_rose"
-    },
-    {
-      "item": "tconstruct:blood_congealed_slime"
-    },
-    {
-      "item": "minecraft:ghast_tear"
+      "item": "quark:crab_shell"
     }
   ],
   "max_level": 5,
+  "needed_per_level": 64,
   "result": {
     "level": 1,
     "name": "tconstruct:necrotic"

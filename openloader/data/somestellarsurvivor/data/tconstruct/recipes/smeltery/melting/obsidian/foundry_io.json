@@ -18,6 +18,6 @@
     "fluid": "tconstruct:molten_obsidian"
   },
   "temperature": 1000,
-  "time": 166,
+  "time": 180,
   "type": "tconstruct:melting"
 }

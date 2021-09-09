@@ -1,12 +1,7 @@
 {
-  "inputs": [
-    {
-      "tag": "forge:ingots/netherite_scrap"
-    },
-    {
-      "item": "minecraft:flint"
-    }
-  ],
+  "input": {
+    "item": "tconstruct:tinkers_bronze_ingot"
+  },
   "max_level": 1,
   "result": {
     "level": 1,

@@ -6,10 +6,19 @@
       "type": "tconstruct:material"
     },
     {
-      "tag": "forge:ingots/netherite_scrap"
+      "item": "tconstruct:pickaxe_head",
+      "type": "tconstruct:material"
     },
     {
-      "item": "tconstruct:small_axe_head",
+      "item": "tconstruct:pickaxe_head",
+      "type": "tconstruct:material"
+    },
+    {
+      "item": "tconstruct:pickaxe_head",
+      "type": "tconstruct:material"
+    },
+    {
+      "item": "tconstruct:pickaxe_head",
       "type": "tconstruct:material"
     }
   ],

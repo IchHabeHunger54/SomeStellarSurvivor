@@ -6,7 +6,7 @@
     "amount": 1296,
     "fluid": "tconstruct:molten_diamond"
   },
-  "temperature": 1450,
-  "time": 237,
+  "temperature": 1000,
+  "time": 240,
   "type": "tconstruct:melting"
 }

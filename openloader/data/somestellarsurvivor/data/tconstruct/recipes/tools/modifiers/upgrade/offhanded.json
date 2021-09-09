@@ -1,16 +1,9 @@
 {
-  "inputs": [
-    {
-      "item": "minecraft:leather"
-    },
-    {
-      "item": "minecraft:phantom_membrane"
-    },
-    {
-      "tag": "forge:slimeball/ichor"
-    }
-  ],
+  "input": {
+    "item": "minecraft:leather"
+  },
   "max_level": 1,
+  "needed_per_level": 64,
   "result": {
     "level": 1,
     "name": "tconstruct:offhanded"

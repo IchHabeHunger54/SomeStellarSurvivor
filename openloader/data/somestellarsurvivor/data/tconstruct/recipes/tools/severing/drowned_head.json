@@ -1,7 +1,0 @@
-{
-  "entity": {
-    "type": "minecraft:drowned"
-  },
-  "result": "tconstruct:drowned_head",
-  "type": "tconstruct:severing"
-}

@@ -2,19 +2,19 @@
   "ability_slots": 1,
   "inputs": [
     {
-      "item": "tconstruct:copper_ingot"
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "item": "minecraft:cornflower"
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "item": "tconstruct:copper_ingot"
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "item": "minecraft:lapis_block"
+      "item": "minecraft:lapis_lazuli"
     },
     {
-      "item": "minecraft:lapis_block"
+      "item": "minecraft:lapis_lazuli"
     }
   ],
   "max_level": 1,

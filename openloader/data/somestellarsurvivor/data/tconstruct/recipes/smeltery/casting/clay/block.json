@@ -1,5 +1,5 @@
 {
-  "cooling_time": 127,
+  "cooling_time": 120,
   "fluid": {
     "amount": 1000,
     "tag": "tconstruct:molten_clay"

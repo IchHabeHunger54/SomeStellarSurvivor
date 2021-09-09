@@ -1,12 +1,17 @@
 {
-  "ingredient": {
-    "item": "minecraft:snowball"
-  },
+  "ingredient": [
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snow"
+    }
+  ],
   "result": {
     "amount": 125,
     "fluid": "minecraft:water"
   },
   "temperature": 0,
-  "time": 14,
+  "time": 10,
   "type": "tconstruct:melting"
 }

@@ -1,9 +1,0 @@
-{
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_constantan"
-  },
-  "output": "tconstruct:constantan",
-  "temperature": 920,
-  "type": "tconstruct:material_fluid"
-}

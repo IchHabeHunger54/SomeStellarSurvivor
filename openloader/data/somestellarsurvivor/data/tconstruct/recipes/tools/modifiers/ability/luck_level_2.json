@@ -1,19 +1,19 @@
 {
   "inputs": [
     {
-      "item": "minecraft:gold_ingot"
+      "item": "tconstruct:copper_ingot"
     },
     {
-      "item": "minecraft:golden_carrot"
+      "item": "tconstruct:copper_ingot"
     },
     {
-      "item": "minecraft:gold_ingot"
+      "item": "tconstruct:copper_ingot"
     },
     {
-      "tag": "forge:ender_pearls"
+      "item": "tconstruct:copper_ingot"
     },
     {
-      "tag": "forge:ender_pearls"
+      "item": "tconstruct:copper_ingot"
     }
   ],
   "max_level": 2,

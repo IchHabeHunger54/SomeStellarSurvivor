@@ -1,12 +1,17 @@
 {
-  "ingredient": {
-    "tag": "forge:glass"
-  },
+  "ingredient": [
+    {
+      "tag": "forge:glass"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
   "result": {
     "amount": 1000,
     "fluid": "tconstruct:molten_glass"
   },
   "temperature": 750,
-  "time": 59,
+  "time": 48,
   "type": "tconstruct:melting"
 }

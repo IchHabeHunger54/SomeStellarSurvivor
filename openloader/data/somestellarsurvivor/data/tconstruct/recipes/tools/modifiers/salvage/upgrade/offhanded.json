@@ -3,12 +3,8 @@
   "modifier": "tconstruct:offhanded",
   "salvage": [
     {
-      "chance": 0.7,
+      "chance": 0.5,
       "item": "minecraft:leather"
-    },
-    {
-      "chance": 0.3,
-      "item": "minecraft:phantom_membrane"
     }
   ],
   "slots": {

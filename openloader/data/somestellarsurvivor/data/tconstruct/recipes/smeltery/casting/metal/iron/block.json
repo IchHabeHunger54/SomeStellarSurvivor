@@ -1,5 +1,5 @@
 {
-  "cooling_time": 180,
+  "cooling_time": 225,
   "fluid": {
     "amount": 1296,
     "tag": "tconstruct:molten_iron"

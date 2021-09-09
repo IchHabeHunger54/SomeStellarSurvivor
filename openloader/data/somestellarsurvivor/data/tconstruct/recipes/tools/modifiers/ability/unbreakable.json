@@ -2,19 +2,19 @@
   "ability_slots": 1,
   "inputs": [
     {
-      "item": "minecraft:shulker_shell"
+      "item": "tconstruct:manyullyn_ingot"
     },
     {
-      "item": "minecraft:dragon_breath"
+      "item": "tconstruct:manyullyn_ingot"
     },
     {
-      "item": "minecraft:shulker_shell"
+      "item": "tconstruct:manyullyn_ingot"
     },
     {
-      "tag": "forge:ingots/netherite"
+      "item": "tconstruct:manyullyn_ingot"
     },
     {
-      "tag": "forge:ingots/netherite"
+      "item": "tconstruct:manyullyn_ingot"
     }
   ],
   "max_level": 1,
@@ -22,10 +22,6 @@
     "error": "recipe.tconstruct.modifier.unbreakable_requirements",
     "matches_needed": 2,
     "options": [
-      {
-        "level": 1,
-        "name": "tconstruct:netherite"
-      },
       {
         "level": 5,
         "name": "tconstruct:reinforced"

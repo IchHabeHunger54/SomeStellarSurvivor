@@ -5,8 +5,12 @@
       "tag": "tconstruct:molten_copper"
     },
     {
-      "amount": 144,
+      "amount": 288,
       "tag": "tconstruct:molten_cobalt"
+    },
+    {
+      "amount": 288,
+      "tag": "tconstruct:molten_diamond"
     },
     {
       "amount": 1000,

@@ -3,14 +3,9 @@
   "modifier": "tconstruct:unbreakable",
   "salvage": [
     {
-      "item": "minecraft:netherite_ingot",
-      "max": 2,
-      "min": 2
-    },
-    {
-      "item": "minecraft:shulker_shell",
-      "max": 2,
-      "min": 0
+      "item": "minecraft:popped_chorus_fruit",
+      "max": 5,
+      "min": 1
     }
   ],
   "slots": {

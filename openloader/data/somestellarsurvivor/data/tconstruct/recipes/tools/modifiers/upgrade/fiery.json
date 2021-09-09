@@ -1,10 +1,9 @@
 {
   "amount_per_item": 1,
   "input": {
-    "item": "minecraft:blaze_powder"
+    "item": "minecraft:lava_bucket"
   },
   "max_level": 5,
-  "needed_per_level": 25,
   "result": {
     "level": 1,
     "name": "tconstruct:fiery"

@@ -2,13 +2,7 @@
   "cast": {
     "tag": "tconstruct:casts/multi_use/ingot"
   },
-  "conditions": [
-    {
-      "modid": "ceramics",
-      "type": "forge:mod_loaded"
-    }
-  ],
-  "cooling_time": 75,
+  "cooling_time": 30,
   "fluid": {
     "amount": 250,
     "tag": "tconstruct:molten_porcelain"

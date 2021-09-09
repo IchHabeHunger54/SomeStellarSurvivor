@@ -1,18 +1,17 @@
 {
-  "conditions": [
+  "ingredient": [
     {
-      "modid": "ceramics",
-      "type": "forge:mod_loaded"
+      "item": "ceramics:unfired_porcelain"
+    },
+    {
+      "item": "ceramics:porcelain_brick"
     }
   ],
-  "ingredient": {
-    "item": "ceramics:porcelain_brick"
-  },
   "result": {
     "amount": 250,
     "fluid": "tconstruct:molten_porcelain"
   },
   "temperature": 700,
-  "time": 57,
+  "time": 25,
   "type": "tconstruct:melting"
 }

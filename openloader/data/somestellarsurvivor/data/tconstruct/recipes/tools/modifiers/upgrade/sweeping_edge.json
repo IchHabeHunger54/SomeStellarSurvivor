@@ -4,7 +4,7 @@
     "item": "minecraft:chain"
   },
   "max_level": 4,
-  "needed_per_level": 18,
+  "needed_per_level": 64,
   "result": {
     "level": 1,
     "name": "tconstruct:sweeping_edge"

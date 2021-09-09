@@ -1,7 +1,0 @@
-{
-  "entity": {
-    "type": "minecraft:spider"
-  },
-  "result": "tconstruct:spider_head",
-  "type": "tconstruct:severing"
-}

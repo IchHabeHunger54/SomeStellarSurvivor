@@ -2,7 +2,7 @@
   "cast": {
     "tag": "tconstruct:casts/multi_use/ingot"
   },
-  "cooling_time": 57,
+  "cooling_time": 60,
   "fluid": {
     "amount": 144,
     "tag": "tconstruct:molten_tinkers_bronze"

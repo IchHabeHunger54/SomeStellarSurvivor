@@ -4,7 +4,7 @@
     "item": "minecraft:cactus"
   },
   "max_level": 5,
-  "needed_per_level": 25,
+  "needed_per_level": 64,
   "result": {
     "level": 1,
     "name": "tconstruct:piercing"

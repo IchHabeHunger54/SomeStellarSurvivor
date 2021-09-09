@@ -1,13 +1,13 @@
 {
   "cast": {
-    "item": "minecraft:melon_slice"
+    "item": "minecraft:stick"
   },
   "cast_consumed": true,
-  "cooling_time": 54,
+  "cooling_time": 120,
   "fluid": {
-    "amount": 128,
+    "amount": 576,
     "tag": "tconstruct:molten_gold"
   },
-  "result": "minecraft:glistering_melon_slice",
+  "result": "minecraft:bell",
   "type": "tconstruct:casting_table"
 }

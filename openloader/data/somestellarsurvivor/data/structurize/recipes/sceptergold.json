@@ -1,4 +1,9 @@
 {
+  "altar_type": 0,
+  "duration": 80,
+  "effects": [
+    "astralsorcery:built_in_effect_discovery_central_beam"
+  ],
   "key": {
     "C": {
       "item": "minecraft:gold_ingot"
@@ -8,12 +13,17 @@
     }
   },
   "pattern": [
-    "  C",
-    " S ",
-    "S  "
+    "_____",
+    "___C_",
+    "__S__",
+    "_S___",
+    "_____"
   ],
-  "result": {
-    "item": "structurize:sceptergold"
-  },
-  "type": "minecraft:crafting_shaped"
+  "output": [
+    {
+      "item": "structurize:sceptergold"
+    }
+  ],
+  "starlight": 400,
+  "type": "astralsorcery:altar"
 }

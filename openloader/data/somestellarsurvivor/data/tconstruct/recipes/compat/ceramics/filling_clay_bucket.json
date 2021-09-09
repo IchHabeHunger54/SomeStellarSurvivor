@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "modid": "ceramics",
-      "type": "forge:mod_loaded"
-    }
-  ],
   "container": "ceramics:clay_bucket",
   "fluid_amount": 1000,
   "type": "tconstruct:table_filling"

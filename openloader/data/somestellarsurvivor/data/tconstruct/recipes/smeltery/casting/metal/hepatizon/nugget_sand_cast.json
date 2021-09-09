@@ -3,7 +3,7 @@
     "tag": "tconstruct:casts/single_use/nugget"
   },
   "cast_consumed": true,
-  "cooling_time": 26,
+  "cooling_time": 30,
   "fluid": {
     "amount": 16,
     "tag": "tconstruct:molten_hepatizon"

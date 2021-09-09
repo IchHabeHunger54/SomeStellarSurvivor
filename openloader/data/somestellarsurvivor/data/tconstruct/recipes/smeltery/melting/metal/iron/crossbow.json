@@ -7,6 +7,6 @@
     "fluid": "tconstruct:molten_iron"
   },
   "temperature": 800,
-  "time": 74,
+  "time": 60,
   "type": "tconstruct:damagable_melting"
 }

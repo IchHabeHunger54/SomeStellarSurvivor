@@ -3,13 +3,9 @@
   "modifier": "tconstruct:dual_wielding",
   "salvage": [
     {
-      "chance": 0.95,
-      "item": "minecraft:nautilus_shell"
-    },
-    {
-      "max": 2,
-      "min": 2,
-      "item": "tconstruct:manyullyn_ingot"
+      "item": "tconstruct:hepatizon_ingot",
+      "max": 5,
+      "min": 1
     }
   ],
   "slots": {

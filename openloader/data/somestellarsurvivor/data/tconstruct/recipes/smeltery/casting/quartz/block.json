@@ -1,5 +1,5 @@
 {
-  "cooling_time": 110,
+  "cooling_time": 100,
   "fluid": {
     "amount": 576,
     "tag": "tconstruct:molten_quartz"

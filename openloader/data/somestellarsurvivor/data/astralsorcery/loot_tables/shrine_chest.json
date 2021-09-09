@@ -1,3 +1,86 @@
 {
+  "pools": [
+    {
+      "bonus_rolls": {
+        "max": 2.0,
+        "min": 1.0
+      },
+      "entries": [
+        {
+          "name": "astralsorcery:constellation_paper",
+          "type": "minecraft:item",
+          "weight": 18
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "astralsorcery:aquamarine",
+          "type": "minecraft:item",
+          "weight": 12
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:rotten_flesh",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "functions": [
+            {
+              "count": {
+                "max": 3.0,
+                "min": 1.0,
+                "type": "minecraft:uniform"
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:bone",
+          "type": "minecraft:item",
+          "weight": 10
+        },
+        {
+          "name": "minecraft:gold_ingot",
+          "type": "minecraft:item",
+          "weight": 5
+        },
+        {
+          "name": "minecraft:iron_ingot",
+          "type": "minecraft:item",
+          "weight": 15
+        },
+        {
+          "name": "minecraft:diamond",
+          "type": "minecraft:item"
+        },
+        {
+          "name": "minecraft:emerald",
+          "type": "minecraft:item"
+        }
+      ],
+      "rolls": {
+        "max": 5.0,
+        "min": 3.0,
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
   "type": "minecraft:chest"
 }

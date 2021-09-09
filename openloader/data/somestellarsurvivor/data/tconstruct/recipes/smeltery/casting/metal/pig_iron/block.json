@@ -1,9 +1,0 @@
-{
-  "cooling_time": 181,
-  "fluid": {
-    "amount": 1296,
-    "tag": "tconstruct:molten_pig_iron"
-  },
-  "result": "tconstruct:pig_iron_block",
-  "type": "tconstruct:casting_basin"
-}

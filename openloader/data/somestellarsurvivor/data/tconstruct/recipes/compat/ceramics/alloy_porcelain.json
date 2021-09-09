@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "modid": "ceramics",
-      "type": "forge:mod_loaded"
-    }
-  ],
   "inputs": [
     {
       "amount": 750,

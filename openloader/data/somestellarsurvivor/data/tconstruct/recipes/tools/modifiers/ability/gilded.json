@@ -2,7 +2,19 @@
   "ability_slots": 1,
   "inputs": [
     {
-      "item": "minecraft:golden_apple"
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
     }
   ],
   "result": {

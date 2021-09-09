@@ -1,12 +1,17 @@
 {
-  "ingredient": {
-    "item": "minecraft:clock"
-  },
+  "ingredient": [
+    {
+      "item": "minecraft:clock"
+    },
+    {
+      "item": "minecraft:bell"
+    }
+  ],
   "result": {
     "amount": 576,
     "fluid": "tconstruct:molten_gold"
   },
   "temperature": 700,
-  "time": 114,
+  "time": 120,
   "type": "tconstruct:melting"
 }

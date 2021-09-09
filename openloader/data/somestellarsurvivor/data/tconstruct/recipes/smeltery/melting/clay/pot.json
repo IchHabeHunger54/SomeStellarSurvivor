@@ -1,12 +1,31 @@
 {
-  "ingredient": {
-    "item": "minecraft:flower_pot"
-  },
+  "ingredient": [
+    {
+      "item": "ceramics:clay_cistern"
+    },
+    {
+      "tag": "ceramics:terracotta_cisterns"
+    },
+    {
+      "item": "minecraft:flower_pot"
+    },
+    {
+      "item": "ceramics:unfired_clay_bucket"
+    },
+    {
+      "item": "ceramics:clay_bucket",
+      "type": "forge:nbt"
+    },
+    {
+      "item": "ceramics:cracked_clay_bucket",
+      "type": "forge:nbt"
+    }
+  ],
   "result": {
     "amount": 750,
     "fluid": "tconstruct:molten_clay"
   },
   "temperature": 450,
-  "time": 96,
+  "time": 75,
   "type": "tconstruct:melting"
 }

@@ -7,6 +7,6 @@
     "fluid": "tconstruct:molten_glass"
   },
   "temperature": 750,
-  "time": 29,
+  "time": 8,
   "type": "tconstruct:melting"
 }

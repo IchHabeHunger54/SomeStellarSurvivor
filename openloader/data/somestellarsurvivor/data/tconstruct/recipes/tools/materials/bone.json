@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:bones"
+    "item": "minecraft:bone"
   },
   "material": "tconstruct:bone",
   "needed": 1,

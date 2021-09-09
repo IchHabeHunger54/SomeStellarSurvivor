@@ -1,12 +1,6 @@
 {
   "ingredient": {
-    "base": {
-      "tag": "minecraft:logs"
-    },
-    "type": "mantle:without",
-    "without": {
-      "tag": "tconstruct:slimy_logs"
-    }
+    "tag": "minecraft:logs"
   },
   "leftover": {
     "count": 2,

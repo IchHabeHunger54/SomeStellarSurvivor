@@ -1,9 +1,0 @@
-{
-  "damage_amount": 2500,
-  "ingredient": {
-    "item": "minecraft:lingering_potion",
-    "nbt": "{Potion:\"minecraft:strong_harming\"}",
-    "type": "forge:nbt"
-  },
-  "type": "tconstruct:tinker_station_damaging"
-}

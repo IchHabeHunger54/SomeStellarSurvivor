@@ -1,9 +1,0 @@
-{
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_silver"
-  },
-  "output": "tconstruct:silver",
-  "temperature": 790,
-  "type": "tconstruct:material_fluid"
-}

@@ -5,14 +5,15 @@ JEI.hideCategory("minecraft:brewing");
 JEI.hideCategory("minecraft:campfire");
 JEI.hideCategory("minecraft:smithing");
 JEI.hideCategory("jei:information");
-JEI.hideCategory("tconstruct:entity_melting");
-JEI.hideCategory("tconstruct:severing");
 JEI.hideCategory("minecolonies:dyer/smelting");
 JEI.hideCategory("minecolonies:glassblower/smelting");
 JEI.hideCategory("minecolonies:stonesmeltery/smelting");
 JEI.hideCategory("minecolonies:crusher/custom");
 JEI.hideCategory("minecolonies:sifter/custom");
 JEI.hideCategory("minecolonies:smelter/smelting");
+JEI.hideCategory("tconstruct:entity_melting");
+JEI.hideCategory("tconstruct:foundry");
+JEI.hideCategory("tconstruct:severing");
 var hide = [
     <item:additionalbanners:dragon>,
     <item:additionalbanners:moon>,
@@ -666,6 +667,11 @@ var hide = [
     <item:minecraft:splash_potion>,
     <item:minecraft:sponge>,
     <item:minecraft:squid_spawn_egg>,
+    <item:minecraft:stone_axe>,
+    <item:minecraft:stone_hoe>,
+    <item:minecraft:stone_pickaxe>,
+    <item:minecraft:stone_shovel>,
+    <item:minecraft:stone_sword>,
     <item:minecraft:stray_spawn_egg>,
     <item:minecraft:strider_spawn_egg>,
     <item:minecraft:tipped_arrow>,
@@ -691,6 +697,11 @@ var hide = [
     <item:minecraft:wither_rose>,
     <item:minecraft:wither_skeleton_skull>,
     <item:minecraft:wither_skeleton_spawn_egg>,
+    <item:minecraft:wooden_axe>,
+    <item:minecraft:wooden_hoe>,
+    <item:minecraft:wooden_pickaxe>,
+    <item:minecraft:wooden_shovel>,
+    <item:minecraft:wooden_sword>,
     <item:minecraft:wolf_spawn_egg>,
     <item:minecraft:yellow_shulker_box>,
     <item:minecraft:zoglin_spawn_egg>,

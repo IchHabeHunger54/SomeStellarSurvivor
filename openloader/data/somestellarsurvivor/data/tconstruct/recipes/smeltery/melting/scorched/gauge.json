@@ -1,8 +1,8 @@
 {
   "byproducts": [
     {
-      "amount": 720,
-      "fluid": "tconstruct:molten_quartz"
+      "amount": 5000,
+      "fluid": "tconstruct:molten_glass"
     }
   ],
   "ingredient": [

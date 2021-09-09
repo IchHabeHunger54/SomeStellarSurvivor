@@ -1,11 +1,11 @@
 {
+  "byproducts": [
+    {
+      "amount": 250,
+      "fluid": "tconstruct:seared_stone"
+    }
+  ],
   "ingredient": [
-    {
-      "item": "minecraft:activator_rail"
-    },
-    {
-      "item": "minecraft:detector_rail"
-    },
     {
       "item": "minecraft:stonecutter"
     },

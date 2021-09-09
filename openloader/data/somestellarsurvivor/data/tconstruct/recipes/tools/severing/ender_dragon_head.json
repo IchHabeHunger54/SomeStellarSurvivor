@@ -1,7 +1,0 @@
-{
-  "entity": {
-    "type": "minecraft:ender_dragon"
-  },
-  "result": "minecraft:dragon_head",
-  "type": "tconstruct:severing"
-}

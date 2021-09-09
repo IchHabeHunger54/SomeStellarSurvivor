@@ -3,12 +3,8 @@
   "modifier": "tconstruct:knockback",
   "salvage": [
     {
-      "chance": 0.9,
+      "chance": 0.5,
       "item": "minecraft:piston"
-    },
-    {
-      "chance": 0.3,
-      "tag": "tconstruct:slime_block"
     }
   ],
   "slots": {

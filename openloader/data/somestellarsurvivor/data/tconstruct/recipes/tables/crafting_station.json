@@ -3,20 +3,14 @@
     "p": {
       "item": "tconstruct:pattern"
     },
-    "w": {
-      "base": [
-        {
-          "tag": "forge:workbenches"
-        },
-        {
-          "tag": "tconstruct:tables"
-        }
-      ],
-      "type": "mantle:without",
-      "without": {
-        "item": "tconstruct:crafting_station"
+    "w": [
+      {
+        "tag": "forge:workbenches"
+      },
+      {
+        "tag": "tconstruct:tables"
       }
-    }
+    ]
   },
   "pattern": [
     "p",

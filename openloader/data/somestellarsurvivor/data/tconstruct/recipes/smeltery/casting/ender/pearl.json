@@ -1,9 +1,0 @@
-{
-  "cooling_time": 65,
-  "fluid": {
-    "amount": 250,
-    "name": "tconstruct:molten_ender"
-  },
-  "result": "minecraft:ender_pearl",
-  "type": "tconstruct:casting_table"
-}

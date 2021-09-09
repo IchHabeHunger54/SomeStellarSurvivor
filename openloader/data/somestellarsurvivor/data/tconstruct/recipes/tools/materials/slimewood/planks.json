@@ -1,9 +1,0 @@
-{
-  "ingredient": {
-    "tag": "tconstruct:slimy_planks"
-  },
-  "material": "tconstruct:slimewood",
-  "needed": 1,
-  "type": "tconstruct:material",
-  "value": 1
-}

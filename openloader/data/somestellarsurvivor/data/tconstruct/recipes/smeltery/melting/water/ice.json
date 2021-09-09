@@ -7,6 +7,6 @@
     "fluid": "minecraft:water"
   },
   "temperature": 0,
-  "time": 28,
+  "time": 30,
   "type": "tconstruct:melting"
 }

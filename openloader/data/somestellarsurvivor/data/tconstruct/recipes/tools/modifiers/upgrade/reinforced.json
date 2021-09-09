@@ -4,7 +4,7 @@
     "item": "tconstruct:iron_reinforcement"
   },
   "max_level": 5,
-  "needed_per_level": 24,
+  "needed_per_level": 64,
   "result": {
     "level": 1,
     "name": "tconstruct:reinforced"

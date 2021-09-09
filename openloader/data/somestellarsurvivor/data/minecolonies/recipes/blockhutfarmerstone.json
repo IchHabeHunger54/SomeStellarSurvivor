@@ -1,8 +1,13 @@
 {
   "key": {
-    "H": {
-      "item": "minecraft:stone_hoe"
-    },
+    "H": [
+      {
+        "item": "tconstruct:kama"
+      },
+      {
+        "item": "tconstruct:scythe"
+      }
+    ],
     "T": {
       "item": "structurize:sceptergold"
     },

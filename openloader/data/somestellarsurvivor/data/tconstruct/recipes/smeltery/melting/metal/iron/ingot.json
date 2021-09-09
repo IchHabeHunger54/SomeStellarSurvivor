@@ -1,7 +1,18 @@
 {
-  "ingredient": {
-    "item": "minecraft:iron_ingot"
-  },
+  "ingredient": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:rail"
+    },
+    {
+      "item": "minecraft:activator_rail"
+    },
+    {
+      "item": "minecraft:detector_rail"
+    }
+  ],
   "result": {
     "amount": 144,
     "fluid": "tconstruct:molten_iron"

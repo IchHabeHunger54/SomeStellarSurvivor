@@ -17,7 +17,7 @@
     "amount": 288,
     "fluid": "tconstruct:scorched_stone"
   },
-  "temperature": 500,
+  "temperature": 600,
   "time": 50,
   "type": "tconstruct:melting"
 }

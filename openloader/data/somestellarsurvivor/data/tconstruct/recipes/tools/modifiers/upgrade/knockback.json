@@ -2,9 +2,6 @@
   "inputs": [
     {
       "item": "minecraft:piston"
-    },
-    {
-      "tag": "tconstruct:slime_block"
     }
   ],
   "max_level": 5,

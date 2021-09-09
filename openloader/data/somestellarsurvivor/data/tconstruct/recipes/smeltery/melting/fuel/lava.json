@@ -4,6 +4,6 @@
     "amount": 50,
     "name": "minecraft:lava"
   },
-  "temperature": 1000,
+  "temperature": 1400,
   "type": "tconstruct:melting_fuel"
 }

@@ -13,7 +13,7 @@
 	"Enable Explosion Overhaul" = true
 	#Apply potion effects on certain hunger / health / experience level
 	"Enable Debuffing" = false
-	#Less durable tools
+	#Less durable tools. Changing this config options requires a Minecraft restart
 	"Enable Tool Nerf" = false
 	#Spawners will no longer spawn mobs infinitely
 	"Enable Temporary Spawners" = true
@@ -46,11 +46,11 @@
 		#Thus is called Debuffs, this can be used to give the player positive effects.
 		Debuffs = ["HUNGER,..2,minecraft:mining_fatigue,0", "HUNGER,..4,minecraft:slowness,0", "HEALTH,..3,minecraft:slowness,0"]
 
-	#Less durable tools
+	#Less durable tools. Changing this config options requires a Minecraft restart
 	[Miscellaneous."Tool Nerf"]
 		#A list of items which should have their durability changed.
 		#Format is 'modid:itemid,durability'
-		"Tools Durability" = ["minecraft:wooden_sword,1", "minecraft:wooden_pickaxe,1", "minecraft:wooden_shovel,1", "minecraft:wooden_hoe,1", "minecraft:wooden_axe,10", "minecraft:stone_sword,6", "minecraft:stone_pickaxe,6", "minecraft:stone_shovel,50", "minecraft:stone_hoe,6", "minecraft:stone_axe,50"]
+		"Tools Durability" = []
 
 	#Spawners will no longer spawn mobs infinitely
 	[Miscellaneous."Temporary Spawners"]
@@ -126,7 +126,7 @@
 [Mining]
 	#Change all the blocks hardness
 	"Enable Global Hardness" = true
-	#Change specific blocks hardness as well as black and whitelist
+	#Change specific blocks hardness as well as black and whitelist. Zero hardness blocks changes require a Minecraft restart.
 	"Enable Custom Hardness" = false
 	#Disables the mining of blocks in case you don't have the right tool
 	"Enable Wrong Tool" = false
@@ -139,24 +139,28 @@
 		#A list of dimensions and their relative block hardness multiplier. Each entry has a a dimension and hardness. This overrides the global multiplier.
 		#E.g. ["minecraft:overworld,2", "minecraft:the_nether,4"]
 		"Dimension Hardness Multiplier" = []
-		#Block ids or tags that will ignore the global and dimensional multipliers. This can be inverted via 'Blacklist as Whitelist'. Each entry has a block or tag and optionally a dimension. E.g. ["minecraft:stone", "minecraft:diamond_block,minecraft:the_nether"]
-		"Block Hardnesss Blacklist" = []
-		#Block Blacklist will be treated as a whitelist
-		"Blacklist as Whitelist" = false
 		#A list of dimensions and their relative block hardness multiplier per blocks below the set Y level. Each entry has a a dimension, a multiplier, a Y Level (where the increased hardness starts applying) and a Y Level cap (where the increase should stop).
 		#E.g. with the default configurations increases the global (or dimension) multiplier of the overworld by 0.04 for each block below the sea level (63); so at Y = 32 you'll get a multiplier of 3.0 (global multiplier) + 0.04 * (63 - 32) = 4.24 hardness multiplier. Below Y = 16 the increase applied is always the same (the cap)
 		#NOTE: This multiplier increase applies to blocks in Custom Hardness too.
 		"Depth Multiplier Dimension" = ["minecraft:overworld,0.02,63,8"]
-		#Block ids or tags that will ignore the depth multiplier. This can be inverted via 'Blacklist as Whitelist'. Each entry has a block or tag and optionally a dimension. E.g. ["minecraft:stone", "minecraft:diamond_block,minecraft:the_nether"]
-		"Depth Multiplier Blacklist" = []
-		#Block Blacklist will be treated as a whitelist
-		"Depth Multiplier Blacklist Blacklist as Whitelist" = false
 
-	#Change specific blocks hardness as well as black and whitelist
+		#Block ids or tags that will ignore the global and dimensional multipliers. This can be inverted via 'Blacklist as Whitelist'. Each entry has a block or tag and optionally a dimension. E.g. ["minecraft:stone", "minecraft:diamond_block,minecraft:the_nether"]
+		[Mining."Global Hardness"."Block Hardnesss Blacklist"]
+			Blacklist = []
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
+
+		#Block ids or tags that will ignore the depth multiplier. This can be inverted via 'Blacklist as Whitelist'. Each entry has a block or tag and optionally a dimension. E.g. ["minecraft:stone", "minecraft:diamond_block,minecraft:the_nether"]
+		[Mining."Global Hardness"."Depth Multiplier Blacklist"]
+			Blacklist = []
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
+
+	#Change specific blocks hardness as well as black and whitelist. Zero hardness blocks changes require a Minecraft restart.
 	[Mining."Custom Hardness"]
-		#Define custom blocks hardness, one string = one block/tag. Those blocks are not affected by the global block hardness multiplier.
+		#Define custom blocks hardness, one string = one block/tag. Those blocks ARE AFFECTED by the global block hardness multiplier, unless put in the blacklisst.
 		#The format is modid:blockid,hardness,dimensionid or #modid:tagid,hardness,dimensionid
-		#E.g. 'minecraft:stone,5.0' will make stone have 5 hardness in every dimension.
+		#E.g. 'minecraft:stone,5.0' will make stone have 5 hardness in every dimension (multiplied by Global Hardness).
 		#E.g. '#forge:stone,5.0,minecraft:overworld' will make all the stone types have 5 hardness but only in the overworld.
 		#As of 2.4.0 this now works with blocks that instantly break too (e.g. Torches)
 		"Custom Hardness" = []
@@ -168,7 +172,7 @@
 		"Disable Mining with Wrong Tool" = true
 		#While true, blocks that have a proper tool (e.g. wood) will not be minable without a proper tool.
 		#Insta-break blocks are ignored.
-		"Require Efficient Tool" = true
+		"Require Efficient Tool" = false
 
 [Combat]
 	#Player will deal no knockback if attacking with a non-weapon or spamming
@@ -190,7 +194,7 @@
 	[Combat.Stats]
 		#If true, Swords, Axes and Tridents get a -1 damage.
 		"Reduced Weapon Damage" = false
-		#If true, Diamond armor will get -1 toughness, Netherite gets a total of +2 armor points and Protection is disabled.
+		#If true, Iron armor gets +0.5 toughness, Netherite gets a total of +2 armor points and Protection is disabled.
 		"Armor Adjustments" = false
 		#If true, Power Enchantment will be nerfed to deal half damage.
 		"Nerf Power" = true
@@ -224,32 +228,14 @@
 		"Enchantments Weight Reduction" = []
 
 [Hunger]
-	#Change food's hunger and saturation given, also makes food heal you by a bit
-	"Enable Food Overhaul" = false
 	#Make the player consume more hunger with different actions
 	"Enable Exhaustion Increase" = true
 	#Makes Health regen work differently, like in Combat Test snapshots or similar to Hunger Overhaul
 	"Enable Health Regen" = true
 	#Changes to the speed on how food is eaten or how items are consumed.
 	"Enable Food Consuming" = true
-
-	#Change food's hunger and saturation given, also makes food heal you by a bit
-	[Hunger."Food Overhaul"]
-		#Food's hunger restored will be multiplied by this value + 0.5. E.g. With this set to 0.5 a Cooked Porkchop would heal 5 hunger instead of 8. Setting to 1 will disable this feature.
-		#Range: 0.0 ~ 128.0
-		"Food Hunger Multiplier" = 1
-		#Food's saturation restored will be multiplied by this value. Be aware that saturation is a multiplier and not a flat value, it is used to calculate the effective saturation restored when a player eats, and this calculation includes hunger, so by reducing hunger you automatically reduce saturation too. Setting to 1 will disable this feature.
-		#This requires a Minecraft Restart.
-		#Range: 0.0 ~ 64.0
-		"Food Saturation Multiplier" = 1.0
-		#Items or tags that will ignore the food multipliers. This can be inverted via 'Blacklist as Whitelist'. Each entry has an item or tag. E.g. ["minecraft:stone", "minecraft:cooked_porkchop"].
-		"Items Blacklist" = []
-		#Items Blacklist will be treated as a whitelist.
-		"Blacklist as Whitelist" = false
-		#Define custom food values, one string = one item. Those items are not affected by other changes such as 'Food Hunger Multiplier'.
-		#The format is modid:itemid,hunger,saturation. Saturation is optional
-		#E.g. 'minecraft:cooked_porkchop,16,1.0' will make cooked porkchops give 8 shranks of food and 16 saturation (actual saturation is calculated by 'saturation * 2 * hunger').
-		"Custom Food Hunger" = []
+	#Change food's hunger and saturation given, also makes food heal you by a bit. Changing anything requires a Minecraft restart.
+	"Enable Food Hunger" = false
 
 	#Make the player consume more hunger with different actions
 	[Hunger."Exhaustion Increase"]
@@ -306,18 +292,38 @@
 		#Range: 0.0 ~ 1.7976931348623157E308
 		"Eating Speed Multiplier" = 0.25
 
+	#Change food's hunger and saturation given, also makes food heal you by a bit. Changing anything requires a Minecraft restart.
+	[Hunger."Food Hunger"]
+		#Food's hunger restored will be multiplied by this value (rounded up). E.g. With this set to 0.5 a Cooked Porkchop would heal 4 hunger instead of 8. Setting to 1 will disable this feature.
+		#Range: 0.0 ~ 20.0
+		"Food Hunger Multiplier" = 1
+		#Food's saturation restored will be multiplied by this value. Be aware that saturation is a multiplier and not a flat value, it is used to calculate the effective saturation restored when a player eats, and this calculation includes hunger, so by reducing hunger you automatically reduce saturation too. Setting to 1 will disable this feature.
+		#This requires a Minecraft Restart.
+		#Range: 0.0 ~ 64.0
+		"Food Saturation Multiplier" = 1
+		#Define custom food values, one string = one item. Those items are not affected by other changes such as 'Food Hunger Multiplier'.
+		#The format is modid:itemid,hunger,saturation. Saturation is optional
+		#E.g. 'minecraft:cooked_porkchop,16,1.0' will make cooked porkchops give 8 shranks of food and 16 saturation (actual saturation is calculated by 'saturation * 2 * hunger').
+		"Custom Food Hunger" = []
+
+		#Items or tags that will ignore the food multipliers. This can be inverted via 'Blacklist as Whitelist'. Each entry has an item or tag. E.g. ["minecraft:stone", "minecraft:cooked_porkchop"].
+		[Hunger."Food Hunger"."Food Blacklist"]
+			Blacklist = []
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
+
 ["Stack Size"]
-	#Make food, items and blocks less stackable
+	#Make food, items and blocks less stackable. Changes in this section require a Minecraft restart
 	"Enable Stack Reduction" = false
 	#Change stack sizes as you please
 	"Enable Custom Stack Size Feature" = false
 
-	#Make food, items and blocks less stackable
+	#Make food, items and blocks less stackable. Changes in this section require a Minecraft restart
 	["Stack Size"."Stack Reduction"]
-		#Food stack sizes will be reduced based off their hunger restored and saturation multiplier. The formula is '(1/MAX(saturation, 1))*(3*(-hunger)+64-SQRT(hunger))'. E.g. Cooked Porkchops give 8 hunger points and have a 1.6 saturation multiplier so their stack size will be '(1/MAX(1.6, 1))*(3*(-8)+64-SQRT(8))' = 23 (Even foods that don't usually stack up to 16 or that don't stack at all will use the same formula, like Honey or Stews).
+		#Food stack sizes will be reduced based off their hunger restored and saturation multiplier. The formula is '(1 - (effective_quality - 1) / Food Quality Divider) * 64' where effective_quality is hunger+saturation restored. E.g. Cooked Porkchops give 8 hunger points and have a 0.8 saturation multiplier so their stack size will be '(1 - (20.8 - 1) / 20) * 64' = 24 (Even foods that don't usually stack up to 16 or that don't stack at all will use the same formula, like Honey or Stews).
 		#This is affected by Food Module's feature 'Hunger Restore Multiplier' & 'Saturation Restore multiplier'
 		"Food Stack Reduction" = false
-		#All the foods max stack sizes will be multiplied by this value to increase / decrease them (after Food Stack Reduction). In the example with the Porkchop with this set to 0.5 Cooked Porkchops will stack up to 12.
+		#All the foods max stack sizes will be multiplied by this value to increase / decrease them (after Food Stack Reduction).
 		#Range: 0.01 ~ 64.0
 		"Food Stack Multiplier" = 1.0
 		#Items max stack sizes (excluding blocks) will be multiplied by this value. Foods will be overridden by 'Food Stack Reduction' or 'Food Stack Multiplier' if are active. Setting to 1 will disable this feature.
@@ -330,12 +336,17 @@
 		"Block Stack Multiplier" = 1.0
 		#When true, block stacks are affected by both their material type and the block stack multiplier. If false, block stacks will be affected by the multiplier only.
 		"Block Stack Affected by Material" = false
-		#Items or tags that will ignore the stack changes. This can be inverted via 'Blacklist as Whitelist'. Each entry has an item or tag. E.g. ["#minecraft:fishes", "minecraft:stone"].
-		"Items Blacklist" = []
-		#Items Blacklist will be treated as a whitelist.
-		"Blacklist as Whitelist" = false
 		#If true, soups will stack like normal food.
 		"Stackable Soups" = true
+		#Used in the 'Food Stack Reduction' formula. It's recommended to increase this if there are foods that are better than vanilla ones.
+		#Range: 1.0 ~ 40.0
+		"Food Quality Divider" = 20
+
+		#Items or tags that will ignore the stack changes. This can be inverted via 'Blacklist as Whitelist'. Each entry has an item or tag. E.g. ["#minecraft:fishes", "minecraft:stone"].
+		["Stack Size"."Stack Reduction".Blacklist]
+			Blacklist = []
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
 
 	#Change stack sizes as you please
 	["Stack Size"."Custom Stack Size Feature"]
@@ -357,7 +368,9 @@
 	"Enable Plants Growth" = false
 	#Slower Hoes and more fragile
 	"Enable Hoes Nerfs" = false
-	#Crops are no longer insta-minable
+	#Crops are no longer insta-minable. This applies only to blocks that are instances of net.minecraft.world.level.block.CropBlock.
+	#Crops hardness is still affected by the Hardness module.
+	#Changing anything requires a minecraft restart.
 	"Enable Harder Crops" = true
 
 	#Slower breeding, Growing, Egging and Milking
@@ -392,12 +405,20 @@
 		#Makes Bone Meal have a chance to fail to grow crops. 0 to disable, 1 to disable bonemeal.
 		#Range: 0.0 ~ 1.0
 		"Bonemeal Fail Chance" = 0.0
+
 		#Items or item tags that will ignore the feature. Can be used with any item that inherits the properties of vanilla bonemeal (and it's properly implemented).
 		#Each entry has an item or tag. The format is modid:item_id or #modid:item_tag.
-		"Item Blacklist" = []
+		[Farming."Nerfed Bonemeal"."Item Blacklist"]
+			Blacklist = []
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
+
 		#Blocks or block tags that will not be affected by the bonemeal nerf.
 		#Each entry has a block or a block tag. The format is modid:block_id or #modid:block_tag.
-		"Block Blacklist" = []
+		[Farming."Nerfed Bonemeal"."Block Blacklist"]
+			Blacklist = ["supplementaries:flax"]
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
 
 	#Slower Crops growing based off various factors
 	[Farming."Crops Growth"]
@@ -442,17 +463,15 @@
 		#Range: 1 ~ 1024
 		"Hoes Damage On Use Multiplier" = 1
 
-	#Crops are no longer insta-minable
+	#Crops are no longer insta-minable. This applies only to blocks that are instances of net.minecraft.world.level.block.CropBlock.
+	#Crops hardness is still affected by the Hardness module.
+	#Changing anything requires a minecraft restart.
 	[Farming."Harder Crops"]
-		#Makes crop no longer instantly break. Using an hoe will speed up the break process.
-		#Tecnicality: this applies to any plant that is instance of net.minecraft.block.CropBlock that can be insta-mined (has 0 hardness)
-		#Crops hardness is still affected by the hardness module.
+		#How hard to break are plants? For comparison, dirt has an hardness of 0.5
 		#Range: 0.0 ~ 128.0
 		Hardness = 1.0
-		#Block ids or tags that will have the hardness and hoe efficiency applied. Each entry has a block or tag. This still only applies to blocks that have 0 hardness.
-		Whitelist = []
-		#Makes crop no longer instantly break. Using an hoe will speed up the break process.
-		#Tecnicality: this applies to any plant that is instance of net.minecraft.block.CropBlock that can be insta-mined (has 0 hardness)
-		#Crops hardness is still affected by the hardness module.
+		#If the hardness should be applied to mature crops only.
 		"Only fully grown" = true
+		#Block ids or tags that will have the hardness and hoe efficiency applied. Each entry has a block or tag. This still only applies to blocks that have 0 hardness.
+		"Other affected blocks" = []
 

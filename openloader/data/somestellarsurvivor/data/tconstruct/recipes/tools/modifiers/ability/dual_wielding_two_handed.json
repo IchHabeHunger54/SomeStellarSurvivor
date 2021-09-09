@@ -1,19 +1,19 @@
 {
   "inputs": [
     {
-      "item": "tconstruct:manyullyn_ingot"
+      "item": "tconstruct:hepatizon_ingot"
     },
     {
-      "item": "minecraft:nautilus_shell"
+      "item": "tconstruct:hepatizon_ingot"
     },
     {
-      "item": "tconstruct:manyullyn_ingot"
+      "item": "tconstruct:hepatizon_ingot"
     },
     {
-      "tag": "forge:slimeball/sky"
+      "item": "tconstruct:hepatizon_ingot"
     },
     {
-      "tag": "forge:slimeball/sky"
+      "item": "tconstruct:hepatizon_ingot"
     }
   ],
   "max_level": 1,

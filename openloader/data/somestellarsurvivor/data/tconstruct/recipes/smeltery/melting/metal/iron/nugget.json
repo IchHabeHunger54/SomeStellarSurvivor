@@ -1,6 +1,6 @@
 {
   "ingredient": {
-    "tag": "forge:nuggets/iron"
+    "item": "minecraft:iron_bars"
   },
   "result": {
     "amount": 16,

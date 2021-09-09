@@ -1,15 +1,7 @@
 {
-  "ingredient": [
-    {
-      "item": "minecraft:flint"
-    },
-    {
-      "item": "minecraft:basalt"
-    },
-    {
-      "item": "minecraft:polished_basalt"
-    }
-  ],
+  "ingredient": {
+    "item": "minecraft:flint"
+  },
   "material": "tconstruct:flint",
   "needed": 1,
   "type": "tconstruct:material",

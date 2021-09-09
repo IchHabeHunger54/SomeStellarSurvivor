@@ -1,7 +1,7 @@
 {
   "key": {
     "A": {
-      "item": "minecraft:stone_axe"
+      "item": "tconstruct:hand_axe"
     },
     "T": {
       "item": "structurize:sceptergold"

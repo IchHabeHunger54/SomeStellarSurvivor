@@ -1,9 +1,0 @@
-{
-  "cooling_time": 35,
-  "fluid": {
-    "amount": 48,
-    "tag": "tconstruct:molten_iron"
-  },
-  "result": "minecraft:iron_bars",
-  "type": "tconstruct:casting_table"
-}

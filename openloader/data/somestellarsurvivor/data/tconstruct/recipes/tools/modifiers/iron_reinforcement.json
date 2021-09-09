@@ -3,7 +3,7 @@
     "item": "tconstruct:obsidian_pane"
   },
   "cast_consumed": true,
-  "cooling_time": 35,
+  "cooling_time": 40,
   "fluid": {
     "amount": 48,
     "name": "tconstruct:molten_iron"

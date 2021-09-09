@@ -4,10 +4,16 @@
       "item": "minecraft:leather"
     },
     {
-      "item": "minecraft:phantom_membrane"
+      "item": "minecraft:leather"
     },
     {
-      "tag": "forge:slimeball/ichor"
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:leather"
     }
   ],
   "max_level": 1,

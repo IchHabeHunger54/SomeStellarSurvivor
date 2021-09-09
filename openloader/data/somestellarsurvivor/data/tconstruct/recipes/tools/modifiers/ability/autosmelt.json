@@ -2,13 +2,13 @@
   "ability_slots": 1,
   "inputs": [
     {
-      "item": "minecraft:fire_charge"
+      "item": "tconstruct:blazewood"
     },
     {
-      "item": "minecraft:magma_block"
+      "item": "tconstruct:blazewood"
     },
     {
-      "item": "minecraft:fire_charge"
+      "item": "tconstruct:blazewood"
     },
     {
       "item": "tconstruct:blazewood"

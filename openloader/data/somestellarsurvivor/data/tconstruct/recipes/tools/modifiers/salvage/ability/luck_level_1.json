@@ -4,18 +4,9 @@
   "modifier": "tconstruct:luck",
   "salvage": [
     {
-      "chance": 0.1,
-      "item": "minecraft:cornflower"
-    },
-    {
-      "max": 2,
-      "min": 2,
-      "item": "tconstruct:copper_ingot"
-    },
-    {
       "item": "minecraft:lapis_lazuli",
-      "max": 18,
-      "min": 3
+      "max": 5,
+      "min": 1
     }
   ],
   "slots": {

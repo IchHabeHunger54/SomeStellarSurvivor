@@ -2,7 +2,7 @@
   "cast": {
     "tag": "tconstruct:casts/multi_use/ingot"
   },
-  "cooling_time": 63,
+  "cooling_time": 30,
   "fluid": {
     "amount": 250,
     "tag": "tconstruct:molten_clay"

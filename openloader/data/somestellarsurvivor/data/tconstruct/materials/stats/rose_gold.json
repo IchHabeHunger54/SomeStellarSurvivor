@@ -8,9 +8,9 @@
       "attackDamage": 1.0
     },
     "tconstruct:head": {
-      "durability": 175,
+      "durability": 180,
       "miningSpeed": 10.0,
-      "harvestLevel": 2,
+      "harvestLevel": 3,
       "attack": 1.0
     }
   }

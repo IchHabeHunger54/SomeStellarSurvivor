@@ -2,6 +2,7 @@
   "replace": true,
   "values": [
     "#forge:storage_blocks/coal",
+    "#forge:storage_blocks/cobalt",
     "#forge:storage_blocks/copper",
     "#forge:storage_blocks/diamond",
     "#forge:storage_blocks/emerald",

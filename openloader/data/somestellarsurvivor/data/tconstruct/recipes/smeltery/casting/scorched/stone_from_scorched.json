@@ -1,9 +1,0 @@
-{
-  "cooling_time": 100,
-  "fluid": {
-    "amount": 576,
-    "tag": "tconstruct:scorched_stone"
-  },
-  "result": "tconstruct:scorched_stone",
-  "type": "tconstruct:casting_basin"
-}

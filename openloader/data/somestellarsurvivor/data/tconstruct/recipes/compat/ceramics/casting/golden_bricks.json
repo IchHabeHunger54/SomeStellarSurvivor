@@ -3,13 +3,7 @@
     "item": "ceramics:porcelain_bricks"
   },
   "cast_consumed": true,
-  "conditions": [
-    {
-      "modid": "ceramics",
-      "type": "forge:mod_loaded"
-    }
-  ],
-  "cooling_time": 7,
+  "cooling_time": 10,
   "fluid": {
     "amount": 2,
     "tag": "tconstruct:molten_gold"

@@ -2,13 +2,13 @@
   "ability_slots": 1,
   "inputs": [
     {
-      "item": "minecraft:blaze_rod"
+      "item": "minecraft:lava_bucket"
     },
     {
-      "item": "tconstruct:seared_melter"
+      "item": "minecraft:lava_bucket"
     },
     {
-      "item": "minecraft:blaze_rod"
+      "item": "minecraft:lava_bucket"
     },
     {
       "item": "minecraft:lava_bucket"

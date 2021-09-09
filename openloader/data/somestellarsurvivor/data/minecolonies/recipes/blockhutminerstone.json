@@ -1,7 +1,7 @@
 {
   "key": {
     "P": {
-      "item": "minecraft:stone_pickaxe"
+      "item": "tconstruct:pickaxe"
     },
     "T": {
       "item": "structurize:sceptergold"

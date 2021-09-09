@@ -1,7 +1,5 @@
 {
-  "craftable": false,
-  "tier": 4,
-  "sortOrder": 0,
-  "textColor": "#236C45",
-  "hidden": false
+  "condition": {
+    "type": "forge:false"
+  }
 }

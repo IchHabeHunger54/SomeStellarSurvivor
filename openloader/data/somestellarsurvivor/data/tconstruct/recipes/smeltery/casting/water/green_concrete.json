@@ -3,7 +3,7 @@
     "item": "minecraft:green_concrete_powder"
   },
   "cast_consumed": true,
-  "cooling_time": 23,
+  "cooling_time": 20,
   "fluid": {
     "amount": 100,
     "name": "minecraft:water"

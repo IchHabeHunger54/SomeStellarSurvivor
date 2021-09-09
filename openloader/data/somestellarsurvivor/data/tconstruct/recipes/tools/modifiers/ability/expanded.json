@@ -2,19 +2,19 @@
   "ability_slots": 1,
   "inputs": [
     {
-      "item": "minecraft:piston"
+      "item": "tconstruct:tinkers_bronze_ingot"
     },
     {
       "item": "tconstruct:tinkers_bronze_ingot"
     },
     {
-      "item": "minecraft:piston"
+      "item": "tconstruct:tinkers_bronze_ingot"
     },
     {
-      "tag": "forge:slimeball/ichor"
+      "item": "tconstruct:tinkers_bronze_ingot"
     },
     {
-      "tag": "forge:slimeball/ichor"
+      "item": "tconstruct:tinkers_bronze_ingot"
     }
   ],
   "result": {

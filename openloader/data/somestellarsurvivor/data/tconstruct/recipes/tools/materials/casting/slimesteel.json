@@ -1,9 +1,0 @@
-{
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_slimesteel"
-  },
-  "output": "tconstruct:slimesteel",
-  "temperature": 900,
-  "type": "tconstruct:material_fluid"
-}

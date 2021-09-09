@@ -1,13 +1,10 @@
 {
   "min_level": 1,
   "modifier": "tconstruct:padded",
-  "salvage": [
-    {
-      "item": "minecraft:leather",
-      "max": 2,
-      "min": 0
-    }
-  ],
+  "salvage": {
+    "full": false,
+    "item": "minecraft:white_wool"
+  },
   "slots": {
     "upgrades": 1
   },

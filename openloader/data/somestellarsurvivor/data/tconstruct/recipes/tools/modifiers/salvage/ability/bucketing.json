@@ -2,11 +2,10 @@
   "min_level": 1,
   "modifier": "tconstruct:bucketing",
   "salvage": [
-    "minecraft:bucket",
     {
-      "item": "minecraft:ender_pearl",
-      "max": 2,
-      "min": 0
+      "item": "minecraft:bucket",
+      "max": 5,
+      "min": 1
     }
   ],
   "slots": {

@@ -3,35 +3,33 @@
     {
       "tag": "tconstruct:seared_blocks"
     },
-    [
-      {
-        "item": "tconstruct:seared_ladder"
-      },
-      {
-        "item": "tconstruct:seared_cobble_wall"
-      },
-      {
-        "item": "tconstruct:seared_bricks_wall"
-      },
-      {
-        "item": "tconstruct:seared_cobble_stairs"
-      },
-      {
-        "item": "tconstruct:seared_stone_stairs"
-      },
-      {
-        "item": "tconstruct:seared_bricks_stairs"
-      },
-      {
-        "item": "tconstruct:seared_paver_stairs"
-      }
-    ]
+    {
+      "item": "tconstruct:seared_ladder"
+    },
+    {
+      "item": "tconstruct:seared_cobble_wall"
+    },
+    {
+      "item": "tconstruct:seared_bricks_wall"
+    },
+    {
+      "item": "tconstruct:seared_cobble_stairs"
+    },
+    {
+      "item": "tconstruct:seared_stone_stairs"
+    },
+    {
+      "item": "tconstruct:seared_bricks_stairs"
+    },
+    {
+      "item": "tconstruct:seared_paver_stairs"
+    }
   ],
   "result": {
     "amount": 576,
     "fluid": "tconstruct:seared_stone"
   },
   "temperature": 600,
-  "time": 107,
+  "time": 100,
   "type": "tconstruct:melting"
 }

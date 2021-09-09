@@ -3,7 +3,7 @@
   "modifier": "tconstruct:blasting",
   "salvage": {
     "full": false,
-    "item": "minecraft:gunpowder"
+    "item": "minecraft:flint"
   },
   "slots": {
     "upgrades": 1

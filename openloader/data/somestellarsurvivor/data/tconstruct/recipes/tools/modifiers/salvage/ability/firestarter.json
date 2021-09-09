@@ -3,12 +3,9 @@
   "modifier": "tconstruct:firestarter",
   "salvage": [
     {
-      "chance": 0.2,
-      "item": "minecraft:flint"
-    },
-    {
-      "chance": 0.35,
-      "item": "minecraft:netherite_scrap"
+      "item": "minecraft:flint",
+      "max": 5,
+      "min": 1
     }
   ],
   "slots": {

@@ -1,9 +1,0 @@
-{
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_lead"
-  },
-  "output": "tconstruct:lead",
-  "temperature": 330,
-  "type": "tconstruct:material_fluid"
-}

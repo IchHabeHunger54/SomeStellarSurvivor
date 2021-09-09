@@ -1,7 +1,0 @@
-{
-  "entity": {
-    "type": "minecraft:iron_golem"
-  },
-  "result": "minecraft:carved_pumpkin",
-  "type": "tconstruct:severing"
-}

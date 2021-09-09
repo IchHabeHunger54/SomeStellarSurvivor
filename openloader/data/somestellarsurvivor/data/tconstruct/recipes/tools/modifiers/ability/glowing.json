@@ -5,10 +5,16 @@
       "item": "minecraft:glowstone"
     },
     {
-      "item": "minecraft:daylight_detector"
+      "item": "minecraft:glowstone"
     },
     {
-      "item": "minecraft:shroomlight"
+      "item": "minecraft:glowstone"
+    },
+    {
+      "item": "minecraft:glowstone"
+    },
+    {
+      "item": "minecraft:glowstone"
     }
   ],
   "max_level": 1,

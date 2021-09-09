@@ -3,15 +3,9 @@
   "modifier": "tconstruct:expanded",
   "salvage": [
     {
-      "chance": 0.9,
-      "item": "minecraft:piston"
-    },
-    {
-      "item": "tconstruct:tinkers_bronze_ingot"
-    },
-    {
-      "chance": 0.9,
-      "item": "minecraft:piston"
+      "item": "tconstruct:tinkers_bronze_ingot",
+      "max": 5,
+      "min": 1
     }
   ],
   "slots": {

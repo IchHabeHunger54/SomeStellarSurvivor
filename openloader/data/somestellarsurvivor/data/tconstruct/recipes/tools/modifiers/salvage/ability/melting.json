@@ -3,14 +3,9 @@
   "modifier": "tconstruct:melting",
   "salvage": [
     {
-      "item": "tconstruct:seared_brick",
-      "max": 9,
-      "min": 4
-    },
-    {
-      "item": "minecraft:blaze_rod",
-      "max": 2,
-      "min": 0
+      "item": "minecraft:lava_bucket",
+      "max": 5,
+      "min": 1
     }
   ],
   "slots": {

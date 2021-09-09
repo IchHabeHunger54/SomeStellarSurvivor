@@ -3,7 +3,7 @@
     "tag": "tconstruct:casts/single_use/nugget"
   },
   "cast_consumed": true,
-  "cooling_time": 17,
+  "cooling_time": 15,
   "fluid": {
     "amount": 16,
     "tag": "tconstruct:molten_copper"

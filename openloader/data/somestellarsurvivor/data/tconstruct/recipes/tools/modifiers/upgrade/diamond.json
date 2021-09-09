@@ -1,9 +1,7 @@
 {
-  "inputs": [
-    {
-      "item": "minecraft:diamond"
-    }
-  ],
+  "input": {
+    "item": "minecraft:diamond"
+  },
   "max_level": 1,
   "result": {
     "level": 1,

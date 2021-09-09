@@ -1,5 +1,5 @@
 {
-  "cooling_time": 77,
+  "cooling_time": 75,
   "fluid": {
     "amount": 250,
     "tag": "tconstruct:molten_glass"

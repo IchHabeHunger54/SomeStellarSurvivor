@@ -18,6 +18,6 @@
     "fluid": "tconstruct:molten_copper"
   },
   "temperature": 500,
-  "time": 125,
+  "time": 160,
   "type": "tconstruct:melting"
 }
