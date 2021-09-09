@@ -1,0 +1,13 @@
+{
+  "config": {
+    "feature": {
+      "config": {},
+      "type": "minecraft:snow_under_trees"
+    },
+    "decorator": {
+      "config": {},
+      "type": "minecraft:nope"
+    }
+  },
+  "type": "minecraft:decorated"
+}

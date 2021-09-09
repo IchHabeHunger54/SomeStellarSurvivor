@@ -1,0 +1,35 @@
+{
+  "config": {
+    "feature": {
+      "config": {
+        "feature": {
+          "config": {},
+          "type": "pamhc2trees:lemon_worldgen"
+        },
+        "decorator": {
+          "config": {
+            "count": 100,
+            "extra_chance": 0.0,
+            "extra_count": 0
+          },
+          "type": "minecraft:count_extra"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "decorator": {
+      "config": {
+        "outer": {
+          "config": {},
+          "type": "minecraft:square"
+        },
+        "inner": {
+          "config": {},
+          "type": "minecraft:heightmap"
+        }
+      },
+      "type": "minecraft:decorated"
+    }
+  },
+  "type": "minecraft:decorated"
+}

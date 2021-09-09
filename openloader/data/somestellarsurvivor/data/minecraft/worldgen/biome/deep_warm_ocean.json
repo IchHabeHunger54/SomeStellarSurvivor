@@ -1,0 +1,1824 @@
+{
+  "effects": {
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    },
+    "sky_color": 8103167,
+    "fog_color": 12638463,
+    "water_color": 4445678,
+    "water_fog_color": 270131
+  },
+  "surface_builder": "minecraft:full_sand",
+  "carvers": {
+    "air": [
+      "minecraft:ocean_cave",
+      "minecraft:canyon"
+    ],
+    "liquid": [
+      "minecraft:underwater_canyon",
+      "minecraft:underwater_cave"
+    ]
+  },
+  "features": [
+    [
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_raw_generation"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      "minecraft:lake_water",
+      "minecraft:lake_lava",
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_lakes"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_local_modifications"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      "minecraft:monster_room",
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_underground_structures"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_surface_structures"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_strongholds"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "target": {
+                        "tag": "minecraft:base_stone_overworld",
+                        "predicate_type": "minecraft:tag_match"
+                      },
+                      "state": {
+                        "Name": "minecraft:granite"
+                      },
+                      "size": 33
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "bottom_offset": 0,
+                      "top_offset": 0,
+                      "maximum": 80
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "count": 10
+            },
+            "type": "minecraft:count"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "target": {
+                        "tag": "minecraft:base_stone_overworld",
+                        "predicate_type": "minecraft:tag_match"
+                      },
+                      "state": {
+                        "Name": "minecraft:diorite"
+                      },
+                      "size": 33
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "bottom_offset": 0,
+                      "top_offset": 0,
+                      "maximum": 80
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "count": 10
+            },
+            "type": "minecraft:count"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "target": {
+                        "tag": "minecraft:base_stone_overworld",
+                        "predicate_type": "minecraft:tag_match"
+                      },
+                      "state": {
+                        "Name": "minecraft:andesite"
+                      },
+                      "size": 33
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "bottom_offset": 0,
+                      "top_offset": 0,
+                      "maximum": 80
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "count": 10
+            },
+            "type": "minecraft:count"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_redstone",
+      "minecraft:ore_diamond",
+      "minecraft:ore_lapis",
+      "minecraft:disk_sand",
+      "minecraft:disk_clay",
+      "minecraft:disk_gravel",
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "feature": {
+                        "config": {
+                          "target": {
+                            "tag": "minecraft:base_stone_overworld",
+                            "predicate_type": "minecraft:tag_match"
+                          },
+                          "state": {
+                            "Name": "astralsorcery:marble_raw"
+                          },
+                          "size": 26
+                        },
+                        "type": "minecraft:ore"
+                      },
+                      "decorator": {
+                        "config": {
+                          "bottom_offset": 0,
+                          "top_offset": 0,
+                          "maximum": 96
+                        },
+                        "type": "minecraft:range"
+                      }
+                    },
+                    "type": "minecraft:decorated"
+                  },
+                  "decorator": {
+                    "config": {},
+                    "type": "minecraft:square"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {
+                  "count": {
+                    "base": 0,
+                    "spread": 10
+                  }
+                },
+                "type": "minecraft:count"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "ignoreFilter": false,
+              "worldFilter": [
+                "minecraft:overworld"
+              ]
+            },
+            "type": "astralsorcery:world_filter"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "target": {
+                        "tag": "minecraft:sand",
+                        "predicate_type": "minecraft:tag_match"
+                      },
+                      "state": {
+                        "Name": "astralsorcery:aquamarine_sand_ore"
+                      }
+                    },
+                    "type": "astralsorcery:replace_block"
+                  },
+                  "decorator": {
+                    "config": {},
+                    "type": "astralsorcery:riverbed"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {
+                  "count": {
+                    "base": 0,
+                    "spread": 8
+                  }
+                },
+                "type": "minecraft:count"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "ignoreFilter": false,
+              "worldFilter": [
+                "minecraft:overworld"
+              ]
+            },
+            "type": "astralsorcery:world_filter"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "target": {
+                        "tag": "minecraft:base_stone_overworld",
+                        "predicate_type": "minecraft:tag_match"
+                      },
+                      "state": {
+                        "Name": "astralsorcery:rock_crystal_ore"
+                      }
+                    },
+                    "type": "astralsorcery:rock_crystal"
+                  },
+                  "decorator": {
+                    "config": {
+                      "bottom_offset": 5,
+                      "top_offset": 0,
+                      "maximum": 2
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {
+                  "chance": 0.04
+                },
+                "type": "astralsorcery:chance"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "ignoreFilter": false,
+              "worldFilter": [
+                "minecraft:overworld"
+              ]
+            },
+            "type": "astralsorcery:world_filter"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "target": {
+                        "tag": "minecraft:base_stone_overworld",
+                        "predicate_type": "minecraft:tag_match"
+                      },
+                      "state": {
+                        "Name": "tconstruct:copper_ore"
+                      },
+                      "size": 9
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "bottom_offset": 40,
+                      "top_offset": 0,
+                      "maximum": 60
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "count": 16
+            },
+            "type": "minecraft:count"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_underground_ores"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_underground_decoration"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      "minecraft:trees_water",
+      "minecraft:flower_default",
+      "minecraft:patch_grass_badlands",
+      "minecraft:brown_mushroom_normal",
+      "minecraft:red_mushroom_normal",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_pumpkin",
+      "minecraft:spring_water",
+      "minecraft:spring_lava",
+      "minecraft:seagrass_deep_warm",
+      "minecraft:seagrass_simple",
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:almond_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:apricot_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:banana_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:cashew_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:cinnamon_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:coconut_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:date_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:dragonfruit_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:durian_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:fig_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:grapefruit_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:lime_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:mango_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:olive_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:papaya_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:paperbark_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:pecan_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:peppercorn_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:persimmon_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:pistachio_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:pomegranate_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:starfruit_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:vanillabean_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:breadfruit_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:guava_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:jackfruit_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:lychee_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:passionfruit_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:rambutan_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {},
+                "type": "pamhc2trees:tamarind_worldgen"
+              },
+              "decorator": {
+                "config": {
+                  "count": 100,
+                  "extra_chance": 0.0,
+                  "extra_count": 0
+                },
+                "type": "minecraft:count_extra"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "outer": {
+                "config": {},
+                "type": "minecraft:square"
+              },
+              "inner": {
+                "config": {},
+                "type": "minecraft:heightmap"
+              }
+            },
+            "type": "minecraft:decorated"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "can_replace": false,
+                  "project": true,
+                  "need_water": false,
+                  "xspread": 7,
+                  "yspread": 3,
+                  "zspread": 7,
+                  "whitelist": [],
+                  "blacklist": [],
+                  "tries": 32,
+                  "state_provider": {
+                    "state": {
+                      "Name": "pamhc2crops:tropicalgarden"
+                    },
+                    "type": "minecraft:simple_state_provider"
+                  },
+                  "block_placer": {
+                    "type": "minecraft:simple_block_placer"
+                  }
+                },
+                "type": "minecraft:random_patch"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:heightmap_spread_double"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "chance": 2
+            },
+            "type": "minecraft:chance"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_vegetal_decoration"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ],
+    [
+      "minecraft:freeze_top_layer",
+      {
+        "config": {
+          "feature": {
+            "config": {},
+            "type": "quark:deferred_feature_top_layer_modification"
+          },
+          "decorator": {
+            "config": {},
+            "type": "quark:chunk_corner_placement"
+          }
+        },
+        "type": "minecraft:decorated"
+      }
+    ]
+  ],
+  "starts": [
+    "minecraft:ocean_ruin_warm",
+    "minecraft:monument",
+    "minecraft:mineshaft",
+    "minecraft:shipwreck",
+    "minecraft:ruined_portal_ocean"
+  ],
+  "spawners": {
+    "monster": [
+      {
+        "type": "minecraft:spider",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie",
+        "weight": 95,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:zombie_villager",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:skeleton",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:creeper",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:slime",
+        "weight": 100,
+        "minCount": 4,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:enderman",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:witch",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "minecraft:drowned",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "tconstruct:earth_slime",
+        "weight": 100,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "tconstruct:sky_slime",
+        "weight": 100,
+        "minCount": 2,
+        "maxCount": 4
+      }
+    ],
+    "creature": [
+      {
+        "type": "alexsmobs:crocodile",
+        "weight": 40,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "alexsmobs:crocodile",
+        "weight": 40,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "ambient": [
+      {
+        "type": "minecraft:bat",
+        "weight": 10,
+        "minCount": 8,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [
+      {
+        "type": "minecraft:squid",
+        "weight": 5,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "minecraft:dolphin",
+        "weight": 2,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "alexsmobs:hammerhead_shark",
+        "weight": 8,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "type": "alexsmobs:mantis_shrimp",
+        "weight": 15,
+        "minCount": 1,
+        "maxCount": 4
+      },
+      {
+        "type": "alexsmobs:hammerhead_shark",
+        "weight": 8,
+        "minCount": 2,
+        "maxCount": 3
+      },
+      {
+        "type": "alexsmobs:mantis_shrimp",
+        "weight": 15,
+        "minCount": 1,
+        "maxCount": 4
+      }
+    ],
+    "water_ambient": [
+      {
+        "type": "minecraft:tropical_fish",
+        "weight": 25,
+        "minCount": 8,
+        "maxCount": 8
+      },
+      {
+        "type": "aquaculture:jellyfish",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 3
+      },
+      {
+        "type": "aquaculture:red_grouper",
+        "weight": 6,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "aquaculture:tuna",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "misc": []
+  },
+  "spawn_costs": {
+    "quark:foxhound": {
+      "energy_budget": 0.75,
+      "charge": 0.25
+    },
+    "quark:wraith": {
+      "energy_budget": 0.75,
+      "charge": 0.25
+    }
+  },
+  "player_spawn_friendly": false,
+  "forge:registry_name": "minecraft:deep_warm_ocean",
+  "precipitation": "rain",
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "category": "ocean",
+  "depth": -1.8,
+  "scale": 0.1
+}
