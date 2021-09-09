@@ -5,110 +5,60 @@
   "disable_mob_generation": false,
   "structures": {
     "stronghold": {
-      "distance": 32,
-      "spread": 3,
-      "count": 128
+      "distance": 0,
+      "spread": 0,
+      "count": 0
     },
     "structures": {
-      "astralsorcery:small_shrine": {
-        "spacing": 36,
-        "separation": 4,
-        "salt": 1549795925
-      },
-      "minecraft:nether_fossil": {
-        "spacing": 2,
-        "separation": 1,
-        "salt": 14357921
-      },
       "minecraft:swamp_hut": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357620
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
       },
       "minecraft:buried_treasure": {
-        "spacing": 1,
+        "spacing": 0,
         "separation": 0,
         "salt": 0
       },
       "minecraft:ruined_portal": {
-        "spacing": 25,
-        "separation": 10,
-        "salt": 34222645
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "tconstruct:overworld_slime_island": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
       },
       "minecraft:stronghold": {
-        "spacing": 1,
+        "spacing": 0,
         "separation": 0,
         "salt": 0
       },
       "minecraft:desert_pyramid": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357617
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
       },
       "minecraft:village": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 10387312
-      },
-      "minecraft:mineshaft": {
-        "spacing": 1,
+        "spacing": 0,
         "separation": 0,
         "salt": 0
       },
       "minecraft:monument": {
-        "spacing": 32,
-        "separation": 5,
-        "salt": 10387313
-      },
-      "minecraft:fortress": {
-        "spacing": 27,
-        "separation": 4,
-        "salt": 30084232
-      },
-      "minecraft:endcity": {
-        "spacing": 20,
-        "separation": 11,
-        "salt": 10387313
-      },
-      "astralsorcery:desert_shrine": {
-        "spacing": 36,
-        "separation": 4,
-        "salt": 1384822269
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
       },
       "minecraft:mansion": {
-        "spacing": 80,
-        "separation": 20,
-        "salt": 10387319
-      },
-      "minecraft:igloo": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357618
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
       },
       "minecraft:shipwreck": {
-        "spacing": 24,
-        "separation": 4,
-        "salt": 165745295
-      },
-      "minecraft:ocean_ruin": {
-        "spacing": 20,
-        "separation": 8,
-        "salt": 14357621
-      },
-      "minecraft:pillager_outpost": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 165745296
-      },
-      "quark:big_dungeon": {
-        "spacing": 20,
-        "separation": 11,
-        "salt": 79234823
-      },
-      "minecraft:jungle_pyramid": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357619
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
       },
       "astralsorcery:ancient_shrine": {
         "spacing": 36,
@@ -116,29 +66,94 @@
         "salt": 682195674
       },
       "minecraft:bastion_remnant": {
-        "spacing": 27,
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "astralsorcery:small_shrine": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:nether_fossil": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:mineshaft": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:fortress": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:endcity": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "astralsorcery:desert_shrine": {
+        "spacing": 36,
         "separation": 4,
-        "salt": 30084232
+        "salt": 1384822269
+      },
+      "minecraft:igloo": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:ocean_ruin": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:pillager_outpost": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "quark:big_dungeon": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:jungle_pyramid": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "tconstruct:earth_slime_island": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
+      },
+      "tconstruct:clay_island": {
+        "spacing": 0,
+        "separation": 0,
+        "salt": 0
       }
     }
   },
   "noise": {
     "density_factor": 0.0,
-    "density_offset": 0.019921875,
+    "density_offset": 0.02,
     "simplex_surface_noise": false,
     "bottom_slide": {
       "target": 320,
       "size": 4,
-      "offset": -1
+      "offset": 0
     },
     "size_horizontal": 1,
     "size_vertical": 2,
     "height": 128,
     "sampling": {
-      "xz_scale": 1.0,
-      "y_scale": 3.0,
-      "xz_factor": 80.0,
-      "y_factor": 60.0
+      "xz_scale": 1,
+      "y_scale": 3,
+      "xz_factor": 80,
+      "y_factor": 60
     },
     "top_slide": {
       "target": 120,

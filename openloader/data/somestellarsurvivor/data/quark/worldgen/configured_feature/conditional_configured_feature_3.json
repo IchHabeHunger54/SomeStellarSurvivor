@@ -13,7 +13,7 @@
                 "state": {
                   "Name": "minecraft:granite"
                 },
-                "size": 33
+                "size": 32
               },
               "type": "minecraft:ore"
             },
@@ -37,7 +37,7 @@
     },
     "decorator": {
       "config": {
-        "count": 10
+        "count": 8
       },
       "type": "minecraft:count"
     }

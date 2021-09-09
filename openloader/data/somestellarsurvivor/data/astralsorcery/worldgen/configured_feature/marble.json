@@ -15,7 +15,7 @@
                     "state": {
                       "Name": "astralsorcery:marble_raw"
                     },
-                    "size": 26
+                    "size": 20
                   },
                   "type": "minecraft:ore"
                 },
@@ -41,7 +41,7 @@
           "config": {
             "count": {
               "base": 0,
-              "spread": 10
+              "spread": 12
             }
           },
           "type": "minecraft:count"

@@ -7,12 +7,12 @@
             "can_replace": false,
             "project": true,
             "need_water": false,
-            "xspread": 7,
-            "yspread": 3,
-            "zspread": 7,
+            "xspread": 8,
+            "yspread": 4,
+            "zspread": 8,
             "whitelist": [],
             "blacklist": [],
-            "tries": 32,
+            "tries": 16,
             "state_provider": {
               "state": {
                 "Name": "buzzier_bees:white_clover"
@@ -43,7 +43,7 @@
     },
     "decorator": {
       "config": {
-        "count": 3
+        "count": 4
       },
       "type": "minecraft:count"
     }
