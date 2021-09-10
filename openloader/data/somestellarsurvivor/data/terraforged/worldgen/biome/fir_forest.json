@@ -67,20 +67,6 @@
       }
     ],
     [
-      "minecraft:monster_room",
-      {
-        "config": {
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_underground_structures"
-          },
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
     ],
     [
       {
@@ -98,19 +84,6 @@
       }
     ],
     [
-      {
-        "config": {
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_strongholds"
-          },
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
     ],
     [
       "minecraft:ore_dirt",
@@ -130,7 +103,7 @@
                       "state": {
                         "Name": "minecraft:granite"
                       },
-                      "size": 33
+                      "size": 32
                     },
                     "type": "minecraft:ore"
                   },
@@ -138,7 +111,7 @@
                     "config": {
                       "bottom_offset": 0,
                       "top_offset": 0,
-                      "maximum": 80
+                      "maximum": 255
                     },
                     "type": "minecraft:range"
                   }
@@ -154,7 +127,7 @@
           },
           "decorator": {
             "config": {
-              "count": 10
+              "count": 8
             },
             "type": "minecraft:count"
           }
@@ -176,7 +149,7 @@
                       "state": {
                         "Name": "minecraft:diorite"
                       },
-                      "size": 33
+                      "size": 32
                     },
                     "type": "minecraft:ore"
                   },
@@ -184,7 +157,7 @@
                     "config": {
                       "bottom_offset": 0,
                       "top_offset": 0,
-                      "maximum": 80
+                      "maximum": 255
                     },
                     "type": "minecraft:range"
                   }
@@ -200,7 +173,7 @@
           },
           "decorator": {
             "config": {
-              "count": 10
+              "count": 8
             },
             "type": "minecraft:count"
           }
@@ -222,7 +195,7 @@
                       "state": {
                         "Name": "minecraft:andesite"
                       },
-                      "size": 33
+                      "size": 32
                     },
                     "type": "minecraft:ore"
                   },
@@ -230,7 +203,7 @@
                     "config": {
                       "bottom_offset": 0,
                       "top_offset": 0,
-                      "maximum": 80
+                      "maximum": 255
                     },
                     "type": "minecraft:range"
                   }
@@ -246,7 +219,53 @@
           },
           "decorator": {
             "config": {
-              "count": 10
+              "count": 8
+            },
+            "type": "minecraft:count"
+          }
+        },
+        "type": "minecraft:decorated"
+      },
+      {
+        "config": {
+          "feature": {
+            "config": {
+              "feature": {
+                "config": {
+                  "feature": {
+                    "config": {
+                      "target": {
+                        "tag": "minecraft:base_stone_overworld",
+                        "predicate_type": "minecraft:tag_match"
+                      },
+                      "state": {
+                        "Name": "minecraft:blackstone"
+                      },
+                      "size": 32
+                    },
+                    "type": "minecraft:ore"
+                  },
+                  "decorator": {
+                    "config": {
+                      "bottom_offset": 0,
+                      "top_offset": 0,
+                      "maximum": 255
+                    },
+                    "type": "minecraft:range"
+                  }
+                },
+                "type": "minecraft:decorated"
+              },
+              "decorator": {
+                "config": {},
+                "type": "minecraft:square"
+              }
+            },
+            "type": "minecraft:decorated"
+          },
+          "decorator": {
+            "config": {
+              "count": 8
             },
             "type": "minecraft:count"
           }
@@ -255,9 +274,10 @@
       },
       "minecraft:ore_coal",
       "minecraft:ore_iron",
+      "tconstruct:copper_ore",
       "minecraft:ore_gold",
-      "minecraft:ore_redstone",
       "minecraft:ore_diamond",
+      "minecraft:ore_emerald",
       "minecraft:ore_lapis",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
@@ -279,7 +299,7 @@
                           "state": {
                             "Name": "astralsorcery:marble_raw"
                           },
-                          "size": 26
+                          "size": 24
                         },
                         "type": "minecraft:ore"
                       },
@@ -287,7 +307,7 @@
                         "config": {
                           "bottom_offset": 0,
                           "top_offset": 0,
-                          "maximum": 96
+                          "maximum": 255
                         },
                         "type": "minecraft:range"
                       }
@@ -305,7 +325,7 @@
                 "config": {
                   "count": {
                     "base": 0,
-                    "spread": 10
+                    "spread": 8
                   }
                 },
                 "type": "minecraft:count"
@@ -396,7 +416,7 @@
                     "config": {
                       "bottom_offset": 5,
                       "top_offset": 0,
-                      "maximum": 2
+                      "maximum": 3
                     },
                     "type": "minecraft:range"
                   }
@@ -420,52 +440,6 @@
               ]
             },
             "type": "astralsorcery:world_filter"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "feature": {
-            "config": {
-              "feature": {
-                "config": {
-                  "feature": {
-                    "config": {
-                      "target": {
-                        "tag": "minecraft:base_stone_overworld",
-                        "predicate_type": "minecraft:tag_match"
-                      },
-                      "state": {
-                        "Name": "tconstruct:copper_ore"
-                      },
-                      "size": 9
-                    },
-                    "type": "minecraft:ore"
-                  },
-                  "decorator": {
-                    "config": {
-                      "bottom_offset": 40,
-                      "top_offset": 0,
-                      "maximum": 60
-                    },
-                    "type": "minecraft:range"
-                  }
-                },
-                "type": "minecraft:decorated"
-              },
-              "decorator": {
-                "config": {},
-                "type": "minecraft:square"
-              }
-            },
-            "type": "minecraft:decorated"
-          },
-          "decorator": {
-            "config": {
-              "count": 16
-            },
-            "type": "minecraft:count"
           }
         },
         "type": "minecraft:decorated"

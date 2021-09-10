@@ -1156,8 +1156,8 @@
 		"Enable Limestone" = true
 		"Enable Jasper" = true
 		"Enable Slate" = true
-		"Enable Voidstone" = true
-		"Enable Myalite" = true
+		"Enable Voidstone" = false
+		"Enable Myalite" = false
 
 		[world.new_stone_types.marble]
 
