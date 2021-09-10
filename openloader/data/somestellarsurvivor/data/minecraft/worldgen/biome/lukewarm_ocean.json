@@ -1631,12 +1631,6 @@
         "weight": 40,
         "minCount": 1,
         "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
       }
     ],
     "ambient": [
@@ -1656,12 +1650,6 @@
       },
       {
         "type": "minecraft:dolphin",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:cachalot_whale",
         "weight": 2,
         "minCount": 1,
         "maxCount": 2

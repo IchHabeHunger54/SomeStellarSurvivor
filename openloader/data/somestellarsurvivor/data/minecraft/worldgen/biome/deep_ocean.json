@@ -1632,12 +1632,6 @@
         "weight": 40,
         "minCount": 1,
         "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
       }
     ],
     "ambient": [
@@ -1660,18 +1654,6 @@
         "weight": 1,
         "minCount": 1,
         "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:cachalot_whale",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:frilled_shark",
-        "weight": 11,
-        "minCount": 1,
-        "maxCount": 1
       },
       {
         "type": "alexsmobs:cachalot_whale",
@@ -1722,12 +1704,6 @@
         "weight": 1,
         "minCount": 1,
         "maxCount": 1
-      },
-      {
-        "type": "alexsmobs:blobfish",
-        "weight": 30,
-        "minCount": 2,
-        "maxCount": 2
       },
       {
         "type": "alexsmobs:blobfish",

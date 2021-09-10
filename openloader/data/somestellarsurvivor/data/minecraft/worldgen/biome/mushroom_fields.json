@@ -522,34 +522,10 @@
     ],
     "creature": [
       {
-        "type": "minecraft:mooshroom",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 8
-      },
-      {
         "type": "alexsmobs:crocodile",
         "weight": 40,
         "minCount": 1,
         "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:mungus",
-        "weight": 4,
-        "minCount": 3,
-        "maxCount": 5
-      },
-      {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:mungus",
-        "weight": 4,
-        "minCount": 3,
-        "maxCount": 5
       }
     ],
     "ambient": [
@@ -558,12 +534,6 @@
         "weight": 10,
         "minCount": 8,
         "maxCount": 8
-      },
-      {
-        "type": "alexsmobs:fly",
-        "weight": 3,
-        "minCount": 2,
-        "maxCount": 3
       },
       {
         "type": "alexsmobs:fly",
@@ -599,12 +569,6 @@
         "maxCount": 6
       },
       {
-        "type": "aquaculture:brown_shrooma",
-        "weight": 26,
-        "minCount": 1,
-        "maxCount": 8
-      },
-      {
         "type": "aquaculture:minnow",
         "weight": 18,
         "minCount": 1,
@@ -627,12 +591,6 @@
         "weight": 3,
         "minCount": 1,
         "maxCount": 1
-      },
-      {
-        "type": "aquaculture:red_shrooma",
-        "weight": 26,
-        "minCount": 1,
-        "maxCount": 8
       },
       {
         "type": "aquaculture:gar",

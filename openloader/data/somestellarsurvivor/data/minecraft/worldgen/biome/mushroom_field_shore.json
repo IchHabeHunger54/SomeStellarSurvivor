@@ -522,12 +522,6 @@
     ],
     "creature": [
       {
-        "type": "minecraft:mooshroom",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 8
-      },
-      {
         "type": "alexsmobs:crocodile",
         "weight": 40,
         "minCount": 1,
@@ -538,36 +532,6 @@
         "weight": 30,
         "minCount": 3,
         "maxCount": 8
-      },
-      {
-        "type": "alexsmobs:mungus",
-        "weight": 4,
-        "minCount": 3,
-        "maxCount": 5
-      },
-      {
-        "type": "alexsmobs:seagull",
-        "weight": 21,
-        "minCount": 3,
-        "maxCount": 6
-      },
-      {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:seal",
-        "weight": 30,
-        "minCount": 3,
-        "maxCount": 8
-      },
-      {
-        "type": "alexsmobs:mungus",
-        "weight": 4,
-        "minCount": 3,
-        "maxCount": 5
       },
       {
         "type": "alexsmobs:seagull",
@@ -594,12 +558,6 @@
         "weight": 3,
         "minCount": 2,
         "maxCount": 3
-      },
-      {
-        "type": "alexsmobs:fly",
-        "weight": 3,
-        "minCount": 2,
-        "maxCount": 3
       }
     ],
     "water_creature": [],
@@ -615,12 +573,6 @@
         "weight": 6,
         "minCount": 1,
         "maxCount": 2
-      },
-      {
-        "type": "aquaculture:brown_shrooma",
-        "weight": 26,
-        "minCount": 1,
-        "maxCount": 8
       },
       {
         "type": "aquaculture:atlantic_herring",
@@ -639,18 +591,6 @@
         "weight": 1,
         "minCount": 1,
         "maxCount": 1
-      },
-      {
-        "type": "aquaculture:red_shrooma",
-        "weight": 26,
-        "minCount": 1,
-        "maxCount": 8
-      },
-      {
-        "type": "alexsmobs:lobster",
-        "weight": 7,
-        "minCount": 3,
-        "maxCount": 5
       },
       {
         "type": "alexsmobs:lobster",

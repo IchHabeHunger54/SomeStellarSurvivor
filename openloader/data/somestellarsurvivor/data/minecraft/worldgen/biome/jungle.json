@@ -1645,30 +1645,6 @@
         "weight": 55,
         "minCount": 9,
         "maxCount": 16
-      },
-      {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:hummingbird",
-        "weight": 39,
-        "minCount": 7,
-        "maxCount": 7
-      },
-      {
-        "type": "alexsmobs:gorilla",
-        "weight": 50,
-        "minCount": 7,
-        "maxCount": 7
-      },
-      {
-        "type": "alexsmobs:capuchin_monkey",
-        "weight": 55,
-        "minCount": 9,
-        "maxCount": 16
       }
     ],
     "ambient": [
@@ -1683,24 +1659,6 @@
         "weight": 3,
         "minCount": 2,
         "maxCount": 3
-      },
-      {
-        "type": "alexsmobs:cockroach",
-        "weight": 4,
-        "minCount": 5,
-        "maxCount": 5
-      },
-      {
-        "type": "alexsmobs:fly",
-        "weight": 3,
-        "minCount": 2,
-        "maxCount": 3
-      },
-      {
-        "type": "alexsmobs:cockroach",
-        "weight": 4,
-        "minCount": 5,
-        "maxCount": 5
       }
     ],
     "water_creature": [],

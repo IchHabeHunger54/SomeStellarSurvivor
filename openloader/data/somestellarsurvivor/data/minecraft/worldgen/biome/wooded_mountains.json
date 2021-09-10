@@ -1284,54 +1284,6 @@
         "maxCount": 2
       },
       {
-        "type": "alexsmobs:sunbird",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
-        "type": "alexsmobs:raccoon",
-        "weight": 10,
-        "minCount": 2,
-        "maxCount": 4
-      },
-      {
-        "type": "alexsmobs:crow",
-        "weight": 10,
-        "minCount": 3,
-        "maxCount": 5
-      },
-      {
-        "type": "alexsmobs:tasmanian_devil",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:bald_eagle",
-        "weight": 15,
-        "minCount": 2,
-        "maxCount": 4
-      },
-      {
-        "type": "alexsmobs:grizzly_bear",
-        "weight": 8,
-        "minCount": 2,
-        "maxCount": 3
-      },
-      {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:sunbird",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
         "type": "alexsmobs:raccoon",
         "weight": 10,
         "minCount": 2,
@@ -1368,24 +1320,6 @@
         "weight": 3,
         "minCount": 2,
         "maxCount": 3
-      },
-      {
-        "type": "alexsmobs:cockroach",
-        "weight": 4,
-        "minCount": 5,
-        "maxCount": 5
-      },
-      {
-        "type": "alexsmobs:fly",
-        "weight": 3,
-        "minCount": 2,
-        "maxCount": 3
-      },
-      {
-        "type": "alexsmobs:cockroach",
-        "weight": 4,
-        "minCount": 5,
-        "maxCount": 5
       }
     ],
     "water_creature": [],

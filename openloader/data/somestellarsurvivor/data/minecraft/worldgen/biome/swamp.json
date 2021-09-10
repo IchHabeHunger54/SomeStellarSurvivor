@@ -1670,24 +1670,6 @@
         "maxCount": 2
       },
       {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:shoebill",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:alligator_snapping_turtle",
-        "weight": 20,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
         "type": "quark:frog",
         "weight": 40,
         "minCount": 1,
@@ -1708,22 +1690,10 @@
         "maxCount": 3
       },
       {
-        "type": "alexsmobs:cockroach",
-        "weight": 4,
-        "minCount": 5,
-        "maxCount": 5
-      },
-      {
         "type": "alexsmobs:fly",
         "weight": 3,
         "minCount": 2,
         "maxCount": 3
-      },
-      {
-        "type": "alexsmobs:cockroach",
-        "weight": 4,
-        "minCount": 5,
-        "maxCount": 5
       }
     ],
     "water_creature": [],
