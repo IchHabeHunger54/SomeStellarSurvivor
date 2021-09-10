@@ -514,15 +514,9 @@
   "spawners": {
     "monster": [
       {
-        "type": "tconstruct:earth_slime",
+        "type": "minecraft:zombie",
         "weight": 100,
-        "minCount": 2,
-        "maxCount": 4
-      },
-      {
-        "type": "tconstruct:sky_slime",
-        "weight": 100,
-        "minCount": 2,
+        "minCount": 4,
         "maxCount": 4
       }
     ],
