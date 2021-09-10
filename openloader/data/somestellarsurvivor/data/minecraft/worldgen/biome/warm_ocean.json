@@ -1610,10 +1610,6 @@
     ]
   ],
   "starts": [
-    "minecraft:ocean_ruin_warm",
-    "minecraft:mineshaft",
-    "minecraft:shipwreck",
-    "minecraft:ruined_portal_ocean"
   ],
   "spawners": {
     "monster": [
@@ -1784,16 +1780,7 @@
     ],
     "misc": []
   },
-  "spawn_costs": {
-    "quark:foxhound": {
-      "energy_budget": 0.75,
-      "charge": 0.25
-    },
-    "quark:wraith": {
-      "energy_budget": 0.75,
-      "charge": 0.25
-    }
-  },
+  "spawn_costs": {},
   "player_spawn_friendly": false,
   "forge:registry_name": "minecraft:warm_ocean",
   "precipitation": "rain",

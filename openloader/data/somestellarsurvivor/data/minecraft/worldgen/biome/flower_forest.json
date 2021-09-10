@@ -1900,13 +1900,6 @@
     ]
   ],
   "starts": [
-    "minecraft:mineshaft",
-    "minecraft:stronghold",
-    "minecraft:ruined_portal",
-    {
-      "config": {},
-      "type": "astralsorcery:small_shrine"
-    }
   ],
   "spawners": {
     "monster": [
@@ -2184,16 +2177,7 @@
     ],
     "misc": []
   },
-  "spawn_costs": {
-    "quark:foxhound": {
-      "energy_budget": 0.75,
-      "charge": 0.25
-    },
-    "quark:wraith": {
-      "energy_budget": 0.75,
-      "charge": 0.25
-    }
-  },
+  "spawn_costs": {},
   "player_spawn_friendly": false,
   "forge:registry_name": "minecraft:flower_forest",
   "precipitation": "rain",

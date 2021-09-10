@@ -635,10 +635,6 @@
     ]
   ],
   "starts": [
-    "minecraft:mineshaft",
-    "minecraft:buried_treasure",
-    "minecraft:shipwreck_beached",
-    "minecraft:ruined_portal"
   ],
   "spawners": {
     "monster": [
@@ -880,16 +876,7 @@
     ],
     "misc": []
   },
-  "spawn_costs": {
-    "quark:foxhound": {
-      "energy_budget": 0.75,
-      "charge": 0.25
-    },
-    "quark:wraith": {
-      "energy_budget": 0.75,
-      "charge": 0.25
-    }
-  },
+  "spawn_costs": {},
   "player_spawn_friendly": false,
   "forge:registry_name": "minecraft:snowy_beach",
   "precipitation": "snow",

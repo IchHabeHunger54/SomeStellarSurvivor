@@ -636,8 +636,6 @@
     ]
   ],
   "starts": [
-    "minecraft:mineshaft",
-    "minecraft:ruined_portal"
   ],
   "spawners": {
     "monster": [
@@ -832,16 +830,7 @@
     ],
     "misc": []
   },
-  "spawn_costs": {
-    "quark:foxhound": {
-      "energy_budget": 0.75,
-      "charge": 0.25
-    },
-    "quark:wraith": {
-      "energy_budget": 0.75,
-      "charge": 0.25
-    }
-  },
+  "spawn_costs": {},
   "player_spawn_friendly": false,
   "forge:registry_name": "minecraft:frozen_river",
   "precipitation": "snow",
