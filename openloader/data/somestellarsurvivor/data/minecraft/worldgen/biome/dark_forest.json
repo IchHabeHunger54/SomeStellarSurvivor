@@ -63,8 +63,6 @@
       }
     ],
     [
-    ],
-    [
       {
         "config": {
           "feature": {
@@ -78,8 +76,6 @@
         },
         "type": "minecraft:decorated"
       }
-    ],
-    [
     ],
     [
       "minecraft:ore_dirt",
