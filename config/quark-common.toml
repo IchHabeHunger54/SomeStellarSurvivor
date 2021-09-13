@@ -541,14 +541,14 @@
 	[world.big_stone_clusters]
 		#Blocks that stone clusters can replace. If you want to make it so it only replaces in one dimension,
 		#do "block|dimension", as we do for netherrack and end stone by default.
-		"Blocks To Replace" = ["minecraft:stone", "minecraft:andesite", "minecraft:diorite", "minecraft:granite", "quark:marble", "quark:limestone", "quark:jasper", "quark:slate", "minecraft:coal_ore", "minecraft:lapis_ore", "minecraft:iron_ore", "minecraft:gold_ore", "minecraft:diamond_ore", "minecraft:emerald_ore"]
+		"Blocks To Replace" = ["minecraft:stone", "tconstruct:copper_ore", "minecraft:coal_ore", "minecraft:lapis_ore", "minecraft:iron_ore", "minecraft:gold_ore", "minecraft:diamond_ore", "minecraft:emerald_ore"]
 
 		[world.big_stone_clusters.granite]
 			Enabled = true
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -556,9 +556,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.granite.dimensions]
 				"Is Blacklist" = false
@@ -584,7 +584,7 @@
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -592,9 +592,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.diorite.dimensions]
 				"Is Blacklist" = false
@@ -620,7 +620,7 @@
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -628,9 +628,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.andesite.dimensions]
 				"Is Blacklist" = false
@@ -656,7 +656,7 @@
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -664,9 +664,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.marble.dimensions]
 				"Is Blacklist" = false
@@ -692,7 +692,7 @@
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -700,9 +700,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.limestone.dimensions]
 				"Is Blacklist" = false
@@ -728,7 +728,7 @@
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -736,9 +736,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.jasper.dimensions]
 				"Is Blacklist" = false
@@ -764,7 +764,7 @@
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -772,9 +772,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.slate.dimensions]
 				"Is Blacklist" = false
@@ -800,7 +800,7 @@
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -808,9 +808,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.voidstone.dimensions]
 				"Is Blacklist" = false
@@ -837,7 +837,7 @@
 			#Allowed values: [0,)
 			Rarity = 4
 			#Allowed values: [0,255]
-			"Min Y Level" = 16
+			"Min Y Level" = 0
 			#Allowed values: [0,255]
 			"Max Y Level" = 64
 			#Allowed values: [0,)
@@ -845,9 +845,9 @@
 			#Allowed values: [0,)
 			"Vertical Size" = 16
 			#Allowed values: [0,)
-			"Horizontal Variation" = 8
+			"Horizontal Variation" = 4
 			#Allowed values: [0,)
-			"Vertical Variation" = 8
+			"Vertical Variation" = 4
 
 			[world.big_stone_clusters.myalite.dimensions]
 				"Is Blacklist" = false
