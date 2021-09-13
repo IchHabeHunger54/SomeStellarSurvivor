@@ -81,7 +81,7 @@
   "forge:registry_name": "minecraft:mushroom_fields",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.3,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -175,5 +175,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:mycelium",
-  "temperature": 0.9
+  "temperature": 0.75
 }

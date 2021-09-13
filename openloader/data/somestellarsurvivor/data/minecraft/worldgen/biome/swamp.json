@@ -119,7 +119,7 @@
   "forge:registry_name": "minecraft:swamp",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.1,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -267,5 +267,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:swamp",
-  "temperature": 0.8
+  "temperature": 0.75
 }

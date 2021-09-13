@@ -10,7 +10,7 @@
     ]
   },
   "category": "beach",
-  "depth": -1.0,
+  "depth": 0.0,
   "downfall": 0.5,
   "effects": {
     "fog_color": 12638463,
@@ -115,7 +115,7 @@
   "forge:registry_name": "terraforged:warm_beach",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.1,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [

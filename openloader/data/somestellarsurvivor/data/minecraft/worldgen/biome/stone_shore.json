@@ -6,8 +6,8 @@
     ]
   },
   "category": "none",
-  "depth": 0.1,
-  "downfall": 0.3,
+  "depth": 0.0,
+  "downfall": 0.2,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},
@@ -80,7 +80,7 @@
   "forge:registry_name": "minecraft:stone_shore",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.8,
+  "scale": 0.05,
   "spawn_costs": {},
   "spawners": {
     "ambient": [

@@ -6,7 +6,7 @@
     ]
   },
   "category": "savanna",
-  "depth": 0.3625,
+  "depth": 0.16,
   "downfall": 0.0,
   "effects": {
     "fog_color": 12638463,
@@ -83,7 +83,7 @@
   "forge:registry_name": "terraforged:shattered_savanna_scrub",
   "player_spawn_friendly": false,
   "precipitation": "none",
-  "scale": 1.225,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -212,5 +212,5 @@
     }
   ],
   "surface_builder": "minecraft:shattered_savanna",
-  "temperature": 1.1
+  "temperature": 1.0
 }

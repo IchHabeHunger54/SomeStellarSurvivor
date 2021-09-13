@@ -7,7 +7,7 @@
   },
   "category": "taiga",
   "depth": 0.2,
-  "downfall": 0.8,
+  "downfall": 0.6,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},
@@ -259,5 +259,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:giant_tree_taiga",
-  "temperature": 0.3
+  "temperature": 0.25
 }

@@ -6,7 +6,7 @@
     ]
   },
   "category": "plains",
-  "depth": 0.125,
+  "depth": 0.1,
   "downfall": 0.4,
   "effects": {
     "fog_color": 12638463,
@@ -85,7 +85,7 @@
   "forge:registry_name": "minecraft:sunflower_plains",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.05,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -233,5 +233,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:grass",
-  "temperature": 0.8
+  "temperature": 0.6
 }

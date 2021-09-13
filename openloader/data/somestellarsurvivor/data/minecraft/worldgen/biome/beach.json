@@ -81,7 +81,7 @@
   "forge:registry_name": "minecraft:beach",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.025,
+  "scale": 0.05,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -181,5 +181,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:desert",
-  "temperature": 0.8
+  "temperature": 0.75
 }

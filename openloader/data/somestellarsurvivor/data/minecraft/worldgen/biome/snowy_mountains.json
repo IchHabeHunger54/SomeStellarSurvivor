@@ -6,8 +6,7 @@
     ]
   },
   "category": "icy",
-  "creature_spawn_probability": 0.07,
-  "depth": 0.45,
+  "depth": 1.0,
   "downfall": 0.5,
   "effects": {
     "fog_color": 12638463,
@@ -87,7 +86,7 @@
   "forge:registry_name": "minecraft:snowy_mountains",
   "player_spawn_friendly": false,
   "precipitation": "snow",
-  "scale": 0.3,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -185,6 +184,6 @@
       "type": "astralsorcery:ancient_shrine"
     }
   ],
-  "surface_builder": "minecraft:grass",
+  "surface_builder": "minecraft:stone",
   "temperature": 0.0
 }

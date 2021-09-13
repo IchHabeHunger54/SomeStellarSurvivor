@@ -10,8 +10,8 @@
     ]
   },
   "category": "ocean",
-  "depth": -1.0,
-  "downfall": 0.5,
+  "depth": -0.8,
+  "downfall": 0.2,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},

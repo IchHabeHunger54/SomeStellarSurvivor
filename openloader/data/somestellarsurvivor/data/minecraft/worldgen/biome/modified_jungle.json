@@ -113,7 +113,7 @@
   "forge:registry_name": "minecraft:modified_jungle",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.4,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [

@@ -7,7 +7,7 @@
   },
   "category": "jungle",
   "depth": 0.2,
-  "downfall": 0.8,
+  "downfall": 0.9,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},
@@ -129,7 +129,7 @@
   "forge:registry_name": "minecraft:modified_jungle_edge",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.4,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [

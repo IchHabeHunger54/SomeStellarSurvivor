@@ -7,7 +7,7 @@
   },
   "category": "beach",
   "depth": 0.0,
-  "downfall": 0.3,
+  "downfall": 0.2,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},
@@ -84,7 +84,7 @@
   "forge:registry_name": "minecraft:snowy_beach",
   "player_spawn_friendly": false,
   "precipitation": "snow",
-  "scale": 0.025,
+  "scale": 0.05,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -220,5 +220,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:desert",
-  "temperature": 0.05
+  "temperature": 0.0
 }

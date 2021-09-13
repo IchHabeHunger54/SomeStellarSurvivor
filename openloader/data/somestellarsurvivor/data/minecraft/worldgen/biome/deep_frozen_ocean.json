@@ -10,8 +10,8 @@
     ]
   },
   "category": "ocean",
-  "depth": -1.8,
-  "downfall": 0.5,
+  "depth": -1.6,
+  "downfall": 0.2,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},
@@ -267,6 +267,6 @@
   },
   "starts": [],
   "surface_builder": "minecraft:frozen_ocean",
-  "temperature": 0.5,
+  "temperature": 0.0,
   "temperature_modifier": "frozen"
 }

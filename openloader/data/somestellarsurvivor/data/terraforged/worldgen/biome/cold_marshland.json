@@ -248,6 +248,6 @@
     "water_creature": []
   },
   "starts": [],
-  "surface_builder": "minecraft:grass",
+  "surface_builder": "minecraft:swamp",
   "temperature": 0.2
 }

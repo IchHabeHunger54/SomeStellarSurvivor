@@ -86,7 +86,7 @@
   ],
   "forge:registry_name": "terraforged:steppe",
   "player_spawn_friendly": false,
-  "precipitation": "none",
+  "precipitation": "snow",
   "scale": 0.2,
   "spawn_costs": {},
   "spawners": {

@@ -11,7 +11,7 @@
   },
   "category": "ocean",
   "depth": -1.0,
-  "downfall": 0.5,
+  "downfall": 0.2,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},
@@ -225,5 +225,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:ocean_sand",
-  "temperature": 0.5
+  "temperature": 0.75
 }

@@ -6,8 +6,8 @@
     ]
   },
   "category": "taiga",
-  "depth": 0.3,
-  "downfall": 0.4,
+  "depth": 1.0,
+  "downfall": 0.5,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},
@@ -88,7 +88,7 @@
   "forge:registry_name": "minecraft:snowy_taiga_mountains",
   "player_spawn_friendly": false,
   "precipitation": "snow",
-  "scale": 0.4,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -242,5 +242,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:grass",
-  "temperature": -0.5
+  "temperature": 0.0
 }

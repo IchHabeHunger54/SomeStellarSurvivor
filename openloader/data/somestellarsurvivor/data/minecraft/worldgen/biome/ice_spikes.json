@@ -6,8 +6,7 @@
     ]
   },
   "category": "icy",
-  "creature_spawn_probability": 0.07,
-  "depth": 0.425,
+  "depth": 0.2,
   "downfall": 0.5,
   "effects": {
     "fog_color": 12638463,
@@ -87,7 +86,7 @@
   "forge:registry_name": "minecraft:ice_spikes",
   "player_spawn_friendly": false,
   "precipitation": "snow",
-  "scale": 0.45000002,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [

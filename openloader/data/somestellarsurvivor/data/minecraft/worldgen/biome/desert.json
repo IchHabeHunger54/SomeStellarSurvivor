@@ -6,7 +6,7 @@
     ]
   },
   "category": "desert",
-  "depth": 0.125,
+  "depth": 0.1,
   "downfall": 0.0,
   "effects": {
     "fog_color": 12638463,
@@ -83,7 +83,7 @@
   "forge:registry_name": "minecraft:desert",
   "player_spawn_friendly": false,
   "precipitation": "none",
-  "scale": 0.05,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
