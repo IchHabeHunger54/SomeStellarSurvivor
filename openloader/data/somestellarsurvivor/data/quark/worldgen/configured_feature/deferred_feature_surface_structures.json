@@ -1,12 +1,12 @@
 {
   "config": {
-    "feature": {
-      "config": {},
-      "type": "quark:deferred_feature_surface_structures"
-    },
     "decorator": {
       "config": {},
       "type": "quark:chunk_corner_placement"
+    },
+    "feature": {
+      "config": {},
+      "type": "quark:deferred_feature_surface_structures"
     }
   },
   "type": "minecraft:decorated"

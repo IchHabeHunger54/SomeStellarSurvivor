@@ -1,14 +1,4 @@
 {
-  "type": "recipe",
-  "crafter": "sifter_custom",
-  "inputs": [
-    {
-      "item": "minecraft:soul_sand"
-    },
-    {
-      "item": "minecolonies:sifter_mesh_string"
-    }
-  ],
   "additional-output": [
     {
       "item": "minecolonies:sifter_mesh_string"
@@ -20,7 +10,17 @@
       "item": "minecraft:quartz"
     }
   ],
+  "crafter": "sifter_custom",
+  "inputs": [
+    {
+      "item": "minecraft:soul_sand"
+    },
+    {
+      "item": "minecolonies:sifter_mesh_string"
+    }
+  ],
+  "intermediate": "minecraft:air",
   "loot-table": "minecolonies:recipes/string/soul_sand",
   "min-building-level": 1,
-  "intermediate": "minecraft:air"
+  "type": "recipe"
 }

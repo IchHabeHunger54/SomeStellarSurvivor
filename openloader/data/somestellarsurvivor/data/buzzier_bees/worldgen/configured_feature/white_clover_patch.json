@@ -1,51 +1,51 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "count": 4
+      },
+      "type": "minecraft:count"
+    },
     "feature": {
       "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap_spread_double"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
         "feature": {
           "config": {
-            "can_replace": false,
-            "project": true,
-            "need_water": false,
-            "xspread": 8,
-            "yspread": 4,
-            "zspread": 8,
-            "whitelist": [],
             "blacklist": [],
-            "tries": 16,
+            "block_placer": {
+              "type": "minecraft:simple_block_placer"
+            },
+            "can_replace": false,
+            "need_water": false,
+            "project": true,
             "state_provider": {
               "state": {
                 "Name": "buzzier_bees:white_clover"
               },
               "type": "minecraft:simple_state_provider"
             },
-            "block_placer": {
-              "type": "minecraft:simple_block_placer"
-            }
+            "tries": 16,
+            "whitelist": [],
+            "xspread": 8,
+            "yspread": 4,
+            "zspread": 8
           },
           "type": "minecraft:flower"
-        },
-        "decorator": {
-          "config": {
-            "outer": {
-              "config": {},
-              "type": "minecraft:square"
-            },
-            "inner": {
-              "config": {},
-              "type": "minecraft:heightmap_spread_double"
-            }
-          },
-          "type": "minecraft:decorated"
         }
       },
       "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "count": 4
-      },
-      "type": "minecraft:count"
     }
   },
   "type": "minecraft:decorated"

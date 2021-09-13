@@ -1,29 +1,29 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "feature": "minecraft:patch_cactus",
-        "decorator": {
-          "config": {
-            "outer": {
-              "config": {},
-              "type": "minecraft:square"
-            },
-            "inner": {
-              "config": {},
-              "type": "minecraft:heightmap_spread_double"
-            }
-          },
-          "type": "minecraft:decorated"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
     "decorator": {
       "config": {
         "count": 10
       },
       "type": "minecraft:count"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap_spread_double"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": "minecraft:patch_cactus"
+      },
+      "type": "minecraft:decorated"
     }
   },
   "type": "minecraft:decorated"

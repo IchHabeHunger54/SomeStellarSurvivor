@@ -1,14 +1,14 @@
 {
-  "type" : "recipe",
+  "count": 1,
   "crafter": "fletcher_crafting",
   "inputs": [
     {
-        "item" : "minecraft:string",
-        "count": "1"
+      "count": "1",
+      "item": "minecraft:string"
     }
   ],
+  "research-id": "minecolonies:effects/sifterstringunlock",
   "result": "minecolonies:sifter_mesh_string",
-  "count": 1,
-  "research-id" : "minecolonies:effects/sifterstringunlock",
-  "show-tooltip": true
+  "show-tooltip": true,
+  "type": "recipe"
 }

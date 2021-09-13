@@ -1,40 +1,5 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "feature": {
-          "config": {
-            "feature": {
-              "config": {
-                "target": {
-                  "tag": "minecraft:sand",
-                  "predicate_type": "minecraft:tag_match"
-                },
-                "state": {
-                  "Name": "astralsorcery:aquamarine_sand_ore"
-                }
-              },
-              "type": "astralsorcery:replace_block"
-            },
-            "decorator": {
-              "config": {},
-              "type": "astralsorcery:riverbed"
-            }
-          },
-          "type": "minecraft:decorated"
-        },
-        "decorator": {
-          "config": {
-            "count": {
-              "base": 0,
-              "spread": 8
-            }
-          },
-          "type": "minecraft:count"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
     "decorator": {
       "config": {
         "ignoreFilter": false,
@@ -43,6 +8,41 @@
         ]
       },
       "type": "astralsorcery:world_filter"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "count": {
+              "base": 0,
+              "spread": 8
+            }
+          },
+          "type": "minecraft:count"
+        },
+        "feature": {
+          "config": {
+            "decorator": {
+              "config": {},
+              "type": "astralsorcery:riverbed"
+            },
+            "feature": {
+              "config": {
+                "state": {
+                  "Name": "astralsorcery:aquamarine_sand_ore"
+                },
+                "target": {
+                  "predicate_type": "minecraft:tag_match",
+                  "tag": "minecraft:sand"
+                }
+              },
+              "type": "astralsorcery:replace_block"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
     }
   },
   "type": "minecraft:decorated"

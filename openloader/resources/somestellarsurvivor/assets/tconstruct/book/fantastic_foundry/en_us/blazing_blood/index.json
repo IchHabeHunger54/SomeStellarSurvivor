@@ -1,5 +1,8 @@
 {
-  "title": "Blazing Blood",
+  "hidden": [
+    "intro",
+    "piggy_backpack_craft"
+  ],
   "subText": "Nothing better than a fiery blaze.",
-  "hidden": ["intro", "piggy_backpack_craft"]
+  "title": "Blazing Blood"
 }

@@ -1,14 +1,13 @@
 [
   {
-    "name": "small_tools",
     "data": "sections/small_tools.json",
     "icon": {
       "item": {
         "id": "tconstruct:pickaxe",
         "nbt": {
+          "Damage": 0,
           "tic_broken": false,
           "tic_display_tool": true,
-          "Damage": 0,
           "tic_materials": [
             "tconstruct:ui_render_head",
             "tconstruct:ui_render_handle",
@@ -16,18 +15,18 @@
           ]
         }
       }
-    }
+    },
+    "name": "small_tools"
   },
   {
-    "name": "large_tools",
     "data": "sections/large_tools.json",
     "icon": {
       "item": {
         "id": "tconstruct:cleaver",
         "nbt": {
+          "Damage": 0,
           "tic_broken": false,
           "tic_display_tool": true,
-          "Damage": 0,
           "tic_materials": [
             "tconstruct:ui_render_head",
             "tconstruct:ui_render_handle",
@@ -36,42 +35,42 @@
           ]
         }
       }
-    }
+    },
+    "name": "large_tools"
   },
   {
-    "name": "tier_one_materials",
     "icon": {
       "item": {
         "id": "minecraft:stone"
       }
-    }
+    },
+    "name": "tier_one_materials"
   },
   {
-    "name": "tier_two_materials",
     "icon": {
       "item": {
         "id": "tconstruct:copper_ingot"
       }
-    }
+    },
+    "name": "tier_two_materials"
   },
   {
-    "name": "tier_three_materials",
     "icon": {
       "item": {
         "id": "tconstruct:slimesteel_ingot"
       }
-    }
+    },
+    "name": "tier_three_materials"
   },
   {
-    "name": "tier_four_materials",
     "icon": {
       "item": {
         "id": "tconstruct:manyullyn_ingot"
       }
-    }
+    },
+    "name": "tier_four_materials"
   },
   {
-    "name": "upgrades",
     "data": "sections/upgrades.json",
     "icon": {
       "item": {
@@ -80,19 +79,19 @@
           "slot": "upgrades"
         }
       }
-    }
+    },
+    "name": "upgrades"
   },
   {
-    "name": "slotless",
     "data": "sections/slotless.json",
     "icon": {
       "item": {
         "id": "tconstruct:creative_slot"
       }
-    }
+    },
+    "name": "slotless"
   },
   {
-    "name": "abilities",
     "data": "sections/abilities.json",
     "icon": {
       "item": {
@@ -101,6 +100,7 @@
           "slot": "abilities"
         }
       }
-    }
+    },
+    "name": "abilities"
   }
 ]

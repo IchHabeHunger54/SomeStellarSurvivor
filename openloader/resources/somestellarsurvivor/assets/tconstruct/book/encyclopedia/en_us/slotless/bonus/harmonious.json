@@ -1,13 +1,13 @@
 {
+  "effects": [
+    "Single use",
+    "Slotless"
+  ],
   "modifier_id": "tconstruct:harmonious",
+  "more_text_space": true,
   "text": [
     {
       "text": "Grants +1 upgrade slot."
     }
-  ],
-  "more_text_space": true,
-  "effects": [
-    "Single use",
-    "Slotless"
   ]
 }

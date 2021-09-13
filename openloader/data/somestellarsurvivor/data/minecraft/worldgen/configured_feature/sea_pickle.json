@@ -1,34 +1,34 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "feature": {
-          "config": {
-            "count": 20
-          },
-          "type": "minecraft:sea_pickle"
-        },
-        "decorator": {
-          "config": {
-            "outer": {
-              "config": {},
-              "type": "minecraft:square"
-            },
-            "inner": {
-              "config": {},
-              "type": "minecraft:top_solid_heightmap"
-            }
-          },
-          "type": "minecraft:decorated"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
     "decorator": {
       "config": {
         "chance": 16
       },
       "type": "minecraft:chance"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:top_solid_heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": {
+          "config": {
+            "count": 20
+          },
+          "type": "minecraft:sea_pickle"
+        }
+      },
+      "type": "minecraft:decorated"
     }
   },
   "type": "minecraft:decorated"

@@ -1,43 +1,5 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "feature": {
-          "config": {
-            "features": [
-              {
-                "feature": "minecraft:fancy_oak",
-                "chance": 0.1
-              },
-              {
-                "feature": "minecraft:jungle_bush",
-                "chance": 0.5
-              },
-              {
-                "feature": "minecraft:mega_jungle_tree",
-                "chance": 0.33333334
-              }
-            ],
-            "default": "minecraft:jungle_tree"
-          },
-          "type": "minecraft:random_selector"
-        },
-        "decorator": {
-          "config": {
-            "outer": {
-              "config": {},
-              "type": "minecraft:square"
-            },
-            "inner": {
-              "config": {},
-              "type": "minecraft:heightmap"
-            }
-          },
-          "type": "minecraft:decorated"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
     "decorator": {
       "config": {
         "count": 50,
@@ -45,6 +7,44 @@
         "extra_count": 1
       },
       "type": "minecraft:count_extra"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": {
+          "config": {
+            "default": "minecraft:jungle_tree",
+            "features": [
+              {
+                "chance": 0.1,
+                "feature": "minecraft:fancy_oak"
+              },
+              {
+                "chance": 0.5,
+                "feature": "minecraft:jungle_bush"
+              },
+              {
+                "chance": 0.33333334,
+                "feature": "minecraft:mega_jungle_tree"
+              }
+            ]
+          },
+          "type": "minecraft:random_selector"
+        }
+      },
+      "type": "minecraft:decorated"
     }
   },
   "type": "minecraft:decorated"

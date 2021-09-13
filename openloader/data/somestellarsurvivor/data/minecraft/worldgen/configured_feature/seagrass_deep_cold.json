@@ -1,31 +1,31 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "inner": {
+          "config": {},
+          "type": "minecraft:top_solid_heightmap"
+        },
+        "outer": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
     "feature": {
       "config": {
-        "feature": {
-          "config": {
-            "probability": 0.8
-          },
-          "type": "minecraft:seagrass"
-        },
         "decorator": {
           "config": {
             "count": 40
           },
           "type": "minecraft:count"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "outer": {
-          "config": {},
-          "type": "minecraft:square"
         },
-        "inner": {
-          "config": {},
-          "type": "minecraft:top_solid_heightmap"
+        "feature": {
+          "config": {
+            "probability": 0.8
+          },
+          "type": "minecraft:seagrass"
         }
       },
       "type": "minecraft:decorated"

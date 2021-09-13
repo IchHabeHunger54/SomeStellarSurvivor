@@ -1,54 +1,5 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "feature": {
-          "config": {
-            "feature": {
-              "config": {
-                "feature": {
-                  "config": {
-                    "target": {
-                      "tag": "minecraft:base_stone_overworld",
-                      "predicate_type": "minecraft:tag_match"
-                    },
-                    "state": {
-                      "Name": "astralsorcery:marble_raw"
-                    },
-                    "size": 24
-                  },
-                  "type": "minecraft:ore"
-                },
-                "decorator": {
-                  "config": {
-                    "bottom_offset": 0,
-                    "top_offset": 0,
-                    "maximum": 255
-                  },
-                  "type": "minecraft:range"
-                }
-              },
-              "type": "minecraft:decorated"
-            },
-            "decorator": {
-              "config": {},
-              "type": "minecraft:square"
-            }
-          },
-          "type": "minecraft:decorated"
-        },
-        "decorator": {
-          "config": {
-            "count": {
-              "base": 0,
-              "spread": 9
-            }
-          },
-          "type": "minecraft:count"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
     "decorator": {
       "config": {
         "ignoreFilter": false,
@@ -57,6 +8,55 @@
         ]
       },
       "type": "astralsorcery:world_filter"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "count": {
+              "base": 0,
+              "spread": 9
+            }
+          },
+          "type": "minecraft:count"
+        },
+        "feature": {
+          "config": {
+            "decorator": {
+              "config": {},
+              "type": "minecraft:square"
+            },
+            "feature": {
+              "config": {
+                "decorator": {
+                  "config": {
+                    "bottom_offset": 0,
+                    "maximum": 255,
+                    "top_offset": 0
+                  },
+                  "type": "minecraft:range"
+                },
+                "feature": {
+                  "config": {
+                    "size": 24,
+                    "state": {
+                      "Name": "astralsorcery:marble_raw"
+                    },
+                    "target": {
+                      "predicate_type": "minecraft:tag_match",
+                      "tag": "minecraft:base_stone_overworld"
+                    }
+                  },
+                  "type": "minecraft:ore"
+                }
+              },
+              "type": "minecraft:decorated"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
     }
   },
   "type": "minecraft:decorated"

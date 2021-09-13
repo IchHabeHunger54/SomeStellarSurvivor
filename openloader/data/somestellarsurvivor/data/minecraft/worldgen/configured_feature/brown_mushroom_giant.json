@@ -1,12 +1,12 @@
 {
   "config": {
-    "feature": "minecraft:brown_mushroom_taiga",
     "decorator": {
       "config": {
         "count": 3
       },
       "type": "minecraft:count"
-    }
+    },
+    "feature": "minecraft:brown_mushroom_taiga"
   },
   "type": "minecraft:decorated"
 }

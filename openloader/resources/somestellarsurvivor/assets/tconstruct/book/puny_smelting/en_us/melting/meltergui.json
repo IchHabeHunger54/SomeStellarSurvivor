@@ -1,14 +1,14 @@
 {
-  "title":"Melter GUI",
-    "image": {
-     "file": "tconstruct:book/images/meltergui.png",
-	 "width": 172,
-    "height": 81
+  "image": {
+    "file": "tconstruct:book/images/meltergui.png",
+    "height": 81,
+    "width": 172
   },
   "text": [
     {
-      "text": "Your basic melter GUI. No more, no less.",
-      "paragraph": true
+      "paragraph": true,
+      "text": "Your basic melter GUI. No more, no less."
     }
-	]
+  ],
+  "title": "Melter GUI"
 }

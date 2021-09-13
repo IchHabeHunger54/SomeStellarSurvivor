@@ -1,50 +1,49 @@
 [
   {
-    "name": "intro",
     "data": "sections/introduction.json",
     "icon": {
       "item": {
         "id": "tconstruct:blank_red_sand_cast"
       }
-    }
+    },
+    "name": "intro"
   },
   {
-    "name": "melter",
     "data": "sections/melting.json",
     "icon": {
       "item": {
         "id": "tconstruct:seared_melter"
       }
-    }
+    },
+    "name": "melter"
   },
   {
-    "name": "moving_fluids",
     "data": "sections/movingfluids.json",
     "icon": {
       "item": {
         "id": "tconstruct:seared_channel"
       }
-    }
+    },
+    "name": "moving_fluids"
   },
   {
-    "name": "casting",
     "data": "sections/casting.json",
     "icon": {
       "item": {
         "id": "tconstruct:ingot_red_sand_cast"
       }
-    }
-  }, 
+    },
+    "name": "casting"
+  },
   {
-    "name": "tier_two_materials",
     "icon": {
       "item": {
         "id": "tconstruct:copper_ingot"
       }
-    }
+    },
+    "name": "tier_two_materials"
   },
   {
-    "name": "upgrades",
     "data": "sections/upgrades.json",
     "icon": {
       "item": {
@@ -53,15 +52,16 @@
           "slot": "upgrades"
         }
       }
-    }
+    },
+    "name": "upgrades"
   },
   {
-    "name": "slotless",
     "data": "sections/slotless.json",
     "icon": {
       "item": {
         "id": "tconstruct:creative_slot"
       }
-    }
+    },
+    "name": "slotless"
   }
 ]

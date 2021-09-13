@@ -1,18 +1,17 @@
 [
- 
   {
+    "data": "intro/thruul.json",
     "name": "thruul",
-    "type": "text",
-    "data": "intro/thruul.json"
+    "type": "text"
   },
   {
+    "data": "intro/tinkers_anvil.json",
     "name": "tinkers_anvil",
-    "type": "showcase",
-    "data": "intro/tinkers_anvil.json"
+    "type": "showcase"
   },
   {
+    "data": "intro/tinkersanvil_craft.json",
     "name": "anvil_craft",
-    "type": "crafting",
-    "data": "intro/tinkersanvil_craft.json"
+    "type": "crafting"
   }
 ]

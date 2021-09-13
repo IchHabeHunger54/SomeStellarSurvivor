@@ -1,7 +1,7 @@
 {
   "config": {
-    "start_pool": "minecraft:bastion/starts",
-    "size": 6
+    "size": 6,
+    "start_pool": "minecraft:bastion/starts"
   },
   "type": "minecraft:bastion_remnant"
 }

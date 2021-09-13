@@ -1,13 +1,13 @@
 {
+  "effects": [
+    "Maximum of 3 levels",
+    "Requires 1 upgrade slot per level"
+  ],
   "modifier_id": "tconstruct:padded",
+  "more_text_space": true,
   "text": [
     {
       "text": "Reduces knockback on the tool from all sources by 50% per level."
     }
-  ],
-  "more_text_space": true,
-  "effects": [
-    "Maximum of 3 levels",
-    "Requires 1 upgrade slot per level"
   ]
 }

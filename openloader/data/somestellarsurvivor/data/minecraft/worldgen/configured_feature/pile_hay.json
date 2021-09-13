@@ -2,10 +2,10 @@
   "config": {
     "state_provider": {
       "state": {
+        "Name": "minecraft:hay_block",
         "Properties": {
           "axis": "y"
-        },
-        "Name": "minecraft:hay_block"
+        }
       },
       "type": "minecraft:rotated_block_provider"
     }

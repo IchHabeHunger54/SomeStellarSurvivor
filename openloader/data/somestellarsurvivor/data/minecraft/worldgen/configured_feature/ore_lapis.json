@@ -1,33 +1,33 @@
 {
   "config": {
+    "decorator": {
+      "config": {},
+      "type": "minecraft:square"
+    },
     "feature": {
       "config": {
-        "feature": {
-          "config": {
-            "target": {
-              "tag": "minecraft:base_stone_overworld",
-              "predicate_type": "minecraft:tag_match"
-            },
-            "state": {
-              "Name": "minecraft:lapis_ore"
-            },
-            "size": 7
-          },
-          "type": "minecraft:ore"
-        },
         "decorator": {
           "config": {
             "baseline": 16,
             "spread": 16
           },
           "type": "minecraft:depth_average"
+        },
+        "feature": {
+          "config": {
+            "size": 7,
+            "state": {
+              "Name": "minecraft:lapis_ore"
+            },
+            "target": {
+              "predicate_type": "minecraft:tag_match",
+              "tag": "minecraft:base_stone_overworld"
+            }
+          },
+          "type": "minecraft:ore"
         }
       },
       "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {},
-      "type": "minecraft:square"
     }
   },
   "type": "minecraft:decorated"

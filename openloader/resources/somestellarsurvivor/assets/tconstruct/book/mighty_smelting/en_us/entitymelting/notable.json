@@ -1,26 +1,26 @@
 {
-  "title":"Notable Entities",
   "text": [
-      {
-      "text": "• Silverfish - Seared Stone"
+    {
+      "text": "\u00e2\u20ac\u00a2 Silverfish - Seared Stone"
     },
-	{
+    {
       "text": "\n"
     },
-	{
-      "text": "• Villagers and Illagers - Emerald"
+    {
+      "text": "\u00e2\u20ac\u00a2 Villagers and Illagers - Emerald"
     },
-	{
+    {
       "text": "\n"
     },
-	{
-      "text": "• Skeletons - Milk"
+    {
+      "text": "\u00e2\u20ac\u00a2 Skeletons - Milk"
     },
-	{
+    {
       "text": "\n"
     },
-	{
-      "text": "• Perhaps there are even more to discover."
+    {
+      "text": "\u00e2\u20ac\u00a2 Perhaps there are even more to discover."
     }
-  ]
+  ],
+  "title": "Notable Entities"
 }

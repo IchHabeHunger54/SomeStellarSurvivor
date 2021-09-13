@@ -1,17 +1,19 @@
 {
-  "effects": {
-    "mood_sound": {},
-    "sky_color": 8625919,
-    "fog_color": 12638463,
-    "water_color": 4020182,
-    "water_fog_color": 329011
-  },
-  "surface_builder": "minecraft:grass",
   "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:canyon"
     ]
+  },
+  "category": "taiga",
+  "depth": 0.3,
+  "downfall": 0.4,
+  "effects": {
+    "fog_color": 12638463,
+    "mood_sound": {},
+    "sky_color": 8625919,
+    "water_color": 4020182,
+    "water_fog_color": 329011
   },
   "features": [
     [
@@ -83,165 +85,162 @@
       "quark:deferred_feature_top_layer_modification"
     ]
   ],
-  "starts": [
-  ],
+  "forge:registry_name": "minecraft:snowy_taiga_mountains",
+  "player_spawn_friendly": false,
+  "precipitation": "snow",
+  "scale": 0.4,
+  "spawn_costs": {},
   "spawners": {
-    "monster": [
+    "ambient": [
       {
-        "type": "minecraft:zombie",
-        "weight": 100,
-        "minCount": 4,
-        "maxCount": 4
+        "maxCount": 8,
+        "minCount": 8,
+        "type": "minecraft:bat",
+        "weight": 10
+      },
+      {
+        "maxCount": 3,
+        "minCount": 2,
+        "type": "alexsmobs:fly",
+        "weight": 3
       }
     ],
     "creature": [
       {
+        "maxCount": 4,
+        "minCount": 4,
         "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
+        "weight": 12
       },
       {
+        "maxCount": 4,
+        "minCount": 4,
         "type": "minecraft:pig",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
+        "weight": 10
       },
       {
+        "maxCount": 4,
+        "minCount": 4,
         "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
+        "weight": 10
       },
       {
+        "maxCount": 4,
+        "minCount": 4,
         "type": "minecraft:cow",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
+        "weight": 8
       },
       {
+        "maxCount": 4,
+        "minCount": 4,
         "type": "minecraft:wolf",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
+        "weight": 8
       },
       {
+        "maxCount": 3,
+        "minCount": 2,
         "type": "minecraft:rabbit",
-        "weight": 4,
-        "minCount": 2,
-        "maxCount": 3
+        "weight": 4
       },
       {
+        "maxCount": 4,
+        "minCount": 2,
         "type": "minecraft:fox",
-        "weight": 8,
-        "minCount": 2,
-        "maxCount": 4
+        "weight": 8
       },
       {
+        "maxCount": 3,
+        "minCount": 2,
         "type": "alexsmobs:grizzly_bear",
-        "weight": 8,
-        "minCount": 2,
-        "maxCount": 3
+        "weight": 8
       },
       {
+        "maxCount": 2,
+        "minCount": 1,
         "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
+        "weight": 40
       },
       {
+        "maxCount": 4,
+        "minCount": 3,
         "type": "alexsmobs:moose",
-        "weight": 9,
-        "minCount": 3,
-        "maxCount": 4
+        "weight": 9
       },
       {
+        "maxCount": 4,
+        "minCount": 2,
         "type": "alexsmobs:raccoon",
-        "weight": 10,
-        "minCount": 2,
-        "maxCount": 4
+        "weight": 10
       },
       {
-        "type": "alexsmobs:snow_leopard",
-        "weight": 20,
+        "maxCount": 2,
         "minCount": 1,
-        "maxCount": 2
+        "type": "alexsmobs:snow_leopard",
+        "weight": 20
       },
       {
-        "type": "alexsmobs:crow",
-        "weight": 10,
+        "maxCount": 5,
         "minCount": 3,
-        "maxCount": 5
+        "type": "alexsmobs:crow",
+        "weight": 10
       },
       {
+        "maxCount": 4,
+        "minCount": 2,
         "type": "alexsmobs:bald_eagle",
-        "weight": 15,
-        "minCount": 2,
-        "maxCount": 4
+        "weight": 15
       }
     ],
-    "ambient": [
+    "misc": [],
+    "monster": [
       {
-        "type": "minecraft:bat",
-        "weight": 10,
-        "minCount": 8,
-        "maxCount": 8
-      },
-      {
-        "type": "alexsmobs:fly",
-        "weight": 3,
-        "minCount": 2,
-        "maxCount": 3
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:zombie",
+        "weight": 100
       }
     ],
-    "water_creature": [],
     "water_ambient": [
       {
+        "maxCount": 3,
+        "minCount": 1,
         "type": "aquaculture:carp",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 3
+        "weight": 10
       },
       {
+        "maxCount": 3,
+        "minCount": 1,
         "type": "aquaculture:brown_trout",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 3
+        "weight": 10
       },
       {
+        "maxCount": 6,
+        "minCount": 1,
         "type": "aquaculture:perch",
-        "weight": 20,
-        "minCount": 1,
-        "maxCount": 6
+        "weight": 20
       },
       {
+        "maxCount": 5,
+        "minCount": 1,
         "type": "aquaculture:minnow",
-        "weight": 18,
-        "minCount": 1,
-        "maxCount": 5
+        "weight": 18
       },
       {
+        "maxCount": 6,
+        "minCount": 1,
         "type": "aquaculture:bluegill",
-        "weight": 20,
-        "minCount": 1,
-        "maxCount": 6
+        "weight": 20
       },
       {
-        "type": "aquaculture:muskellunge",
-        "weight": 3,
+        "maxCount": 1,
         "minCount": 1,
-        "maxCount": 1
+        "type": "aquaculture:muskellunge",
+        "weight": 3
       }
     ],
-    "misc": []
+    "water_creature": []
   },
-  "spawn_costs": {},
-  "player_spawn_friendly": false,
-  "forge:registry_name": "minecraft:snowy_taiga_mountains",
-  "precipitation": "snow",
-  "temperature": -0.5,
-  "downfall": 0.4,
-  "category": "taiga",
-  "depth": 0.3,
-  "scale": 0.4
+  "starts": [],
+  "surface_builder": "minecraft:grass",
+  "temperature": -0.5
 }

@@ -1,7 +1,7 @@
 {
   "config": {
-    "start_pool": "minecraft:village/plains/town_centers",
-    "size": 6
+    "size": 6,
+    "start_pool": "minecraft:village/plains/town_centers"
   },
   "type": "minecraft:village"
 }

@@ -1,12 +1,12 @@
 {
   "config": {
-    "feature": {
-      "config": {},
-      "type": "quark:deferred_feature_strongholds"
-    },
     "decorator": {
       "config": {},
       "type": "quark:chunk_corner_placement"
+    },
+    "feature": {
+      "config": {},
+      "type": "quark:deferred_feature_strongholds"
     }
   },
   "type": "minecraft:decorated"

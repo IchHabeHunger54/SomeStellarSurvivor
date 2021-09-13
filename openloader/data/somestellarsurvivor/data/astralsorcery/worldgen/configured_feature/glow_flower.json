@@ -1,42 +1,42 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "chance": 4
+      },
+      "type": "minecraft:chance"
+    },
     "feature": {
       "config": {
+        "decorator": {
+          "config": {},
+          "type": "minecraft:heightmap_spread_double"
+        },
         "feature": {
           "config": {
-            "can_replace": false,
-            "project": false,
-            "need_water": false,
-            "xspread": 8,
-            "yspread": 4,
-            "zspread": 8,
-            "whitelist": [],
             "blacklist": [],
-            "tries": 16,
+            "block_placer": {
+              "type": "minecraft:simple_block_placer"
+            },
+            "can_replace": false,
+            "need_water": false,
+            "project": false,
             "state_provider": {
               "state": {
                 "Name": "astralsorcery:glow_flower"
               },
               "type": "minecraft:simple_state_provider"
             },
-            "block_placer": {
-              "type": "minecraft:simple_block_placer"
-            }
+            "tries": 16,
+            "whitelist": [],
+            "xspread": 8,
+            "yspread": 4,
+            "zspread": 8
           },
           "type": "minecraft:random_patch"
-        },
-        "decorator": {
-          "config": {},
-          "type": "minecraft:heightmap_spread_double"
         }
       },
       "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "chance": 4
-      },
-      "type": "minecraft:chance"
     }
   },
   "type": "minecraft:decorated"

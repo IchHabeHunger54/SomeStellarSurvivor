@@ -1,14 +1,14 @@
 {
-  "type" : "recipe",
+  "count": 1,
   "crafter": "baker_crafting",
   "inputs": [
     {
-        "item" : "minecolonies:cookie_dough",
-        "count": 1
+      "count": 1,
+      "item": "minecolonies:cookie_dough"
     }
   ],
+  "intermediate": "minecraft:furnace",
+  "min-building-level": 4,
   "result": "minecraft:cookie",
-  "count": 1,
-  "intermediate" : "minecraft:furnace",
-  "min-building-level" : 4
+  "type": "recipe"
 }

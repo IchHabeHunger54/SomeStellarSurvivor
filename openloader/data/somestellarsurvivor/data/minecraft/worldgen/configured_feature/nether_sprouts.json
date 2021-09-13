@@ -1,5 +1,11 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "count": 4
+      },
+      "type": "minecraft:count_multilayer"
+    },
     "feature": {
       "config": {
         "state_provider": {
@@ -10,12 +16,6 @@
         }
       },
       "type": "minecraft:nether_forest_vegetation"
-    },
-    "decorator": {
-      "config": {
-        "count": 4
-      },
-      "type": "minecraft:count_multilayer"
     }
   },
   "type": "minecraft:decorated"

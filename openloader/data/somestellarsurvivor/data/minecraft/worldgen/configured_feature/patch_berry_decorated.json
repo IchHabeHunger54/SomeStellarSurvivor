@@ -1,29 +1,29 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "feature": "minecraft:patch_berry_bush",
-        "decorator": {
-          "config": {
-            "outer": {
-              "config": {},
-              "type": "minecraft:square"
-            },
-            "inner": {
-              "config": {},
-              "type": "minecraft:heightmap_spread_double"
-            }
-          },
-          "type": "minecraft:decorated"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
     "decorator": {
       "config": {
         "chance": 12
       },
       "type": "minecraft:chance"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap_spread_double"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": "minecraft:patch_berry_bush"
+      },
+      "type": "minecraft:decorated"
     }
   },
   "type": "minecraft:decorated"

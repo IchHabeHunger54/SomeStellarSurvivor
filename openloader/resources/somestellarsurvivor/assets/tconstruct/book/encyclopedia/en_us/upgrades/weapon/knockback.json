@@ -1,13 +1,13 @@
 {
+  "effects": [
+    "Maximum of 5 levels",
+    "Requires 1 upgrade slot per level"
+  ],
   "modifier_id": "tconstruct:knockback",
+  "more_text_space": true,
   "text": [
     {
       "text": "Grants 0.5 knockback per level, which launches a mob roughly 2 blocks. Most tools start with 0.4 knockback."
     }
-  ],
-  "more_text_space": true,
-  "effects": [
-    "Maximum of 5 levels",
-    "Requires 1 upgrade slot per level"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "config": {
-    "feature": {
-      "config": {},
-      "type": "minecraft:fossil"
-    },
     "decorator": {
       "config": {
         "chance": 64
       },
       "type": "minecraft:chance"
+    },
+    "feature": {
+      "config": {},
+      "type": "minecraft:fossil"
     }
   },
   "type": "minecraft:decorated"

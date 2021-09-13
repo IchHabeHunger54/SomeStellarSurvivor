@@ -12,17 +12,17 @@
       "item": "minecraft:stick"
     }
   },
+  "output": [
+    {
+      "item": "structurize:sceptergold"
+    }
+  ],
   "pattern": [
     "_____",
     "___C_",
     "__S__",
     "_S___",
     "_____"
-  ],
-  "output": [
-    {
-      "item": "structurize:sceptergold"
-    }
   ],
   "starlight": 400,
   "type": "astralsorcery:altar"

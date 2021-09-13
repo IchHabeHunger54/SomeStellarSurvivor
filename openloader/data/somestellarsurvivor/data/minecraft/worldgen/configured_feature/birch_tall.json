@@ -1,35 +1,5 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "feature": {
-          "config": {
-            "features": [
-              {
-                "feature": "minecraft:super_birch_bees_0002",
-                "chance": 0.5
-              }
-            ],
-            "default": "minecraft:birch_bees_0002"
-          },
-          "type": "minecraft:random_selector"
-        },
-        "decorator": {
-          "config": {
-            "outer": {
-              "config": {},
-              "type": "minecraft:square"
-            },
-            "inner": {
-              "config": {},
-              "type": "minecraft:heightmap"
-            }
-          },
-          "type": "minecraft:decorated"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
     "decorator": {
       "config": {
         "count": 10,
@@ -37,6 +7,36 @@
         "extra_count": 1
       },
       "type": "minecraft:count_extra"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": {
+          "config": {
+            "default": "minecraft:birch_bees_0002",
+            "features": [
+              {
+                "chance": 0.5,
+                "feature": "minecraft:super_birch_bees_0002"
+              }
+            ]
+          },
+          "type": "minecraft:random_selector"
+        }
+      },
+      "type": "minecraft:decorated"
     }
   },
   "type": "minecraft:decorated"

@@ -1,17 +1,19 @@
 {
-  "effects": {
-    "mood_sound": {},
-    "sky_color": 8233727,
-    "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011
-  },
-  "surface_builder": "minecraft:gravelly_mountain",
   "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:canyon"
     ]
+  },
+  "category": "extreme_hills",
+  "depth": 1.0,
+  "downfall": 0.3,
+  "effects": {
+    "fog_color": 12638463,
+    "mood_sound": {},
+    "sky_color": 8233727,
+    "water_color": 4159204,
+    "water_fog_color": 329011
   },
   "features": [
     [
@@ -78,139 +80,137 @@
       "quark:deferred_feature_top_layer_modification"
     ]
   ],
+  "forge:registry_name": "minecraft:modified_gravelly_mountains",
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "scale": 0.5,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [
+      {
+        "maxCount": 8,
+        "minCount": 8,
+        "type": "minecraft:bat",
+        "weight": 10
+      },
+      {
+        "maxCount": 3,
+        "minCount": 2,
+        "type": "alexsmobs:fly",
+        "weight": 3
+      }
+    ],
+    "creature": [
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:sheep",
+        "weight": 12
+      },
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:pig",
+        "weight": 10
+      },
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:chicken",
+        "weight": 10
+      },
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:cow",
+        "weight": 8
+      },
+      {
+        "maxCount": 6,
+        "minCount": 4,
+        "type": "minecraft:llama",
+        "weight": 5
+      },
+      {
+        "maxCount": 2,
+        "minCount": 1,
+        "type": "alexsmobs:crocodile",
+        "weight": 40
+      }
+    ],
+    "misc": [],
+    "monster": [
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:zombie",
+        "weight": 100
+      }
+    ],
+    "water_ambient": [
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "aquaculture:catfish",
+        "weight": 1
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:carp",
+        "weight": 10
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:brown_trout",
+        "weight": 10
+      },
+      {
+        "maxCount": 6,
+        "minCount": 1,
+        "type": "aquaculture:perch",
+        "weight": 20
+      },
+      {
+        "maxCount": 5,
+        "minCount": 1,
+        "type": "aquaculture:minnow",
+        "weight": 18
+      },
+      {
+        "maxCount": 6,
+        "minCount": 1,
+        "type": "aquaculture:bluegill",
+        "weight": 20
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:smallmouth_bass",
+        "weight": 10
+      },
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "aquaculture:muskellunge",
+        "weight": 3
+      },
+      {
+        "maxCount": 2,
+        "minCount": 1,
+        "type": "aquaculture:gar",
+        "weight": 6
+      }
+    ],
+    "water_creature": []
+  },
   "starts": [
     {
       "config": {},
       "type": "astralsorcery:ancient_shrine"
     }
   ],
-  "spawners": {
-    "monster": [
-      {
-        "type": "minecraft:zombie",
-        "weight": 100,
-        "minCount": 4,
-        "maxCount": 4
-      }
-    ],
-    "creature": [
-      {
-        "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:pig",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:cow",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:llama",
-        "weight": 5,
-        "minCount": 4,
-        "maxCount": 6
-      },
-      {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
-      }
-    ],
-    "ambient": [
-      {
-        "type": "minecraft:bat",
-        "weight": 10,
-        "minCount": 8,
-        "maxCount": 8
-      },
-      {
-        "type": "alexsmobs:fly",
-        "weight": 3,
-        "minCount": 2,
-        "maxCount": 3
-      }
-    ],
-    "water_creature": [],
-    "water_ambient": [
-      {
-        "type": "aquaculture:catfish",
-        "weight": 1,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
-        "type": "aquaculture:carp",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 3
-      },
-      {
-        "type": "aquaculture:brown_trout",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 3
-      },
-      {
-        "type": "aquaculture:perch",
-        "weight": 20,
-        "minCount": 1,
-        "maxCount": 6
-      },
-      {
-        "type": "aquaculture:minnow",
-        "weight": 18,
-        "minCount": 1,
-        "maxCount": 5
-      },
-      {
-        "type": "aquaculture:bluegill",
-        "weight": 20,
-        "minCount": 1,
-        "maxCount": 6
-      },
-      {
-        "type": "aquaculture:smallmouth_bass",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 3
-      },
-      {
-        "type": "aquaculture:muskellunge",
-        "weight": 3,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
-        "type": "aquaculture:gar",
-        "weight": 6,
-        "minCount": 1,
-        "maxCount": 2
-      }
-    ],
-    "misc": []
-  },
-  "spawn_costs": {},
-  "player_spawn_friendly": false,
-  "forge:registry_name": "minecraft:modified_gravelly_mountains",
-  "precipitation": "rain",
-  "temperature": 0.2,
-  "downfall": 0.3,
-  "category": "extreme_hills",
-  "depth": 1.0,
-  "scale": 0.5
+  "surface_builder": "minecraft:gravelly_mountain",
+  "temperature": 0.2
 }

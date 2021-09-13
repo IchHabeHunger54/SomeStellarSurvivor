@@ -1,14 +1,4 @@
 {
-  "type": "recipe",
-  "crafter": "sifter_custom",
-  "inputs": [
-    {
-      "item": "minecraft:dirt"
-    },
-    {
-      "item": "minecolonies:sifter_mesh_iron"
-    }
-  ],
   "additional-output": [
     {
       "item": "minecolonies:sifter_mesh_iron"
@@ -50,7 +40,17 @@
       "item": "minecraft:acacia_sapling"
     }
   ],
+  "crafter": "sifter_custom",
+  "inputs": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecolonies:sifter_mesh_iron"
+    }
+  ],
+  "intermediate": "minecraft:air",
   "loot-table": "minecolonies:recipes/iron/dirt",
   "min-building-level": 4,
-  "intermediate": "minecraft:air"
+  "type": "recipe"
 }

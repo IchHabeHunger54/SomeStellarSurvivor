@@ -1,6 +1,5 @@
 {
-  "ingredient": {
-  },
+  "ingredient": {},
   "result": {
     "amount": 750,
     "fluid": "tconstruct:molten_clay"

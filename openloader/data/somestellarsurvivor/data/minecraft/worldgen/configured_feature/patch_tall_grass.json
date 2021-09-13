@@ -1,63 +1,63 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "count": 7
+      },
+      "type": "minecraft:count"
+    },
     "feature": {
       "config": {
-        "feature": {
+        "decorator": {
           "config": {
-            "feature": {
-              "config": {
-                "can_replace": false,
-                "project": false,
-                "need_water": false,
-                "xspread": 7,
-                "yspread": 3,
-                "zspread": 7,
-                "whitelist": [],
-                "blacklist": [],
-                "tries": 64,
-                "state_provider": {
-                  "state": {
-                    "Properties": {
-                      "half": "lower"
-                    },
-                    "Name": "minecraft:tall_grass"
-                  },
-                  "type": "minecraft:simple_state_provider"
-                },
-                "block_placer": {
-                  "type": "minecraft:double_plant_placer"
-                }
-              },
-              "type": "minecraft:random_patch"
-            },
-            "decorator": {
+            "inner": {
               "config": {},
-              "type": "minecraft:spread_32_above"
+              "type": "minecraft:heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
             }
           },
           "type": "minecraft:decorated"
         },
-        "decorator": {
+        "feature": {
           "config": {
-            "outer": {
+            "decorator": {
               "config": {},
-              "type": "minecraft:square"
+              "type": "minecraft:spread_32_above"
             },
-            "inner": {
-              "config": {},
-              "type": "minecraft:heightmap"
+            "feature": {
+              "config": {
+                "blacklist": [],
+                "block_placer": {
+                  "type": "minecraft:double_plant_placer"
+                },
+                "can_replace": false,
+                "need_water": false,
+                "project": false,
+                "state_provider": {
+                  "state": {
+                    "Name": "minecraft:tall_grass",
+                    "Properties": {
+                      "half": "lower"
+                    }
+                  },
+                  "type": "minecraft:simple_state_provider"
+                },
+                "tries": 64,
+                "whitelist": [],
+                "xspread": 7,
+                "yspread": 3,
+                "zspread": 7
+              },
+              "type": "minecraft:random_patch"
             }
           },
           "type": "minecraft:decorated"
         }
       },
       "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "count": 7
-      },
-      "type": "minecraft:count"
     }
   },
   "type": "minecraft:decorated"

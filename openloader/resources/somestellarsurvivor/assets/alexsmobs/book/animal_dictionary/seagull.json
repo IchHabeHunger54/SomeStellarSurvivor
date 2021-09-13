@@ -1,28 +1,23 @@
 {
-  "parent": "root.json",
-  "text": "seagull.txt",
-  "title": "Seagull",
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-  ],
-  "tabula_renders": [
-  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:seagull",
-      "x": 98,
-      "y": 77,
-      "page" : 0,
-      "scale": 2.2,
+      "follow_cursor": false,
+      "page": 0,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "follow_cursor": false
+      "scale": 2.2,
+      "x": 98,
+      "y": 77
     }
-  ]
+  ],
+  "images": [],
+  "item_renders": [],
+  "linked_page_buttons": [],
+  "parent": "root.json",
+  "recipes": [],
+  "tabula_renders": [],
+  "text": "seagull.txt",
+  "title": "Seagull"
 }

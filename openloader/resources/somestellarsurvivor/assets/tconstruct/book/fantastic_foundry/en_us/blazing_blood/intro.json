@@ -1,14 +1,14 @@
 {
-  "title": "Blazing Blood",
   "image": {
     "file": "tconstruct:book/images/manyullyn_alloy.png",
-    "width": 179,
-    "height": 69
+    "height": 69,
+    "width": 179
   },
   "text": [
     {
-      "text": "So Tinker, you are trying to make better alloys, and found lava is too weak? Why not liquefy the essence of living blazes to fuel your desires?",
-      "paragraph": true
+      "paragraph": true,
+      "text": "So Tinker, you are trying to make better alloys, and found lava is too weak? Why not liquefy the essence of living blazes to fuel your desires?"
     }
-  ]
+  ],
+  "title": "Blazing Blood"
 }

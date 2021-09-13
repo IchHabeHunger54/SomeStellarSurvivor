@@ -1,28 +1,23 @@
 {
-  "parent": "root.json",
-  "text": "platypus.txt",
-  "title": "Platypus",
-  "linked_page_buttons": [
-  ],
-  "images": [
-  ],
-  "item_renders": [
-  ],
-  "recipes": [
-  ],
-  "tabula_renders": [
-  ],
   "entity_renders": [
     {
       "entity": "alexsmobs:platypus",
-      "x": 95,
-      "y": 69,
-      "page" : 0,
-      "scale": 2.4,
+      "follow_cursor": false,
+      "page": 0,
       "rot_x": 30,
       "rot_y": 225,
       "rot_z": 0,
-      "follow_cursor": false
+      "scale": 2.4,
+      "x": 95,
+      "y": 69
     }
-  ]
+  ],
+  "images": [],
+  "item_renders": [],
+  "linked_page_buttons": [],
+  "parent": "root.json",
+  "recipes": [],
+  "tabula_renders": [],
+  "text": "platypus.txt",
+  "title": "Platypus"
 }

@@ -1,7 +1,17 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "chance": 200
+      },
+      "type": "minecraft:chance"
+    },
     "feature": {
       "config": {
+        "decorator": {
+          "config": {},
+          "type": "minecraft:iceberg"
+        },
         "feature": {
           "config": {
             "state": {
@@ -9,19 +19,9 @@
             }
           },
           "type": "minecraft:iceberg"
-        },
-        "decorator": {
-          "config": {},
-          "type": "minecraft:iceberg"
         }
       },
       "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "chance": 200
-      },
-      "type": "minecraft:chance"
     }
   },
   "type": "minecraft:decorated"

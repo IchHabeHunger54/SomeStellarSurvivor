@@ -2,33 +2,33 @@
   "config": {
     "cap_provider": {
       "state": {
+        "Name": "minecraft:brown_mushroom_block",
         "Properties": {
-          "west": "true",
-          "up": "true",
-          "south": "true",
-          "north": "true",
+          "down": "false",
           "east": "true",
-          "down": "false"
-        },
-        "Name": "minecraft:brown_mushroom_block"
+          "north": "true",
+          "south": "true",
+          "up": "true",
+          "west": "true"
+        }
       },
       "type": "minecraft:simple_state_provider"
     },
+    "foliage_radius": 3,
     "stem_provider": {
       "state": {
+        "Name": "minecraft:mushroom_stem",
         "Properties": {
-          "west": "true",
-          "up": "false",
-          "south": "true",
-          "north": "true",
+          "down": "false",
           "east": "true",
-          "down": "false"
-        },
-        "Name": "minecraft:mushroom_stem"
+          "north": "true",
+          "south": "true",
+          "up": "false",
+          "west": "true"
+        }
       },
       "type": "minecraft:simple_state_provider"
-    },
-    "foliage_radius": 3
+    }
   },
   "type": "minecraft:huge_brown_mushroom"
 }

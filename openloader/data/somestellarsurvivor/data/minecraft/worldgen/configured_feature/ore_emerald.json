@@ -1,18 +1,18 @@
 {
   "config": {
-    "feature": {
-      "config": {
-        "target": {
-          "Name": "minecraft:stone"
-        },
-        "state": {
-          "Name": "minecraft:emerald_ore"
-        }
-      },
-      "type": "minecraft:emerald_ore"
-    },
     "decorator": {
       "config": {},
+      "type": "minecraft:emerald_ore"
+    },
+    "feature": {
+      "config": {
+        "state": {
+          "Name": "minecraft:emerald_ore"
+        },
+        "target": {
+          "Name": "minecraft:stone"
+        }
+      },
       "type": "minecraft:emerald_ore"
     }
   },

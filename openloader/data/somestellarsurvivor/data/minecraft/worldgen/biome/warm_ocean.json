@@ -1,12 +1,4 @@
 {
-  "effects": {
-    "mood_sound": {},
-    "sky_color": 8103167,
-    "fog_color": 12638463,
-    "water_color": 4445678,
-    "water_fog_color": 270131
-  },
-  "surface_builder": "minecraft:full_sand",
   "carvers": {
     "air": [
       "minecraft:ocean_cave",
@@ -16,6 +8,16 @@
       "minecraft:underwater_canyon",
       "minecraft:underwater_cave"
     ]
+  },
+  "category": "ocean",
+  "depth": -1.0,
+  "downfall": 0.5,
+  "effects": {
+    "fog_color": 12638463,
+    "mood_sound": {},
+    "sky_color": 8103167,
+    "water_color": 4445678,
+    "water_fog_color": 270131
   },
   "features": [
     [
@@ -114,112 +116,109 @@
       "quark:deferred_feature_top_layer_modification"
     ]
   ],
-  "starts": [
-  ],
+  "forge:registry_name": "minecraft:warm_ocean",
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "scale": 0.1,
+  "spawn_costs": {},
   "spawners": {
-    "monster": [
+    "ambient": [
       {
-        "type": "minecraft:zombie",
-        "weight": 95,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:drowned",
-        "weight": 5,
-        "minCount": 4,
-        "maxCount": 4
+        "maxCount": 8,
+        "minCount": 8,
+        "type": "minecraft:bat",
+        "weight": 10
       }
     ],
     "creature": [
       {
+        "maxCount": 2,
+        "minCount": 1,
         "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
+        "weight": 40
       }
     ],
-    "ambient": [
+    "misc": [],
+    "monster": [
       {
-        "type": "minecraft:bat",
-        "weight": 10,
-        "minCount": 8,
-        "maxCount": 8
-      }
-    ],
-    "water_creature": [
-      {
-        "type": "minecraft:squid",
-        "weight": 10,
+        "maxCount": 4,
         "minCount": 4,
-        "maxCount": 4
+        "type": "minecraft:zombie",
+        "weight": 95
       },
       {
-        "type": "minecraft:dolphin",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:hammerhead_shark",
-        "weight": 8,
-        "minCount": 2,
-        "maxCount": 3
-      },
-      {
-        "type": "alexsmobs:mantis_shrimp",
-        "weight": 15,
-        "minCount": 1,
-        "maxCount": 4
-      },
-      {
-        "type": "alexsmobs:mimic_octopus",
-        "weight": 9,
-        "minCount": 1,
-        "maxCount": 2
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:drowned",
+        "weight": 5
       }
     ],
     "water_ambient": [
       {
+        "maxCount": 3,
+        "minCount": 1,
         "type": "minecraft:pufferfish",
-        "weight": 15,
-        "minCount": 1,
-        "maxCount": 3
+        "weight": 15
       },
       {
-        "type": "minecraft:tropical_fish",
-        "weight": 25,
+        "maxCount": 8,
         "minCount": 8,
-        "maxCount": 8
+        "type": "minecraft:tropical_fish",
+        "weight": 25
       },
       {
+        "maxCount": 3,
+        "minCount": 1,
         "type": "aquaculture:jellyfish",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 3
+        "weight": 10
       },
       {
+        "maxCount": 2,
+        "minCount": 1,
         "type": "aquaculture:red_grouper",
-        "weight": 6,
-        "minCount": 1,
-        "maxCount": 2
+        "weight": 6
       },
       {
-        "type": "aquaculture:tuna",
-        "weight": 1,
+        "maxCount": 1,
         "minCount": 1,
-        "maxCount": 1
+        "type": "aquaculture:tuna",
+        "weight": 1
       }
     ],
-    "misc": []
+    "water_creature": [
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:squid",
+        "weight": 10
+      },
+      {
+        "maxCount": 2,
+        "minCount": 1,
+        "type": "minecraft:dolphin",
+        "weight": 2
+      },
+      {
+        "maxCount": 3,
+        "minCount": 2,
+        "type": "alexsmobs:hammerhead_shark",
+        "weight": 8
+      },
+      {
+        "maxCount": 4,
+        "minCount": 1,
+        "type": "alexsmobs:mantis_shrimp",
+        "weight": 15
+      },
+      {
+        "maxCount": 2,
+        "minCount": 1,
+        "type": "alexsmobs:mimic_octopus",
+        "weight": 9
+      }
+    ]
   },
-  "spawn_costs": {},
-  "player_spawn_friendly": false,
-  "forge:registry_name": "minecraft:warm_ocean",
-  "precipitation": "rain",
-  "temperature": 0.5,
-  "downfall": 0.5,
-  "category": "ocean",
-  "depth": -1.0,
-  "scale": 0.1
+  "starts": [],
+  "surface_builder": "minecraft:full_sand",
+  "temperature": 0.5
 }

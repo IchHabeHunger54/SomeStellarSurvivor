@@ -1,12 +1,4 @@
 {
-  "effects": {
-    "mood_sound": {},
-    "sky_color": 8103167,
-    "fog_color": 12638463,
-    "water_color": 4020182,
-    "water_fog_color": 329011
-  },
-  "surface_builder": "minecraft:grass",
   "carvers": {
     "air": [
       "minecraft:ocean_cave",
@@ -16,6 +8,16 @@
       "minecraft:underwater_canyon",
       "minecraft:underwater_cave"
     ]
+  },
+  "category": "ocean",
+  "depth": -1.8,
+  "downfall": 0.5,
+  "effects": {
+    "fog_color": 12638463,
+    "mood_sound": {},
+    "sky_color": 8103167,
+    "water_color": 4020182,
+    "water_fog_color": 329011
   },
   "features": [
     [
@@ -116,160 +118,157 @@
       "quark:deferred_feature_top_layer_modification"
     ]
   ],
-  "starts": [
-  ],
+  "forge:registry_name": "minecraft:deep_cold_ocean",
+  "player_spawn_friendly": false,
+  "precipitation": "rain",
+  "scale": 0.1,
+  "spawn_costs": {},
   "spawners": {
-    "monster": [
+    "ambient": [
       {
-        "type": "minecraft:zombie",
-        "weight": 95,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:drowned",
-        "weight": 5,
-        "minCount": 4,
-        "maxCount": 4
+        "maxCount": 8,
+        "minCount": 8,
+        "type": "minecraft:bat",
+        "weight": 10
       }
     ],
     "creature": [
       {
+        "maxCount": 2,
+        "minCount": 1,
         "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
+        "weight": 40
       }
     ],
-    "ambient": [
+    "misc": [],
+    "monster": [
       {
-        "type": "minecraft:bat",
-        "weight": 10,
-        "minCount": 8,
-        "maxCount": 8
-      }
-    ],
-    "water_creature": [
-      {
-        "type": "minecraft:squid",
-        "weight": 3,
-        "minCount": 1,
-        "maxCount": 4
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:zombie",
+        "weight": 95
       },
       {
-        "type": "alexsmobs:orca",
-        "weight": 2,
-        "minCount": 3,
-        "maxCount": 4
-      },
-      {
-        "type": "alexsmobs:cachalot_whale",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:frilled_shark",
-        "weight": 11,
-        "minCount": 1,
-        "maxCount": 1
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:drowned",
+        "weight": 5
       }
     ],
     "water_ambient": [
       {
-        "type": "minecraft:cod",
-        "weight": 15,
+        "maxCount": 6,
         "minCount": 3,
-        "maxCount": 6
+        "type": "minecraft:cod",
+        "weight": 15
       },
       {
+        "maxCount": 5,
+        "minCount": 1,
         "type": "minecraft:salmon",
-        "weight": 15,
-        "minCount": 1,
-        "maxCount": 5
+        "weight": 15
       },
       {
+        "maxCount": 3,
+        "minCount": 1,
         "type": "aquaculture:jellyfish",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 3
+        "weight": 10
       },
       {
+        "maxCount": 2,
+        "minCount": 1,
         "type": "aquaculture:red_grouper",
-        "weight": 6,
-        "minCount": 1,
-        "maxCount": 2
+        "weight": 6
       },
       {
+        "maxCount": 6,
+        "minCount": 1,
         "type": "aquaculture:atlantic_herring",
-        "weight": 20,
-        "minCount": 1,
-        "maxCount": 6
+        "weight": 20
       },
       {
+        "maxCount": 1,
+        "minCount": 1,
         "type": "aquaculture:atlantic_halibut",
-        "weight": 2,
-        "minCount": 1,
-        "maxCount": 1
+        "weight": 2
       },
       {
+        "maxCount": 1,
+        "minCount": 1,
         "type": "aquaculture:tuna",
-        "weight": 1,
-        "minCount": 1,
-        "maxCount": 1
+        "weight": 1
       },
       {
+        "maxCount": 1,
+        "minCount": 1,
         "type": "aquaculture:pacific_halibut",
-        "weight": 3,
-        "minCount": 1,
-        "maxCount": 1
+        "weight": 3
       },
       {
+        "maxCount": 1,
+        "minCount": 1,
         "type": "aquaculture:atlantic_cod",
-        "weight": 5,
-        "minCount": 1,
-        "maxCount": 1
+        "weight": 5
       },
       {
+        "maxCount": 2,
+        "minCount": 1,
         "type": "aquaculture:pink_salmon",
-        "weight": 6,
-        "minCount": 1,
-        "maxCount": 2
+        "weight": 6
       },
       {
+        "maxCount": 2,
+        "minCount": 1,
         "type": "aquaculture:pollock",
-        "weight": 8,
-        "minCount": 1,
-        "maxCount": 2
+        "weight": 8
       },
       {
+        "maxCount": 2,
+        "minCount": 1,
         "type": "aquaculture:rainbow_trout",
-        "weight": 6,
-        "minCount": 1,
-        "maxCount": 2
+        "weight": 6
       },
       {
+        "maxCount": 4,
+        "minCount": 1,
         "type": "aquaculture:blackfish",
-        "weight": 13,
-        "minCount": 1,
-        "maxCount": 4
+        "weight": 13
       },
       {
-        "type": "alexsmobs:blobfish",
-        "weight": 30,
+        "maxCount": 2,
         "minCount": 2,
-        "maxCount": 2
+        "type": "alexsmobs:blobfish",
+        "weight": 30
       }
     ],
-    "misc": []
+    "water_creature": [
+      {
+        "maxCount": 4,
+        "minCount": 1,
+        "type": "minecraft:squid",
+        "weight": 3
+      },
+      {
+        "maxCount": 4,
+        "minCount": 3,
+        "type": "alexsmobs:orca",
+        "weight": 2
+      },
+      {
+        "maxCount": 2,
+        "minCount": 1,
+        "type": "alexsmobs:cachalot_whale",
+        "weight": 2
+      },
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "alexsmobs:frilled_shark",
+        "weight": 11
+      }
+    ]
   },
-  "spawn_costs": {},
-  "player_spawn_friendly": false,
-  "forge:registry_name": "minecraft:deep_cold_ocean",
-  "precipitation": "rain",
-  "temperature": 0.5,
-  "downfall": 0.5,
-  "category": "ocean",
-  "depth": -1.8,
-  "scale": 0.1
+  "starts": [],
+  "surface_builder": "minecraft:grass",
+  "temperature": 0.5
 }

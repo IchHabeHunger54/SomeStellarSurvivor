@@ -1,51 +1,50 @@
 [
   {
-    "name": "intro",
     "data": "sections/introduction.json",
     "icon": {
       "item": {
         "id": "tconstruct:blank_cast"
       }
-    }
+    },
+    "name": "intro"
   },
   {
-    "name": "smeltery",
     "data": "sections/smeltery.json",
     "icon": {
       "item": {
-        "id": "tconstruct:smeltery_controller",
-        "damage": 0
+        "damage": 0,
+        "id": "tconstruct:smeltery_controller"
       }
-    }
+    },
+    "name": "smeltery"
   },
   {
-    "name": "entity_melting",
     "data": "sections/entitymelting.json",
     "icon": {
       "item": {
-        "id": "minecraft:creeper_head",
-        "damage": 0
+        "damage": 0,
+        "id": "minecraft:creeper_head"
       }
-    }
+    },
+    "name": "entity_melting"
   },
   {
-    "name": "tier_three_materials",
     "icon": {
       "item": {
         "id": "tconstruct:slimesteel_ingot"
       }
-    }
+    },
+    "name": "tier_three_materials"
   },
   {
-    "name": "tools",
     "data": "sections/tools.json",
     "icon": {
       "item": {
         "id": "tconstruct:cleaver",
         "nbt": {
+          "Damage": 0,
           "tic_broken": false,
           "tic_display_tool": true,
-          "Damage": 0,
           "tic_materials": [
             "tconstruct:ui_render_head",
             "tconstruct:ui_render_handle",
@@ -54,10 +53,10 @@
           ]
         }
       }
-    }
+    },
+    "name": "tools"
   },
   {
-    "name": "abilities",
     "data": "sections/abilities.json",
     "icon": {
       "item": {
@@ -66,7 +65,7 @@
           "slot": "abilities"
         }
       }
-    }
+    },
+    "name": "abilities"
   }
-  
 ]

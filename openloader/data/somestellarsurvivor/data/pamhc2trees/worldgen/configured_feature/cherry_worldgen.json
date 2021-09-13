@@ -1,11 +1,20 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "inner": {
+          "config": {},
+          "type": "minecraft:heightmap"
+        },
+        "outer": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
     "feature": {
       "config": {
-        "feature": {
-          "config": {},
-          "type": "pamhc2trees:cherry_worldgen"
-        },
         "decorator": {
           "config": {
             "count": 100,
@@ -13,19 +22,10 @@
             "extra_count": 0
           },
           "type": "minecraft:count_extra"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "outer": {
-          "config": {},
-          "type": "minecraft:square"
         },
-        "inner": {
+        "feature": {
           "config": {},
-          "type": "minecraft:heightmap"
+          "type": "pamhc2trees:cherry_worldgen"
         }
       },
       "type": "minecraft:decorated"

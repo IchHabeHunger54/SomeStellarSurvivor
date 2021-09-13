@@ -1,119 +1,34 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "count": 5
+      },
+      "type": "minecraft:count"
+    },
     "feature": {
       "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
         "feature": {
           "config": {
+            "decorator": {
+              "config": {},
+              "type": "minecraft:spread_32_above"
+            },
             "feature": {
               "config": {
-                "feature": {
-                  "config": {
-                    "features": [
-                      {
-                        "config": {
-                          "can_replace": false,
-                          "project": false,
-                          "need_water": false,
-                          "xspread": 7,
-                          "yspread": 3,
-                          "zspread": 7,
-                          "whitelist": [],
-                          "blacklist": [],
-                          "tries": 64,
-                          "state_provider": {
-                            "state": {
-                              "Properties": {
-                                "half": "lower"
-                              },
-                              "Name": "minecraft:lilac"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "block_placer": {
-                            "type": "minecraft:double_plant_placer"
-                          }
-                        },
-                        "type": "minecraft:random_patch"
-                      },
-                      {
-                        "config": {
-                          "can_replace": false,
-                          "project": false,
-                          "need_water": false,
-                          "xspread": 7,
-                          "yspread": 3,
-                          "zspread": 7,
-                          "whitelist": [],
-                          "blacklist": [],
-                          "tries": 64,
-                          "state_provider": {
-                            "state": {
-                              "Properties": {
-                                "half": "lower"
-                              },
-                              "Name": "minecraft:rose_bush"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "block_placer": {
-                            "type": "minecraft:double_plant_placer"
-                          }
-                        },
-                        "type": "minecraft:random_patch"
-                      },
-                      {
-                        "config": {
-                          "can_replace": false,
-                          "project": false,
-                          "need_water": false,
-                          "xspread": 7,
-                          "yspread": 3,
-                          "zspread": 7,
-                          "whitelist": [],
-                          "blacklist": [],
-                          "tries": 64,
-                          "state_provider": {
-                            "state": {
-                              "Properties": {
-                                "half": "lower"
-                              },
-                              "Name": "minecraft:peony"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "block_placer": {
-                            "type": "minecraft:double_plant_placer"
-                          }
-                        },
-                        "type": "minecraft:random_patch"
-                      },
-                      {
-                        "config": {
-                          "can_replace": false,
-                          "project": true,
-                          "need_water": false,
-                          "xspread": 7,
-                          "yspread": 3,
-                          "zspread": 7,
-                          "whitelist": [],
-                          "blacklist": [],
-                          "tries": 64,
-                          "state_provider": {
-                            "state": {
-                              "Name": "minecraft:lily_of_the_valley"
-                            },
-                            "type": "minecraft:simple_state_provider"
-                          },
-                          "block_placer": {
-                            "type": "minecraft:simple_block_placer"
-                          }
-                        },
-                        "type": "minecraft:no_bonemeal_flower"
-                      }
-                    ]
-                  },
-                  "type": "minecraft:simple_random_selector"
-                },
                 "decorator": {
                   "config": {
                     "count": {
@@ -122,38 +37,123 @@
                     }
                   },
                   "type": "minecraft:count"
+                },
+                "feature": {
+                  "config": {
+                    "features": [
+                      {
+                        "config": {
+                          "blacklist": [],
+                          "block_placer": {
+                            "type": "minecraft:double_plant_placer"
+                          },
+                          "can_replace": false,
+                          "need_water": false,
+                          "project": false,
+                          "state_provider": {
+                            "state": {
+                              "Name": "minecraft:lilac",
+                              "Properties": {
+                                "half": "lower"
+                              }
+                            },
+                            "type": "minecraft:simple_state_provider"
+                          },
+                          "tries": 64,
+                          "whitelist": [],
+                          "xspread": 7,
+                          "yspread": 3,
+                          "zspread": 7
+                        },
+                        "type": "minecraft:random_patch"
+                      },
+                      {
+                        "config": {
+                          "blacklist": [],
+                          "block_placer": {
+                            "type": "minecraft:double_plant_placer"
+                          },
+                          "can_replace": false,
+                          "need_water": false,
+                          "project": false,
+                          "state_provider": {
+                            "state": {
+                              "Name": "minecraft:rose_bush",
+                              "Properties": {
+                                "half": "lower"
+                              }
+                            },
+                            "type": "minecraft:simple_state_provider"
+                          },
+                          "tries": 64,
+                          "whitelist": [],
+                          "xspread": 7,
+                          "yspread": 3,
+                          "zspread": 7
+                        },
+                        "type": "minecraft:random_patch"
+                      },
+                      {
+                        "config": {
+                          "blacklist": [],
+                          "block_placer": {
+                            "type": "minecraft:double_plant_placer"
+                          },
+                          "can_replace": false,
+                          "need_water": false,
+                          "project": false,
+                          "state_provider": {
+                            "state": {
+                              "Name": "minecraft:peony",
+                              "Properties": {
+                                "half": "lower"
+                              }
+                            },
+                            "type": "minecraft:simple_state_provider"
+                          },
+                          "tries": 64,
+                          "whitelist": [],
+                          "xspread": 7,
+                          "yspread": 3,
+                          "zspread": 7
+                        },
+                        "type": "minecraft:random_patch"
+                      },
+                      {
+                        "config": {
+                          "blacklist": [],
+                          "block_placer": {
+                            "type": "minecraft:simple_block_placer"
+                          },
+                          "can_replace": false,
+                          "need_water": false,
+                          "project": true,
+                          "state_provider": {
+                            "state": {
+                              "Name": "minecraft:lily_of_the_valley"
+                            },
+                            "type": "minecraft:simple_state_provider"
+                          },
+                          "tries": 64,
+                          "whitelist": [],
+                          "xspread": 7,
+                          "yspread": 3,
+                          "zspread": 7
+                        },
+                        "type": "minecraft:no_bonemeal_flower"
+                      }
+                    ]
+                  },
+                  "type": "minecraft:simple_random_selector"
                 }
               },
               "type": "minecraft:decorated"
-            },
-            "decorator": {
-              "config": {},
-              "type": "minecraft:spread_32_above"
-            }
-          },
-          "type": "minecraft:decorated"
-        },
-        "decorator": {
-          "config": {
-            "outer": {
-              "config": {},
-              "type": "minecraft:square"
-            },
-            "inner": {
-              "config": {},
-              "type": "minecraft:heightmap"
             }
           },
           "type": "minecraft:decorated"
         }
       },
       "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "count": 5
-      },
-      "type": "minecraft:count"
     }
   },
   "type": "minecraft:decorated"

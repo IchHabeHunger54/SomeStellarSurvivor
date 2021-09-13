@@ -1,27 +1,27 @@
 {
   "config": {
+    "decorator": {
+      "config": {
+        "inner": {
+          "config": {},
+          "type": "minecraft:heightmap_spread_double"
+        },
+        "outer": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
     "feature": {
       "config": {
-        "feature": "minecraft:patch_red_mushroom",
         "decorator": {
           "config": {
             "chance": 8
           },
           "type": "minecraft:chance"
-        }
-      },
-      "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "outer": {
-          "config": {},
-          "type": "minecraft:square"
         },
-        "inner": {
-          "config": {},
-          "type": "minecraft:heightmap_spread_double"
-        }
+        "feature": "minecraft:patch_red_mushroom"
       },
       "type": "minecraft:decorated"
     }

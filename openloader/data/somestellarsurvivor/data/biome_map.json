@@ -1,30 +1,4 @@
 {
-  "deep_ocean": {
-    "COLD": [
-      "minecraft:deep_cold_ocean",
-      "minecraft:deep_frozen_ocean"
-    ],
-    "MEDIUM": [
-      "minecraft:deep_ocean"
-    ],
-    "WARM": [
-      "minecraft:deep_lukewarm_ocean",
-      "minecraft:deep_warm_ocean"
-    ]
-  },
-  "shallow_ocean": {
-    "COLD": [
-      "minecraft:cold_ocean",
-      "minecraft:frozen_ocean"
-    ],
-    "MEDIUM": [
-      "minecraft:ocean"
-    ],
-    "WARM": [
-      "minecraft:lukewarm_ocean",
-      "minecraft:warm_ocean"
-    ]
-  },
   "beach": {
     "COLD": [
       "minecraft:snowy_beach",
@@ -42,15 +16,17 @@
     "MEDIUM": [],
     "WARM": []
   },
-  "river": {
+  "deep_ocean": {
     "COLD": [
-      "minecraft:frozen_river"
+      "minecraft:deep_cold_ocean",
+      "minecraft:deep_frozen_ocean"
     ],
     "MEDIUM": [
-      "minecraft:river"
+      "minecraft:deep_ocean"
     ],
     "WARM": [
-      "minecraft:river"
+      "minecraft:deep_lukewarm_ocean",
+      "minecraft:deep_warm_ocean"
     ]
   },
   "lake": {
@@ -64,34 +40,12 @@
       "minecraft:desert_lakes"
     ]
   },
-  "wetland": {
-    "COLD": [
-      "terraforged:cold_marshland",
-      "terraforged:frozen_marsh"
-    ],
-    "MEDIUM": [
-      "terraforged:marshland"
-    ],
-    "WARM": [
-      "minecraft:swamp"
-    ]
-  },
   "land": {
-    "TROPICAL_RAINFOREST": [
-      "minecraft:bamboo_jungle",
-      "minecraft:jungle",
-      "minecraft:jungle_edge",
-      "minecraft:modified_jungle",
-      "minecraft:modified_jungle_edge",
-      "terraforged:stone_forest"
+    "ALPINE": [
+      "minecraft:plains"
     ],
-    "SAVANNA": [
-      "minecraft:savanna",
-      "minecraft:savanna_plateau",
-      "minecraft:shattered_savanna",
-      "minecraft:shattered_savanna_plateau",
-      "terraforged:savanna_scrub",
-      "terraforged:shattered_savanna_scrub"
+    "COLD_STEPPE": [
+      "terraforged:cold_steppe"
     ],
     "DESERT": [
       "minecraft:badlands",
@@ -104,28 +58,17 @@
       "minecraft:wooded_badlands_plateau",
       "terraforged:bryce"
     ],
-    "TEMPERATE_RAINFOREST": [
-      "minecraft:dark_forest",
-      "minecraft:flower_forest",
-      "minecraft:forest",
-      "minecraft:plains",
-      "terraforged:flower_plains"
-    ],
-    "TEMPERATE_FOREST": [
-      "minecraft:birch_forest",
-      "minecraft:dark_forest",
-      "minecraft:flower_forest",
-      "minecraft:forest",
-      "minecraft:plains",
-      "minecraft:tall_birch_forest",
-      "terraforged:flower_plains"
-    ],
     "GRASSLAND": [
       "minecraft:plains",
       "minecraft:sunflower_plains"
     ],
-    "COLD_STEPPE": [
-      "terraforged:cold_steppe"
+    "SAVANNA": [
+      "minecraft:savanna",
+      "minecraft:savanna_plateau",
+      "minecraft:shattered_savanna",
+      "minecraft:shattered_savanna_plateau",
+      "terraforged:savanna_scrub",
+      "terraforged:shattered_savanna_scrub"
     ],
     "STEPPE": [
       "terraforged:steppe"
@@ -137,15 +80,36 @@
       "terraforged:fir_forest",
       "terraforged:taiga_scrub"
     ],
+    "TEMPERATE_FOREST": [
+      "minecraft:birch_forest",
+      "minecraft:dark_forest",
+      "minecraft:flower_forest",
+      "minecraft:forest",
+      "minecraft:plains",
+      "minecraft:tall_birch_forest",
+      "terraforged:flower_plains"
+    ],
+    "TEMPERATE_RAINFOREST": [
+      "minecraft:dark_forest",
+      "minecraft:flower_forest",
+      "minecraft:forest",
+      "minecraft:plains",
+      "terraforged:flower_plains"
+    ],
+    "TROPICAL_RAINFOREST": [
+      "minecraft:bamboo_jungle",
+      "minecraft:jungle",
+      "minecraft:jungle_edge",
+      "minecraft:modified_jungle",
+      "minecraft:modified_jungle_edge",
+      "terraforged:stone_forest"
+    ],
     "TUNDRA": [
       "minecraft:ice_spikes",
       "minecraft:snowy_taiga",
       "minecraft:snowy_tundra",
       "terraforged:snowy_fir_forest",
       "terraforged:snowy_taiga_scrub"
-    ],
-    "ALPINE": [
-      "minecraft:plains"
     ]
   },
   "mountain": {
@@ -161,9 +125,45 @@
     "MEDIUM": [],
     "WARM": []
   },
+  "river": {
+    "COLD": [
+      "minecraft:frozen_river"
+    ],
+    "MEDIUM": [
+      "minecraft:river"
+    ],
+    "WARM": [
+      "minecraft:river"
+    ]
+  },
+  "shallow_ocean": {
+    "COLD": [
+      "minecraft:cold_ocean",
+      "minecraft:frozen_ocean"
+    ],
+    "MEDIUM": [
+      "minecraft:ocean"
+    ],
+    "WARM": [
+      "minecraft:lukewarm_ocean",
+      "minecraft:warm_ocean"
+    ]
+  },
   "volcano": {
     "COLD": [],
     "MEDIUM": [],
     "WARM": []
+  },
+  "wetland": {
+    "COLD": [
+      "terraforged:cold_marshland",
+      "terraforged:frozen_marsh"
+    ],
+    "MEDIUM": [
+      "terraforged:marshland"
+    ],
+    "WARM": [
+      "minecraft:swamp"
+    ]
   }
 }

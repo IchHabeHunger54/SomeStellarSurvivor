@@ -3,8 +3,8 @@
     "type": "blank"
   },
   {
+    "data": "intro.json",
     "name": "intro",
-    "type": "text",
-    "data": "intro.json"
+    "type": "text"
   }
 ]

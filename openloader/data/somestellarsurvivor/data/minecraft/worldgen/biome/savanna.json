@@ -1,17 +1,19 @@
 {
-  "effects": {
-    "mood_sound": {},
-    "sky_color": 7711487,
-    "fog_color": 12638463,
-    "water_color": 4159204,
-    "water_fog_color": 329011
-  },
-  "surface_builder": "minecraft:grass",
   "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:canyon"
     ]
+  },
+  "category": "savanna",
+  "depth": 0.125,
+  "downfall": 0.0,
+  "effects": {
+    "fog_color": 12638463,
+    "mood_sound": {},
+    "sky_color": 7711487,
+    "water_color": 4159204,
+    "water_fog_color": 329011
   },
   "features": [
     [
@@ -78,145 +80,143 @@
       "quark:deferred_feature_top_layer_modification"
     ]
   ],
+  "forge:registry_name": "minecraft:savanna",
+  "player_spawn_friendly": false,
+  "precipitation": "none",
+  "scale": 0.05,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [
+      {
+        "maxCount": 8,
+        "minCount": 8,
+        "type": "minecraft:bat",
+        "weight": 10
+      },
+      {
+        "maxCount": 3,
+        "minCount": 2,
+        "type": "alexsmobs:fly",
+        "weight": 3
+      }
+    ],
+    "creature": [
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:sheep",
+        "weight": 12
+      },
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:pig",
+        "weight": 10
+      },
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:chicken",
+        "weight": 10
+      },
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:cow",
+        "weight": 8
+      },
+      {
+        "maxCount": 6,
+        "minCount": 2,
+        "type": "minecraft:horse",
+        "weight": 1
+      },
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "minecraft:donkey",
+        "weight": 1
+      },
+      {
+        "maxCount": 7,
+        "minCount": 7,
+        "type": "alexsmobs:gazelle",
+        "weight": 40
+      },
+      {
+        "maxCount": 2,
+        "minCount": 1,
+        "type": "alexsmobs:crocodile",
+        "weight": 40
+      },
+      {
+        "maxCount": 5,
+        "minCount": 3,
+        "type": "alexsmobs:elephant",
+        "weight": 30
+      },
+      {
+        "maxCount": 5,
+        "minCount": 2,
+        "type": "alexsmobs:emu",
+        "weight": 20
+      },
+      {
+        "maxCount": 5,
+        "minCount": 3,
+        "type": "alexsmobs:kangaroo",
+        "weight": 25
+      }
+    ],
+    "misc": [],
+    "monster": [
+      {
+        "maxCount": 4,
+        "minCount": 4,
+        "type": "minecraft:zombie",
+        "weight": 100
+      }
+    ],
+    "water_ambient": [
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "aquaculture:catfish",
+        "weight": 1
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:carp",
+        "weight": 10
+      },
+      {
+        "maxCount": 5,
+        "minCount": 1,
+        "type": "aquaculture:minnow",
+        "weight": 18
+      },
+      {
+        "maxCount": 6,
+        "minCount": 1,
+        "type": "aquaculture:bluegill",
+        "weight": 20
+      },
+      {
+        "maxCount": 2,
+        "minCount": 1,
+        "type": "aquaculture:gar",
+        "weight": 6
+      }
+    ],
+    "water_creature": []
+  },
   "starts": [
     {
       "config": {},
       "type": "astralsorcery:desert_shrine"
     }
   ],
-  "spawners": {
-    "monster": [
-      {
-        "type": "minecraft:zombie",
-        "weight": 100,
-        "minCount": 4,
-        "maxCount": 4
-      }
-    ],
-    "creature": [
-      {
-        "type": "minecraft:sheep",
-        "weight": 12,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:pig",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:chicken",
-        "weight": 10,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:cow",
-        "weight": 8,
-        "minCount": 4,
-        "maxCount": 4
-      },
-      {
-        "type": "minecraft:horse",
-        "weight": 1,
-        "minCount": 2,
-        "maxCount": 6
-      },
-      {
-        "type": "minecraft:donkey",
-        "weight": 1,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
-        "type": "alexsmobs:gazelle",
-        "weight": 40,
-        "minCount": 7,
-        "maxCount": 7
-      },
-      {
-        "type": "alexsmobs:crocodile",
-        "weight": 40,
-        "minCount": 1,
-        "maxCount": 2
-      },
-      {
-        "type": "alexsmobs:elephant",
-        "weight": 30,
-        "minCount": 3,
-        "maxCount": 5
-      },
-      {
-        "type": "alexsmobs:emu",
-        "weight": 20,
-        "minCount": 2,
-        "maxCount": 5
-      },
-      {
-        "type": "alexsmobs:kangaroo",
-        "weight": 25,
-        "minCount": 3,
-        "maxCount": 5
-      }
-    ],
-    "ambient": [
-      {
-        "type": "minecraft:bat",
-        "weight": 10,
-        "minCount": 8,
-        "maxCount": 8
-      },
-      {
-        "type": "alexsmobs:fly",
-        "weight": 3,
-        "minCount": 2,
-        "maxCount": 3
-      }
-    ],
-    "water_creature": [],
-    "water_ambient": [
-      {
-        "type": "aquaculture:catfish",
-        "weight": 1,
-        "minCount": 1,
-        "maxCount": 1
-      },
-      {
-        "type": "aquaculture:carp",
-        "weight": 10,
-        "minCount": 1,
-        "maxCount": 3
-      },
-      {
-        "type": "aquaculture:minnow",
-        "weight": 18,
-        "minCount": 1,
-        "maxCount": 5
-      },
-      {
-        "type": "aquaculture:bluegill",
-        "weight": 20,
-        "minCount": 1,
-        "maxCount": 6
-      },
-      {
-        "type": "aquaculture:gar",
-        "weight": 6,
-        "minCount": 1,
-        "maxCount": 2
-      }
-    ],
-    "misc": []
-  },
-  "spawn_costs": {},
-  "player_spawn_friendly": false,
-  "forge:registry_name": "minecraft:savanna",
-  "precipitation": "none",
-  "temperature": 1.2,
-  "downfall": 0.0,
-  "category": "savanna",
-  "depth": 0.125,
-  "scale": 0.05
+  "surface_builder": "minecraft:grass",
+  "temperature": 1.2
 }

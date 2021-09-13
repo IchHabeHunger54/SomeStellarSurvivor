@@ -2,10 +2,10 @@
   "config": {
     "state_provider": {
       "state": {
+        "Name": "minecraft:snow",
         "Properties": {
           "layers": "1"
-        },
-        "Name": "minecraft:snow"
+        }
       },
       "type": "minecraft:simple_state_provider"
     }

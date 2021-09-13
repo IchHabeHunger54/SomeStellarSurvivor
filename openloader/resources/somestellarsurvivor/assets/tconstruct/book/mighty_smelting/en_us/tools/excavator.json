@@ -1,5 +1,11 @@
 {
-  "tool": "tconstruct:excavator",
+  "properties": [
+    "Advanced digging tool",
+    "3x3 AoE Digging",
+    "Effective on dirt, sand and gravel",
+    "Can create path",
+    "Starts with Knockback II"
+  ],
   "text": [
     {
       "text": "The Excavator is a broad digging tool. It harvests soil and snow in a wide range."
@@ -11,11 +17,5 @@
       "text": "Useful for when you need to dig a lot of graves."
     }
   ],
-  "properties": [
-    "Advanced digging tool",
-    "3x3 AoE Digging",
-    "Effective on dirt, sand and gravel",
-    "Can create path",
-    "Starts with Knockback II"
-  ]
+  "tool": "tconstruct:excavator"
 }
