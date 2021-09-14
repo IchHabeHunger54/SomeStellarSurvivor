@@ -93,13 +93,13 @@
         "maxCount": 8,
         "minCount": 8,
         "type": "minecraft:bat",
-        "weight": 10
+        "weight": 8
       },
       {
-        "maxCount": 3,
+        "maxCount": 2,
         "minCount": 2,
         "type": "alexsmobs:fly",
-        "weight": 3
+        "weight": 2
       }
     ],
     "creature": [
