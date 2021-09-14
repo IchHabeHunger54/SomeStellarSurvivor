@@ -42,5 +42,6 @@
       "name": "aquaculture:lockbox_loot",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:fishing"
 }

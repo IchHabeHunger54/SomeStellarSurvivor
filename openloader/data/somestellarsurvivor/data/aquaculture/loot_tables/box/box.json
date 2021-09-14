@@ -236,5 +236,6 @@
       "name": "aquaculture:box_loot",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:fishing"
 }

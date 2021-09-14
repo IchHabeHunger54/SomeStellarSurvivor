@@ -30,5 +30,6 @@
       "name": "aquaculture:treasure_chest_loot",
       "rolls": 1
     }
-  ]
+  ],
+  "type": "minecraft:fishing"
 }
