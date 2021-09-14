@@ -7,7 +7,7 @@
   },
   "category": "savanna",
   "depth": 0.2,
-  "downfall": 0.05,
+  "downfall": 0.0,
   "effects": {
     "fog_color": 12638463,
     "mood_sound": {},
