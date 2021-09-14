@@ -204,22 +204,22 @@
     ],
     "water_ambient": [
       {
-        "maxCount": 6,
-        "minCount": 1,
-        "type": "aquaculture:piranha",
-        "weight": 20
-      },
-      {
-        "maxCount": 2,
-        "minCount": 1,
-        "type": "aquaculture:tambaqui",
-        "weight": 6
-      },
-      {
-        "maxCount": 1,
+        "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:arapaima",
-        "weight": 1
+        "weight": 2
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:piranha",
+        "weight": 12
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:tambaqui",
+        "weight": 4
       }
     ],
     "water_creature": []

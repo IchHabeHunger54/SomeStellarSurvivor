@@ -148,27 +148,27 @@
     ],
     "water_ambient": [
       {
-        "maxCount": 1,
-        "minCount": 1,
-        "type": "aquaculture:capitaine",
-        "weight": 1
-      },
-      {
-        "maxCount": 6,
-        "minCount": 1,
-        "type": "aquaculture:synodontis",
-        "weight": 20
-      },
-      {
-        "maxCount": 2,
+        "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:bayad",
-        "weight": 6
+        "weight": 4
       },
       {
         "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:boulti",
+        "weight": 6
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:capitaine",
+        "weight": 2
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:synodontis",
         "weight": 10
       }
     ],

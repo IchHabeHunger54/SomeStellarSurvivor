@@ -137,38 +137,56 @@
       {
         "maxCount": 3,
         "minCount": 1,
-        "type": "aquaculture:jellyfish",
-        "weight": 10
+        "type": "aquaculture:atlantic_cod",
+        "weight": 4
       },
       {
-        "maxCount": 2,
-        "minCount": 1,
-        "type": "aquaculture:red_grouper",
-        "weight": 6
-      },
-      {
-        "maxCount": 6,
-        "minCount": 1,
-        "type": "aquaculture:atlantic_herring",
-        "weight": 20
-      },
-      {
-        "maxCount": 1,
+        "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:atlantic_halibut",
         "weight": 2
       },
       {
-        "maxCount": 1,
+        "maxCount": 3,
         "minCount": 1,
-        "type": "aquaculture:tuna",
-        "weight": 1
+        "type": "aquaculture:atlantic_herring",
+        "weight": 12
       },
       {
-        "maxCount": 5,
-        "minCount": 3,
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:blackfish",
+        "weight": 8
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:pacific_halibut",
+        "weight": 2
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:pink_salmon",
+        "weight": 4
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:pollock",
+        "weight": 4
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:rainbow_trout",
+        "weight": 4
+      },
+      {
+        "maxCount": 1,
+        "minCount": 1,
         "type": "alexsmobs:lobster",
-        "weight": 7
+        "weight": 10
       }
     ],
     "water_creature": []
