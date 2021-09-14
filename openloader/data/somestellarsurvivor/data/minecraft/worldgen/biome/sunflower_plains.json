@@ -67,14 +67,14 @@
       "minecraft:plain_vegetation",
       "minecraft:flower_plain_decorated",
       "minecraft:patch_grass_plain",
-      "minecraft:patch_sugar_cane",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
+      "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "buzzier_bees:buttercup_patch",
       "pamhc2crops:windy_garden",
+      "buzzier_bees:buttercup_patch",
       "quark:deferred_feature_vegetal_decoration"
     ],
     [

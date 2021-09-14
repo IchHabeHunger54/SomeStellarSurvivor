@@ -61,13 +61,13 @@
     [
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
+      "minecraft:seagrass_river",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "minecraft:seagrass_river",
       "pamhc2crops:soggy_garden",
       "quark:deferred_feature_vegetal_decoration"
     ],

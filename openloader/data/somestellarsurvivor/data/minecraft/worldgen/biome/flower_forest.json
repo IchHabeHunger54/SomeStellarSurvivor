@@ -89,10 +89,10 @@
       "pamhc2trees:soursop_worldgen",
       "pamhc2trees:spiderweb_worldgen",
       "pamhc2trees:walnut_worldgen",
+      "pamhc2crops:shaded_garden",
       "buzzier_bees:white_clover_patch",
       "buzzier_bees:pink_clover_patch",
       "buzzier_bees:buttercup_patch",
-      "pamhc2crops:shaded_garden",
       "quark:deferred_feature_vegetal_decoration"
     ],
     [

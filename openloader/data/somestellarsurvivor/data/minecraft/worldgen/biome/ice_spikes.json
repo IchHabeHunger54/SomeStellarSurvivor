@@ -71,8 +71,6 @@
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "pamhc2trees:maple_worldgen",
-      "pamhc2trees:pinenut_worldgen",
       "pamhc2crops:frost_garden",
       "astralsorcery:glow_flower",
       "quark:deferred_feature_vegetal_decoration"
