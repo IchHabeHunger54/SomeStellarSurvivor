@@ -62,6 +62,7 @@
       "quark:deferred_feature_underground_decoration"
     ],
     [
+      "minecraft:bamboo_light",
       "minecraft:trees_jungle",
       "minecraft:flower_warm",
       "minecraft:patch_grass_jungle",
