@@ -100,7 +100,7 @@
     ],
     "creature": [
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
         "weight": 40
@@ -212,7 +212,7 @@
         "maxCount": 4,
         "minCount": 1,
         "type": "minecraft:squid",
-        "weight": 3
+        "weight": 1
       },
       {
         "maxCount": 4,
@@ -230,7 +230,7 @@
         "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:frilled_shark",
-        "weight": 11
+        "weight": 10
       }
     ]
   },

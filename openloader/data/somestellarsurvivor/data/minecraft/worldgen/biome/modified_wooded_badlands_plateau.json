@@ -104,10 +104,40 @@
     ],
     "creature": [
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
         "weight": 40
+      },
+      {
+        "maxCount": 6,
+        "minCount": 2,
+        "type": "alexsmobs:emu",
+        "weight": 20
+      },
+      {
+        "maxCount": 6,
+        "minCount": 2,
+        "type": "alexsmobs:kangaroo",
+        "weight": 20
+      },
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "alexsmobs:komodo_dragon",
+        "weight": 4
+      },
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "alexsmobs:rattlesnake",
+        "weight": 10
+      },
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "alexsmobs:roadrunner",
+        "weight": 10
       }
     ],
     "misc": [],

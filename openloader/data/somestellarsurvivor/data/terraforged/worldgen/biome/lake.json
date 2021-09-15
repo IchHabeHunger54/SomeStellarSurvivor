@@ -98,7 +98,7 @@
     ],
     "creature": [
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
         "weight": 40
@@ -186,7 +186,7 @@
         "maxCount": 4,
         "minCount": 1,
         "type": "minecraft:squid",
-        "weight": 2
+        "weight": 1
       }
     ]
   },

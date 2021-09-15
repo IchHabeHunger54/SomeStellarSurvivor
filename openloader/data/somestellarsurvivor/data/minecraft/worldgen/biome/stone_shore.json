@@ -100,22 +100,22 @@
     ],
     "creature": [
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
         "weight": 40
       },
       {
-        "maxCount": 8,
+        "maxCount": 7,
         "minCount": 3,
         "type": "alexsmobs:seal",
         "weight": 30
       },
       {
-        "maxCount": 6,
+        "maxCount": 7,
         "minCount": 3,
         "type": "alexsmobs:seagull",
-        "weight": 21
+        "weight": 20
       },
       {
         "maxCount": 3,

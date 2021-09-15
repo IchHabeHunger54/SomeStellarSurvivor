@@ -100,7 +100,7 @@
     ],
     "creature": [
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
         "weight": 40

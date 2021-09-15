@@ -137,7 +137,7 @@
         "maxCount": 4,
         "minCount": 4,
         "type": "minecraft:sheep",
-        "weight": 12
+        "weight": 10
       },
       {
         "maxCount": 4,
@@ -155,34 +155,28 @@
         "maxCount": 4,
         "minCount": 4,
         "type": "minecraft:cow",
-        "weight": 8
-      },
-      {
-        "maxCount": 4,
-        "minCount": 4,
-        "type": "minecraft:chicken",
         "weight": 10
       },
       {
-        "maxCount": 2,
+        "maxCount": 3,
         "minCount": 1,
         "type": "minecraft:parrot",
         "weight": 40
       },
       {
-        "maxCount": 2,
+        "maxCount": 3,
         "minCount": 1,
         "type": "minecraft:panda",
         "weight": 80
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "aquaculture:arrau_turtle",
         "weight": 8
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
         "weight": 40
@@ -191,7 +185,7 @@
         "maxCount": 7,
         "minCount": 7,
         "type": "alexsmobs:hummingbird",
-        "weight": 39
+        "weight": 40
       },
       {
         "maxCount": 3,

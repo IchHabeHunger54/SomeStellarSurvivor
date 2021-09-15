@@ -138,7 +138,7 @@
         "maxCount": 4,
         "minCount": 4,
         "type": "minecraft:sheep",
-        "weight": 12
+        "weight": 10
       },
       {
         "maxCount": 4,
@@ -156,28 +156,28 @@
         "maxCount": 4,
         "minCount": 4,
         "type": "minecraft:cow",
-        "weight": 8
+        "weight": 10
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "aquaculture:box_turtle",
         "weight": 10
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
         "weight": 40
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:shoebill",
         "weight": 10
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:alligator_snapping_turtle",
         "weight": 20

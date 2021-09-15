@@ -97,10 +97,34 @@
     ],
     "creature": [
       {
-        "maxCount": 2,
+        "maxCount": 4,
+        "minCount": 2,
+        "type": "minecraft:turtle",
+        "weight": 10
+      },
+      {
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
         "weight": 40
+      },
+      {
+        "maxCount": 7,
+        "minCount": 3,
+        "type": "alexsmobs:seal",
+        "weight": 30
+      },
+      {
+        "maxCount": 7,
+        "minCount": 3,
+        "type": "alexsmobs:seagull",
+        "weight": 20
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "quark:crab",
+        "weight": 4
       }
     ],
     "misc": [],
@@ -138,38 +162,7 @@
         "weight": 10
       }
     ],
-    "water_creature": [
-      {
-        "maxCount": 4,
-        "minCount": 4,
-        "type": "minecraft:squid",
-        "weight": 10
-      },
-      {
-        "maxCount": 2,
-        "minCount": 1,
-        "type": "minecraft:dolphin",
-        "weight": 2
-      },
-      {
-        "maxCount": 3,
-        "minCount": 2,
-        "type": "alexsmobs:hammerhead_shark",
-        "weight": 8
-      },
-      {
-        "maxCount": 4,
-        "minCount": 1,
-        "type": "alexsmobs:mantis_shrimp",
-        "weight": 15
-      },
-      {
-        "maxCount": 2,
-        "minCount": 1,
-        "type": "alexsmobs:mimic_octopus",
-        "weight": 9
-      }
-    ]
+    "water_creature": []
   },
   "starts": [],
   "surface_builder": "minecraft:full_sand",
