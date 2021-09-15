@@ -15,10 +15,10 @@
     },
     "feature": {
       "config": {
-        "half_height": 2,
+        "half_height": 1,
         "radius": {
           "base": 2,
-          "spread": 3
+          "spread": 1
         },
         "state": {
           "Name": "minecraft:gravel"
@@ -28,10 +28,7 @@
             "Name": "minecraft:dirt"
           },
           {
-            "Name": "minecraft:grass_block",
-            "Properties": {
-              "snowy": "false"
-            }
+            "Name": "minecraft:grass_block"
           }
         ]
       },

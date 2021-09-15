@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "chance": 80
+        "chance": 95
       },
       "type": "minecraft:lava_lake"
     },

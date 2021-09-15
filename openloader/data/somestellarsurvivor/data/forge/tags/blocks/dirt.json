@@ -5,6 +5,6 @@
     "minecraft:grass_block",
     "minecraft:coarse_dirt",
     "minecraft:podzol",
-    "minecraft:mycelium"
+    "quark:glowcelium"
   ]
 }

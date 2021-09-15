@@ -19,7 +19,7 @@
           "filter": "biome",
           "placement": {
             "config": {
-              "biome_fade": 0.3,
+              "biome_fade": 0.25,
               "density_scale": 250,
               "density_variation": 0.75,
               "jitter": 0.8,
@@ -44,7 +44,7 @@
                 "chance": 0.4,
                 "elevation": {
                   "exclusive": false,
-                  "from": 0.15,
+                  "from": 0.2,
                   "to": 0.0
                 }
               },
@@ -65,7 +65,7 @@
                 "chance": 0.2,
                 "elevation": {
                   "exclusive": false,
-                  "from": 0.25,
+                  "from": 0.3,
                   "to": 0.0
                 }
               },

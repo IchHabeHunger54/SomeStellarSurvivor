@@ -23,7 +23,7 @@
         },
         "feature": {
           "config": {
-            "probability": 0.3
+            "probability": 0.25
           },
           "type": "minecraft:seagrass"
         }

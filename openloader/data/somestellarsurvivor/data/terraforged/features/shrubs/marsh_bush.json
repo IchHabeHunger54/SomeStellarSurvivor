@@ -24,7 +24,7 @@
               "persistent": "false"
             }
           },
-          "size_chance": 0.65,
+          "size_chance": 0.7,
           "trunk": {
             "Name": "minecraft:oak_log",
             "Properties": {

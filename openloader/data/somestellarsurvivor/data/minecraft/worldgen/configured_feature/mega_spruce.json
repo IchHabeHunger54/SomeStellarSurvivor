@@ -16,7 +16,7 @@
     ],
     "foliage_placer": {
       "crown_height": {
-        "base": 13,
+        "base": 12,
         "spread": 4
       },
       "offset": 0,
@@ -43,7 +43,7 @@
       "upper_size": 2
     },
     "trunk_placer": {
-      "base_height": 13,
+      "base_height": 14,
       "height_rand_a": 2,
       "height_rand_b": 14,
       "type": "minecraft:giant_trunk_placer"

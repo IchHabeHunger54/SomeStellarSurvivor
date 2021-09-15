@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 10
+        "count": 16
       },
       "type": "minecraft:count"
     },
@@ -17,14 +17,14 @@
             "decorator": {
               "config": {
                 "bottom_offset": 0,
-                "maximum": 80,
-                "top_offset": 0
+                "maximum": 255,
+                "top_offset": 17
               },
               "type": "minecraft:range"
             },
             "feature": {
               "config": {
-                "size": 33,
+                "size": 32,
                 "state": {
                   "Name": "minecraft:andesite"
                 },

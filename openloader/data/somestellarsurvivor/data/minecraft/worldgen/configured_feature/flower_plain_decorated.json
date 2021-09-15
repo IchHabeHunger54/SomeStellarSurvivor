@@ -3,7 +3,7 @@
     "decorator": {
       "config": {
         "above_noise": 4,
-        "below_noise": 15,
+        "below_noise": 16,
         "noise_level": -0.8
       },
       "type": "minecraft:count_noise"

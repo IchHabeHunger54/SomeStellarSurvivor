@@ -22,7 +22,7 @@
               "density_variation": 0.75,
               "jitter": 0.8,
               "radius": 4,
-              "scale": 0.25
+              "scale": 0.2
             },
             "type": "terraforged:fast_poisson_surface"
           }

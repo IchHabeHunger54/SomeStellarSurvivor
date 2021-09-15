@@ -18,12 +18,12 @@
           "filter": "biome",
           "placement": {
             "config": {
-              "biome_fade": 0.1,
+              "biome_fade": 0.2,
               "density_scale": 500,
               "density_variation": 0.75,
               "jitter": 0.8,
               "radius": 8,
-              "scale": 0.2
+              "scale": 0.25
             },
             "type": "terraforged:fast_poisson_surface"
           }

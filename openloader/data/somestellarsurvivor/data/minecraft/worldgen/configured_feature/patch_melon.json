@@ -19,7 +19,7 @@
         "block_placer": {
           "type": "minecraft:simple_block_placer"
         },
-        "can_replace": true,
+        "can_replace": false,
         "need_water": false,
         "project": false,
         "state_provider": {
@@ -28,7 +28,7 @@
           },
           "type": "minecraft:simple_state_provider"
         },
-        "tries": 64,
+        "tries": 16,
         "whitelist": [
           {
             "Name": "minecraft:grass_block",
@@ -37,9 +37,9 @@
             }
           }
         ],
-        "xspread": 7,
-        "yspread": 3,
-        "zspread": 7
+        "xspread": 8,
+        "yspread": 4,
+        "zspread": 8
       },
       "type": "minecraft:random_patch"
     }

@@ -49,18 +49,6 @@
               },
               {
                 "Name": "minecraft:coarse_dirt"
-              },
-              {
-                "Name": "minecraft:mycelium",
-                "Properties": {
-                  "snowy": "false"
-                }
-              },
-              {
-                "Name": "minecraft:snow_block"
-              },
-              {
-                "Name": "minecraft:ice"
               }
             ]
           },

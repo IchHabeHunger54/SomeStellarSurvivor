@@ -48,16 +48,16 @@
                       "data": {
                         "Name": "minecraft:poppy"
                       },
-                      "weight": 2
+                      "weight": 1
                     }
                   ],
                   "type": "minecraft:weighted_state_provider"
                 },
-                "tries": 64,
+                "tries": 32,
                 "whitelist": [],
-                "xspread": 7,
-                "yspread": 3,
-                "zspread": 7
+                "xspread": 8,
+                "yspread": 4,
+                "zspread": 8
               },
               "type": "minecraft:flower"
             }

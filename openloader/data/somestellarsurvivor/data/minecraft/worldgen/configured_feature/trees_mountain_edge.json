@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 3,
+        "count": 2,
         "extra_chance": 0.1,
         "extra_count": 1
       },
@@ -28,7 +28,7 @@
             "default": "minecraft:oak",
             "features": [
               {
-                "chance": 0.666,
+                "chance": 0.5,
                 "feature": "minecraft:spruce"
               },
               {

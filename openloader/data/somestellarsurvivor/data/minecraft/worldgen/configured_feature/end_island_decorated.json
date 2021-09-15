@@ -1,10 +1,4 @@
 {
-  "config": {
-    "decorator": {
-      "config": {},
-      "type": "minecraft:end_island"
-    },
-    "feature": "minecraft:end_island"
-  },
-  "type": "minecraft:decorated"
+  "config": {},
+  "type": "minecraft:no_op"
 }

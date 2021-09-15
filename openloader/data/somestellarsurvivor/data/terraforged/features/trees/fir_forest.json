@@ -23,7 +23,7 @@
               "density_variation": 0.6,
               "jitter": 0.8,
               "radius": 4,
-              "scale": 0.25
+              "scale": 0.3
             },
             "type": "terraforged:fast_poisson_surface"
           }
@@ -38,7 +38,7 @@
                 "chance": 0.1,
                 "elevation": {
                   "exclusive": false,
-                  "from": 0.55,
+                  "from": 0.5,
                   "to": 0.2
                 }
               },
@@ -51,7 +51,7 @@
             },
             {
               "context": {
-                "chance": 0.25,
+                "chance": 0.3,
                 "elevation": {
                   "exclusive": false,
                   "from": 0.3,

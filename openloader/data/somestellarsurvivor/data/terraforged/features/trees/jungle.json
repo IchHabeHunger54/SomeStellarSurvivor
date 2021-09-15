@@ -14,7 +14,7 @@
           "filter": "biome",
           "placement": {
             "config": {
-              "biome_fade": 0.2,
+              "biome_fade": 0.25,
               "density_scale": 400,
               "density_variation": 0.75,
               "jitter": 0.8,

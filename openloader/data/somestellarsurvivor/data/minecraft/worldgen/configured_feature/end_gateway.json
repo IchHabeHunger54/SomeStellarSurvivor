@@ -1,20 +1,4 @@
 {
-  "config": {
-    "decorator": {
-      "config": {},
-      "type": "minecraft:end_gateway"
-    },
-    "feature": {
-      "config": {
-        "exact": true,
-        "exit": [
-          100,
-          50,
-          0
-        ]
-      },
-      "type": "minecraft:end_gateway"
-    }
-  },
-  "type": "minecraft:decorated"
+  "config": {},
+  "type": "minecraft:no_op"
 }

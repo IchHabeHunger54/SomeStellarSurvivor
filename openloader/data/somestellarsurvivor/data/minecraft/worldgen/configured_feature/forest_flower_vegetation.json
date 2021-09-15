@@ -85,11 +85,11 @@
                             },
                             "type": "minecraft:simple_state_provider"
                           },
-                          "tries": 64,
+                          "tries": 32,
                           "whitelist": [],
-                          "xspread": 7,
-                          "yspread": 3,
-                          "zspread": 7
+                          "xspread": 8,
+                          "yspread": 4,
+                          "zspread": 8
                         },
                         "type": "minecraft:random_patch"
                       },
@@ -111,11 +111,11 @@
                             },
                             "type": "minecraft:simple_state_provider"
                           },
-                          "tries": 64,
+                          "tries": 32,
                           "whitelist": [],
-                          "xspread": 7,
-                          "yspread": 3,
-                          "zspread": 7
+                          "xspread": 8,
+                          "yspread": 4,
+                          "zspread": 8
                         },
                         "type": "minecraft:random_patch"
                       },
@@ -134,11 +134,11 @@
                             },
                             "type": "minecraft:simple_state_provider"
                           },
-                          "tries": 64,
+                          "tries": 32,
                           "whitelist": [],
-                          "xspread": 7,
-                          "yspread": 3,
-                          "zspread": 7
+                          "xspread": 8,
+                          "yspread": 4,
+                          "zspread": 8
                         },
                         "type": "minecraft:no_bonemeal_flower"
                       }

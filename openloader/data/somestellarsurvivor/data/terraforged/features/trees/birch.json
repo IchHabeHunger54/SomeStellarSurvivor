@@ -43,7 +43,7 @@
                 "chance": 0.2,
                 "elevation": {
                   "exclusive": false,
-                  "from": 0.25,
+                  "from": 0.2,
                   "to": 0.0
                 }
               },
@@ -58,7 +58,7 @@
               "context": {
                 "biome": {
                   "exclusive": false,
-                  "from": 0.05,
+                  "from": 0.1,
                   "to": 0.2
                 },
                 "chance": 0.2,
@@ -79,7 +79,7 @@
               "context": {
                 "biome": {
                   "exclusive": false,
-                  "from": 0.25,
+                  "from": 0.3,
                   "to": 0.0
                 },
                 "chance": 0.1

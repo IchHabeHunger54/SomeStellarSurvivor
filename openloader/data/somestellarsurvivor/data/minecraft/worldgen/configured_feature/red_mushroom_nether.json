@@ -1,25 +1,4 @@
 {
-  "config": {
-    "decorator": {
-      "config": {
-        "chance": 2
-      },
-      "type": "minecraft:chance"
-    },
-    "feature": {
-      "config": {
-        "decorator": {
-          "config": {
-            "bottom_offset": 0,
-            "maximum": 128,
-            "top_offset": 0
-          },
-          "type": "minecraft:range"
-        },
-        "feature": "minecraft:patch_red_mushroom"
-      },
-      "type": "minecraft:decorated"
-    }
-  },
-  "type": "minecraft:decorated"
+  "config": {},
+  "type": "minecraft:no_op"
 }

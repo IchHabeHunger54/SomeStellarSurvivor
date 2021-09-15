@@ -19,7 +19,7 @@
       "decorator": {
         "config": {
           "count": 0,
-          "extra_chance": 0.225,
+          "extra_chance": 0.2,
           "extra_count": 1
         },
         "type": "minecraft:count_extra"
@@ -49,7 +49,7 @@
                   }
                 },
                 {
-                  "chance": 0.15,
+                  "chance": 0.2,
                   "feature": {
                     "config": {
                       "template": "terraforged:acacia_small"

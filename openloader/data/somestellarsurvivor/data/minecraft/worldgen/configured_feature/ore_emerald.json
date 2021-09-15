@@ -1,19 +1,45 @@
 {
   "config": {
     "decorator": {
-      "config": {},
-      "type": "minecraft:emerald_ore"
+      "config": {
+        "count": 2
+      },
+      "type": "minecraft:count"
     },
     "feature": {
       "config": {
-        "state": {
-          "Name": "minecraft:emerald_ore"
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
         },
-        "target": {
-          "Name": "minecraft:stone"
+        "feature": {
+          "config": {
+            "decorator": {
+              "config": {
+                "bottom_offset": 0,
+                "maximum": 32,
+                "top_offset": 0
+              },
+              "type": "minecraft:range"
+            },
+            "feature": {
+              "config": {
+                "size": 1,
+                "state": {
+                  "Name": "minecraft:emerald_ore"
+                },
+                "target": {
+                  "predicate_type": "minecraft:tag_match",
+                  "tag": "minecraft:base_stone_overworld"
+                }
+              },
+              "type": "minecraft:ore"
+            }
+          },
+          "type": "minecraft:decorated"
         }
       },
-      "type": "minecraft:emerald_ore"
+      "type": "minecraft:decorated"
     }
   },
   "type": "minecraft:decorated"

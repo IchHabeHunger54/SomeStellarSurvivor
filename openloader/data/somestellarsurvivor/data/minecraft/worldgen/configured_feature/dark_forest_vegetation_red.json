@@ -17,11 +17,11 @@
             "feature": "minecraft:huge_brown_mushroom"
           },
           {
-            "chance": 0.6666667,
+            "chance": 0.725,
             "feature": "minecraft:dark_oak"
           },
           {
-            "chance": 0.2,
+            "chance": 0.1,
             "feature": "minecraft:birch"
           },
           {

@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 2
+        "count": 6
       },
       "type": "minecraft:count"
     },
@@ -17,16 +17,16 @@
             "decorator": {
               "config": {
                 "bottom_offset": 0,
-                "maximum": 32,
+                "maximum": 48,
                 "top_offset": 0
               },
               "type": "minecraft:range"
             },
             "feature": {
               "config": {
-                "size": 9,
+                "size": 3,
                 "state": {
-                  "Name": "minecraft:gold_ore"
+                  "Name": "tconstruct:copper_ore"
                 },
                 "target": {
                   "predicate_type": "minecraft:tag_match",

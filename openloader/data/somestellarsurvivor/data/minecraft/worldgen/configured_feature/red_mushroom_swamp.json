@@ -2,11 +2,29 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 8
+        "chance": 4
       },
-      "type": "minecraft:count"
+      "type": "minecraft:chance"
     },
-    "feature": "minecraft:red_mushroom_taiga"
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap_spread_double"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": "minecraft:patch_brown_mushroom"
+      },
+      "type": "minecraft:decorated"
+    }
   },
   "type": "minecraft:decorated"
 }

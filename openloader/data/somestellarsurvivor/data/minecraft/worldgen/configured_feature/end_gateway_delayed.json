@@ -1,6 +1,4 @@
 {
-  "config": {
-    "exact": false
-  },
-  "type": "minecraft:end_gateway"
+  "config": {},
+  "type": "minecraft:no_op"
 }

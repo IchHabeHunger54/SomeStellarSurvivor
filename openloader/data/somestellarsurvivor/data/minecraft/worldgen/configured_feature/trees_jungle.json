@@ -36,7 +36,7 @@
                 "feature": "minecraft:jungle_bush"
               },
               {
-                "chance": 0.33333334,
+                "chance": 0.2,
                 "feature": "minecraft:mega_jungle_tree"
               }
             ]

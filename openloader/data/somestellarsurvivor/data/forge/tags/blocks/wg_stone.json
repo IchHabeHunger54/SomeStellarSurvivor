@@ -1,15 +1,6 @@
 {
   "replace": true,
   "values": [
-    "minecraft:andesite",
-    "minecraft:diorite",
-    "minecraft:granite",
-    "minecraft:stone",
-    "quark:brimstone",
-    "quark:jasper",
-    "quark:limestone",
-    "quark:marble",
-    "quark:permafrost",
-    "quark:slate"
+    "minecraft:stone"
   ]
 }

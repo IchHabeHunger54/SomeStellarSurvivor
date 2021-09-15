@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 7
+        "count": 8
       },
       "type": "minecraft:count"
     },
@@ -31,27 +31,16 @@
             "need_water": false,
             "project": true,
             "state_provider": {
-              "entries": [
-                {
-                  "data": {
-                    "Name": "minecraft:grass"
-                  },
-                  "weight": 1
-                },
-                {
-                  "data": {
-                    "Name": "minecraft:fern"
-                  },
-                  "weight": 4
-                }
-              ],
-              "type": "minecraft:weighted_state_provider"
+              "state": {
+                "Name": "minecraft:grass"
+              },
+              "type": "minecraft:simple_state_provider"
             },
-            "tries": 32,
+            "tries": 16,
             "whitelist": [],
-            "xspread": 7,
-            "yspread": 3,
-            "zspread": 7
+            "xspread": 8,
+            "yspread": 4,
+            "zspread": 8
           },
           "type": "minecraft:random_patch"
         }

@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "above_noise": 7,
+        "above_noise": 8,
         "below_noise": 0,
         "noise_level": -0.8
       },
@@ -44,11 +44,11 @@
                       },
                       "type": "minecraft:simple_state_provider"
                     },
-                    "tries": 64,
+                    "tries": 16,
                     "whitelist": [],
-                    "xspread": 7,
-                    "yspread": 3,
-                    "zspread": 7
+                    "xspread": 8,
+                    "yspread": 4,
+                    "zspread": 8
                   },
                   "type": "minecraft:random_patch"
                 }

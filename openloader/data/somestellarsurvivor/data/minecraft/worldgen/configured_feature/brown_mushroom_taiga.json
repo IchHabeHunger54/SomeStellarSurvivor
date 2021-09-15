@@ -2,24 +2,24 @@
   "config": {
     "decorator": {
       "config": {
-        "inner": {
-          "config": {},
-          "type": "minecraft:heightmap"
-        },
-        "outer": {
-          "config": {},
-          "type": "minecraft:square"
-        }
+        "chance": 4
       },
-      "type": "minecraft:decorated"
+      "type": "minecraft:chance"
     },
     "feature": {
       "config": {
         "decorator": {
           "config": {
-            "chance": 4
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap_spread_double"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
           },
-          "type": "minecraft:chance"
+          "type": "minecraft:decorated"
         },
         "feature": "minecraft:patch_brown_mushroom"
       },

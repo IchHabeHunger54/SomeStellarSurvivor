@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "chance": 8
+        "chance": 4
       },
       "type": "minecraft:chance"
     },
@@ -21,7 +21,7 @@
           },
           "type": "minecraft:decorated"
         },
-        "feature": "minecraft:patch_red_mushroom"
+        "feature": "minecraft:patch_brown_mushroom"
       },
       "type": "minecraft:decorated"
     }

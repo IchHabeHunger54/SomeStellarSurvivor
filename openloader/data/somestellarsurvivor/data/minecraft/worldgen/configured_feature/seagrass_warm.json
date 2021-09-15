@@ -17,13 +17,13 @@
       "config": {
         "decorator": {
           "config": {
-            "count": 80
+            "count": 64
           },
           "type": "minecraft:count"
         },
         "feature": {
           "config": {
-            "probability": 0.3
+            "probability": 0.25
           },
           "type": "minecraft:seagrass"
         }
