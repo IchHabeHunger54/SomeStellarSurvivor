@@ -1,46 +1,4 @@
 {
-  "config": {
-    "decorator": {
-      "config": {
-        "count": 2
-      },
-      "type": "minecraft:count"
-    },
-    "feature": {
-      "config": {
-        "decorator": {
-          "config": {},
-          "type": "minecraft:square"
-        },
-        "feature": {
-          "config": {
-            "decorator": {
-              "config": {
-                "bottom_offset": 5,
-                "maximum": 37,
-                "top_offset": 0
-              },
-              "type": "minecraft:range"
-            },
-            "feature": {
-              "config": {
-                "size": 33,
-                "state": {
-                  "Name": "minecraft:gravel"
-                },
-                "target": {
-                  "block": "minecraft:netherrack",
-                  "predicate_type": "minecraft:block_match"
-                }
-              },
-              "type": "minecraft:ore"
-            }
-          },
-          "type": "minecraft:decorated"
-        }
-      },
-      "type": "minecraft:decorated"
-    }
-  },
-  "type": "minecraft:decorated"
+  "config": {},
+  "type": "minecraft:no_op"
 }

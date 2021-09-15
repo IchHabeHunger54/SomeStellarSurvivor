@@ -1,38 +1,4 @@
 {
-  "config": {
-    "decorator": {
-      "config": {
-        "count": 10
-      },
-      "type": "minecraft:fire"
-    },
-    "feature": {
-      "config": {
-        "blacklist": [],
-        "block_placer": {
-          "type": "minecraft:simple_block_placer"
-        },
-        "can_replace": false,
-        "need_water": false,
-        "project": false,
-        "state_provider": {
-          "state": {
-            "Name": "minecraft:soul_fire"
-          },
-          "type": "minecraft:simple_state_provider"
-        },
-        "tries": 64,
-        "whitelist": [
-          {
-            "Name": "minecraft:soul_soil"
-          }
-        ],
-        "xspread": 7,
-        "yspread": 3,
-        "zspread": 7
-      },
-      "type": "minecraft:random_patch"
-    }
-  },
-  "type": "minecraft:decorated"
+  "config": {},
+  "type": "minecraft:no_op"
 }

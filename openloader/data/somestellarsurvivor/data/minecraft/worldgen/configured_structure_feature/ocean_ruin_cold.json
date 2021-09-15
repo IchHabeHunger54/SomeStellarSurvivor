@@ -1,8 +1,4 @@
 {
-  "config": {
-    "biome_temp": "cold",
-    "cluster_probability": 0.9,
-    "large_probability": 0.3
-  },
-  "type": "minecraft:ocean_ruin"
+  "config": {},
+  "type": "minecraft:no_op"
 }

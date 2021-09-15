@@ -1,6 +1,4 @@
 {
-  "config": {
-    "probability": 0.01
-  },
-  "type": "minecraft:buried_treasure"
+  "config": {},
+  "type": "minecraft:no_op"
 }

@@ -1,36 +1,4 @@
 {
-  "config": {
-    "decorator": {
-      "config": {
-        "bottom_offset": 0,
-        "maximum": 128,
-        "top_offset": 0
-      },
-      "type": "minecraft:range"
-    },
-    "feature": {
-      "config": {
-        "blacklist": [],
-        "block_placer": {
-          "type": "minecraft:simple_block_placer"
-        },
-        "can_replace": false,
-        "need_water": false,
-        "project": false,
-        "state_provider": {
-          "state": {
-            "Name": "minecraft:crimson_roots"
-          },
-          "type": "minecraft:simple_state_provider"
-        },
-        "tries": 64,
-        "whitelist": [],
-        "xspread": 7,
-        "yspread": 3,
-        "zspread": 7
-      },
-      "type": "minecraft:random_patch"
-    }
-  },
-  "type": "minecraft:decorated"
+  "config": {},
+  "type": "minecraft:no_op"
 }

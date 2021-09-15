@@ -1,6 +1,4 @@
 {
-  "config": {
-    "is_beached": true
-  },
-  "type": "minecraft:shipwreck"
+  "config": {},
+  "type": "minecraft:no_op"
 }

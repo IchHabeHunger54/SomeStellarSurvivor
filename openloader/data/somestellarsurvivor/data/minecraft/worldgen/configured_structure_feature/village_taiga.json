@@ -1,7 +1,4 @@
 {
-  "config": {
-    "size": 6,
-    "start_pool": "minecraft:village/taiga/town_centers"
-  },
-  "type": "minecraft:village"
+  "config": {},
+  "type": "minecraft:no_op"
 }

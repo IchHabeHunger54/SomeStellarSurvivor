@@ -1,46 +1,4 @@
 {
-  "config": {
-    "decorator": {
-      "config": {
-        "count": 20
-      },
-      "type": "minecraft:count"
-    },
-    "feature": {
-      "config": {
-        "decorator": {
-          "config": {},
-          "type": "minecraft:square"
-        },
-        "feature": {
-          "config": {
-            "decorator": {
-              "config": {
-                "bottom_offset": 32,
-                "maximum": 80,
-                "top_offset": 32
-              },
-              "type": "minecraft:range"
-            },
-            "feature": {
-              "config": {
-                "size": 9,
-                "state": {
-                  "Name": "minecraft:gold_ore"
-                },
-                "target": {
-                  "predicate_type": "minecraft:tag_match",
-                  "tag": "minecraft:base_stone_overworld"
-                }
-              },
-              "type": "minecraft:ore"
-            }
-          },
-          "type": "minecraft:decorated"
-        }
-      },
-      "type": "minecraft:decorated"
-    }
-  },
-  "type": "minecraft:decorated"
+  "config": {},
+  "type": "minecraft:no_op"
 }
