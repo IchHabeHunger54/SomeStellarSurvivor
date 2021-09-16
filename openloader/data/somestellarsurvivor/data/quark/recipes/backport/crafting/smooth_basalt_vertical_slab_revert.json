@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "quark:smooth_basalt_vertical_slab"
+    }
+  ],
+  "result": {
+    "item": "quark:smooth_basalt_slab"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

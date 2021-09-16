@@ -1,0 +1,15 @@
+{
+  "key": {
+    "#": {
+      "item": "quark:smooth_basalt"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "quark:smooth_basalt_slab"
+  },
+  "type": "minecraft:crafting_shaped"
+}
