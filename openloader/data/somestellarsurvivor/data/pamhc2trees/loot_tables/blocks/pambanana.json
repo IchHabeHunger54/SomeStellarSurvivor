@@ -1,53 +1,17 @@
 {
   "pools": [
     {
-      "entries": [
+      "conditions": [
         {
-          "children": [
-            {
-              "conditions": [
-                {
-                  "condition": "minecraft:alternative",
-                  "terms": [
-                    {
-                      "condition": "minecraft:match_tool",
-                      "predicate": {
-                        "item": "minecraft:shears"
-                      }
-                    },
-                    {
-                      "condition": "minecraft:match_tool",
-                      "predicate": {
-                        "enchantments": [
-                          {
-                            "enchantment": "minecraft:silk_touch",
-                            "levels": {
-                              "min": 1
-                            }
-                          }
-                        ]
-                      }
-                    }
-                  ]
-                }
-              ],
-              "name": "pamhc2trees:pambanana",
-              "type": "minecraft:item"
-            },
-            {
-              "name": "pamhc2trees:bananaitem",
-              "type": "minecraft:item"
-            }
-          ],
-          "conditions": [
-            {
-              "condition": "minecraft:survives_explosion"
-            }
-          ],
-          "type": "minecraft:alternatives"
+          "condition": "minecraft:survives_explosion"
         }
       ],
-      "name": "pambanana0",
+      "entries": [
+        {
+          "name": "pamhc2trees:bananaitem",
+          "type": "minecraft:item"
+        }
+      ],
       "rolls": 1
     }
   ],

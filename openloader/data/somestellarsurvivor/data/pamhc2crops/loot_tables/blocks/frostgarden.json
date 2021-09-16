@@ -84,14 +84,13 @@
           "formula": "minecraft:uniform_bonus_count",
           "function": "minecraft:apply_bonus",
           "parameters": {
-            "bonusMultiplier": 2
+            "bonusMultiplier": 1
           }
         },
         {
           "function": "minecraft:explosion_decay"
         }
       ],
-      "name": "frostgarden0",
       "rolls": 1
     }
   ],
