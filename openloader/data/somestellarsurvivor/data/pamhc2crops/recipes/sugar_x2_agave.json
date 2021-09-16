@@ -5,10 +5,12 @@
     },
     {
       "tag": "forge:crops/agave"
+    },
+    {
+      "tag": "forge:crops/agave"
     }
   ],
   "result": {
-    "count": 2,
     "item": "minecraft:sugar"
   },
   "type": "minecraft:crafting_shapeless"
