@@ -2,7 +2,7 @@
 #All configuration items related to the core gameplay
 [gameplay]
 	#Should the default schematics be ignored (from the jar)?
-	ignoreSchematicsFromJar = false
+	ignoreSchematicsFromJar = true
 	#Should player-made schematics be allowed?
 	allowPlayerSchematics = true
 	#Max world operations per tick (max blocks to place, remove, or replace).

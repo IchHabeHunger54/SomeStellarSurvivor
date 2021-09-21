@@ -213,6 +213,9 @@
 	#Seconds between each permission message (to reduce spam). [Default: 30, min: 1, max: 1000]
 	#Range: 1 ~ 1000
 	secondsBetweenPermissionMessages = 30
+	#Set the max amount of backups kept [Default: 50, min: 3, max: 5000]
+	#Range: 3 ~ 5000
+	maxkeptbackups = 50
 
 #All configuration related to mod compatibility
 [compatibility]
@@ -227,8 +230,8 @@
 	#Experience multiplier of the enchanter (how much more experience do they get from a citizen than they drain). [Default: 2,000000, min: 1,000000, max: 10,000000]
 	#Range: 1.0 ~ 10.0
 	enchanterexperiencemultiplier = 2.0
-	#Forester harvest trunk size for dynamic trees: 1-8. [Default: 5, min: 1, max: 5]
-	#Range: 1 ~ 5
+	#Forester harvest trunk size for dynamic trees: 1-8. [Default: 5, min: 1, max: 8]
+	#Range: 1 ~ 8
 	dynamictreeharvestsize = 5
 	#Offset for the maximum durability unenchanted rod a T2 Fishing Hut can use, compared to iron tools (250). Thermal Foundation Iron requires +6. T3 huts can use unenchanted rods of any durability level, so long as they can take damage at all. Anything below -250 will only allow vanilla rods, except as allowed by T1. [Default: 6, min: -249, max: 250000]
 	#Range: -249 ~ 250000
