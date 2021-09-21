@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:prismarine"
+  },
+  "input": [
+    {
+      "block": "minecraft:glass",
+      "display": {
+        "item": "minecraft:glass"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:prismarine"
+  },
+  "starlight": 800,
+  "type": "astralsorcery:block_transmutation"
+}
