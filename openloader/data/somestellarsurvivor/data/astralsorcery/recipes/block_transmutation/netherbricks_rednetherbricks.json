@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:red_nether_bricks"
+  },
+  "input": [
+    {
+      "block": "minecraft:nether_bricks",
+      "display": {
+        "item": "minecraft:nether_bricks"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:red_nether_bricks"
+  },
+  "starlight": 400,
+  "type": "astralsorcery:block_transmutation"
+}

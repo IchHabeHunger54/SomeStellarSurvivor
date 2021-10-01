@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:end_rod"
+  },
+  "input": [
+    {
+      "block": "quark:iron_rod",
+      "display": {
+        "item": "quark:iron_rod"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:end_rod"
+  },
+  "starlight": 800,
+  "type": "astralsorcery:block_transmutation"
+}

@@ -1,17 +1,17 @@
 {
   "display": {
-    "item": "minecraft:nether_bricks"
+    "item": "minecraft:mycelium"
   },
   "input": [
     {
-      "block": "ceramics:dark_bricks",
+      "block": "minecraft:podzol",
       "display": {
-        "item": "ceramics:dark_bricks"
+        "item": "minecraft:podzol"
       }
     }
   ],
   "output": {
-    "block": "minecraft:nether_bricks"
+    "block": "minecraft:mycelium"
   },
   "starlight": 400,
   "type": "astralsorcery:block_transmutation"

@@ -1,17 +1,17 @@
 {
   "display": {
-    "item": "minecraft:nether_bricks"
+    "item": "minecraft:sea_lantern"
   },
   "input": [
     {
-      "block": "ceramics:dark_bricks",
+      "block": "minecraft:light_blue_wool",
       "display": {
-        "item": "ceramics:dark_bricks"
+        "item": "minecraft:light_blue_wool"
       }
     }
   ],
   "output": {
-    "block": "minecraft:nether_bricks"
+    "block": "minecraft:sea_lantern"
   },
   "starlight": 400,
   "type": "astralsorcery:block_transmutation"

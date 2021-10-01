@@ -6,7 +6,7 @@
   ],
   "key": {
     "C": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:emerald"
     },
     "S": {
       "item": "minecraft:stick"
@@ -14,7 +14,7 @@
   },
   "output": [
     {
-      "item": "structurize:sceptersteel"
+      "item": "structurize:shapetool"
     }
   ],
   "pattern": [

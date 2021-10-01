@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "minecraft:crying_obsidian"
+  },
+  "input": [
+    {
+      "block": "minecraft:obsidian",
+      "display": {
+        "item": "minecraft:obsidian"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:crying_obsidian"
+  },
+  "starlight": 800,
+  "type": "astralsorcery:block_transmutation"
+}
