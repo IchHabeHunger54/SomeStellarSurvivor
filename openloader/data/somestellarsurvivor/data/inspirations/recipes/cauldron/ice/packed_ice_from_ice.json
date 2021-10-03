@@ -4,11 +4,11 @@
     "type": "inspirations:custom"
   },
   "output": {
-    "name": "minecraft:water",
-    "type": "inspirations:fluid"
+    "name": "minecraft:packed_ice",
+    "type": "inspirations:custom"
   },
-  "sound": "minecraft:item.bucket.empty",
-  "temperature": "boiling",
+  "sound": "minecraft:block.glass.place",
+  "temperature": "freezing",
   "time": 500,
   "type": "inspirations:cauldron_transform"
 }

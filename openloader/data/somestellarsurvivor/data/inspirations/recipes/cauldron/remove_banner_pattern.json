@@ -1,13 +1,3 @@
 {
-  "conditions": [
-    {
-      "prop": "recipes_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "cauldron_recipes",
-      "type": "inspirations:config"
-    }
-  ],
   "type": "inspirations:cauldron_remove_banner_pattern"
 }

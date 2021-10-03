@@ -11,7 +11,6 @@ Finished stuff will be removed from this list.
 - Work over Minecolonies schematics
 - Work over Minecolonies recipes
 - Work over Minecolonies researches
-- Work over cauldron recipes
 - Work over TiC books
 - Work over translations
 - Finish debug keybind mod

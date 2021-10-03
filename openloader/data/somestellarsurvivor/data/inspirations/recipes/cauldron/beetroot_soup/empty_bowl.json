@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "prop": "recipes_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "cauldron_fluids",
-      "type": "inspirations:config"
-    }
-  ],
   "input": {
     "contents": {
       "name": "inspirations:beetroot_soup",
@@ -18,7 +8,7 @@
       "item": "minecraft:beetroot_soup"
     },
     "level": {
-      "max": 11
+      "max": 8
     }
   },
   "output": {

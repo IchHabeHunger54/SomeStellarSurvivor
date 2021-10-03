@@ -1,14 +1,4 @@
 {
-  "conditions": [
-    {
-      "prop": "recipes_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "cauldron_recipes",
-      "type": "inspirations:config"
-    }
-  ],
   "input": {
     "contents": {
       "name": "minecraft:water",
@@ -20,7 +10,7 @@
       "type": "forge:nbt"
     },
     "level": {
-      "max": 11
+      "max": 8
     }
   },
   "output": {

@@ -1,10 +1,4 @@
 {
-  "conditions": [
-    {
-      "prop": "recipes_module",
-      "type": "inspirations:config"
-    }
-  ],
   "ingredients": [
     {
       "item": "minecraft:bowl"

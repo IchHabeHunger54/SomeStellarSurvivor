@@ -1,15 +1,5 @@
 {
   "color": "f38baa",
-  "conditions": [
-    {
-      "prop": "recipes_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "cauldron_dyeing",
-      "type": "inspirations:config"
-    }
-  ],
   "ingredient": {
     "item": "inspirations:pink_dyed_bottle"
   },

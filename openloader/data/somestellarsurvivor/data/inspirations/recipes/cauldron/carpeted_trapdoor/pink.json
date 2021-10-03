@@ -1,18 +1,4 @@
 {
-  "conditions": [
-    {
-      "prop": "recipes_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "cauldron_dyeing",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "carpeted_trapdoor",
-      "type": "inspirations:config"
-    }
-  ],
   "input": {
     "contents": {
       "name": "pink",

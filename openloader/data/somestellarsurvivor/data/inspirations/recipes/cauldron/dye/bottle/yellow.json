@@ -1,15 +1,5 @@
 {
   "color": "fed83d",
-  "conditions": [
-    {
-      "prop": "recipes_module",
-      "type": "inspirations:config"
-    },
-    {
-      "prop": "cauldron_dyeing",
-      "type": "inspirations:config"
-    }
-  ],
   "ingredient": {
     "item": "inspirations:yellow_dyed_bottle"
   },
