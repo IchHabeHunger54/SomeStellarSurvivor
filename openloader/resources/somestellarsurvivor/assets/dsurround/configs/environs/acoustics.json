@@ -41,7 +41,7 @@
   },
   "biome/ocean/deep": {
     "name": "environs:ocean",
-    "pitch": 70,
+    "pitch": 75,
     "repeatable": true
   },
   "biome/ocean/deep/under": {
@@ -92,7 +92,7 @@
   "biome/wind/desert": {
     "name": "environs:desert.wind",
     "repeatable": true,
-    "volume": 15
+    "volume": 20
   },
   "biome/wind/hills": {
     "name": "environs:wind",
@@ -104,60 +104,21 @@
     "name": "environs:wind",
     "repeatable": true
   },
-  "dimension/nether": {
-    "category": "biomes",
-    "name": "environs:dimension.nether",
-    "repeatable": true
-  },
-  "dimension/theend": {
-    "category": "biomes",
-    "name": "environs:theend",
-    "repeatable": true
-  },
-  "netherbrick/breathing": {
-    "name": "environs:breathing",
-    "pitch_max": 120,
-    "pitch_min": 80
-  },
+  "dimension/nether": "",
+  "dimension/theend": "",
+  "netherbrick/breathing": "",
   "none": "",
-  "soulsand/laughter": {
-    "name": "environs:soulsand",
-    "pitch_max": 120,
-    "pitch_min": 60
-  },
+  "soulsand/laughter": "",
   "steam.hiss": {
     "category": "ambient",
     "name": "minecraft:block.fire.extinguish",
     "vol_max": 12,
     "vol_min": 8
   },
-  "village/anvil": {
-    "category": "biomes",
-    "name": "environs:village.anvil",
-    "repeat_delay_max": 2400,
-    "repeat_delay_min": 1200,
-    "repeatable": true
-  },
-  "village/dogbark": {
-    "category": "biomes",
-    "name": "environs:village.dogbark",
-    "repeat_delay_max": 300,
-    "repeat_delay_min": 200,
-    "repeatable": true
-  },
-  "village/rooster": {
-    "category": "biomes",
-    "name": "environs:village.rooster",
-    "repeat_delay_max": 200,
-    "repeat_delay_min": 100,
-    "repeatable": true
-  },
-  "waterfall/0": {
-    "name": "environs:waterfall.0",
-    "pitch_max": 120,
-    "pitch_min": 80,
-    "repeatable": true
-  },
+  "village/anvil": "",
+  "village/dogbark": "",
+  "village/rooster": "",
+  "waterfall/0": "",
   "waterfall/1": {
     "name": "environs:waterfall.1",
     "pitch_max": 120,
@@ -188,21 +149,5 @@
     "pitch_min": 80,
     "repeatable": true
   },
-  "waterlily/frog": {
-    "array": [
-      "30",
-      {
-        "name": "environs:frog",
-        "pitch_max": 120,
-        "pitch_min": 80,
-        "vol_max": 100,
-        "vol_min": 60
-      },
-      "10",
-      {
-        "name": "environs:bullfrog"
-      }
-    ],
-    "type": "probability"
-  }
+  "waterlily/frog": ""
 }

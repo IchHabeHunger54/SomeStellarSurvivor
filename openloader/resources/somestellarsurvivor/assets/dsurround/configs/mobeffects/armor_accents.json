@@ -12,45 +12,16 @@
   "BOW": [
     "net.minecraft.item.BowItem"
   ],
-  "CHAIN": [
-    "minecraft:chainmail_boots",
-    "minecraft:chainmail_leggings",
-    "minecraft:chainmail_chestplate",
-    "minecraft:chainmail_helmet"
-  ],
+  "CHAIN": [],
   "CROSSBOW": [
     "net.minecraft.item.CrossbowItem"
   ],
-  "CRYSTAL": [
-    "minecraft:diamond_boots",
-    "minecraft:diamond_leggings",
-    "minecraft:diamond_chestplate",
-    "minecraft:diamond_helmet"
-  ],
-  "LEATHER": [
-    "minecraft:leather_boots",
-    "minecraft:leather_leggings",
-    "minecraft:leather_chestplate",
-    "minecraft:leather_helmet"
-  ],
-  "NETHERITE": [
-    "minecraft:netherite_boots",
-    "minecraft:netherite_leggings",
-    "minecraft:netherite_chestplate",
-    "minecraft:netherite_helmet"
-  ],
-  "PLATE": [
-    "minecraft:iron_boots",
-    "minecraft:iron_leggings",
-    "minecraft:iron_chestplate",
-    "minecraft:iron_helmet",
-    "minecraft:golden_boots",
-    "minecraft:golden_leggings",
-    "minecraft:golden_chestplate",
-    "minecraft:golden_helmet"
-  ],
+  "CRYSTAL": [],
+  "LEATHER": [],
+  "NETHERITE": [],
+  "PLATE": [],
   "POTION": [
-    "net.minecraft.item.PotionItem"
+    "minecraft:potion"
   ],
   "SHIELD": [
     "net.minecraft.item.ShieldItem"

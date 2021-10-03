@@ -1,6 +1,5 @@
 [
   {
-    "_comment": "Wind for Hills/Wasteland",
     "acoustics": [
       {
         "acoustic": "biome/wind/hills"
@@ -9,7 +8,6 @@
     "conditions": "!biome.isMountain && ((biome.isWasteland && !biome.isSwamp && !biome.isCold) || biome.isHills)"
   },
   {
-    "_comment": "Wind for Mountain",
     "acoustics": [
       {
         "acoustic": "biome/wind/mountains"
@@ -18,7 +16,6 @@
     "conditions": "biome.isMountain"
   },
   {
-    "_comment": "Desert Wind",
     "acoustics": [
       {
         "acoustic": "biome/wind/desert"
@@ -27,7 +24,6 @@
     "conditions": "biome.isSandy && biome.isDry && !(biome.isLush || biome.isHills || biome.isMountain || biome.isPlains)"
   },
   {
-    "_comment": "Arctic Wind",
     "acoustics": [
       {
         "acoustic": "biome/wind/arctic"
@@ -36,7 +32,6 @@
     "conditions": "biome.isCold && biome.isWasteland"
   },
   {
-    "_comment": "Basic Jungle and Tropical",
     "acoustics": [
       {
         "acoustic": "biome/jungle",
@@ -47,7 +42,6 @@
     "soundReset": true
   },
   {
-    "_comment": "Basic Savanna",
     "acoustics": [
       {
         "acoustic": "biome/savanna/day",
@@ -62,7 +56,6 @@
     "soundReset": true
   },
   {
-    "_comment": "Basic Plains",
     "acoustics": [
       {
         "acoustic": "biome/plains",
@@ -76,7 +69,6 @@
     "conditions": "biome.isPlains && !(biome.isSnowy || biome.isHot || biome.isForest)"
   },
   {
-    "_comment": "Basic Forest w/Crickets",
     "acoustics": [
       {
         "acoustic": "biome/forest",
@@ -90,7 +82,6 @@
     "conditions": "biome.isForest && !(biome.isDead || biome.isWasteland || biome.isDense || biome.isSwamp) && lib.isBetween(biome.temperature, 0.2, 1.0)"
   },
   {
-    "_comment": "Deep Forest w/Crickets",
     "acoustics": [
       {
         "acoustic": "biome/forest/deep",
@@ -104,7 +95,6 @@
     "conditions": "biome.isForest && biome.isDense && !(biome.isDead || biome.isWasteland || biome.isSwamp || biome.isJungle) && lib.isBetween(biome.temperature, 0.2, 1.0)"
   },
   {
-    "_comment": "Simple Forest",
     "acoustics": [
       {
         "acoustic": "biome/forest",
@@ -114,38 +104,19 @@
     "conditions": "biome.isForest && biome.isCold && !(biome.isSwamp || biome.isSnowy || biome.isDead || biome.isDense)"
   },
   {
-    "_comment": "Wolf",
-    "acoustics": [
-      {
-        "acoustic": "wolf",
-        "conditions": "weather.isNotRaining() && diurnal.isNight()",
-        "type": "spot"
-      }
-    ],
-    "conditions": "biome.isForest && !biome.isSwamp && (biome.isCold || biome.isSnowy || biome.isDead)"
-  },
-  {
-    "_comment": "Beach",
     "acoustics": [
       {
         "acoustic": "biome/beach"
-      },
-      {
-        "acoustic": "seagulls",
-        "conditions": "diurnal.isDay()",
-        "type": "spot"
       }
     ],
     "conditions": "biome.isBeach && !biome.isSnowy"
   },
   {
-    "_comment": "Frozen Ocean/Deep Frozen Ocean explicit set",
     "conditions": "lib.oneof(biome.id, 'minecraft:frozen_ocean', 'minecraft:deep_frozen_ocean')",
-    "fogColor": "220,219,223",
+    "fogColor": "219,219,223",
     "visibility": 0.4
   },
   {
-    "_comment": "River",
     "acoustics": [
       {
         "acoustic": "biome/river"
@@ -154,7 +125,6 @@
     "conditions": "biome.isRiver && !(biome.isSnowy || biome.isDry || biome.isOcean)"
   },
   {
-    "_comment": "Ocean background",
     "acoustics": [
       {
         "acoustic": "biome/ocean"
@@ -163,7 +133,6 @@
     "conditions": "biome.isOcean"
   },
   {
-    "_comment": "Deep Ocean explicit set",
     "acoustics": [
       {
         "acoustic": "biome/ocean/deep"
@@ -173,18 +142,15 @@
     "soundReset": true
   },
   {
-    "_comment": "Deep Frozen Ocean explicit set",
     "conditions": "biome.id == 'minecraft:deep_frozen_ocean'",
     "soundReset": true
   },
   {
-    "_comment": "Basic Swamp Fog",
     "conditions": "biome.isSwamp && !biome.isForest",
     "fogColor": "64,96,64",
     "visibility": 0.4
   },
   {
-    "_comment": "Basic Swamp Sounds",
     "acoustics": [
       {
         "acoustic": "biome/crickets"
@@ -193,7 +159,6 @@
     "conditions": "biome.isSwamp && !(biome.isForest || biome.isDead || biome.isCold)"
   },
   {
-    "_comment": "Special Swamps such as Fen, Bog, Marsh, etc.",
     "acoustics": [
       {
         "acoustic": "biome/bog",
@@ -209,12 +174,10 @@
     "visibility": 0.4
   },
   {
-    "_comment": "Dust for desert like biomes",
     "conditions": "biome.rainfall < 0.1 && (biome.isSandy || biome.isMesa || (biome.isWasteland && !(biome.isCold || biome.isSnowy || biome.isSwamp)))",
-    "fogColor": "255,234,151"
+    "fogColor": "255,239,143"
   },
   {
-    "_comment": "Coyote",
     "acoustics": [
       {
         "acoustic": "coyote",
@@ -222,21 +185,9 @@
         "type": "spot"
       }
     ],
-    "conditions": "!(biome.isOcean || biome.isRiver || biome.isNether || biome.isEnd || biome.isMushroom) && !(biome.isFake || biome.isSnowy || biome.isSwamp || biome.isJungle || biome.isBeach || biome.isWasteland || biome.isWet)"
+    "conditions": "!(biome.isOcean || biome.isRiver || biome.isMushroom) && !(biome.isFake || biome.isSnowy || biome.isSwamp || biome.isJungle || biome.isBeach || biome.isWasteland || biome.isWet)"
   },
   {
-    "_comment": "Crow",
-    "acoustics": [
-      {
-        "acoustic": "crow",
-        "conditions": "weather.isNotRaining() && diurnal.isDay()",
-        "type": "spot"
-      }
-    ],
-    "conditions": "!(biome.isOcean || biome.isRiver || biome.isNether || biome.isEnd) && !(biome.isFake || biome.isSnowy || biome.isJungle || biome.isHot || biome.isBeach)"
-  },
-  {
-    "_comment": "Owl",
     "acoustics": [
       {
         "acoustic": "owl",
@@ -244,10 +195,9 @@
         "type": "spot"
       }
     ],
-    "conditions": "!(biome.isOcean || biome.isRiver || biome.isNether || biome.isEnd) && !(biome.isFake || biome.isDry || biome.isJungle || biome.isHot || biome.isBeach || biome.isSwamp || biome.isWasteland)"
+    "conditions": "!(biome.isOcean || biome.isRiver) && !(biome.isFake || biome.isDry || biome.isJungle || biome.isHot || biome.isBeach || biome.isSwamp || biome.isWasteland)"
   },
   {
-    "_comment": "Birds",
     "acoustics": [
       {
         "acoustic": "bird",
@@ -263,7 +213,6 @@
     "conditions": "biome.isForest && !(biome.isHot || biome.isSwamp || biome.isDead || biome.isCold || biome.isOcean || biome.isWasteland || biome.isJungle)"
   },
   {
-    "_comment": "Woodpecker",
     "acoustics": [
       {
         "acoustic": "woodpecker",
@@ -271,10 +220,9 @@
         "type": "spot"
       }
     ],
-    "conditions": "biome.isForest && !(biome.isEnd || biome.isNether || biome.isOcean || biome.isRiver)"
+    "conditions": "biome.isForest && !(biome.isOcean || biome.isRiver)"
   },
   {
-    "_comment": "Raptors",
     "acoustics": [
       {
         "acoustic": "raptor",
@@ -282,10 +230,9 @@
         "type": "spot"
       }
     ],
-    "conditions": "!(biome.isMushroom || biome.isDead || biome.isSwamp || biome.isJungle || biome.isWasteland || biome.isOcean || biome.isSnowy || biome.isNether || biome.isEnd || biome.isFake)"
+    "conditions": "!(biome.isMushroom || biome.isDead || biome.isSwamp || biome.isJungle || biome.isWasteland || biome.isOcean || biome.isSnowy || biome.isFake)"
   },
   {
-    "_comment": "Loon",
     "acoustics": [
       {
         "acoustic": "loon",
@@ -296,28 +243,14 @@
     "conditions": "biome.isConiferous && !biome.isMountain"
   },
   {
-    "_comment": "Display aurora",
     "aurora": true,
-    "conditions": "(biome.isCold || biome.isSnowy) && !(biome.isDead || biome.isSwamp || biome.isEnd)"
+    "conditions": "(biome.isCold || biome.isSnowy) && !(biome.isDead || biome.isSwamp)"
   },
   {
-    "_comment": "Regular Nether",
-    "conditions": "biome.isNether",
-    "dust": true,
-    "dustColor": "255,0,0"
-  },
-  {
-    "_comment": "It's The End!",
-    "aurora": false,
-    "conditions": "biome.isEnd || biome.name == 'The Void'",
-    "soundReset": true
-  },
-  {
-    "_comment": "Underground explicit set",
     "acoustics": [
       {
         "acoustic": "biome/underground",
-        "conditions": "state.isInside() && player.getY() < 50"
+        "conditions": "state.isInside() && player.getY() < 48"
       },
       {
         "acoustic": "rockfall",
@@ -333,13 +266,12 @@
         "acoustic": "monstergrowl",
         "conditions": "diurnal.isNight()",
         "type": "spot",
-        "weight": 10
+        "weight": 5
       }
     ],
     "conditions": "biome.name == 'Underground'"
   },
   {
-    "_comment": "Under Ocean explicit set",
     "acoustics": [
       {
         "acoustic": "biome/ocean/under"
@@ -348,7 +280,6 @@
     "conditions": "biome.name == 'UnderOCN'"
   },
   {
-    "_comment": "Under Deep Ocean explicit set",
     "acoustics": [
       {
         "acoustic": "biome/ocean/deep/under"
@@ -361,7 +292,6 @@
     "conditions": "biome.name == 'UnderDOCN'"
   },
   {
-    "_comment": "Under River explicit set",
     "acoustics": [
       {
         "acoustic": "biome/river/under"
@@ -370,7 +300,6 @@
     "conditions": "biome.name == 'UnderRVR'"
   },
   {
-    "_comment": "Underwater explicit set",
     "acoustics": [
       {
         "acoustic": "biome/water/under"
@@ -379,7 +308,6 @@
     "conditions": "biome.name == 'Underwater'"
   },
   {
-    "_comment": "Clouds explicit set",
     "acoustics": [
       {
         "acoustic": "biome/wind"
@@ -388,35 +316,6 @@
     "conditions": "biome.name == 'Clouds'"
   },
   {
-    "_comment": "Village explicit set",
-    "acoustics": [
-      {
-        "acoustic": "village/rooster",
-        "conditions": "state.isInVillage() && !state.isInside() && diurnal.isSunrise() && weather.isNotRaining()"
-      },
-      {
-        "acoustic": "village/anvil",
-        "conditions": "state.isInVillage() && !state.isInside() && diurnal.isDay() && weather.isNotRaining()"
-      },
-      {
-        "acoustic": "village/dogbark",
-        "conditions": "state.isInVillage() && !state.isInside() && weather.isNotRaining()"
-      }
-    ],
-    "conditions": "biome.name == 'Village'"
-  },
-  {
-    "_comment": "Player explicit set for The End",
-    "acoustics": [
-      {
-        "acoustic": "dimension/theend",
-        "conditions": "dim.getId() == 'minecraft:the_end'"
-      }
-    ],
-    "conditions": "biome.name == 'Player' && !lib.isModLoaded('betterendforge')"
-  },
-  {
-    "_comment": "Mesa dust color specific override",
     "conditions": "lib.oneof(biome.id, 'minecraft:mesa', 'minecraft:mesa_clear_rock', 'minecraft:mesa_rock')",
     "fogColor": "215,125,47"
   }

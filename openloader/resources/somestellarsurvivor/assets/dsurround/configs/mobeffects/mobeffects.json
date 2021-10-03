@@ -5,101 +5,17 @@
     ],
     "effects": "bow,swing,footprint"
   },
-  "minecraft:evoker": {
-    "effects": "bow,swing,footprint,breath"
-  },
-  "minecraft:husk": {
-    "blockedSounds": [
-      "entity.husk.step"
-    ],
-    "effects": "bow,swing,footprint"
-  },
-  "minecraft:illusioner": {
-    "effects": "bow,swing,footprint,breath"
-  },
-  "minecraft:piglin": {
-    "blockedSounds": [
-      "entity.piglin.step"
-    ],
-    "effects": "bow,swing,footprint"
-  },
-  "minecraft:piglin_brute": {
-    "blockedSounds": [
-      "entity.piglin_brute.step"
-    ],
-    "effects": "bow,swing,footprint"
-  },
-  "minecraft:pillager": {
-    "blockedSounds": [
-      "entity.villager.step"
-    ],
-    "effects": "bow,swing,footprint,breath"
-  },
   "minecraft:player": {
     "effects": "bow,swing,footprint,breath,toolbar",
     "variator": "player"
   },
-  "minecraft:skeleton": {
-    "blockedSounds": [
-      "entity.skeleton.step"
-    ],
-    "effects": "bow,swing,footprint,chat",
-    "variator": "minecraft:skeleton"
-  },
   "minecraft:squid": {
     "effects": "chat"
-  },
-  "minecraft:stray": {
-    "blockedSounds": [
-      "entity.stray.step"
-    ],
-    "effects": "bow,swing,footprint",
-    "variator": "minecraft:skeleton"
-  },
-  "minecraft:villager": {
-    "blockedSounds": [
-      "entity.villager.step"
-    ],
-    "effects": "bow,swing,footprint,breath,chat"
-  },
-  "minecraft:vindicator": {
-    "effects": "bow,swing,footprint,breath"
-  },
-  "minecraft:wandering_trader": {
-    "blockedSounds": [
-      "entity.villager.step"
-    ],
-    "effects": "bow,swing,footprint,breath,chat"
-  },
-  "minecraft:witch": {
-    "blockedSounds": [
-      "entity.witch.step"
-    ],
-    "effects": "footprint,breath,chat"
-  },
-  "minecraft:wither_skeleton": {
-    "blockedSounds": [
-      "entity.wither_skeleton.step"
-    ],
-    "effects": "bow,swing,footprint",
-    "variator": "minecraft:skeleton"
   },
   "minecraft:zombie": {
     "blockedSounds": [
       "entity.zombie.step"
     ],
     "effects": "bow,swing,footprint,chat"
-  },
-  "minecraft:zombie_villager": {
-    "blockedSounds": [
-      "entity.zombie_villager.step"
-    ],
-    "effects": "bow,swing,footprint"
-  },
-  "minecraft:zombified_piglin": {
-    "blockedSounds": [
-      "entity.zombie.step"
-    ],
-    "effects": "bow,swing,footprint"
   }
 }
