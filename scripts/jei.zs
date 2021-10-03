@@ -559,6 +559,7 @@ var hide = [
     <item:minecraft:iron_chestplate>,
     <item:minecraft:iron_helmet>,
     <item:minecraft:iron_hoe>,
+    <item:minecraft:iron_horse_armor>,
     <item:minecraft:iron_leggings>,
     <item:minecraft:iron_pickaxe>,
     <item:minecraft:iron_shovel>,
