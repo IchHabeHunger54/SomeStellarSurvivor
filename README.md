@@ -8,7 +8,7 @@ I hope you enjoy it!
 
 ## Reporting a bug
 
-Nobody is perfect. Not you, not me. Because of this, I expect bugs to occur. If you find one, I urge you to join my Discord (TODO: discord link) and report it there, in order to make sure it actually is a mistake on my side, not on yours. Once I approve it, please open an issue here on GitHub.
+Nobody is perfect. Not you, not me. Because of this, I expect bugs to occur. If you find one, I urge you to join my Discord (https://discord.gg/GM6XSqM) and report it there, in order to make sure it actually is a mistake on my side, not on yours. Once I approve it, please open an issue here on GitHub.
 
 ## Contributing to the pack
 

@@ -3,10 +3,6 @@
 Finished stuff will be removed from this list.
 
 - Add new stairs (Smooth Stone, Cut Sandstone, Cut Red Sandstone)
-- Add Entity Culling mod
-- Add Roadrunner mod
-- Add Halogen mod (?)
-- Add MCMT (?) (See also: https://www.reddit.com/r/feedthebeast/comments/onukw9/i_made_mcmt_and_sodium_reforged_work_together/)
 - Work over Biome colors
 - Work over Minecolonies schematics
 - Work over Minecolonies recipes
