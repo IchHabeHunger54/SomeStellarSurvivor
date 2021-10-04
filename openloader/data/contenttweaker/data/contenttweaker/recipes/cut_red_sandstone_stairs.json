@@ -1,0 +1,17 @@
+{
+  "key": {
+    "#": {
+      "item": "minecraft:cut_red_sandstone"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "contenttweaker:cut_red_sandstone_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

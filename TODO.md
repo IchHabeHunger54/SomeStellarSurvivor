@@ -2,7 +2,6 @@
 
 Finished stuff will be removed from this list.
 
-- Add new stairs (Smooth Stone, Cut Sandstone, Cut Red Sandstone)
 - Work over Biome colors
 - Work over Minecolonies schematics
 - Work over Minecolonies recipes
