@@ -1,15 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "tconstruct:nahuatl"
-    }
-  },
-  "pattern": [
-    "BBB"
-  ],
-  "result": {
-    "count": 6,
-    "item": "tconstruct:nahuatl_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"conditions":[{"type":"forge:false"}]}

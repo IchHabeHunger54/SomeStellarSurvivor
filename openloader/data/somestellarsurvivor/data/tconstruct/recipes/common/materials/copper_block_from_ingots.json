@@ -2,14 +2,11 @@
   "key": {
     "#": {
       "item": "tconstruct:copper_ingot"
-    },
-    "*": {
-      "item": "tconstruct:copper_ingot"
     }
   },
   "pattern": [
     "###",
-    "#*#",
+    "###",
     "###"
   ],
   "result": {

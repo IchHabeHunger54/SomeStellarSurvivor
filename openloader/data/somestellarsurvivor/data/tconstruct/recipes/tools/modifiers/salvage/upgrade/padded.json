@@ -1,10 +1,12 @@
 {
   "min_level": 1,
   "modifier": "tconstruct:padded",
-  "salvage": {
-    "full": false,
-    "item": "minecraft:white_wool"
-  },
+  "salvage": [
+    {
+      "full": false,
+      "item": "minecraft:white_wool"
+    }
+  ],
   "slots": {
     "upgrades": 1
   },

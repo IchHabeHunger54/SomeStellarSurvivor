@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "tconstruct:slimesteel_block"
-    }
-  ],
-  "result": {
-    "count": 9,
-    "item": "tconstruct:slimesteel_ingot"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"conditions":[{"type":"forge:false"}]}

@@ -1,7 +1,9 @@
 {
-  "input": {
-    "item": "tconstruct:tinkers_bronze_ingot"
-  },
+  "inputs": [
+    {
+      "item": "tconstruct:tinkers_bronze_ingot"
+    }
+  ],
   "max_level": 1,
   "result": {
     "level": 1,

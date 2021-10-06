@@ -2,14 +2,11 @@
   "key": {
     "#": {
       "item": "tconstruct:manyullyn_ingot"
-    },
-    "*": {
-      "item": "tconstruct:manyullyn_ingot"
     }
   },
   "pattern": [
     "###",
-    "#*#",
+    "###",
     "###"
   ],
   "result": {

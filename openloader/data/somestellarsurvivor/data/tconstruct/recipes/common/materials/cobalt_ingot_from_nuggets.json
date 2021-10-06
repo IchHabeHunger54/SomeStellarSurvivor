@@ -2,14 +2,11 @@
   "key": {
     "#": {
       "tag": "forge:nuggets/cobalt"
-    },
-    "*": {
-      "item": "tconstruct:cobalt_nugget"
     }
   },
   "pattern": [
     "###",
-    "#*#",
+    "###",
     "###"
   ],
   "result": {

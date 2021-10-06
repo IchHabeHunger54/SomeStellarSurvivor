@@ -2,14 +2,11 @@
   "key": {
     "#": {
       "tag": "forge:nuggets/manyullyn"
-    },
-    "*": {
-      "item": "tconstruct:manyullyn_nugget"
     }
   },
   "pattern": [
     "###",
-    "#*#",
+    "###",
     "###"
   ],
   "result": {

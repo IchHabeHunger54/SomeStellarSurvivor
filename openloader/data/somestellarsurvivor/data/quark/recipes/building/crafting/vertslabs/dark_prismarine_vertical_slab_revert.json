@@ -1,0 +1,11 @@
+{
+  "ingredients": [
+    {
+      "item": "quark:dark_prismarine_vertical_slab"
+    }
+  ],
+  "result": {
+    "item": "minecraft:dark_prismarine_slab"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

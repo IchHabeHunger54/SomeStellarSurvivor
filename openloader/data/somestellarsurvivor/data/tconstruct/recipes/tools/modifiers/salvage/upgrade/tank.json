@@ -1,10 +1,12 @@
 {
   "min_level": 1,
   "modifier": "tconstruct:tank",
-  "salvage": {
-    "full": false,
-    "item": "tconstruct:seared_fuel_tank"
-  },
+  "salvage": [
+    {
+      "full": false,
+      "item": "tconstruct:seared_fuel_tank"
+    }
+  ],
   "slots": {
     "upgrades": 1
   },

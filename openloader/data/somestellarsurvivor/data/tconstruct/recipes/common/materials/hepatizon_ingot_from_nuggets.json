@@ -2,14 +2,11 @@
   "key": {
     "#": {
       "tag": "forge:nuggets/hepatizon"
-    },
-    "*": {
-      "item": "tconstruct:hepatizon_nugget"
     }
   },
   "pattern": [
     "###",
-    "#*#",
+    "###",
     "###"
   ],
   "result": {

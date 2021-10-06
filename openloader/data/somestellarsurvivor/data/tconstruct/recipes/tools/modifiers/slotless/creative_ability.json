@@ -1,15 +1,1 @@
-{
-  "inputs": [
-    {
-      "item": "tconstruct:creative_ability"
-    }
-  ],
-  "result": {
-    "level": 1,
-    "name": "tconstruct:creative_ability"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable"
-  },
-  "type": "tconstruct:modifier"
-}
+{"conditions":[{"type":"forge:false"}]}

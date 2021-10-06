@@ -1,7 +1,9 @@
 {
-  "input": {
-    "item": "minecraft:leather"
-  },
+  "inputs": [
+    {
+      "item": "minecraft:leather"
+    }
+  ],
   "max_level": 1,
   "needed_per_level": 64,
   "result": {

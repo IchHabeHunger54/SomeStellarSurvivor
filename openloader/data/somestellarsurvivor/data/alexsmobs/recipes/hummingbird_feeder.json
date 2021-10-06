@@ -7,7 +7,7 @@
       "item": "minecraft:glass_bottle"
     },
     "P": {
-      "item": "minecraft:iron_ingot"
+      "item": "tconstruct:copper_ingot"
     }
   },
   "pattern": [

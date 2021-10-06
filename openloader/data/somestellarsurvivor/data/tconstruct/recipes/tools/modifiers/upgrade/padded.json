@@ -1,7 +1,9 @@
 {
-  "input": {
-    "tag": "minecraft:wool"
-  },
+  "inputs": [
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
   "max_level": 3,
   "needed_per_level": 64,
   "result": {

@@ -2,14 +2,11 @@
   "key": {
     "#": {
       "tag": "forge:nuggets/copper"
-    },
-    "*": {
-      "item": "tconstruct:copper_nugget"
     }
   },
   "pattern": [
     "###",
-    "#*#",
+    "###",
     "###"
   ],
   "result": {

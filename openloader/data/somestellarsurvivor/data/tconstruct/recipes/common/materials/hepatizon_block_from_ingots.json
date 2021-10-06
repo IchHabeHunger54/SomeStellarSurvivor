@@ -2,14 +2,11 @@
   "key": {
     "#": {
       "item": "tconstruct:hepatizon_ingot"
-    },
-    "*": {
-      "item": "tconstruct:hepatizon_ingot"
     }
   },
   "pattern": [
     "###",
-    "#*#",
+    "###",
     "###"
   ],
   "result": {
