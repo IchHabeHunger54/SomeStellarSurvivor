@@ -1,1 +1,11 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "ingredients": [
+    {
+      "item": "quark:vanilla_basalt_bricks_slab"
+    }
+  ],
+  "result": {
+    "item": "quark:vanilla_basalt_bricks_slab"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

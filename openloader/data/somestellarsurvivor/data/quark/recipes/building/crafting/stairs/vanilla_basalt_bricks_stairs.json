@@ -1,1 +1,17 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "key": {
+    "#": {
+      "item": "quark:mossy_cobblestone_bricks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "quark:mossy_cobblestone_bricks_stairs"
+  },
+  "type": "minecraft:crafting_shaped"
+}

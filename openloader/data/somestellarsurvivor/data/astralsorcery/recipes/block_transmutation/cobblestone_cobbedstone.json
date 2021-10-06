@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "quark:cobbedstone"
+  },
+  "input": [
+    {
+      "block": "minecraft:cobblestone",
+      "display": {
+        "item": "minecraft:cobblestone"
+      }
+    }
+  ],
+  "output": {
+    "block": "minecraft:cobbedstone"
+  },
+  "starlight": 400,
+  "type": "astralsorcery:block_transmutation"
+}

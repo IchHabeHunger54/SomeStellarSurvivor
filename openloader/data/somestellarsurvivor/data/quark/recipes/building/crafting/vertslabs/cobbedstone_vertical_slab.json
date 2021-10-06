@@ -1,1 +1,11 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "ingredients": [
+    {
+      "item": "quark:cobbedstone_slab"
+    }
+  ],
+  "result": {
+    "item": "quark:cobbedstone_vertical_slab"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

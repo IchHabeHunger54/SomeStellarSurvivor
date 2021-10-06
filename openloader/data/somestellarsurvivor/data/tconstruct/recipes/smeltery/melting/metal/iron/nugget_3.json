@@ -1,7 +1,15 @@
 {
-  "ingredient": {
-    "item": "minecraft:iron_bars"
-  },
+  "ingredient": [
+    {
+      "item": "minecraft:iron_bars"
+    },
+    {
+      "item": "aquaculture:tin_can"
+    },
+    {
+      "item": "minecolonies:iron_scimitar"
+    }
+  ],
   "result": {
     "amount": 48,
     "fluid": "tconstruct:molten_iron"

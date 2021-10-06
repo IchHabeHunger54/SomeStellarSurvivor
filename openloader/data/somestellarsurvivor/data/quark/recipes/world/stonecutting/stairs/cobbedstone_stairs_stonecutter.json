@@ -1,1 +1,8 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "count": 1,
+  "ingredient": {
+    "item": "quark:cobbedstone"
+  },
+  "result": "quark:cobbedstone_stairs",
+  "type": "minecraft:stonecutting"
+}

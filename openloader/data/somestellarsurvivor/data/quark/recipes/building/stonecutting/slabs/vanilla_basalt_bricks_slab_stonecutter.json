@@ -1,1 +1,8 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "count": 2,
+  "ingredient": {
+    "item": "quark:vanilla_basalt_bricks"
+  },
+  "result": "quark:vanilla_basalt_bricks_slab",
+  "type": "minecraft:stonecutting"
+}

@@ -1,1 +1,16 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "key": {
+    "#": {
+      "item": "quark:vanilla_basalt_bricks"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "quark:vanilla_basalt_bricks_wall"
+  },
+  "type": "minecraft:crafting_shaped"
+}
