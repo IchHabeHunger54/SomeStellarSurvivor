@@ -15,7 +15,6 @@ Finished stuff will be removed from this list.
 - Configure Pack Menu
 - Configure Property Modifier
 - Fix stronghold issue
-- Fix XP drops
 - Write intro book
 - Disable mob equipment
 - Tooltip Removal
