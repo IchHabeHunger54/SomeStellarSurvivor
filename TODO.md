@@ -8,7 +8,6 @@ Finished stuff will be removed from this list.
 - Work over Minecolonies researches
 - Work over TiC books
 - Work over translations
-- Slab reverting
 - Finish debug keybind mod
 - Finish keybind sorting mod
 - Configure BetterF3
