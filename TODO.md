@@ -14,6 +14,7 @@ Finished stuff will be removed from this list.
 - Configure BetterF3
 - Configure Pack Menu
 - Configure Property Modifier
+- Set food values
 - Fix stronghold issue
 - Write intro book
 - Disable mob equipment

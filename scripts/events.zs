@@ -1,3 +1,7 @@
+import crafttweaker.api.events.CTEventManager;
+import crafttweaker.api.event.block.MCBlockBreakEvent;
+import crafttweaker.api.event.entity.living.MCLivingExperienceDropEvent;
+import crafttweaker.api.player.MCPlayerEntity;
 CTEventManager.register<MCBlockBreakEvent>((event) => {
     event.setExpToDrop(0);
 });
