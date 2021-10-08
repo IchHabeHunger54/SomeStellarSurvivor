@@ -24,7 +24,7 @@ Starting into the modpack, you will encounter many optical enhancements. Dynamic
 
 That's right. Drinking is essential in this pack. For the beginning, right-clicking still water will do. Later, you will want to look into purifying water using a **Water Purifier** and making canteens.
 
-Another thing you will note for sure is that the usual tools do not exist. Instead, you need to craft your tool parts at a **Part Builder** and put them together at a **Tool Station**.
+Another thing you will note for sure is that the usual tools do not exist. Instead, you need to craft your tool parts at a **Part Builder** and put them together at a **Tinker Station**.
 
 Next up, mining. Keep in mind that **the deeper you go, the harder the blocks get**. I recommend only breaking about half a stack of stone, because it will take some time until you are able to smelt ores.
 

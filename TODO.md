@@ -15,7 +15,6 @@ Finished stuff will be removed from this list.
 - Configure Property Modifier
 - Set food values
 - Fix stronghold issue
-- Write intro book
 - Disable mob equipment
 - Tooltip Removal
 - Tempban feature
