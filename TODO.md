@@ -2,7 +2,8 @@
 
 Finished stuff will be removed from this list.
 
-- Work over Biome colors
+- Work over biome colors
+- (?) Rework biomes entirely
 - Work over Minecolonies schematics
 - Work over Minecolonies recipes
 - Work over Minecolonies researches
@@ -11,7 +12,6 @@ Finished stuff will be removed from this list.
 - Finish debug keybind mod
 - Finish keybind sorting mod
 - Configure BetterF3
-- Configure Pack Menu
 - Configure Property Modifier
 - Set food values
 - Fix stronghold issue
