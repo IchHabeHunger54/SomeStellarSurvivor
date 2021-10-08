@@ -117,5 +117,55 @@
     ],
     "onjoin": true,
     "result": "deny"
+  },
+  {
+    "armorboots": {
+      "empty": true
+    },
+    "armorchest": {
+      "empty": true
+    },
+    "armorhelmet": {
+      "empty": true
+    },
+    "armorlegs": {
+      "empty": true
+    },
+    "continue": true,
+    "helditem": {
+      "empty": true
+    },
+    "mob": "minecraft:drowned",
+    "onjoin": true,
+    "result": "default"
+  },
+  {
+    "helditem": {
+      "item": "minecraft:trident"
+    },
+    "mob": "minecraft:drowned",
+    "onjoin": true,
+    "random": 0.1,
+    "result": "default"
+  },
+  {
+    "armorboots": {
+      "empty": true
+    },
+    "armorchest": {
+      "empty": true
+    },
+    "armorhelmet": {
+      "empty": true
+    },
+    "armorlegs": {
+      "empty": true
+    },
+    "helditem": {
+      "empty": true
+    },
+    "mob": "minecraft:zombie",
+    "onjoin": true,
+    "result": "default"
   }
 ]
