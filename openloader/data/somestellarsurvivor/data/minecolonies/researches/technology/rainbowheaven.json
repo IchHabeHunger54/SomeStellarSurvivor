@@ -5,7 +5,7 @@
       "minecolonies:effects/blockhutdyer": 1
     }
   ],
-  "icon": "minecolonies:blockhutcomposter",
+  "icon": "minecolonies:blockhutdyer",
   "parentResearch": "minecolonies:technology/flowerpower",
   "requirements": [
     {

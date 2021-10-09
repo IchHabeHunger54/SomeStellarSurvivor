@@ -6,7 +6,7 @@
     }
   ],
   "icon": "minecraft:chest",
-  "parentResearch": "minecolonies:technology/sieving",
+  "parentResearch": "minecolonies:technology/woodwork",
   "requirements": [
     {
       "building": "miner",
@@ -17,5 +17,5 @@
       "quantity": 16
     }
   ],
-  "researchLevel": 3
+  "researchLevel": 2
 }

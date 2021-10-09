@@ -13,9 +13,8 @@
     },
     {
       "item": "minecraft:book",
-      "quantity": 3
+      "quantity": 1
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 2
+  "researchLevel": 1
 }

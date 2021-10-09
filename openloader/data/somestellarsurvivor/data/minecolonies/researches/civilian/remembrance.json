@@ -13,9 +13,8 @@
     },
     {
       "item": "minecraft:bone",
-      "quantity": 8
+      "quantity": 1
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 6
+  "researchLevel": 1
 }

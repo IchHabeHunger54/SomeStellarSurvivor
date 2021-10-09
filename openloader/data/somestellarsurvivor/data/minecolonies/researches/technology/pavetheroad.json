@@ -6,17 +6,16 @@
     }
   ],
   "icon": "minecolonies:blockhutconcretemixer",
-  "parentResearch": "minecolonies:technology/rockingroll",
+  "parentResearch": "minecolonies:technology/stonecake",
   "requirements": [
     {
-      "building": "crusher",
+      "building": "stonemason",
       "level": 1
     },
     {
       "item": "minecraft:white_concrete",
-      "quantity": 32
+      "quantity": 64
     }
   ],
-  "researchLevel": 3,
-  "sortOrder": 2
+  "researchLevel": 2
 }

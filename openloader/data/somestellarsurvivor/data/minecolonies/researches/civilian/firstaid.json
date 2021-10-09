@@ -8,14 +8,9 @@
   "icon": "minecraft:hay_block",
   "requirements": [
     {
-      "building": "townhall",
-      "level": 1
-    },
-    {
       "item": "minecraft:hay_block",
-      "quantity": 8
+      "quantity": 1
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 3
+  "researchLevel": 1
 }

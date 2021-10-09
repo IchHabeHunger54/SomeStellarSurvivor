@@ -6,7 +6,7 @@
     }
   ],
   "icon": "minecraft:redstone",
-  "parentResearch": "minecolonies:technology/hot",
+  "parentResearch": "minecolonies:technology/stonecake",
   "requirements": [
     {
       "item": "minecraft:redstone",

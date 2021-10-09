@@ -18,12 +18,7 @@
     {
       "item": "minecraft:bone",
       "quantity": 8
-    },
-    {
-      "item": "minecraft:spider_eye",
-      "quantity": 8
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 5
+  "researchLevel": 1
 }

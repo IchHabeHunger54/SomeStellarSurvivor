@@ -6,7 +6,7 @@
     }
   ],
   "icon": "minecolonies:blockhutglassblower",
-  "parentResearch": "minecolonies:technology/hot",
+  "parentResearch": "minecolonies:technology/stonecake",
   "requirements": [
     {
       "building": "smeltery",

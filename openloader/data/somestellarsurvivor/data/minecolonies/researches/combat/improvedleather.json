@@ -5,17 +5,12 @@
       "minecolonies:effects/armordurabilitymultiplier": 1
     }
   ],
-  "icon": "minecraft:leather_helmet",
+  "icon": "minecraft:leather",
   "requirements": [
-    {
-      "building": "townhall",
-      "level": 1
-    },
     {
       "item": "minecraft:leather",
       "quantity": 32
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 4
+  "researchLevel": 1
 }

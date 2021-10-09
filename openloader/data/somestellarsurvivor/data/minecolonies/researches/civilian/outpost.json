@@ -17,5 +17,6 @@
       "quantity": 64
     }
   ],
-  "researchLevel": 2
+  "researchLevel": 2,
+  "sortOrder": 2
 }

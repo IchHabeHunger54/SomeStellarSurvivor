@@ -6,7 +6,7 @@
     }
   ],
   "exclusiveChildResearch": true,
-  "icon": "minecraft:lime_bed",
+  "icon": "minecraft:iron_ingot",
   "requirements": [
     {
       "building": "guardtower",
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:iron_ingot",
-      "quantity": 16
+      "quantity": 1
     }
   ],
   "researchLevel": 1

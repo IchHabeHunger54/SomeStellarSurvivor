@@ -10,13 +10,12 @@
   "requirements": [
     {
       "building": "citizen",
-      "level": 3
+      "level": 2
     },
     {
-      "item": "minecraft:book",
-      "quantity": 3
+      "item": "minecraft:bookshelf",
+      "quantity": 1
     }
   ],
-  "researchLevel": 1,
-  "sortOrder": 4
+  "researchLevel": 1
 }
