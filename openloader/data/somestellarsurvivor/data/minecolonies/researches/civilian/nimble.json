@@ -5,7 +5,7 @@
       "minecolonies:effects/walkingmultiplier": 1
     }
   ],
-  "icon": "minecolonies:textures/icons/research/speed1.png",
+  "icon": "minecraft:rabbit_foot",
   "parentResearch": "minecolonies:civilian/rails",
   "requirements": [
     {

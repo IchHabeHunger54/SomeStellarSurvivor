@@ -5,16 +5,16 @@
       "minecolonies:effects/workingdayhaddition": 2
     }
   ],
-  "icon": "minecraft:clock:2",
+  "icon": "minecraft:clock",
   "parentResearch": "minecolonies:civilian/nightowl",
   "requirements": [
     {
       "building": "townhall",
-      "level": 3
+      "level": 4
     },
     {
-      "item": "minecraft:golden_carrot",
-      "quantity": 75
+      "item": "minecraft:clock",
+      "quantity": 16
     }
   ],
   "researchLevel": 4,

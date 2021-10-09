@@ -5,7 +5,7 @@
       "minecolonies:effects/healingsaturationlimitaddition": 3
     }
   ],
-  "icon": "minecraft:splash_potion",
+  "icon": "minecraft:apple",
   "parentResearch": "minecolonies:civilian/resilience",
   "requirements": [
     {
@@ -13,7 +13,7 @@
       "level": 4
     },
     {
-      "item": "minecraft:golden_apple",
+      "item": "minecraft:apple",
       "quantity": 16
     }
   ],

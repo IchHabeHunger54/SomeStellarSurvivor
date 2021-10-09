@@ -5,7 +5,7 @@
       "minecolonies:effects/regenerationmultiplier": 4
     }
   ],
-  "icon": "minecolonies:textures/icons/research/regeneration4.png",
+  "icon": "minecraft:carrot",
   "parentResearch": "minecolonies:civilian/bandages",
   "requirements": [
     {
@@ -13,7 +13,7 @@
       "level": 5
     },
     {
-      "item": "minecraft:golden_carrot",
+      "item": "minecraft:carrot",
       "quantity": 32
     }
   ],

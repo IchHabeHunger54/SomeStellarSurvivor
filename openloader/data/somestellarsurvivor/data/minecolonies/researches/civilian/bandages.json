@@ -5,7 +5,7 @@
       "minecolonies:effects/regenerationmultiplier": 3
     }
   ],
-  "icon": "minecolonies:textures/icons/research/regeneration3.png",
+  "icon": "minecraft:carrot",
   "parentResearch": "minecolonies:civilian/healingcream",
   "requirements": [
     {
@@ -13,7 +13,7 @@
       "level": 4
     },
     {
-      "item": "minecraft:golden_carrot",
+      "item": "minecraft:carrot",
       "quantity": 16
     }
   ],

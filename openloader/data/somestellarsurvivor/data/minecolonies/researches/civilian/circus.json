@@ -5,7 +5,7 @@
       "minecolonies:effects/happinessmultiplier": 1
     }
   ],
-  "icon": "minecolonies:textures/icons/research/happy1.png",
+  "icon": "minecraft:cake",
   "parentResearch": "minecolonies:civilian/firstaid",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:cake",
-      "quantity": 1
+      "quantity": 4
     }
   ],
   "researchLevel": 2,

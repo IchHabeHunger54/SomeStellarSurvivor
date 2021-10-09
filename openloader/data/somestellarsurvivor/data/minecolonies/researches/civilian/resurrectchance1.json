@@ -5,7 +5,7 @@
       "minecolonies:effects/resurrectchanceaddition": 1
     }
   ],
-  "icon": "minecolonies:blockhutgraveyard",
+  "icon": "minecraft:bone",
   "parentResearch": "minecolonies:civilian/remembrance",
   "requirements": [
     {
@@ -13,8 +13,8 @@
       "level": 3
     },
     {
-      "item": "minecraft:ghast_tear",
-      "quantity": 1
+      "item": "minecraft:bone",
+      "quantity": 64
     }
   ],
   "researchLevel": 2

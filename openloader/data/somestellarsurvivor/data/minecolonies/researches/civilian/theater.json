@@ -5,12 +5,12 @@
       "minecolonies:effects/happinessmultiplier": 5
     }
   ],
-  "icon": "minecolonies:textures/icons/research/happy5.png",
+  "icon": "minecraft:cookie",
   "parentResearch": "minecolonies:civilian/opera",
   "requirements": [
     {
-      "item": "minecraft:enchanted_golden_apple",
-      "quantity": 16
+      "item": "minecraft:cake",
+      "quantity": 64
     }
   ],
   "researchLevel": 6

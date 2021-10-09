@@ -5,7 +5,7 @@
       "minecolonies:effects/citizencapaddition": 3
     }
   ],
-  "icon": "minecolonies:blockhutcitizen:100",
+  "icon": "minecraft:cooked_beef",
   "parentResearch": "minecolonies:civilian/hamlet",
   "requirements": [
     {

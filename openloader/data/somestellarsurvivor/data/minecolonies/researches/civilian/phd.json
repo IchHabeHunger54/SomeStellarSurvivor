@@ -5,7 +5,7 @@
       "minecolonies:effects/teachingmultiplier": 5
     }
   ],
-  "icon": "minecolonies:textures/icons/research/xpgain5.png",
+  "icon": "minecraft:bookshelf",
   "parentResearch": "minecolonies:civilian/master",
   "requirements": [
     {

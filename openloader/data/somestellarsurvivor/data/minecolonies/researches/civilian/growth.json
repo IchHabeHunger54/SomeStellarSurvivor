@@ -5,7 +5,7 @@
       "minecolonies:effects/growthmultiplier": 4
     }
   ],
-  "icon": "minecolonies:textures/icons/research/childgrowth4.png",
+  "icon": "minecraft:cooked_chicken",
   "parentResearch": "minecolonies:civilian/puberty",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:cooked_chicken",
-      "quantity": 256
+      "quantity": 32
     }
   ],
   "researchLevel": 5

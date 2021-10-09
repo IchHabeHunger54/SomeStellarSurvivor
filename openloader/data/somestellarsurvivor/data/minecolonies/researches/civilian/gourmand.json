@@ -5,7 +5,7 @@
       "minecolonies:effects/saturationmultiplier": 1
     }
   ],
-  "icon": "minecolonies:textures/icons/research/saturation1.png",
+  "icon": "minecraft:cookie",
   "parentResearch": "minecolonies:civilian/firstaid",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:cookie",
-      "quantity": 32
+      "quantity": 4
     }
   ],
   "researchLevel": 2,

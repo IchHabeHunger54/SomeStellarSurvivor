@@ -5,7 +5,7 @@
       "minecolonies:effects/railsunlock": 1
     }
   ],
-  "icon": "minecraft:detector_rail",
+  "icon": "minecraft:rail",
   "parentResearch": "minecolonies:civilian/keen",
   "requirements": [
     {

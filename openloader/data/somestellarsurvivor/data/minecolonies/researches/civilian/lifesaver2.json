@@ -5,7 +5,7 @@
       "minecolonies:effects/healthaddition": 4
     }
   ],
-  "icon": "minecolonies:textures/icons/research/hp4.png",
+  "icon": "minecraft:hay_block",
   "parentResearch": "minecolonies:civilian/lifesaver",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:hay_block",
-      "quantity": 64
+      "quantity": 32
     }
   ],
   "researchLevel": 4

@@ -5,7 +5,7 @@
       "minecolonies:effects/growthmultiplier": 1
     }
   ],
-  "icon": "minecolonies:textures/icons/research/childgrowth1.png",
+  "icon": "minecraft:cooked_chicken",
   "parentResearch": "minecolonies:civilian/higherlearning",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:cooked_chicken",
-      "quantity": 32
+      "quantity": 4
     }
   ],
   "researchLevel": 2,

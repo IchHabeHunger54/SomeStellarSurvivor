@@ -5,7 +5,7 @@
       "minecolonies:effects/resurrectchanceaddition": 2
     }
   ],
-  "icon": "minecolonies:blockhutgraveyard",
+  "icon": "minecraft:bone",
   "parentResearch": "minecolonies:civilian/resurrectchance1",
   "requirements": [
     {
@@ -13,8 +13,8 @@
       "level": 5
     },
     {
-      "item": "minecraft:chorus_fruit",
-      "quantity": 16
+      "item": "minecraft:bone",
+      "quantity": 128
     }
   ],
   "researchLevel": 3

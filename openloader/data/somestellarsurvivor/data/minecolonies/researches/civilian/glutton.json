@@ -5,12 +5,12 @@
       "minecolonies:effects/saturationmultiplier": 5
     }
   ],
-  "icon": "minecolonies:textures/icons/research/saturation5.png",
+  "icon": "minecraft:cookie",
   "parentResearch": "minecolonies:civilian/epicure",
   "requirements": [
     {
       "item": "minecraft:cookie",
-      "quantity": 512
+      "quantity": 64
     }
   ],
   "researchLevel": 6

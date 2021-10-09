@@ -5,11 +5,11 @@
       "minecolonies:effects/regenerationmultiplier": 5
     }
   ],
-  "icon": "minecolonies:textures/icons/research/regeneration5.png",
+  "icon": "minecraft:carrot",
   "parentResearch": "minecolonies:civilian/compress",
   "requirements": [
     {
-      "item": "minecraft:golden_carrot",
+      "item": "minecraft:carrot",
       "quantity": 64
     }
   ],

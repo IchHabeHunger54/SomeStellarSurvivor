@@ -5,7 +5,7 @@
       "minecolonies:effects/undertakerrun": 1
     }
   ],
-  "icon": "minecolonies:blockhutgraveyard",
+  "icon": "minecraft:bone",
   "parentResearch": "minecolonies:civilian/remembrance",
   "requirements": [
     {
@@ -13,8 +13,8 @@
       "level": 2
     },
     {
-      "item": "minecraft:iron_boots",
-      "quantity": 1
+      "item": "minecraft:bone",
+      "quantity": 32
     }
   ],
   "researchLevel": 2,

@@ -5,7 +5,7 @@
       "minecolonies:effects/happinessmultiplier": 4
     }
   ],
-  "icon": "minecolonies:textures/icons/research/happy4.png",
+  "icon": "minecraft:cookie",
   "parentResearch": "minecolonies:civilian/spectacle",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:cake",
-      "quantity": 27
+      "quantity": 32
     }
   ],
   "researchLevel": 5

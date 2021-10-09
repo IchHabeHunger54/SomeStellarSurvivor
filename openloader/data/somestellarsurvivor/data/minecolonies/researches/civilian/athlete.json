@@ -5,12 +5,12 @@
       "minecolonies:effects/walkingmultiplier": 4
     }
   ],
-  "icon": "minecolonies:textures/icons/research/speed4.png",
+  "icon": "minecraft:rabbit_foot",
   "parentResearch": "minecolonies:civilian/swift",
   "requirements": [
     {
       "item": "minecraft:rabbit_foot",
-      "quantity": 64
+      "quantity": 8
     }
   ],
   "researchLevel": 6

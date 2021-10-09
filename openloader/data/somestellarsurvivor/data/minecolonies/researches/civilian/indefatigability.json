@@ -5,11 +5,11 @@
       "minecolonies:effects/healingsaturationlimitaddition": 5
     }
   ],
-  "icon": "minecraft:experience_bottle",
+  "icon": "minecraft:apple",
   "parentResearch": "minecolonies:civilian/fortitude",
   "requirements": [
     {
-      "item": "minecraft:golden_apple",
+      "item": "minecraft:apple",
       "quantity": 64
     }
   ],

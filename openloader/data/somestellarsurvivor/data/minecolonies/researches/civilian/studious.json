@@ -5,7 +5,7 @@
       "minecolonies:effects/levelingmultiplier": 2
     }
   ],
-  "icon": "minecraft:experience_bottle:2",
+  "icon": "minecraft:book",
   "parentResearch": "minecolonies:civilian/diligent",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:book",
-      "quantity": 12
+      "quantity": 8
     }
   ],
   "researchLevel": 3

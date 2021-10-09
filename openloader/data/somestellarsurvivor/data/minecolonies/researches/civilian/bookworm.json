@@ -5,7 +5,7 @@
       "minecolonies:effects/teachingmultiplier": 2
     }
   ],
-  "icon": "minecolonies:textures/icons/research/xpgain2.png",
+  "icon": "minecraft:bookshelf",
   "parentResearch": "minecolonies:civilian/morebooks",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:bookshelf",
-      "quantity": 6
+      "quantity": 8
     }
   ],
   "researchLevel": 3

@@ -5,7 +5,7 @@
       "minecolonies:effects/growthmultiplier": 3
     }
   ],
-  "icon": "minecolonies:textures/icons/research/childgrowth3.png",
+  "icon": "minecraft:cooked_chicken",
   "parentResearch": "minecolonies:civilian/hormones",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:cooked_chicken",
-      "quantity": 128
+      "quantity": 16
     }
   ],
   "researchLevel": 4

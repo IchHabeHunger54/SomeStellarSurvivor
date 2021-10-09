@@ -5,7 +5,7 @@
       "minecolonies:effects/saturationmultiplier": 4
     }
   ],
-  "icon": "minecolonies:textures/icons/research/saturation4.png",
+  "icon": "minecraft:cookie",
   "parentResearch": "minecolonies:civilian/stuffer",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:cookie",
-      "quantity": 256
+      "quantity": 32
     }
   ],
   "researchLevel": 5

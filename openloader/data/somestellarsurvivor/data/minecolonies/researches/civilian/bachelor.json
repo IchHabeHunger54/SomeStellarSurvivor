@@ -5,7 +5,7 @@
       "minecolonies:effects/teachingmultiplier": 3
     }
   ],
-  "icon": "minecolonies:textures/icons/research/xpgain3.png",
+  "icon": "minecraft:bookshelf",
   "parentResearch": "minecolonies:civilian/bookworm",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:bookshelf",
-      "quantity": 12
+      "quantity": 16
     }
   ],
   "researchLevel": 4

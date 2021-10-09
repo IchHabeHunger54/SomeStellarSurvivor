@@ -5,7 +5,7 @@
       "minecolonies:effects/citizencapaddition": 4
     }
   ],
-  "icon": "minecolonies:blockhutcitizen:200",
+  "icon": "minecraft:cooked_beef",
   "parentResearch": "minecolonies:civilian/village",
   "requirements": [
     {

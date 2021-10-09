@@ -5,7 +5,7 @@
       "minecolonies:effects/gravedecaybonus": 1
     }
   ],
-  "icon": "minecolonies:blockminecoloniesgrave",
+  "icon": "minecraft:rotten_flesh",
   "parentResearch": "minecolonies:civilian/remembrance",
   "requirements": [
     {

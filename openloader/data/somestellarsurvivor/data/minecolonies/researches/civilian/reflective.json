@@ -5,7 +5,7 @@
       "minecolonies:effects/levelingmultiplier": 4
     }
   ],
-  "icon": "minecraft:experience_bottle:4",
+  "icon": "minecraft:book",
   "parentResearch": "minecolonies:civilian/scholarly",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:book",
-      "quantity": 48
+      "quantity": 32
     }
   ],
   "researchLevel": 5

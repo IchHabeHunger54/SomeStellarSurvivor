@@ -5,7 +5,7 @@
       "minecolonies:effects/healthaddition": 3
     }
   ],
-  "icon": "minecolonies:textures/icons/research/hp3.png",
+  "icon": "minecraft:hay_block",
   "parentResearch": "minecolonies:civilian/firstaid2",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:hay_block",
-      "quantity": 32
+      "quantity": 16
     }
   ],
   "researchLevel": 3

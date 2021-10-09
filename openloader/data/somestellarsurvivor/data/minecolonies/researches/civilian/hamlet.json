@@ -5,7 +5,7 @@
       "minecolonies:effects/citizencapaddition": 2
     }
   ],
-  "icon": "minecolonies:blockhutcitizen:75",
+  "icon": "minecraft:cooked_beef",
   "parentResearch": "minecolonies:civilian/outpost",
   "requirements": [
     {

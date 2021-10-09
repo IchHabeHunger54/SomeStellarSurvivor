@@ -5,7 +5,7 @@
       "minecolonies:effects/teachingmultiplier": 4
     }
   ],
-  "icon": "minecolonies:textures/icons/research/xpgain4.png",
+  "icon": "minecraft:bookshelf",
   "parentResearch": "minecolonies:civilian/bachelor",
   "requirements": [
     {

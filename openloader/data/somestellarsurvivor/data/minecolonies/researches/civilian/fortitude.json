@@ -5,7 +5,7 @@
       "minecolonies:effects/healingsaturationlimitaddition": 4
     }
   ],
-  "icon": "minecraft:honey_bottle",
+  "icon": "minecraft:apple",
   "parentResearch": "minecolonies:civilian/vitality",
   "requirements": [
     {
@@ -13,7 +13,7 @@
       "level": 5
     },
     {
-      "item": "minecraft:golden_apple",
+      "item": "minecraft:apple",
       "quantity": 32
     }
   ],

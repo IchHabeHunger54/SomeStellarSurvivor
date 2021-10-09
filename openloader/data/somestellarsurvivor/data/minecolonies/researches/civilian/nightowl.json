@@ -5,16 +5,16 @@
       "minecolonies:effects/workingdayhaddition": 1
     }
   ],
-  "icon": "minecraft:clock:1",
+  "icon": "minecraft:clock",
   "parentResearch": "minecolonies:civilian/circus",
   "requirements": [
     {
-      "building": "library",
+      "building": "townhall",
       "level": 2
     },
     {
-      "item": "minecraft:golden_carrot",
-      "quantity": 25
+      "item": "minecraft:clock",
+      "quantity": 8
     }
   ],
   "researchLevel": 3,

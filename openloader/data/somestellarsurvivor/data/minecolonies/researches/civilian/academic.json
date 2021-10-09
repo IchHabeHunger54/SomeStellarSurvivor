@@ -5,12 +5,12 @@
       "minecolonies:effects/levelingmultiplier": 5
     }
   ],
-  "icon": "minecraft:experience_bottle:5",
+  "icon": "minecraft:book",
   "parentResearch": "minecolonies:civilian/reflective",
   "requirements": [
     {
       "item": "minecraft:book",
-      "quantity": 128
+      "quantity": 64
     }
   ],
   "researchLevel": 6

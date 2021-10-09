@@ -5,12 +5,12 @@
       "minecolonies:effects/growthmultiplier": 5
     }
   ],
-  "icon": "minecolonies:textures/icons/research/childgrowth5.png",
+  "icon": "minecraft:cooked_chicken",
   "parentResearch": "minecolonies:civilian/growth",
   "requirements": [
     {
       "item": "minecraft:cooked_chicken",
-      "quantity": 512
+      "quantity": 64
     }
   ],
   "researchLevel": 6

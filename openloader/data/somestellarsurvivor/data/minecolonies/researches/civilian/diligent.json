@@ -5,7 +5,7 @@
       "minecolonies:effects/levelingmultiplier": 1
     }
   ],
-  "icon": "minecraft:experience_bottle",
+  "icon": "minecraft:book",
   "parentResearch": "minecolonies:civilian/keen",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:book",
-      "quantity": 6
+      "quantity": 4
     }
   ],
   "researchLevel": 2
