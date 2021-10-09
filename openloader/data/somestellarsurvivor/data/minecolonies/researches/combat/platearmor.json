@@ -5,7 +5,7 @@
       "minecolonies:effects/platearmorunlock": 1
     }
   ],
-  "icon": "minecolonies:plate_armor_helmet",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/ironarmor",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:iron_ingot",
-      "quantity": 32
+      "quantity": 48
     }
   ],
   "researchLevel": 5,

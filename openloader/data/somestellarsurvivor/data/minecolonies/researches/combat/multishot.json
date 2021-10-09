@@ -5,7 +5,7 @@
       "minecolonies:effects/doublearrowsmultiplier": 2
     }
   ],
-  "icon": "minecraft:tipped_arrow",
+  "icon": "minecraft:bow",
   "parentResearch": "minecolonies:combat/trickshot",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:bow",
-      "quantity": 9
+      "quantity": 18
     }
   ],
   "researchLevel": 4

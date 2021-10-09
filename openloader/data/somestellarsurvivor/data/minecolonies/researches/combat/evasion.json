@@ -5,7 +5,7 @@
       "minecolonies:effects/archerarmormultiplier": 3
     }
   ],
-  "icon": "minecraft:iron_boots",
+  "icon": "minecraft:leather",
   "parentResearch": "minecolonies:combat/improveddodge",
   "requirements": [
     {

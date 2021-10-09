@@ -5,7 +5,7 @@
       "minecolonies:effects/blockattacksmultiplier": 1
     }
   ],
-  "icon": "minecraft:iron_ingot",
+  "icon": "minecraft:shield",
   "parentResearch": "minecolonies:combat/improvedswords",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:shield",
-      "quantity": 4
+      "quantity": 9
     }
   ],
   "researchLevel": 3

@@ -5,12 +5,12 @@
       "minecolonies:effects/blockattacksmultiplier": 4
     }
   ],
-  "icon": "minecraft:iron_block",
+  "icon": "minecraft:shield",
   "parentResearch": "minecolonies:combat/captaintraining",
   "requirements": [
     {
       "item": "minecraft:shield",
-      "quantity": 27
+      "quantity": 36
     }
   ],
   "researchLevel": 6

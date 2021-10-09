@@ -5,7 +5,7 @@
       "minecolonies:effects/meleearmormultiplier": 4
     }
   ],
-  "icon": "minecraft:golden_chestplate",
+  "icon": "minecraft:diamond",
   "parentResearch": "minecolonies:combat/duelist",
   "requirements": [
     {

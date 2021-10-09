@@ -5,7 +5,7 @@
       "minecolonies:effects/fleeingspeedaddition": 2
     }
   ],
-  "icon": "minecraft:feather:2",
+  "icon": "minecraft:emerald",
   "parentResearch": "minecolonies:combat/avoid",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:emerald",
-      "quantity": 16
+      "quantity": 8
     }
   ],
   "researchLevel": 4

@@ -5,7 +5,7 @@
       "minecolonies:effects/archerarmormultiplier": 2
     }
   ],
-  "icon": "minecolonies:pirate_boots",
+  "icon": "minecraft:leather",
   "parentResearch": "minecolonies:combat/dodge",
   "requirements": [
     {

@@ -5,7 +5,7 @@
       "minecolonies:effects/meleedamageaddition": 2
     }
   ],
-  "icon": "minecraft:stone_sword",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/quickdraw",
   "requirements": [
     {
@@ -13,8 +13,8 @@
       "level": 3
     },
     {
-      "item": "minecraft:iron_block",
-      "quantity": 4
+      "item": "minecraft:iron_ingot",
+      "quantity": 8
     }
   ],
   "researchLevel": 3

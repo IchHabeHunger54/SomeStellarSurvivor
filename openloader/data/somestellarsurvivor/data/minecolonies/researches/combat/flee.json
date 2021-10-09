@@ -5,16 +5,16 @@
       "minecolonies:effects/fleeingspeedaddition": 3
     }
   ],
-  "icon": "minecraft:feather:3",
+  "icon": "minecraft:emerald",
   "parentResearch": "minecolonies:combat/evade",
   "requirements": [
     {
       "building": "guardtower",
-      "level": 12
+      "level": 16
     },
     {
       "item": "minecraft:emerald",
-      "quantity": 32
+      "quantity": 16
     }
   ],
   "researchLevel": 5

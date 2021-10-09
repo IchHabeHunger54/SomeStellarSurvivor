@@ -5,7 +5,7 @@
       "minecolonies:effects/doublearrowsmultiplier": 1
     }
   ],
-  "icon": "minecraft:arrow",
+  "icon": "minecraft:bow",
   "parentResearch": "minecolonies:combat/improvedbows",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:bow",
-      "quantity": 5
+      "quantity": 9
     }
   ],
   "researchLevel": 3

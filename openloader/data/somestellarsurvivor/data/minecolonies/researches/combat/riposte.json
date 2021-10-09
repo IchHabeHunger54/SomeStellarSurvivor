@@ -5,7 +5,7 @@
       "minecolonies:effects/meleearmormultiplier": 2
     }
   ],
-  "icon": "minecraft:iron_chestplate",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/parry",
   "requirements": [
     {

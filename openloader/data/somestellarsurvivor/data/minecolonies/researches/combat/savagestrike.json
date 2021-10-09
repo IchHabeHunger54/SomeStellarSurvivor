@@ -5,12 +5,12 @@
       "minecolonies:effects/meleedamageaddition": 5
     }
   ],
-  "icon": "minecraft:diamond_sword",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/mightycleave",
   "requirements": [
     {
-      "item": "minecraft:iron_block",
-      "quantity": 32
+      "item": "minecraft:iron_ingot",
+      "quantity": 64
     }
   ],
   "researchLevel": 6

@@ -5,12 +5,12 @@
       "minecolonies:effects/archerdamageaddition": 5
     }
   ],
-  "icon": "minecraft:tipped_arrow",
+  "icon": "minecraft:flint",
   "parentResearch": "minecolonies:combat/woundingshot",
   "requirements": [
     {
       "item": "minecraft:flint",
-      "quantity": 256
+      "quantity": 64
     }
   ],
   "researchLevel": 6

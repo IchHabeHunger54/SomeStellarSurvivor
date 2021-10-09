@@ -5,7 +5,7 @@
       "minecolonies:effects/armordurabilitymultiplier": 2
     }
   ],
-  "icon": "minecraft:turtle_helmet",
+  "icon": "minecraft:leather",
   "parentResearch": "minecolonies:combat/improvedleather",
   "requirements": [
     {

@@ -5,16 +5,16 @@
       "minecolonies:effects/meleedamageaddition": 3
     }
   ],
-  "icon": "minecraft:iron_sword",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/powerattack",
   "requirements": [
     {
       "building": "guardtower",
-      "level": 10
+      "level": 5
     },
     {
-      "item": "minecraft:iron_block",
-      "quantity": 8
+      "item": "minecraft:iron_ingot",
+      "quantity": 16
     }
   ],
   "researchLevel": 4

@@ -5,7 +5,7 @@
       "minecolonies:effects/armordurabilitymultiplier": 4
     }
   ],
-  "icon": "minecraft:iron_helmet",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/ironskin",
   "requirements": [
     {

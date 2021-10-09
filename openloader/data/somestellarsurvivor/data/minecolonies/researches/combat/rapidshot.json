@@ -5,7 +5,7 @@
       "minecolonies:effects/doublearrowsmultiplier": 3
     }
   ],
-  "icon": "minecolonies:firearrow",
+  "icon": "minecraft:bow",
   "parentResearch": "minecolonies:combat/multishot",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:bow",
-      "quantity": 18
+      "quantity": 27
     }
   ],
   "researchLevel": 5

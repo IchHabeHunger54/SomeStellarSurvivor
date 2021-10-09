@@ -5,7 +5,7 @@
       "minecolonies:effects/armordurabilitymultiplier": 3
     }
   ],
-  "icon": "minecraft:chainmail_helmet",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/boiledleather",
   "requirements": [
     {

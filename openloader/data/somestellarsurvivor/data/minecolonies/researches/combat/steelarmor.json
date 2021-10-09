@@ -5,7 +5,7 @@
       "minecolonies:effects/armordurabilitymultiplier": 5
     }
   ],
-  "icon": "minecraft:golden_helmet",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/ironarmor",
   "requirements": [
     {

@@ -5,7 +5,7 @@
       "minecolonies:effects/whirlwindabilityunlock": 1
     }
   ],
-  "icon": "minecolonies:iron_scimitar",
+  "icon": "minecolonies:gold_ingot",
   "parentResearch": "minecolonies:combat/arrowpierce",
   "requirements": [
     {
@@ -19,10 +19,6 @@
     {
       "item": "minecraft:gold_ingot",
       "quantity": 64
-    },
-    {
-      "item": "minecraft:lapis_lazuli",
-      "quantity": 128
     }
   ],
   "researchLevel": 4

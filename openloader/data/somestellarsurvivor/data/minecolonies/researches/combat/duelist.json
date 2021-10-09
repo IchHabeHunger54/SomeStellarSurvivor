@@ -5,12 +5,12 @@
       "minecolonies:effects/meleearmormultiplier": 3
     }
   ],
-  "icon": "minecraft:chainmail_chestplate",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/riposte",
   "requirements": [
     {
-      "building": "smeltery",
-      "level": 3
+      "building": "barracks",
+      "level": 5
     },
     {
       "item": "minecraft:iron_ingot",

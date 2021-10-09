@@ -5,16 +5,16 @@
       "minecolonies:effects/fleeingdamagemultiplier": 3
     }
   ],
-  "icon": "minecraft:golden_boots",
+  "icon": "minecraft:emerald",
   "parentResearch": "minecolonies:combat/fear",
   "requirements": [
     {
       "building": "guardtower",
-      "level": 12
+      "level": 16
     },
     {
       "item": "minecraft:emerald",
-      "quantity": 32
+      "quantity": 16
     }
   ],
   "researchLevel": 5

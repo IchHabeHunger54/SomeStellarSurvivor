@@ -5,7 +5,7 @@
       "minecolonies:effects/archerarmormultiplier": 4
     }
   ],
-  "icon": "minecraft:golden_boots",
+  "icon": "minecraft:diamond",
   "parentResearch": "minecolonies:combat/evasion",
   "requirements": [
     {

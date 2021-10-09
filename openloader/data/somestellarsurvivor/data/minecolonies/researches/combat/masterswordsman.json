@@ -5,7 +5,7 @@
       "minecolonies:effects/meleearmormultiplier": 5
     }
   ],
-  "icon": "minecraft:diamond_chestplate",
+  "icon": "minecraft:diamond",
   "parentResearch": "minecolonies:combat/provost",
   "requirements": [
     {

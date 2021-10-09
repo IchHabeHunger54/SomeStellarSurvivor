@@ -5,7 +5,7 @@
       "minecolonies:effects/archerdamageaddition": 4
     }
   ],
-  "icon": "minecolonies:firearrow",
+  "icon": "minecraft:flint",
   "parentResearch": "minecolonies:combat/piercingshot",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:flint",
-      "quantity": 128
+      "quantity": 32
     }
   ],
   "researchLevel": 5

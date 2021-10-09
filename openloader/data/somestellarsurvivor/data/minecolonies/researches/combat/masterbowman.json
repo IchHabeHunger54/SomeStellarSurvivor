@@ -5,12 +5,12 @@
       "minecolonies:effects/doublearrowsmultiplier": 4
     }
   ],
-  "icon": "minecraft:blaze_rod",
+  "icon": "minecraft:bow",
   "parentResearch": "minecolonies:combat/rapidshot",
   "requirements": [
     {
       "item": "minecraft:bow",
-      "quantity": 27
+      "quantity": 36
     }
   ],
   "researchLevel": 6

@@ -5,7 +5,7 @@
       "minecolonies:effects/fleeingdamagemultiplier": 1
     }
   ],
-  "icon": "minecraft:leather_boots",
+  "icon": "minecraft:emerald",
   "parentResearch": "minecolonies:combat/regeneration",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:emerald",
-      "quantity": 8
+      "quantity": 4
     }
   ],
   "researchLevel": 3

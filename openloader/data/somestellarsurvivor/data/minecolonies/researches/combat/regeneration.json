@@ -6,7 +6,7 @@
     }
   ],
   "exclusiveChildResearch": true,
-  "icon": "minecraft:glistering_melon_slice",
+  "icon": "minecraft:emerald",
   "parentResearch": "minecolonies:combat/improvedleather",
   "requirements": [
     {

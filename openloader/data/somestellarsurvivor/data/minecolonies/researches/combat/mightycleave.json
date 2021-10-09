@@ -5,7 +5,7 @@
       "minecolonies:effects/meleedamageaddition": 4
     }
   ],
-  "icon": "minecraft:golden_sword",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/cleave",
   "requirements": [
     {
@@ -13,8 +13,8 @@
       "level": 5
     },
     {
-      "item": "minecraft:iron_block",
-      "quantity": 16
+      "item": "minecraft:iron_ingot",
+      "quantity": 32
     }
   ],
   "researchLevel": 5

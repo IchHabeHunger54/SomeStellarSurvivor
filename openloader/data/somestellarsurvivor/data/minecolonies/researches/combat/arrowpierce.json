@@ -5,12 +5,12 @@
       "minecolonies:effects/piercingarrowsunlock": 1
     }
   ],
-  "icon": "minecraft:enchanted_book",
+  "icon": "minecraft:redstone",
   "parentResearch": "minecolonies:combat/arrowuse",
   "requirements": [
     {
-      "building": "archery",
-      "level": 1
+      "building": "guardtower",
+      "level": 4
     },
     {
       "item": "minecraft:arrow",

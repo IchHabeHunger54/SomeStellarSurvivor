@@ -5,7 +5,7 @@
       "minecolonies:effects/armordurabilitymultiplier": 6
     }
   ],
-  "icon": "minecraft:diamond_helmet",
+  "icon": "minecraft:diamond",
   "parentResearch": "minecolonies:combat/steelarmor",
   "requirements": [
     {

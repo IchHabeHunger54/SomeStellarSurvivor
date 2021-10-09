@@ -5,11 +5,11 @@
       "minecolonies:effects/meleearmormultiplier": 1
     }
   ],
-  "icon": "minecraft:leather_chestplate",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:combat/avoidance",
   "requirements": [
     {
-      "building": "smeltery",
+      "building": "barracks",
       "level": 1
     },
     {

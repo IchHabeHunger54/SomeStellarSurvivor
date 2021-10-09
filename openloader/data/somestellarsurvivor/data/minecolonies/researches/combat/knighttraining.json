@@ -5,7 +5,7 @@
       "minecolonies:effects/blockattacksmultiplier": 2
     }
   ],
-  "icon": "minecraft:barrel",
+  "icon": "minecraft:shield",
   "parentResearch": "minecolonies:combat/squiretraining",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:shield",
-      "quantity": 8
+      "quantity": 18
     }
   ],
   "researchLevel": 4
