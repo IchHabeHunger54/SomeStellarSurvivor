@@ -207,7 +207,7 @@
 	#Armor slows down the player based off the Armor and Toughness given.
 	"Enable Weighted Armor" = true
 	#Prevents the player from placing blocks below him when in mid air.
-	"Enable No Pillaring" = true
+	"Enable No Pillaring" = false
 
 	#Armor slows down the player based off the Armor and Toughness given.
 	[Movement."Weighted Armor"]
