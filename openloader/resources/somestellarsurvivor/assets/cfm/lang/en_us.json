@@ -485,15 +485,5 @@
   "gui.tag_filter.cfm.storage": "Storage",
   "item.cfm.spatula": "Spatula",
   "itemGroup.cfm": "MrCrayfish's Furniture Mod",
-  "message.cfm.mail_queue_full": "This player's mail queue is full. Try again later...",
-  "subtitle.cfm.close_blinds": "Close Blinds",
-  "subtitle.cfm.close_cabinet": "Close Cabinet",
-  "subtitle.cfm.close_fridge": "Close Fridge",
-  "subtitle.cfm.diving_board.bounce": "Diving Board Bounce",
-  "subtitle.cfm.grill_flip": "Flipping Food on Grill",
-  "subtitle.cfm.grill_place": "Place Food on Grill",
-  "subtitle.cfm.open_blinds": "Open Blinds",
-  "subtitle.cfm.open_cabinet": "Open Cabinet",
-  "subtitle.cfm.open_fridge": "Open Fridge",
-  "subtitle.cfm.trampoline_bounce": "Trampoline Bounce"
+  "message.cfm.mail_queue_full": "This player's mail queue is full. Try again later..."
 }

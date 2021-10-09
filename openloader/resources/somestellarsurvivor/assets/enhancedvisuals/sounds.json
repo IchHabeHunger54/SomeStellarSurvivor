@@ -3,8 +3,7 @@
     "category": "master",
     "sounds": [
       {
-        "name": "enhancedvisuals:heartbeatin",
-        "stream": false
+        "name": "enhancedvisuals:heartbeatin"
       }
     ]
   },
@@ -12,8 +11,7 @@
     "category": "master",
     "sounds": [
       {
-        "name": "enhancedvisuals:heartbeatout",
-        "stream": false
+        "name": "enhancedvisuals:heartbeatout"
       }
     ]
   },
@@ -21,8 +19,7 @@
     "category": "master",
     "sounds": [
       {
-        "name": "enhancedvisuals:ringing",
-        "stream": false
+        "name": "enhancedvisuals:ringing"
       }
     ]
   },
@@ -30,8 +27,7 @@
     "category": "master",
     "sounds": [
       {
-        "name": "enhancedvisuals:ringing-short",
-        "stream": false
+        "name": "enhancedvisuals:ringing-short"
       }
     ]
   }

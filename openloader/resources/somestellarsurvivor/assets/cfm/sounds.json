@@ -2,73 +2,61 @@
   "block.bedside_cabinet.close": {
     "sounds": [
       "cfm:block/bedside_cabinet/close"
-    ],
-    "subtitle": "subtitle.cfm.close_cabinet"
+    ]
   },
   "block.bedside_cabinet.open": {
     "sounds": [
       "cfm:block/bedside_cabinet/open"
-    ],
-    "subtitle": "subtitle.cfm.open_cabinet"
+    ]
   },
   "block.blinds.close": {
     "sounds": [
       "cfm:block/blinds/close"
-    ],
-    "subtitle": "subtitle.cfm.close_blinds"
+    ]
   },
   "block.blinds.open": {
     "sounds": [
       "cfm:block/blinds/open"
-    ],
-    "subtitle": "subtitle.cfm.open_blinds"
+    ]
   },
   "block.cabinet.close": {
     "sounds": [
       "cfm:block/cabinet/close"
-    ],
-    "subtitle": "subtitle.cfm.close_cabinet"
+    ]
   },
   "block.cabinet.open": {
     "sounds": [
       "cfm:block/cabinet/open"
-    ],
-    "subtitle": "subtitle.cfm.open_cabinet"
+    ]
   },
   "block.diving_board.bounce": {
     "sounds": [
       "cfm:block/diving_board/bounce"
-    ],
-    "subtitle": "subtitle.cfm.diving_board.bounce"
+    ]
   },
   "block.fridge.close": {
     "sounds": [
       "cfm:block/fridge/close"
-    ],
-    "subtitle": "subtitle.cfm.close_fridge"
+    ]
   },
   "block.fridge.open": {
     "sounds": [
       "cfm:block/fridge/open"
-    ],
-    "subtitle": "subtitle.cfm.open_fridge"
+    ]
   },
   "block.grill.flip": {
     "sounds": [
       "cfm:block/grill/flip"
-    ],
-    "subtitle": "subtitle.cfm.grill_flip"
+    ]
   },
   "block.grill.place": {
     "sounds": [
       "cfm:block/grill/place"
-    ],
-    "subtitle": "subtitle.cfm.grill_place"
+    ]
   },
   "block.trampoline.bounce": {
     "sounds": [
       "cfm:block/trampoline/bounce"
-    ],
-    "subtitle": "subtitle.cfm.trampoline_bounce"
+    ]
   }
 }
