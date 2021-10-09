@@ -13,6 +13,5 @@
       "quantity": 256
     }
   ],
-  "researchLevel": 3,
-  "subtitle": "com.minecolonies.research.technology.redstonepowered.subtitle"
+  "researchLevel": 3
 }

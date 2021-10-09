@@ -5,7 +5,7 @@
       "minecolonies:effects/healthaddition": 1
     }
   ],
-  "icon": "minecolonies:textures/icons/research/hp1.png",
+  "icon": "minecraft:hay_block",
   "requirements": [
     {
       "building": "townhall",
@@ -17,6 +17,5 @@
     }
   ],
   "researchLevel": 1,
-  "sortOrder": 3,
-  "subtitle": "com.minecolonies.research.civilian.firstaid.subtitle"
+  "sortOrder": 3
 }

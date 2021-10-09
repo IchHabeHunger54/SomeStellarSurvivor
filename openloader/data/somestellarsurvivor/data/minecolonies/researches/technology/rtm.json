@@ -17,6 +17,5 @@
       "quantity": 256
     }
   ],
-  "researchLevel": 5,
-  "subtitle": "com.minecolonies.research.technology.rtm.subtitle"
+  "researchLevel": 5
 }
