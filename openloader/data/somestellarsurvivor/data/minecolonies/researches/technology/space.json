@@ -5,7 +5,7 @@
       "minecolonies:effects/minimumstockmultiplier": 1
     }
   ],
-  "icon": "minecraft:chest",
+  "icon": "minecolonies:blockminecoloniesrack",
   "parentResearch": "minecolonies:technology/woodwork",
   "requirements": [
     {

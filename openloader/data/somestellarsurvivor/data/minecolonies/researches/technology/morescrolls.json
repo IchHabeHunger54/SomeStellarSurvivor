@@ -8,8 +8,8 @@
   "icon": "minecolonies:ancienttome",
   "requirements": [
     {
-      "building": "enchanter",
-      "level": 4
+      "level": 4,
+      "mandatory-building": "enchanter"
     },
     {
       "item": "minecraft:paper",

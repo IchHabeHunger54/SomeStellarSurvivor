@@ -5,12 +5,12 @@
       "minecolonies:effects/workinginrainunlock": 1
     }
   ],
-  "icon": "minecraft:splash_potion",
+  "icon": "minecraft:water_bucket",
   "parentResearch": "minecolonies:technology/rtm",
   "requirements": [
     {
-      "item": "minecraft:salmon_bucket",
-      "quantity": 27
+      "item": "minecraft:water_bucket",
+      "quantity": 16
     }
   ],
   "researchLevel": 6

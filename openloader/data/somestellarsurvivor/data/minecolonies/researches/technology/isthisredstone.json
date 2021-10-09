@@ -10,7 +10,7 @@
   "requirements": [
     {
       "item": "minecraft:redstone",
-      "quantity": 128
+      "quantity": 64
     }
   ],
   "researchLevel": 2

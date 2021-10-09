@@ -5,7 +5,7 @@
       "minecolonies:effects/moreoresmultiplier": 4
     }
   ],
-  "icon": "minecraft:lapis_block",
+  "icon": "minecraft:diamond_ore",
   "parentResearch": "minecolonies:technology/richveins",
   "requirements": [
     {
@@ -13,7 +13,7 @@
       "level": 5
     },
     {
-      "item": "minecraft:gold_ore",
+      "item": "minecraft:diamond_ore",
       "quantity": 64
     }
   ],

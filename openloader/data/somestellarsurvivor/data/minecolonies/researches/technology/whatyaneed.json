@@ -10,7 +10,7 @@
   "requirements": [
     {
       "building": "blacksmith",
-      "level": 3
+      "level": 2
     },
     {
       "item": "minecraft:redstone",

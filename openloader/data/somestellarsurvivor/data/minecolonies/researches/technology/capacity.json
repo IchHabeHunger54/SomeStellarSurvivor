@@ -5,7 +5,7 @@
       "minecolonies:effects/minimumstockmultiplier": 2
     }
   ],
-  "icon": "minecraft:chest_minecart",
+  "icon": "minecolonies:blockminecoloniesrack",
   "parentResearch": "minecolonies:technology/space",
   "requirements": [
     {

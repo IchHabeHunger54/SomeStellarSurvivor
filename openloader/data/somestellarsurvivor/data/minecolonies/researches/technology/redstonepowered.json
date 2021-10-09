@@ -5,12 +5,12 @@
       "minecolonies:effects/blockbreakspeedmultiplier": 2
     }
   ],
-  "icon": "minecraft:redstone_torch",
+  "icon": "minecraft:redstone",
   "parentResearch": "minecolonies:technology/isthisredstone",
   "requirements": [
     {
       "item": "minecraft:redstone",
-      "quantity": 256
+      "quantity": 128
     }
   ],
   "researchLevel": 3

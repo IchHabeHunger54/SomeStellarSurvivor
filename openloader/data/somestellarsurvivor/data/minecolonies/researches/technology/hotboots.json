@@ -5,7 +5,7 @@
       "minecolonies:effects/minerfireresunlock": 1
     }
   ],
-  "icon": "minecraft:campfire",
+  "icon": "minecraft:leather",
   "parentResearch": "minecolonies:technology/stringwork",
   "requirements": [
     {

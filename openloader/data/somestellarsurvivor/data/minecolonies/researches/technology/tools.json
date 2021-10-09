@@ -5,7 +5,7 @@
       "minecolonies:effects/blockplacespeedmultiplier": 3
     }
   ],
-  "icon": "minecraft:redstone_lamp",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:technology/skills",
   "requirements": [
     {

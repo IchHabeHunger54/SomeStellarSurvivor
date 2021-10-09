@@ -5,7 +5,7 @@
       "minecolonies:effects/tooldurabilitymultiplier": 1
     }
   ],
-  "icon": "minecraft:wooden_pickaxe",
+  "icon": "minecraft:diamond",
   "parentResearch": "minecolonies:technology/hittingiron",
   "requirements": [
     {

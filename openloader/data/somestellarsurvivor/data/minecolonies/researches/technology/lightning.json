@@ -5,12 +5,12 @@
       "minecolonies:effects/blockbreakspeedmultiplier": 5
     }
   ],
-  "icon": "minecraft:repeater",
+  "icon": "minecraft:redstone",
   "parentResearch": "minecolonies:technology/whatisthisspeed",
   "requirements": [
     {
       "item": "minecraft:redstone",
-      "quantity": 2048
+      "quantity": 1024
     }
   ],
   "researchLevel": 6

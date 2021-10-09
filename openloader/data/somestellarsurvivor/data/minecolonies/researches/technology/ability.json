@@ -5,7 +5,7 @@
       "minecolonies:effects/blockplacespeedmultiplier": 1
     }
   ],
-  "icon": "minecraft:glowstone_dust",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:technology/hittingiron",
   "requirements": [
     {

@@ -5,12 +5,12 @@
       "minecolonies:effects/blockbreakspeedmultiplier": 4
     }
   ],
-  "icon": "minecraft:comparator",
+  "icon": "minecraft:redstone",
   "parentResearch": "minecolonies:technology/heavymachinery",
   "requirements": [
     {
       "item": "minecraft:redstone",
-      "quantity": 1024
+      "quantity": 512
     }
   ],
   "researchLevel": 5

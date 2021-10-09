@@ -9,8 +9,8 @@
   "parentResearch": "minecolonies:technology/biodegradable",
   "requirements": [
     {
-      "building": "miner",
-      "level": 3
+      "building": "composter",
+      "level": 1
     },
     {
       "item": "minecraft:wheat_seeds",

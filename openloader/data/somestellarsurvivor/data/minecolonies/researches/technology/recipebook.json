@@ -5,7 +5,7 @@
       "minecolonies:effects/recipesmultiplier": 3
     }
   ],
-  "icon": "minecraft:enchanted_book",
+  "icon": "minecraft:paper",
   "parentResearch": "minecolonies:technology/cheatsheet",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:paper",
-      "quantity": 128
+      "quantity": 256
     }
   ],
   "researchLevel": 4

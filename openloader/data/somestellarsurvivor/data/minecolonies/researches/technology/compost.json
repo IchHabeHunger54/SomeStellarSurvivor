@@ -5,12 +5,12 @@
       "minecolonies:effects/farmingmultiplier": 3
     }
   ],
-  "icon": "minecraft:bone",
+  "icon": "minecraft:wheat_seeds",
   "parentResearch": "minecolonies:technology/dung",
   "requirements": [
     {
-      "building": "miner",
-      "level": 5
+      "building": "composter",
+      "level": 3
     },
     {
       "item": "minecraft:wheat_seeds",

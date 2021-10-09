@@ -5,11 +5,11 @@
       "minecolonies:effects/moreoresmultiplier": 5
     }
   ],
-  "icon": "minecraft:diamond_block",
+  "icon": "minecraft:emerald_ore",
   "parentResearch": "minecolonies:technology/amazingveins",
   "requirements": [
     {
-      "item": "minecraft:diamond_ore",
+      "item": "minecraft:emerald_ore",
       "quantity": 64
     }
   ],

@@ -5,7 +5,7 @@
       "minecolonies:effects/blockplacespeedmultiplier": 5
     }
   ],
-  "icon": "minecraft:spectral_arrow",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:technology/seemsautomatic",
   "requirements": [
     {

@@ -5,7 +5,7 @@
       "minecolonies:effects/blockplacespeedmultiplier": 2
     }
   ],
-  "icon": "minecraft:glowstone",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:technology/ability",
   "requirements": [
     {

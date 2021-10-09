@@ -5,7 +5,7 @@
       "minecolonies:effects/blockplacespeedmultiplier": 4
     }
   ],
-  "icon": "minecraft:blaze_powder",
+  "icon": "minecraft:iron_ingot",
   "parentResearch": "minecolonies:technology/tools",
   "requirements": [
     {

@@ -5,7 +5,7 @@
       "minecolonies:effects/citizeninvslotsaddition": 3
     }
   ],
-  "icon": "minecraft:blue_shulker_box",
+  "icon": "minecraft:emerald",
   "no-reset": true,
   "parentResearch": "minecolonies:technology/loaded",
   "requirements": [

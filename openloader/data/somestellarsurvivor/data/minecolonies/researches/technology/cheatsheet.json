@@ -5,7 +5,7 @@
       "minecolonies:effects/recipesmultiplier": 2
     }
   ],
-  "icon": "minecraft:book",
+  "icon": "minecraft:paper",
   "parentResearch": "minecolonies:technology/memoryaid",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:paper",
-      "quantity": 64
+      "quantity": 128
     }
   ],
   "researchLevel": 3

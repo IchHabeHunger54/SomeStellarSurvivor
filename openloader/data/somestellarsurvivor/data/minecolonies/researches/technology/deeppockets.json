@@ -5,7 +5,7 @@
       "minecolonies:effects/citizeninvslotsaddition": 1
     }
   ],
-  "icon": "minecraft:pink_shulker_box",
+  "icon": "minecraft:emerald",
   "parentResearch": "minecolonies:technology/cheatsheet",
   "requirements": [
     {

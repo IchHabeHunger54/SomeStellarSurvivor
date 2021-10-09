@@ -5,7 +5,7 @@
       "minecolonies:effects/plant2unlock": 1
     }
   ],
-  "icon": "minecraft:green_dye",
+  "icon": "minecraft:bamboo",
   "parentResearch": "minecolonies:technology/letitgrow",
   "requirements": [
     {

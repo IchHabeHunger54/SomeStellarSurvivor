@@ -5,12 +5,12 @@
       "minecolonies:effects/tooldurabilitymultiplier": 3
     }
   ],
-  "icon": "minecraft:iron_pickaxe",
+  "icon": "minecraft:diamond",
   "parentResearch": "minecolonies:technology/hardened",
   "requirements": [
     {
       "building": "blacksmith",
-      "level": 3
+      "level": 4
     },
     {
       "item": "minecraft:diamond",

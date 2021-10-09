@@ -5,7 +5,7 @@
       "minecolonies:effects/recipesmultiplier": 4
     }
   ],
-  "icon": "minecraft:bookshelf",
+  "icon": "minecraft:paper",
   "parentResearch": "minecolonies:technology/recipebook",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:paper",
-      "quantity": 256
+      "quantity": 512
     }
   ],
   "researchLevel": 5

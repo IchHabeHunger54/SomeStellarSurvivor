@@ -5,7 +5,7 @@
       "minecolonies:effects/moreoresmultiplier": 1
     }
   ],
-  "icon": "minecraft:iron_block",
+  "icon": "minecraft:iron_ore",
   "parentResearch": "minecolonies:technology/hittingiron",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:iron_ore",
-      "quantity": 32
+      "quantity": 64
     }
   ],
   "researchLevel": 2

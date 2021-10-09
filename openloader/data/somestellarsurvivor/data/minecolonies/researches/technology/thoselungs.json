@@ -9,10 +9,6 @@
   "parentResearch": "minecolonies:technology/stonecake",
   "requirements": [
     {
-      "building": "smeltery",
-      "level": 3
-    },
-    {
       "item": "minecraft:glass",
       "quantity": 64
     }

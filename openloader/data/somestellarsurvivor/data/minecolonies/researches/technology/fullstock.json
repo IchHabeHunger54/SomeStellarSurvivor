@@ -5,7 +5,7 @@
       "minecolonies:effects/minimumstockmultiplier": 3
     }
   ],
-  "icon": "minecraft:ender_chest",
+  "icon": "minecolonies:blockminecoloniesrack",
   "parentResearch": "minecolonies:technology/capacity",
   "requirements": [
     {

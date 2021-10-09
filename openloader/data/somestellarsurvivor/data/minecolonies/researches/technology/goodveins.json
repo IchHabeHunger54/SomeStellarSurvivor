@@ -5,7 +5,7 @@
       "minecolonies:effects/moreoresmultiplier": 2
     }
   ],
-  "icon": "minecraft:coal_block",
+  "icon": "tconstruct:copper_ore",
   "parentResearch": "minecolonies:technology/veinminer",
   "requirements": [
     {
@@ -13,7 +13,7 @@
       "level": 2
     },
     {
-      "item": "minecraft:iron_ore",
+      "item": "tconstruct:copper_ore",
       "quantity": 64
     }
   ],

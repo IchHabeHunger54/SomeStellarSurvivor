@@ -5,7 +5,7 @@
       "minecolonies:effects/tooldurabilitymultiplier": 4
     }
   ],
-  "icon": "minecraft:golden_pickaxe",
+  "icon": "minecraft:diamond",
   "parentResearch": "minecolonies:technology/reinforced",
   "requirements": [
     {

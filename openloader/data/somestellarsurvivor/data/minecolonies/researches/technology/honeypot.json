@@ -5,7 +5,7 @@
       "minecolonies:effects/beekeep2unlock": 1
     }
   ],
-  "icon": "minecraft:honeycomb",
+  "icon": "minecraft:beehive",
   "parentResearch": "minecolonies:technology/rainbowheaven",
   "requirements": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "item": "minecraft:beehive",
-      "quantity": 16
+      "quantity": 64
     }
   ],
   "researchLevel": 4
