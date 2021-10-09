@@ -6,7 +6,6 @@ Finished stuff will be removed from this list.
 - (?) Rework biomes entirely
 - Work over Minecolonies schematics
 - Work over Minecolonies recipes
-- Work over Minecolonies researches
 - Work over TiC books
 - Work over translations
 - Finish debug keybind mod
@@ -14,6 +13,8 @@ Finished stuff will be removed from this list.
 - Configure BetterF3
 - Configure Property Modifier
 - Set food values
+- Set fuel values
+- Fix Quark buttons in TConstruct GUIs
 - Fix stronghold issue
 - Tooltip Removal
 - Tempban feature
