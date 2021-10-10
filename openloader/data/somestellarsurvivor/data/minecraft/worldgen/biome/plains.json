@@ -10,251 +10,37 @@
   "downfall": 0.4,
   "effects": {
     "fog_color": 12638463,
-    "mood_sound": {
-      "block_search_extent": 8,
-      "offset": 2.0,
-      "sound": "minecraft:ambient.cave",
-      "tick_delay": 6000
-    },
     "sky_color": 7907327,
     "water_color": 4159204,
     "water_fog_color": 329011
   },
   "features": [
     [
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_raw_generation"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "quark:deferred_feature_raw_generation"
     ],
     [
       "minecraft:lake_water",
       "minecraft:lake_lava",
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_lakes"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "quark:deferred_feature_lakes"
     ],
     [
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_local_modifications"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "quark:deferred_feature_local_modifications"
     ],
     [
-      "minecraft:monster_room",
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_underground_structures"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "quark:deferred_feature_underground_structures"
     ],
     [
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_surface_structures"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "quark:deferred_feature_surface_structures"
     ],
     [
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_strongholds"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "quark:deferred_feature_strongholds"
     ],
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
-      {
-        "config": {
-          "decorator": {
-            "config": {
-              "count": 10
-            },
-            "type": "minecraft:count"
-          },
-          "feature": {
-            "config": {
-              "decorator": {
-                "config": {},
-                "type": "minecraft:square"
-              },
-              "feature": {
-                "config": {
-                  "decorator": {
-                    "config": {
-                      "bottom_offset": 0,
-                      "maximum": 80,
-                      "top_offset": 0
-                    },
-                    "type": "minecraft:range"
-                  },
-                  "feature": {
-                    "config": {
-                      "size": 33,
-                      "state": {
-                        "Name": "minecraft:granite"
-                      },
-                      "target": {
-                        "predicate_type": "minecraft:tag_match",
-                        "tag": "minecraft:base_stone_overworld"
-                      }
-                    },
-                    "type": "minecraft:ore"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "decorator": {
-            "config": {
-              "count": 10
-            },
-            "type": "minecraft:count"
-          },
-          "feature": {
-            "config": {
-              "decorator": {
-                "config": {},
-                "type": "minecraft:square"
-              },
-              "feature": {
-                "config": {
-                  "decorator": {
-                    "config": {
-                      "bottom_offset": 0,
-                      "maximum": 80,
-                      "top_offset": 0
-                    },
-                    "type": "minecraft:range"
-                  },
-                  "feature": {
-                    "config": {
-                      "size": 33,
-                      "state": {
-                        "Name": "minecraft:diorite"
-                      },
-                      "target": {
-                        "predicate_type": "minecraft:tag_match",
-                        "tag": "minecraft:base_stone_overworld"
-                      }
-                    },
-                    "type": "minecraft:ore"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "decorator": {
-            "config": {
-              "count": 10
-            },
-            "type": "minecraft:count"
-          },
-          "feature": {
-            "config": {
-              "decorator": {
-                "config": {},
-                "type": "minecraft:square"
-              },
-              "feature": {
-                "config": {
-                  "decorator": {
-                    "config": {
-                      "bottom_offset": 0,
-                      "maximum": 80,
-                      "top_offset": 0
-                    },
-                    "type": "minecraft:range"
-                  },
-                  "feature": {
-                    "config": {
-                      "size": 33,
-                      "state": {
-                        "Name": "minecraft:andesite"
-                      },
-                      "target": {
-                        "predicate_type": "minecraft:tag_match",
-                        "tag": "minecraft:base_stone_overworld"
-                      }
-                    },
-                    "type": "minecraft:ore"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
+      "minecraft:ore_granite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_andesite",
       "minecraft:ore_coal",
       "minecraft:ore_iron",
       "minecraft:ore_gold",
@@ -264,242 +50,14 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      {
-        "config": {
-          "decorator": {
-            "config": {
-              "ignoreFilter": false,
-              "worldFilter": [
-                "minecraft:overworld"
-              ]
-            },
-            "type": "astralsorcery:world_filter"
-          },
-          "feature": {
-            "config": {
-              "decorator": {
-                "config": {
-                  "count": {
-                    "base": 0,
-                    "spread": 10
-                  }
-                },
-                "type": "minecraft:count"
-              },
-              "feature": {
-                "config": {
-                  "decorator": {
-                    "config": {},
-                    "type": "minecraft:square"
-                  },
-                  "feature": {
-                    "config": {
-                      "decorator": {
-                        "config": {
-                          "bottom_offset": 0,
-                          "maximum": 96,
-                          "top_offset": 0
-                        },
-                        "type": "minecraft:range"
-                      },
-                      "feature": {
-                        "config": {
-                          "size": 26,
-                          "state": {
-                            "Name": "astralsorcery:marble_raw"
-                          },
-                          "target": {
-                            "predicate_type": "minecraft:tag_match",
-                            "tag": "minecraft:base_stone_overworld"
-                          }
-                        },
-                        "type": "minecraft:ore"
-                      }
-                    },
-                    "type": "minecraft:decorated"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "decorator": {
-            "config": {
-              "ignoreFilter": false,
-              "worldFilter": [
-                "minecraft:overworld"
-              ]
-            },
-            "type": "astralsorcery:world_filter"
-          },
-          "feature": {
-            "config": {
-              "decorator": {
-                "config": {
-                  "count": {
-                    "base": 0,
-                    "spread": 8
-                  }
-                },
-                "type": "minecraft:count"
-              },
-              "feature": {
-                "config": {
-                  "decorator": {
-                    "config": {},
-                    "type": "astralsorcery:riverbed"
-                  },
-                  "feature": {
-                    "config": {
-                      "state": {
-                        "Name": "astralsorcery:aquamarine_sand_ore"
-                      },
-                      "target": {
-                        "predicate_type": "minecraft:tag_match",
-                        "tag": "minecraft:sand"
-                      }
-                    },
-                    "type": "astralsorcery:replace_block"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "decorator": {
-            "config": {
-              "ignoreFilter": false,
-              "worldFilter": [
-                "minecraft:overworld"
-              ]
-            },
-            "type": "astralsorcery:world_filter"
-          },
-          "feature": {
-            "config": {
-              "decorator": {
-                "config": {
-                  "chance": 0.04
-                },
-                "type": "astralsorcery:chance"
-              },
-              "feature": {
-                "config": {
-                  "decorator": {
-                    "config": {
-                      "bottom_offset": 5,
-                      "maximum": 2,
-                      "top_offset": 0
-                    },
-                    "type": "minecraft:range"
-                  },
-                  "feature": {
-                    "config": {
-                      "state": {
-                        "Name": "astralsorcery:rock_crystal_ore"
-                      },
-                      "target": {
-                        "predicate_type": "minecraft:tag_match",
-                        "tag": "minecraft:base_stone_overworld"
-                      }
-                    },
-                    "type": "astralsorcery:rock_crystal"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "decorator": {
-            "config": {
-              "count": 16
-            },
-            "type": "minecraft:count"
-          },
-          "feature": {
-            "config": {
-              "decorator": {
-                "config": {},
-                "type": "minecraft:square"
-              },
-              "feature": {
-                "config": {
-                  "decorator": {
-                    "config": {
-                      "bottom_offset": 40,
-                      "maximum": 60,
-                      "top_offset": 0
-                    },
-                    "type": "minecraft:range"
-                  },
-                  "feature": {
-                    "config": {
-                      "size": 9,
-                      "state": {
-                        "Name": "tconstruct:copper_ore"
-                      },
-                      "target": {
-                        "predicate_type": "minecraft:tag_match",
-                        "tag": "minecraft:base_stone_overworld"
-                      }
-                    },
-                    "type": "minecraft:ore"
-                  }
-                },
-                "type": "minecraft:decorated"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_underground_ores"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "astralsorcery:marble",
+      "astralsorcery:aquamarine",
+      "astralsorcery:rock_crystal",
+      "tconstruct:copper_ore",
+      "quark:deferred_feature_underground_ores"
     ],
     [
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_underground_decoration"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "quark:deferred_feature_underground_decoration"
     ],
     [
       "minecraft:patch_tall_grass_2",
@@ -512,110 +70,29 @@
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      {
-        "config": {
-          "decorator": {
-            "config": {
-              "chance": 2
-            },
-            "type": "minecraft:chance"
-          },
-          "feature": {
-            "config": {
-              "decorator": {
-                "config": {},
-                "type": "minecraft:heightmap_spread_double"
-              },
-              "feature": {
-                "config": {
-                  "blacklist": [],
-                  "block_placer": {
-                    "type": "minecraft:simple_block_placer"
-                  },
-                  "can_replace": false,
-                  "need_water": false,
-                  "project": true,
-                  "state_provider": {
-                    "state": {
-                      "Name": "pamhc2crops:windygarden"
-                    },
-                    "type": "minecraft:simple_state_provider"
-                  },
-                  "tries": 32,
-                  "whitelist": [],
-                  "xspread": 7,
-                  "yspread": 3,
-                  "zspread": 7
-                },
-                "type": "minecraft:random_patch"
-              }
-            },
-            "type": "minecraft:decorated"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_vegetal_decoration"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "pamhc2crops:windy_garden",
+      "quark:deferred_feature_vegetal_decoration"
     ],
     [
       "minecraft:freeze_top_layer",
-      {
-        "config": {
-          "decorator": {
-            "config": {},
-            "type": "quark:chunk_corner_placement"
-          },
-          "feature": {
-            "config": {},
-            "type": "quark:deferred_feature_top_layer_modification"
-          }
-        },
-        "type": "minecraft:decorated"
-      }
+      "quark:deferred_feature_top_layer_modification"
     ]
   ],
   "forge:registry_name": "minecraft:plains",
   "player_spawn_friendly": true,
   "precipitation": "rain",
   "scale": 0.05,
-  "spawn_costs": {
-    "quark:foxhound": {
-      "charge": 0.25,
-      "energy_budget": 0.75
-    },
-    "quark:wraith": {
-      "charge": 0.25,
-      "energy_budget": 0.75
-    }
-  },
+  "spawn_costs": {},
   "spawners": {
     "ambient": [
       {
         "maxCount": 8,
         "minCount": 8,
         "type": "minecraft:bat",
-        "weight": 10
+        "weight": 8
       },
       {
-        "maxCount": 3,
-        "minCount": 2,
-        "type": "alexsmobs:fly",
-        "weight": 4
-      },
-      {
-        "maxCount": 3,
+        "maxCount": 2,
         "minCount": 2,
         "type": "alexsmobs:fly",
         "weight": 4
@@ -732,18 +209,6 @@
         "minCount": 1,
         "type": "minecraft:witch",
         "weight": 5
-      },
-      {
-        "maxCount": 4,
-        "minCount": 2,
-        "type": "tconstruct:earth_slime",
-        "weight": 100
-      },
-      {
-        "maxCount": 4,
-        "minCount": 2,
-        "type": "tconstruct:sky_slime",
-        "weight": 100
       }
     ],
     "water_ambient": [
@@ -808,7 +273,6 @@
     "minecraft:village_plains",
     "minecraft:pillager_outpost",
     "minecraft:mineshaft",
-    "minecraft:stronghold",
     "minecraft:ruined_portal"
   ],
   "surface_builder": "minecraft:grass",
