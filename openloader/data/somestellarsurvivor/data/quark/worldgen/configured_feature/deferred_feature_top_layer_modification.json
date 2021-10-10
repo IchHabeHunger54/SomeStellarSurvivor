@@ -1,0 +1,13 @@
+{
+  "config": {
+    "feature": {
+      "config": {},
+      "type": "quark:deferred_feature_top_layer_modification"
+    },
+    "decorator": {
+      "config": {},
+      "type": "quark:chunk_corner_placement"
+    }
+  },
+  "type": "minecraft:decorated"
+}

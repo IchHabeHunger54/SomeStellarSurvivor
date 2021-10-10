@@ -1,0 +1,13 @@
+{
+  "config": {
+    "feature": {
+      "config": {},
+      "type": "quark:deferred_feature_lakes"
+    },
+    "decorator": {
+      "config": {},
+      "type": "quark:chunk_corner_placement"
+    }
+  },
+  "type": "minecraft:decorated"
+}

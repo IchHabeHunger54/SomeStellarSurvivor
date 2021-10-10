@@ -1,0 +1,169 @@
+{
+  "bedrock_roof_position": -10,
+  "bedrock_floor_position": 0,
+  "sea_level": 63,
+  "disable_mob_generation": false,
+  "structures": {
+    "stronghold": {
+      "distance": 0,
+      "spread": 0,
+      "count": 0
+    },
+    "structures": {
+      "minecraft:ruined_portal": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "tconstruct:earth_slime_island": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:bastion_remnant": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:monument": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:village": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "astralsorcery:desert_shrine": {
+        "spacing": 36,
+        "separation": 4,
+        "salt": 0
+      },
+      "minecraft:buried_treasure": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:desert_pyramid": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:igloo": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:nether_fossil": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:swamp_hut": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:ocean_ruin": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:jungle_pyramid": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "quark:big_dungeon": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "tconstruct:clay_island": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "astralsorcery:ancient_shrine": {
+        "spacing": 36,
+        "separation": 4,
+        "salt": 0
+      },
+      "minecraft:fortress": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "tconstruct:overworld_slime_island": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:endcity": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:pillager_outpost": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:stronghold": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:mansion": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:mineshaft": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      },
+      "minecraft:shipwreck": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0
+      }
+    }
+  },
+  "noise": {
+    "random_density_offset": true,
+    "density_factor": 1.0,
+    "density_offset": -0.475,
+    "simplex_surface_noise": true,
+    "bottom_slide": {
+      "target": -30,
+      "size": 0,
+      "offset": 0
+    },
+    "size_horizontal": 1,
+    "size_vertical": 2,
+    "height": 256,
+    "sampling": {
+      "xz_scale": 0.999999,
+      "y_scale": 0.999999,
+      "xz_factor": 80.0,
+      "y_factor": 160.0
+    },
+    "top_slide": {
+      "target": -10,
+      "size": 3,
+      "offset": 0
+    }
+  },
+  "default_block": {
+    "Name": "minecraft:stone"
+  },
+  "default_fluid": {
+    "Properties": {
+      "level": "0"
+    },
+    "Name": "minecraft:water"
+  }
+}
