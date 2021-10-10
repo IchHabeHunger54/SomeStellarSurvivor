@@ -1,0 +1,42 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "count": 4
+      },
+      "type": "minecraft:count"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        },
+        "feature": {
+          "config": {
+            "decorator": {
+              "config": {},
+              "type": "minecraft:magma"
+            },
+            "feature": {
+              "config": {
+                "size": 33,
+                "state": {
+                  "Name": "minecraft:magma_block"
+                },
+                "target": {
+                  "block": "minecraft:netherrack",
+                  "predicate_type": "minecraft:block_match"
+                }
+              },
+              "type": "minecraft:ore"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    }
+  },
+  "type": "minecraft:decorated"
+}

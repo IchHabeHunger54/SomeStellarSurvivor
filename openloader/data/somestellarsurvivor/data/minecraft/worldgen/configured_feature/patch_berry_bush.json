@@ -1,0 +1,33 @@
+{
+  "config": {
+    "blacklist": [],
+    "block_placer": {
+      "type": "minecraft:simple_block_placer"
+    },
+    "can_replace": false,
+    "need_water": false,
+    "project": false,
+    "state_provider": {
+      "state": {
+        "Name": "minecraft:sweet_berry_bush",
+        "Properties": {
+          "age": "3"
+        }
+      },
+      "type": "minecraft:simple_state_provider"
+    },
+    "tries": 64,
+    "whitelist": [
+      {
+        "Name": "minecraft:grass_block",
+        "Properties": {
+          "snowy": "false"
+        }
+      }
+    ],
+    "xspread": 7,
+    "yspread": 3,
+    "zspread": 7
+  },
+  "type": "minecraft:random_patch"
+}

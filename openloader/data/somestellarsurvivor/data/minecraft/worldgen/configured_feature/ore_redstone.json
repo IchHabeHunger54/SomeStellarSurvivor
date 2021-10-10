@@ -1,0 +1,49 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "count": 8
+      },
+      "type": "minecraft:count"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        },
+        "feature": {
+          "config": {
+            "decorator": {
+              "config": {
+                "bottom_offset": 0,
+                "maximum": 16,
+                "top_offset": 0
+              },
+              "type": "minecraft:range"
+            },
+            "feature": {
+              "config": {
+                "size": 8,
+                "state": {
+                  "Name": "minecraft:redstone_ore",
+                  "Properties": {
+                    "lit": "false"
+                  }
+                },
+                "target": {
+                  "predicate_type": "minecraft:tag_match",
+                  "tag": "minecraft:base_stone_overworld"
+                }
+              },
+              "type": "minecraft:ore"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    }
+  },
+  "type": "minecraft:decorated"
+}

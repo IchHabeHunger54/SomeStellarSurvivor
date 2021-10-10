@@ -1,0 +1,33 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "count": 3
+      },
+      "type": "minecraft:count"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": {
+          "config": {},
+          "type": "minecraft:ice_spike"
+        }
+      },
+      "type": "minecraft:decorated"
+    }
+  },
+  "type": "minecraft:decorated"
+}

@@ -1,0 +1,22 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "count": 4
+      },
+      "type": "minecraft:count_multilayer"
+    },
+    "feature": {
+      "config": {
+        "state_provider": {
+          "state": {
+            "Name": "minecraft:nether_sprouts"
+          },
+          "type": "minecraft:simple_state_provider"
+        }
+      },
+      "type": "minecraft:nether_forest_vegetation"
+    }
+  },
+  "type": "minecraft:decorated"
+}

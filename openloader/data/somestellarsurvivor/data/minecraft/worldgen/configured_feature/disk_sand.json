@@ -1,0 +1,53 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "count": 3
+      },
+      "type": "minecraft:count"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:top_solid_heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": {
+          "config": {
+            "half_height": 2,
+            "radius": {
+              "base": 2,
+              "spread": 4
+            },
+            "state": {
+              "Name": "minecraft:sand"
+            },
+            "targets": [
+              {
+                "Name": "minecraft:dirt"
+              },
+              {
+                "Name": "minecraft:grass_block",
+                "Properties": {
+                  "snowy": "false"
+                }
+              }
+            ]
+          },
+          "type": "minecraft:disk"
+        }
+      },
+      "type": "minecraft:decorated"
+    }
+  },
+  "type": "minecraft:decorated"
+}

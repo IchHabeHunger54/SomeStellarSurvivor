@@ -1,0 +1,37 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "count": 10
+      },
+      "type": "minecraft:count"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {},
+          "type": "minecraft:square"
+        },
+        "feature": {
+          "config": {
+            "decorator": {
+              "config": {
+                "bottom_offset": 0,
+                "maximum": 128,
+                "top_offset": 0
+              },
+              "type": "minecraft:range"
+            },
+            "feature": {
+              "config": {},
+              "type": "minecraft:twisting_vines"
+            }
+          },
+          "type": "minecraft:decorated"
+        }
+      },
+      "type": "minecraft:decorated"
+    }
+  },
+  "type": "minecraft:decorated"
+}

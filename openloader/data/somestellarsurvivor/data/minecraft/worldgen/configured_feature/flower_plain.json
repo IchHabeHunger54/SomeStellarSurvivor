@@ -1,0 +1,20 @@
+{
+  "config": {
+    "blacklist": [],
+    "block_placer": {
+      "type": "minecraft:simple_block_placer"
+    },
+    "can_replace": false,
+    "need_water": false,
+    "project": true,
+    "state_provider": {
+      "type": "minecraft:plain_flower_provider"
+    },
+    "tries": 64,
+    "whitelist": [],
+    "xspread": 7,
+    "yspread": 3,
+    "zspread": 7
+  },
+  "type": "minecraft:flower"
+}

@@ -1,0 +1,25 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "inner": {
+          "config": {},
+          "type": "minecraft:heightmap"
+        },
+        "outer": {
+          "config": {},
+          "type": "minecraft:square"
+        }
+      },
+      "type": "minecraft:decorated"
+    },
+    "feature": {
+      "config": {
+        "feature_false": "minecraft:huge_brown_mushroom",
+        "feature_true": "minecraft:huge_red_mushroom"
+      },
+      "type": "minecraft:random_boolean_selector"
+    }
+  },
+  "type": "minecraft:decorated"
+}

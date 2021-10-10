@@ -1,0 +1,43 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "count": 10,
+        "extra_chance": 0.1,
+        "extra_count": 1
+      },
+      "type": "minecraft:count_extra"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": {
+          "config": {
+            "default": "minecraft:spruce",
+            "features": [
+              {
+                "chance": 0.33333334,
+                "feature": "minecraft:pine"
+              }
+            ]
+          },
+          "type": "minecraft:random_selector"
+        }
+      },
+      "type": "minecraft:decorated"
+    }
+  },
+  "type": "minecraft:decorated"
+}
