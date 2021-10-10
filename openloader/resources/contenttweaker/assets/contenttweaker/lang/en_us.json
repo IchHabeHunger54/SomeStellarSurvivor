@@ -1,5 +1,7 @@
 {
+  "block.contenttweaker.coal_ore": "Self-Dropping Coal Ore",
   "block.contenttweaker.cut_red_sandstone_stairs": "Cut Red Sandstone Stairs",
   "block.contenttweaker.cut_sandstone_stairs": "Cut Sandstone Stairs",
+  "block.contenttweaker.lapis_ore": "Self-Dropping Lapis Ore",
   "block.contenttweaker.smooth_stone_stairs": "Smooth Stone Stairs"
 }

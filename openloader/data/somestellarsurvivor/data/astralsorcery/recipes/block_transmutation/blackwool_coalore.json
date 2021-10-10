@@ -1,0 +1,18 @@
+{
+  "display": {
+    "item": "contenttweaker:coal_ore"
+  },
+  "input": [
+    {
+      "block": "minecraft:black_wool",
+      "display": {
+        "item": "minecraft:black_wool"
+      }
+    }
+  ],
+  "output": {
+    "block": "contenttweaker:coal_ore"
+  },
+  "starlight": 800,
+  "type": "astralsorcery:block_transmutation"
+}
