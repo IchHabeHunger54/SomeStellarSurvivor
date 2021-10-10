@@ -5,7 +5,6 @@ Finished stuff will be removed from this list.
 - Work over biome colors
 - (?) Rework biomes entirely
 - Work over Minecolonies schematics
-- Work over Minecolonies recipes
 - Work over TiC books
 - Work over translations
 - Finish debug keybind mod

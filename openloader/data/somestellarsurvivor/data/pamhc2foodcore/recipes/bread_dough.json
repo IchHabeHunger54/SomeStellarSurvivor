@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:dough"
-    }
-  ],
-  "result": {
-    "item": "minecraft:bread"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"conditions":[{"type":"forge:false"}]}

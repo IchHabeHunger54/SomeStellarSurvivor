@@ -1,1 +1,18 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "key": {
+    "#": {
+      "tag": "forge:dough"
+    },
+    "X": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "pattern": [
+    "#X#"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecolonies:cookie_dough"
+  },
+  "type": "minecraft:crafting_shaped"
+}

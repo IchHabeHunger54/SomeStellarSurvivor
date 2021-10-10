@@ -1,14 +1,1 @@
-{
-  "count": 1,
-  "crafter": "baker_crafting",
-  "inputs": [
-    {
-      "count": 1,
-      "item": "minecolonies:raw_pumpkin_pie"
-    }
-  ],
-  "intermediate": "minecraft:furnace",
-  "min-building-level": 3,
-  "result": "minecraft:pumpkin_pie",
-  "type": "recipe"
-}
+{"conditions":[{"type":"forge:false"}]}

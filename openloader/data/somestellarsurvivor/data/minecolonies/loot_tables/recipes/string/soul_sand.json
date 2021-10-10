@@ -1,24 +1,3 @@
 {
-  "pools": [
-    {
-      "entries": [
-        {
-          "type": "minecraft:empty",
-          "weight": 90
-        },
-        {
-          "name": "minecraft:nether_wart",
-          "type": "minecraft:item",
-          "weight": 5
-        },
-        {
-          "name": "minecraft:quartz",
-          "type": "minecraft:item",
-          "weight": 5
-        }
-      ],
-      "rolls": 1
-    }
-  ],
   "type": "minecraft:generic"
 }

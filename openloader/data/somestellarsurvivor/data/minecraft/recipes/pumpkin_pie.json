@@ -1,1 +1,17 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "result": {
+    "item": "minecolonies:raw_pumpkin_pie"
+  },
+  "type": "minecraft:crafting_shapeless"
+}

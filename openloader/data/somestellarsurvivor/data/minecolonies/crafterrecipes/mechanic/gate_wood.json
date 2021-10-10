@@ -9,6 +9,5 @@
   ],
   "intermediate": "minecraft:air",
   "result": "minecolonies:gate_wood",
-  "show-tooltip": true,
   "type": "recipe"
 }

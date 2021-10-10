@@ -1,10 +1,10 @@
 {
-  "count": 4,
+  "count": 8,
   "crafter": "baker_crafting",
   "inputs": [
     {
       "count": 8,
-      "item": "minecraft:wheat"
+      "item": "minecraft:bread"
     },
     {
       "count": 1,
@@ -14,6 +14,5 @@
   "intermediate": "minecraft:air",
   "min-building-level": 4,
   "result": "minecolonies:milky_bread",
-  "show-tooltip": true,
   "type": "recipe"
 }

@@ -3,16 +3,12 @@
   "crafter": "blacksmith_crafting",
   "inputs": [
     {
-      "count": 6,
+      "count": 13,
       "item": "minecraft:iron_ingot"
     },
     {
       "count": 1,
       "item": "minecraft:leather"
-    },
-    {
-      "count": 4,
-      "item": "minecraft:coal"
     }
   ],
   "min-building-level": 4,

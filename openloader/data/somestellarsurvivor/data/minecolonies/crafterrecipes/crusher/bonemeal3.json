@@ -1,13 +1,1 @@
-{
-  "count": "9",
-  "crafter": "crusher_custom",
-  "inputs": [
-    {
-      "count": "1",
-      "item": "minecraft:bone_block"
-    }
-  ],
-  "intermediate": "minecraft:air",
-  "result": "minecraft:bone_meal",
-  "type": "recipe"
-}
+{"conditions":[{"type":"forge:false"}]}

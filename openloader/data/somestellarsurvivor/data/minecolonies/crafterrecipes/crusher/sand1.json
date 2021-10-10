@@ -1,14 +1,1 @@
-{
-  "count": "1",
-  "crafter": "crusher_custom",
-  "inputs": [
-    {
-      "count": "2",
-      "item": "minecraft:gravel"
-    }
-  ],
-  "intermediate": "minecraft:air",
-  "not-research-id": "minecolonies:technology/gildedhammer",
-  "result": "minecraft:sand",
-  "type": "recipe"
-}
+{"conditions":[{"type":"forge:false"}]}

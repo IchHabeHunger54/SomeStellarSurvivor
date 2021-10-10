@@ -1,1 +1,25 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+  "key": {
+    "A": {
+      "item": "minecraft:milk_bucket"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "tag": "forge:dough"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "BEB",
+    "CCC"
+  ],
+  "result": {
+    "item": "minecolonies:cake_batter"
+  },
+  "type": "minecraft:crafting_shaped"
+}

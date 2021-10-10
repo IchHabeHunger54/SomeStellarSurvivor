@@ -1,6 +1,7 @@
 {
   "replace": true,
   "values": [
-    "#forge:grain"
+    "#forge:grain",
+    "#forge:dough"
   ]
 }

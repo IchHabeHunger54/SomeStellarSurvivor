@@ -1,17 +1,1 @@
-{
-  "count": 1,
-  "crafter": "stonemason_crafting",
-  "inputs": [
-    {
-      "count": 1,
-      "item": "minecraft:cobblestone"
-    },
-    {
-      "count": 1,
-      "item": "minecraft:sand"
-    }
-  ],
-  "intermediate": "minecraft:air",
-  "result": "minecraft:sandstone",
-  "type": "recipe"
-}
+{"conditions":[{"type":"forge:false"}]}

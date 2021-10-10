@@ -6,56 +6,12 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:aqua_affinity\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:bane_of_arthropods\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:blast_protection\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
               "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:depth_strider\"}]}"
             }
           ],
           "name": "minecraft:enchanted_book",
           "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:efficiency\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
+          "weight": 5
         },
         {
           "functions": [
@@ -66,73 +22,7 @@
           ],
           "name": "minecraft:enchanted_book",
           "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:fire_aspect\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:fire_protection\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:flame\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:frost_walker\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:knockback\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:looting\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
+          "weight": 5
         },
         {
           "functions": [
@@ -143,18 +33,7 @@
           ],
           "name": "minecraft:enchanted_book",
           "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:projectile_protection\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
+          "weight": 5
         },
         {
           "functions": [
@@ -165,29 +44,7 @@
           ],
           "name": "minecraft:enchanted_book",
           "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:punch\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:quick_charge\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
+          "weight": 5
         },
         {
           "functions": [
@@ -198,40 +55,7 @@
           ],
           "name": "minecraft:enchanted_book",
           "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:sharpness\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:smite\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
-        },
-        {
-          "functions": [
-            {
-              "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{lvl:1s,id:\"minecraft:sweeping\"}]}"
-            }
-          ],
-          "name": "minecraft:enchanted_book",
-          "type": "minecraft:item",
-          "weight": 50
+          "weight": 5
         },
         {
           "functions": [
@@ -242,7 +66,7 @@
           ],
           "name": "minecraft:enchanted_book",
           "type": "minecraft:item",
-          "weight": 50
+          "weight": 5
         }
       ],
       "rolls": 1
