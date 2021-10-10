@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "ceramics:clay_faucet"
-  },
-  "result": "ceramics:terracotta_faucet",
-  "type": "ceramics:kiln"
-}
+{"cookingtime":100,"ingredient":{"item":"ceramics:clay_faucet"},"result":"ceramics:terracotta_faucet","type":"ceramics:kiln"}

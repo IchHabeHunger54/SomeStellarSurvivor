@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:item_frame"
-    },
-    {
-      "tag": "forge:dyes/black"
-    }
-  ],
-  "result": {
-    "item": "quark:black_item_frame"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:item_frame"},{"tag":"forge:dyes/black"}],"result":{"item":"quark:black_item_frame"},"type":"minecraft:crafting_shapeless"}

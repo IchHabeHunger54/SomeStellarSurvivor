@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:spruce_dresser_13"
-    },
-    "B": {
-      "item": "mcwfurnitures:drawer"
-    }
-  },
-  "pattern": [
-    "A",
-    "B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:spruce_dresser_12"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:spruce_dresser_13"},"B":{"item":"mcwfurnitures:drawer"}},"pattern":["A","B"],"result":{"item":"mcwfurnitures:spruce_dresser_12"},"type":"minecraft:crafting_shaped"}

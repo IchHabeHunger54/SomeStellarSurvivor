@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:batter/batter"
-  ]
-}
+{"replace":true,"values":["#forge:batter/batter"]}

@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:grass"
-    },
-    {
-      "item": "minecraft:grass"
-    }
-  ],
-  "result": {
-    "item": "minecraft:tall_grass"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:grass"},{"item":"minecraft:grass"}],"result":{"item":"minecraft:tall_grass"},"type":"minecraft:crafting_shapeless"}

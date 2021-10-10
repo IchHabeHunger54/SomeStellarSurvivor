@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:birch_planks"
-    },
-    "W": {
-      "item": "minecraft:birch_boat"
-    }
-  },
-  "pattern": [
-    "#W#",
-    "###"
-  ],
-  "result": {
-    "item": "extraboats:large_birch_boat"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:birch_planks"},"W":{"item":"minecraft:birch_boat"}},"pattern":["#W#","###"],"result":{"item":"extraboats:large_birch_boat"},"type":"minecraft:crafting_shaped"}

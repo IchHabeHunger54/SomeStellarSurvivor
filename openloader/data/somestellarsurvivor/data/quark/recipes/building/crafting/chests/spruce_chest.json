@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:spruce_planks"
-    }
-  },
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "quark:spruce_chest"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:spruce_planks"}},"pattern":["###","# #","###"],"result":{"item":"quark:spruce_chest"},"type":"minecraft:crafting_shaped"}

@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:chickpeaitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:chickpeaseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:chickpeaitem"}],"result":{"item":"pamhc2crops:chickpeaseeditem"},"type":"minecraft:crafting_shapeless"}

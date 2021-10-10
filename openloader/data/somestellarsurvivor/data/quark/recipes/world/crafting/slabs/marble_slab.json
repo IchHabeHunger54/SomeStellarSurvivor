@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:marble"
-    }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:marble_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:marble"}},"pattern":["###"],"result":{"count":6,"item":"quark:marble_slab"},"type":"minecraft:crafting_shaped"}

@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:polished_deepslate_vertical_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:polished_deepslate_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:polished_deepslate_vertical_slab"}],"result":{"item":"quark:polished_deepslate_slab"},"type":"minecraft:crafting_shapeless"}

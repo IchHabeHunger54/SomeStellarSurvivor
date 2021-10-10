@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:fruits/elderberry"
-    },
-    {
-      "tag": "forge:ices"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:elderberrysmoothieitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:fruits/elderberry"},{"tag":"forge:ices"}],"result":{"item":"pamhc2foodextended:elderberrysmoothieitem"},"type":"minecraft:crafting_shapeless"}

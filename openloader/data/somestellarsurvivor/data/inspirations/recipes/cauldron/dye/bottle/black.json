@@ -1,7 +1,1 @@
-{
-  "color": "1d1d21",
-  "ingredient": {
-    "item": "inspirations:black_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"1d1d21","ingredient":{"item":"inspirations:black_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

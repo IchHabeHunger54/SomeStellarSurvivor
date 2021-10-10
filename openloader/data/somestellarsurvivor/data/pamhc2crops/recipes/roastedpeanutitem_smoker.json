@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "tag": "forge:crops/peanut"
-  },
-  "result": "pamhc2crops:roastedpeanutitem",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"tag":"forge:crops/peanut"},"result":"pamhc2crops:roastedpeanutitem","type":"minecraft:smoking"}

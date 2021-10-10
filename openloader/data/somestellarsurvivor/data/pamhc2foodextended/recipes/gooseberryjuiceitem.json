@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/gooseberry"
-    },
-    {
-      "tag": "forge:fruits/gooseberry"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:gooseberryjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/gooseberry"},{"tag":"forge:fruits/gooseberry"}],"result":{"item":"pamhc2foodextended:gooseberryjuiceitem"},"type":"minecraft:crafting_shapeless"}

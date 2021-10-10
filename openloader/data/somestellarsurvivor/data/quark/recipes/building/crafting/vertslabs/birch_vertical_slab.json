@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:birch_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:birch_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:birch_slab"}],"result":{"item":"quark:birch_vertical_slab"},"type":"minecraft:crafting_shapeless"}

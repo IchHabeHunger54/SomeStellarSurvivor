@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:lettuceitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:lettuceseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:lettuceitem"}],"result":{"item":"pamhc2crops:lettuceseeditem"},"type":"minecraft:crafting_shapeless"}

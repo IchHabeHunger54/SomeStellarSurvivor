@@ -1,18 +1,1 @@
-{
-  "byproducts": [
-    {
-      "amount": 576,
-      "fluid": "tconstruct:scorched_stone"
-    }
-  ],
-  "ingredient": {
-    "item": "tconstruct:scorched_duct"
-  },
-  "result": {
-    "amount": 288,
-    "fluid": "tconstruct:molten_cobalt"
-  },
-  "temperature": 950,
-  "time": 160,
-  "type": "tconstruct:melting"
-}
+{"byproducts":[{"amount":576,"fluid":"tconstruct:scorched_stone"}],"ingredient":{"item":"tconstruct:scorched_duct"},"result":{"amount":288,"fluid":"tconstruct:molten_cobalt"},"temperature":950,"time":160,"type":"tconstruct:melting"}

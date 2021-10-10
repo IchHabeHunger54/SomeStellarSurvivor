@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "tag": "tconstruct:casts/single_use/ingot"
-  },
-  "cast_consumed": true,
-  "cooling_time": 60,
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_gold"
-  },
-  "result": "minecraft:gold_ingot",
-  "type": "tconstruct:casting_table"
-}
+{"cast":{"tag":"tconstruct:casts/single_use/ingot"},"cast_consumed":true,"cooling_time":60,"fluid":{"amount":144,"tag":"tconstruct:molten_gold"},"result":"minecraft:gold_ingot","type":"tconstruct:casting_table"}

@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#buzzier_bees:dyed_candles",
-    "#buzzier_bees:scented_candles",
-    "buzzier_bees:candle"
-  ]
-}
+{"replace":true,"values":["#buzzier_bees:dyed_candles","#buzzier_bees:scented_candles","buzzier_bees:candle"]}

@@ -1,7 +1,1 @@
-{
-  "color": "8932b8",
-  "ingredient": {
-    "item": "inspirations:purple_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"8932b8","ingredient":{"item":"inspirations:purple_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

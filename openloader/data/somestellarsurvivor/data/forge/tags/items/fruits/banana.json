@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "alexsmobs:banana",
-    "pamhc2trees:bananaitem"
-  ]
-}
+{"replace":true,"values":["alexsmobs:banana","pamhc2trees:bananaitem"]}

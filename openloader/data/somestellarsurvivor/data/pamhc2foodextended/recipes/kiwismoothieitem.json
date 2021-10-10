@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:fruits/kiwi"
-    },
-    {
-      "tag": "forge:ices"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:kiwismoothieitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:fruits/kiwi"},{"tag":"forge:ices"}],"result":{"item":"pamhc2foodextended:kiwismoothieitem"},"type":"minecraft:crafting_shapeless"}

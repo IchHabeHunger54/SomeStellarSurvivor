@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:elderberryitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:elderberryseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:elderberryitem"}],"result":{"item":"pamhc2crops:elderberryseeditem"},"type":"minecraft:crafting_shapeless"}

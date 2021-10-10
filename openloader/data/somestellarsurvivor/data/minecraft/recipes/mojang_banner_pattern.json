@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:apple"
-    }
-  ],
-  "result": {
-    "item": "minecraft:mojang_banner_pattern"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"item":"minecraft:apple"}],"result":{"item":"minecraft:mojang_banner_pattern"},"type":"minecraft:crafting_shapeless"}

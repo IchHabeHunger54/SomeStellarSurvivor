@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "tag": "forge:rawpork"
-    },
-    {
-      "tag": "forge:salt"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:porkjerkyitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:rawpork"},{"tag":"forge:salt"}],"result":{"item":"pamhc2foodcore:porkjerkyitem"},"type":"minecraft:crafting_shapeless"}

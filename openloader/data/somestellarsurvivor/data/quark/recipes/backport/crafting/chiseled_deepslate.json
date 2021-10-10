@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:deepslate_tiles"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:chiseled_deepslate"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:deepslate_tiles"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:chiseled_deepslate"},"type":"minecraft:crafting_shaped"}

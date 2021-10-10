@@ -1,7 +1,1 @@
-{
-  "color": "3c44aa",
-  "ingredient": {
-    "item": "inspirations:blue_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"3c44aa","ingredient":{"item":"inspirations:blue_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

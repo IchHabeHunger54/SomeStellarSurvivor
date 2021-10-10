@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:fire"
-  ]
-}
+{"replace":true,"values":["minecraft:fire"]}

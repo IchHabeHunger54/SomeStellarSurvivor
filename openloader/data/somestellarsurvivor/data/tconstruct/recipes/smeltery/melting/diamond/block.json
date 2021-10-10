@@ -1,12 +1,1 @@
-{
-  "ingredient": {
-    "item": "minecraft:diamond_block"
-  },
-  "result": {
-    "amount": 1296,
-    "fluid": "tconstruct:molten_diamond"
-  },
-  "temperature": 1000,
-  "time": 240,
-  "type": "tconstruct:melting"
-}
+{"ingredient":{"item":"minecraft:diamond_block"},"result":{"amount":1296,"fluid":"tconstruct:molten_diamond"},"temperature":1000,"time":240,"type":"tconstruct:melting"}

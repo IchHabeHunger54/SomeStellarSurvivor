@@ -1,12 +1,1 @@
-{
-  "ingredient": {
-    "item": "minecraft:quartz"
-  },
-  "result": {
-    "amount": 144,
-    "fluid": "tconstruct:molten_quartz"
-  },
-  "temperature": 650,
-  "time": 50,
-  "type": "tconstruct:melting"
-}
+{"ingredient":{"item":"minecraft:quartz"},"result":{"amount":144,"fluid":"tconstruct:molten_quartz"},"temperature":650,"time":50,"type":"tconstruct:melting"}

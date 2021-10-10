@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:lavender_blossom_leaves"
-    }
-  },
-  "pattern": [
-    "##"
-  ],
-  "result": {
-    "count": 3,
-    "item": "quark:lavender_blossom_leaf_carpet"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:lavender_blossom_leaves"}},"pattern":["##"],"result":{"count":3,"item":"quark:lavender_blossom_leaf_carpet"},"type":"minecraft:crafting_shaped"}

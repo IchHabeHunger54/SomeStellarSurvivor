@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "item": "minecraft:blue_concrete_powder"
-  },
-  "cast_consumed": true,
-  "cooling_time": 20,
-  "fluid": {
-    "amount": 100,
-    "name": "minecraft:water"
-  },
-  "result": "minecraft:blue_concrete",
-  "type": "tconstruct:casting_basin"
-}
+{"cast":{"item":"minecraft:blue_concrete_powder"},"cast_consumed":true,"cooling_time":20,"fluid":{"amount":100,"name":"minecraft:water"},"result":"minecraft:blue_concrete","type":"tconstruct:casting_basin"}

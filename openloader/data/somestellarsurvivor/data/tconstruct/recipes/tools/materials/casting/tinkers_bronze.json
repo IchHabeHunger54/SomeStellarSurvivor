@@ -1,9 +1,1 @@
-{
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_tinkers_bronze"
-  },
-  "output": "tconstruct:tinkers_bronze",
-  "temperature": 700,
-  "type": "tconstruct:material_fluid"
-}
+{"fluid":{"amount":144,"tag":"tconstruct:molten_tinkers_bronze"},"output":"tconstruct:tinkers_bronze","temperature":700,"type":"tconstruct:material_fluid"}

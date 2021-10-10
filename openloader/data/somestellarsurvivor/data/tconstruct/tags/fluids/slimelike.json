@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:magma",
-    "#tconstruct:blood",
-    "#tconstruct:molten_ender",
-    "#tconstruct:slime"
-  ]
-}
+{"replace":true,"values":["#forge:magma","#tconstruct:blood","#tconstruct:molten_ender","#tconstruct:slime"]}

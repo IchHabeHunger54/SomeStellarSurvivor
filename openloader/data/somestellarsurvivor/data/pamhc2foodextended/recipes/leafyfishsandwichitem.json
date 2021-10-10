@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "item": "pamhc2foodcore:basicfishsandwichitem"
-    },
-    {
-      "tag": "forge:leafyvegetables"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:leafyfishsandwichitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"item":"pamhc2foodcore:basicfishsandwichitem"},{"tag":"forge:leafyvegetables"}],"result":{"item":"pamhc2foodextended:leafyfishsandwichitem"},"type":"minecraft:crafting_shapeless"}

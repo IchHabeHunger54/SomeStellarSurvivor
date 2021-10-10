@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "buzzier_bees:candle"
-    },
-    {
-      "item": "minecraft:oxeye_daisy"
-    }
-  ],
-  "result": {
-    "item": "buzzier_bees:oxeye_daisy_scented_candle"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"buzzier_bees:candle"},{"item":"minecraft:oxeye_daisy"}],"result":{"item":"buzzier_bees:oxeye_daisy_scented_candle"},"type":"minecraft:crafting_shapeless"}

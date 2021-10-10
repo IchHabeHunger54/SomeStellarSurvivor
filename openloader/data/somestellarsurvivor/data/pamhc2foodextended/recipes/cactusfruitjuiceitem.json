@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/cactus_fruit"
-    },
-    {
-      "tag": "forge:fruits/cactus_fruit"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:cactusfruitjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/cactus_fruit"},{"tag":"forge:fruits/cactus_fruit"}],"result":{"item":"pamhc2foodextended:cactusfruitjuiceitem"},"type":"minecraft:crafting_shapeless"}

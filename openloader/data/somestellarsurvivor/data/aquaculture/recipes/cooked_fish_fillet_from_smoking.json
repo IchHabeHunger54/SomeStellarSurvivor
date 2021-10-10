@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "aquaculture:fish_fillet_raw"
-  },
-  "result": "aquaculture:fish_fillet_cooked",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"item":"aquaculture:fish_fillet_raw"},"result":"aquaculture:fish_fillet_cooked","type":"minecraft:smoking"}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:rawmutton/rawmutton",
-    "#forge:rawmutton/rawtofuttonitem"
-  ]
-}
+{"replace":true,"values":["#forge:rawmutton/rawmutton","#forge:rawmutton/rawtofuttonitem"]}

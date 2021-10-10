@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "forge:crops/lemon"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:candiedlemonitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"item":"minecraft:sugar"},{"tag":"forge:crops/lemon"}],"result":{"item":"pamhc2foodextended:candiedlemonitem"},"type":"minecraft:crafting_shapeless"}

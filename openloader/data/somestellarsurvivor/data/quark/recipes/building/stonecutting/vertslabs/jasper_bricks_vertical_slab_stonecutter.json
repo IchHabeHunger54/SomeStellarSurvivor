@@ -1,8 +1,1 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "quark:jasper_bricks"
-  },
-  "result": "quark:jasper_bricks_vertical_slab",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":{"item":"quark:jasper_bricks"},"result":"quark:jasper_bricks_vertical_slab","type":"minecraft:stonecutting"}

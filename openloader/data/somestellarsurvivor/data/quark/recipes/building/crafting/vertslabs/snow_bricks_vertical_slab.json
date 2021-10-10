@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:snow_bricks_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:snow_bricks_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:snow_bricks_slab"}],"result":{"item":"quark:snow_bricks_vertical_slab"},"type":"minecraft:crafting_shapeless"}

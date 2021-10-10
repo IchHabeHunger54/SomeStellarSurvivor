@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:nether_bricks"
-    }
-  ],
-  "result": {
-    "count": 4,
-    "item": "minecraft:nether_brick"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:nether_bricks"}],"result":{"count":4,"item":"minecraft:nether_brick"},"type":"minecraft:crafting_shapeless"}

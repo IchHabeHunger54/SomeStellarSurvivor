@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:brick"
-    }
-  },
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "pamhc2foodcore:bakewareitem"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:brick"}},"pattern":["###","# #","###"],"result":{"item":"pamhc2foodcore:bakewareitem"},"type":"minecraft:crafting_shaped"}

@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "berry_good:sweet_berry_mince"
-  },
-  "result": "berry_good:sweet_berry_meatballs",
-  "type": "cfm:grill_cooking"
-}
+{"cookingtime":600,"ingredient":{"item":"berry_good:sweet_berry_mince"},"result":"berry_good:sweet_berry_meatballs","type":"cfm:grill_cooking"}

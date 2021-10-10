@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:grass_block"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:grass"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"item":"minecraft:grass_block"}],"result":{"item":"additionalbanners:grass"},"type":"minecraft:crafting_shapeless"}

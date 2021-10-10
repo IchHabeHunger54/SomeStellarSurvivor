@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:coin_cast"
-  ]
-}
+{"replace":true,"values":["tconstruct:coin_cast"]}

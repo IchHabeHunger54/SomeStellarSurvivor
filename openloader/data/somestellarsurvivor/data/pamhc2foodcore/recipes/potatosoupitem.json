@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "tag": "forge:crops/potato"
-    },
-    {
-      "tag": "forge:stock"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:potatosoupitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:crops/potato"},{"tag":"forge:stock"}],"result":{"item":"pamhc2foodcore:potatosoupitem"},"type":"minecraft:crafting_shapeless"}

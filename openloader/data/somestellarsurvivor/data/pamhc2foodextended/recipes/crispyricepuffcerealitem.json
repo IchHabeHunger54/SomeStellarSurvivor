@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:crops/rice"
-    },
-    {
-      "tag": "forge:milk"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:crispyricepuffcerealitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:crops/rice"},{"tag":"forge:milk"}],"result":{"item":"pamhc2foodextended:crispyricepuffcerealitem"},"type":"minecraft:crafting_shapeless"}

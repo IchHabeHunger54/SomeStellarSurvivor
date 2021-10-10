@@ -1,14 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:spruce_nightstand_5"
-    }
-  },
-  "pattern": [
-    "AA"
-  ],
-  "result": {
-    "item": "mcwfurnitures:spruce_dresser"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:spruce_nightstand_5"}},"pattern":["AA"],"result":{"item":"mcwfurnitures:spruce_dresser"},"type":"minecraft:crafting_shaped"}

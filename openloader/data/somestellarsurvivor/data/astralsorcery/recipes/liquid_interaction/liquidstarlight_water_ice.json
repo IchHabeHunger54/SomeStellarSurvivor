@@ -1,18 +1,1 @@
-{
-  "chanceConsumeReactant1": 1.0,
-  "chanceConsumeReactant2": 1.0,
-  "reactant1": "astralsorcery:liquid_starlight",
-  "reactant1Amount": 10,
-  "reactant2": "minecraft:water",
-  "reactant2Amount": 10,
-  "result": {
-    "data": {
-      "output": {
-        "item": "minecraft:ice"
-      }
-    },
-    "id": "astralsorcery:drop_item"
-  },
-  "type": "astralsorcery:liquid_interaction",
-  "weight": 1
-}
+{"chanceConsumeReactant1":1.0,"chanceConsumeReactant2":1.0,"reactant1":"astralsorcery:liquid_starlight","reactant1Amount":10,"reactant2":"minecraft:water","reactant2Amount":10,"result":{"data":{"output":{"item":"minecraft:ice"}},"id":"astralsorcery:drop_item"},"type":"astralsorcery:liquid_interaction","weight":1}

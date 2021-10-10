@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "tag": "forge:fruits/pineapple"
-    },
-    {
-      "item": "minecraft:sugar"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:pineapplejellyitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"tag":"forge:fruits/pineapple"},{"item":"minecraft:sugar"}],"result":{"item":"pamhc2foodextended:pineapplejellyitem"},"type":"minecraft:crafting_shapeless"}

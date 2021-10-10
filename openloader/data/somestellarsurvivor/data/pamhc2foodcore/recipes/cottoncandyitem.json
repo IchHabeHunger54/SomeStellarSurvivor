@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "item": "minecraft:sugar"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:cottoncandyitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"item":"minecraft:sugar"}],"result":{"item":"pamhc2foodcore:cottoncandyitem"},"type":"minecraft:crafting_shapeless"}

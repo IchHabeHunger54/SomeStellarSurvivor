@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:crops/vanillabean"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:vanillaitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:crops/vanillabean"}],"result":{"item":"pamhc2foodextended:vanillaitem"},"type":"minecraft:crafting_shapeless"}

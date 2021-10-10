@@ -1,8 +1,1 @@
-{
-  "count": 6,
-  "ingredient": {
-    "item": "minecraft:cobblestone"
-  },
-  "result": "inspirations:rock_path",
-  "type": "minecraft:stonecutting"
-}
+{"count":6,"ingredient":{"item":"minecraft:cobblestone"},"result":"inspirations:rock_path","type":"minecraft:stonecutting"}

@@ -1,18 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "item": "pamhc2foodcore:groundchickenitem"
-    },
-    {
-      "tag": "forge:flour"
-    }
-  ],
-  "result": {
-    "count": 4,
-    "item": "pamhc2foodcore:chickennuggetitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"item":"pamhc2foodcore:groundchickenitem"},{"tag":"forge:flour"}],"result":{"count":4,"item":"pamhc2foodcore:chickennuggetitem"},"type":"minecraft:crafting_shapeless"}

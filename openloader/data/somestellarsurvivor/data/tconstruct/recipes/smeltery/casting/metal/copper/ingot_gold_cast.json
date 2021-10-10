@@ -1,14 +1,1 @@
-{
-  "cast": {
-    "tag": "tconstruct:casts/multi_use/ingot"
-  },
-  "cooling_time": 45,
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_copper"
-  },
-  "result": {
-    "item": "tconstruct:copper_ingot"
-  },
-  "type": "tconstruct:casting_table"
-}
+{"cast":{"tag":"tconstruct:casts/multi_use/ingot"},"cooling_time":45,"fluid":{"amount":144,"tag":"tconstruct:molten_copper"},"result":{"item":"tconstruct:copper_ingot"},"type":"tconstruct:casting_table"}

@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:smooth_quartz_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:smooth_quartz_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:smooth_quartz_slab"}],"result":{"item":"quark:smooth_quartz_vertical_slab"},"type":"minecraft:crafting_shapeless"}

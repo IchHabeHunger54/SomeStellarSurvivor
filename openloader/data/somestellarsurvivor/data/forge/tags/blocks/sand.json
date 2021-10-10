@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:sand/colorless",
-    "#forge:sand/red"
-  ]
-}
+{"replace":true,"values":["#forge:sand/colorless","#forge:sand/red"]}

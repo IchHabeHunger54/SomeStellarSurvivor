@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:cobbled_deepslate"
-  },
-  "result": "quark:cobbled_deepslate_wall",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:cobbled_deepslate"},"result":"quark:cobbled_deepslate_wall","type":"minecraft:stonecutting"}

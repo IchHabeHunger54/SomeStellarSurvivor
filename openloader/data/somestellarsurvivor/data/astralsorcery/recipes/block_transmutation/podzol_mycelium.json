@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:mycelium"
-  },
-  "input": [
-    {
-      "block": "minecraft:podzol",
-      "display": {
-        "item": "minecraft:podzol"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:mycelium"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:mycelium"},"input":[{"block":"minecraft:podzol","display":{"item":"minecraft:podzol"}}],"output":{"block":"minecraft:mycelium"},"starlight":400,"type":"astralsorcery:block_transmutation"}

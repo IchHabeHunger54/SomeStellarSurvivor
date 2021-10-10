@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:polished_limestone_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:polished_limestone_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:polished_limestone_slab"}],"result":{"item":"quark:polished_limestone_vertical_slab"},"type":"minecraft:crafting_shapeless"}

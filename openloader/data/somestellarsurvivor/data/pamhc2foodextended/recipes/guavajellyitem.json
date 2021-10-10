@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "tag": "forge:fruits/guava"
-    },
-    {
-      "item": "minecraft:sugar"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:guavajellyitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"tag":"forge:fruits/guava"},{"item":"minecraft:sugar"}],"result":{"item":"pamhc2foodextended:guavajellyitem"},"type":"minecraft:crafting_shapeless"}

@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:rusty_iron_plate"
-    }
-  },
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:rusty_iron_plate_stairs"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:rusty_iron_plate"}},"pattern":["#  ","## ","###"],"result":{"count":6,"item":"quark:rusty_iron_plate_stairs"},"type":"minecraft:crafting_shaped"}

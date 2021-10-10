@@ -1,15 +1,1 @@
-{
-  "min_level": 1,
-  "modifier": "tconstruct:haste",
-  "salvage": {
-    "full": false,
-    "item": "minecraft:redstone"
-  },
-  "slots": {
-    "upgrades": 1
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee_or_harvest"
-  },
-  "type": "tconstruct:incremental_modifier_salvage"
-}
+{"min_level":1,"modifier":"tconstruct:haste","salvage":{"full":false,"item":"minecraft:redstone"},"slots":{"upgrades":1},"tools":{"tag":"tconstruct:modifiable/melee_or_harvest"},"type":"tconstruct:incremental_modifier_salvage"}

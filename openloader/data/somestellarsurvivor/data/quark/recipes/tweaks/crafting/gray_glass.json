@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:gray_shard"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "item": "minecraft:gray_stained_glass"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:gray_shard"}},"pattern":["##","##"],"result":{"item":"minecraft:gray_stained_glass"},"type":"minecraft:crafting_shaped"}

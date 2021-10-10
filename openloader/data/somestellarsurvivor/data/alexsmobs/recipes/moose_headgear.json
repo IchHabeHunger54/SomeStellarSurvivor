@@ -1,17 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "alexsmobs:moose_antler"
-    },
-    "I": {
-      "item": "minecraft:iron_ingot"
-    }
-  },
-  "pattern": [
-    "AIA"
-  ],
-  "result": {
-    "item": "alexsmobs:moose_headgear"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"alexsmobs:moose_antler"},"I":{"item":"minecraft:iron_ingot"}},"pattern":["AIA"],"result":{"item":"alexsmobs:moose_headgear"},"type":"minecraft:crafting_shaped"}

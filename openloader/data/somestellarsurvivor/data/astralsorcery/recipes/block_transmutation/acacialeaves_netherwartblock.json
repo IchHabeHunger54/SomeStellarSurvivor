@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:nether_wart_block"
-  },
-  "input": [
-    {
-      "block": "minecraft:acacia_leaves",
-      "display": {
-        "item": "minecraft:acacia_leaves"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:nether_wart_block"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:nether_wart_block"},"input":[{"block":"minecraft:acacia_leaves","display":{"item":"minecraft:acacia_leaves"}}],"output":{"block":"minecraft:nether_wart_block"},"starlight":400,"type":"astralsorcery:block_transmutation"}

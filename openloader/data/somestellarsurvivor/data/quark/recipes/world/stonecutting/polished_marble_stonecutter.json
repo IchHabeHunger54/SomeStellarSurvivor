@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:marble"
-  },
-  "result": "quark:polished_marble",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:marble"},"result":"quark:polished_marble","type":"minecraft:stonecutting"}

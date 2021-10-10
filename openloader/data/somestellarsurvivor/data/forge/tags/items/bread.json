@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:bread/bread"
-  ]
-}
+{"replace":true,"values":["#forge:bread/bread"]}

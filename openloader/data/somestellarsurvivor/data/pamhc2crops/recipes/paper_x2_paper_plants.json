@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:paper_plants"
-    },
-    {
-      "tag": "forge:paper_plants"
-    },
-    {
-      "tag": "forge:paper_plants"
-    }
-  ],
-  "result": {
-    "item": "minecraft:paper"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:paper_plants"},{"tag":"forge:paper_plants"},{"tag":"forge:paper_plants"}],"result":{"item":"minecraft:paper"},"type":"minecraft:crafting_shapeless"}

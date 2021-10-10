@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:okraitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:okraseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:okraitem"}],"result":{"item":"pamhc2crops:okraseeditem"},"type":"minecraft:crafting_shapeless"}

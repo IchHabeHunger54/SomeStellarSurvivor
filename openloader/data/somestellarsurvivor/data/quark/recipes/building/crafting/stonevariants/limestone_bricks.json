@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:polished_limestone"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:limestone_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:polished_limestone"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:limestone_bricks"},"type":"minecraft:crafting_shaped"}

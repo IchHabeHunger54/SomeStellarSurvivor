@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "tag": "forge:jellies/cantaloupejelly"
-    },
-    {
-      "tag": "forge:toast"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:cantaloupejellytoastitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:jellies/cantaloupejelly"},{"tag":"forge:toast"}],"result":{"item":"pamhc2foodextended:cantaloupejellytoastitem"},"type":"minecraft:crafting_shapeless"}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:onions/onion",
-    "#forge:onions/scallion"
-  ]
-}
+{"replace":true,"values":["#forge:onions/onion","#forge:onions/scallion"]}

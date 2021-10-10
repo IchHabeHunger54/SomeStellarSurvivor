@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:purple_dye",
-    "inspirations:purple_dyed_bottle"
-  ]
-}
+{"replace":true,"values":["minecraft:purple_dye","inspirations:purple_dyed_bottle"]}

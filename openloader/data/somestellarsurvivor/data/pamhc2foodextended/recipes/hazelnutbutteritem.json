@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:crops/hazelnut"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:hazelnutbutteritem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:crops/hazelnut"}],"result":{"item":"pamhc2foodextended:hazelnutbutteritem"},"type":"minecraft:crafting_shapeless"}

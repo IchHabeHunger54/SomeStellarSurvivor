@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:cookingoil/cookingoil",
-    "#forge:cookingoil/mushroomoil",
-    "#forge:cookingoil/sesameoil"
-  ]
-}
+{"replace":true,"values":["#forge:cookingoil/cookingoil","#forge:cookingoil/mushroomoil","#forge:cookingoil/sesameoil"]}

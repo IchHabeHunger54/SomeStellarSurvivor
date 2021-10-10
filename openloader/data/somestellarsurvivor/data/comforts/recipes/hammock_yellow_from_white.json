@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "comforts:hammocks"
-    },
-    {
-      "tag": "forge:dyes/yellow"
-    }
-  ],
-  "result": {
-    "item": "comforts:hammock_yellow"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"comforts:hammocks"},{"tag":"forge:dyes/yellow"}],"result":{"item":"comforts:hammock_yellow"},"type":"minecraft:crafting_shapeless"}

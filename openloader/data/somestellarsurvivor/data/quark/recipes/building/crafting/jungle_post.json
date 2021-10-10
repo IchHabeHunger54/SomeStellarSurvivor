@@ -1,17 +1,1 @@
-{
-  "key": {
-    "F": {
-      "item": "minecraft:jungle_wood"
-    }
-  },
-  "pattern": [
-    "F",
-    "F",
-    "F"
-  ],
-  "result": {
-    "count": 8,
-    "item": "quark:jungle_post"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"F":{"item":"minecraft:jungle_wood"}},"pattern":["F","F","F"],"result":{"count":8,"item":"quark:jungle_post"},"type":"minecraft:crafting_shaped"}

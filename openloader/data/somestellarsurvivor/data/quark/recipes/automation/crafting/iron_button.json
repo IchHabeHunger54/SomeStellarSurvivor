@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "minecraft:wooden_buttons"
-    },
-    {
-      "item": "minecraft:iron_ingot"
-    }
-  ],
-  "result": {
-    "item": "quark:iron_button"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"minecraft:wooden_buttons"},{"item":"minecraft:iron_ingot"}],"result":{"item":"quark:iron_button"},"type":"minecraft:crafting_shapeless"}

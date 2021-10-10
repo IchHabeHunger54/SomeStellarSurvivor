@@ -1,17 +1,1 @@
-{
-  "ingredient": [
-    {
-      "item": "minecraft:lantern"
-    },
-    {
-      "item": "minecraft:soul_lantern"
-    }
-  ],
-  "result": {
-    "amount": 128,
-    "fluid": "tconstruct:molten_iron"
-  },
-  "temperature": 800,
-  "time": 20,
-  "type": "tconstruct:melting"
-}
+{"ingredient":[{"item":"minecraft:lantern"},{"item":"minecraft:soul_lantern"}],"result":{"amount":128,"fluid":"tconstruct:molten_iron"},"temperature":800,"time":20,"type":"tconstruct:melting"}

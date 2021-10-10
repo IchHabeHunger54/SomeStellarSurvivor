@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:fruits/tamarind"
-    },
-    {
-      "tag": "forge:ices"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:tamarindsmoothieitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:fruits/tamarind"},{"tag":"forge:ices"}],"result":{"item":"pamhc2foodextended:tamarindsmoothieitem"},"type":"minecraft:crafting_shapeless"}

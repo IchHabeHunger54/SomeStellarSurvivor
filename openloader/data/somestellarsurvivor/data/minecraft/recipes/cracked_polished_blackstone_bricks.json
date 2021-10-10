@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "minecraft:polished_blackstone_bricks"
-  },
-  "result": "minecraft:cracked_polished_blackstone_bricks",
-  "type": "ceramics:kiln"
-}
+{"cookingtime":100,"ingredient":{"item":"minecraft:polished_blackstone_bricks"},"result":"minecraft:cracked_polished_blackstone_bricks","type":"ceramics:kiln"}

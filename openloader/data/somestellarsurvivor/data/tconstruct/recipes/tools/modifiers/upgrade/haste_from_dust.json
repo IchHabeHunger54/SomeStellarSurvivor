@@ -1,17 +1,1 @@
-{
-  "amount_per_item": 1,
-  "input": {
-    "item": "minecraft:redstone"
-  },
-  "max_level": 5,
-  "needed_per_level": 64,
-  "result": {
-    "level": 1,
-    "name": "tconstruct:haste"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee_or_harvest"
-  },
-  "type": "tconstruct:incremental_modifier",
-  "upgrade_slots": 1
-}
+{"amount_per_item":1,"input":{"item":"minecraft:redstone"},"max_level":5,"needed_per_level":64,"result":{"level":1,"name":"tconstruct:haste"},"tools":{"tag":"tconstruct:modifiable/melee_or_harvest"},"type":"tconstruct:incremental_modifier","upgrade_slots":1}

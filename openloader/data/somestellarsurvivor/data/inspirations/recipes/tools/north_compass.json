@@ -1,18 +1,1 @@
-{
-  "key": {
-    "C": {
-      "item": "minecraft:compass"
-    },
-    "I": {
-      "item": "minecraft:iron_ingot"
-    }
-  },
-  "pattern": [
-    "I",
-    "C"
-  ],
-  "result": {
-    "item": "inspirations:north_compass"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"C":{"item":"minecraft:compass"},"I":{"item":"minecraft:iron_ingot"}},"pattern":["I","C"],"result":{"item":"inspirations:north_compass"},"type":"minecraft:crafting_shaped"}

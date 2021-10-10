@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:marble_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:marble_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:marble_slab"}],"result":{"item":"quark:marble_vertical_slab"},"type":"minecraft:crafting_shapeless"}

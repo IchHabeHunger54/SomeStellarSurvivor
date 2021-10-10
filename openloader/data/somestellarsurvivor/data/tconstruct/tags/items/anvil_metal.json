@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:storage_blocks/hepatizon",
-    "#forge:storage_blocks/manyullyn",
-    "#forge:storage_blocks/rose_gold",
-    "#forge:storage_blocks/silicon_bronze"
-  ]
-}
+{"replace":true,"values":["#forge:storage_blocks/hepatizon","#forge:storage_blocks/manyullyn","#forge:storage_blocks/rose_gold","#forge:storage_blocks/silicon_bronze"]}

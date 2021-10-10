@@ -1,17 +1,1 @@
-{
-  "key": {
-    "F": {
-      "item": "minecraft:birch_wood"
-    }
-  },
-  "pattern": [
-    "F",
-    "F",
-    "F"
-  ],
-  "result": {
-    "count": 8,
-    "item": "quark:birch_post"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"F":{"item":"minecraft:birch_wood"}},"pattern":["F","F","F"],"result":{"count":8,"item":"quark:birch_post"},"type":"minecraft:crafting_shaped"}

@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#tconstruct:foundry/wall",
-    "#tconstruct:foundry/floor",
-    "#tconstruct:foundry/tanks"
-  ]
-}
+{"replace":true,"values":["#tconstruct:foundry/wall","#tconstruct:foundry/floor","#tconstruct:foundry/tanks"]}

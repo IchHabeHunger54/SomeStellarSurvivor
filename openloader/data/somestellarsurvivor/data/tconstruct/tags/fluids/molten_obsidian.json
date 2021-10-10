@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_obsidian",
-    "tconstruct:flowing_molten_obsidian"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_obsidian","tconstruct:flowing_molten_obsidian"]}

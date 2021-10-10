@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:rabbit",
-    "minecraft:salmon",
-    "alexsmobs:raccoon"
-  ]
-}
+{"replace":true,"values":["minecraft:rabbit","minecraft:salmon","alexsmobs:raccoon"]}

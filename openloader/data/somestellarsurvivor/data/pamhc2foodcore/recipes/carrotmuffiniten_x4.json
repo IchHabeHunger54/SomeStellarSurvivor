@@ -1,18 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:crops/carrot"
-    },
-    {
-      "tag": "forge:batter"
-    }
-  ],
-  "result": {
-    "count": 4,
-    "item": "pamhc2foodcore:carrotmuffinitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:crops/carrot"},{"tag":"forge:batter"}],"result":{"count":4,"item":"pamhc2foodcore:carrotmuffinitem"},"type":"minecraft:crafting_shapeless"}

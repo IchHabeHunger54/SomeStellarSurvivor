@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "tag": "forge:crops/cashew"
-  },
-  "result": "pamhc2trees:roastedcashewitem",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"tag":"forge:crops/cashew"},"result":"pamhc2trees:roastedcashewitem","type":"minecraft:smoking"}

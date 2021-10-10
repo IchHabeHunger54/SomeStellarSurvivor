@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "tag": "forge:stock"
-    },
-    {
-      "tag": "forge:flour"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:gravyitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:stock"},{"tag":"forge:flour"}],"result":{"item":"pamhc2foodextended:gravyitem"},"type":"minecraft:crafting_shapeless"}

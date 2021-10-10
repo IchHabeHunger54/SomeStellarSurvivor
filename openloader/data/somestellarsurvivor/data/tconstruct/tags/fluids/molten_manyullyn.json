@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_manyullyn",
-    "tconstruct:flowing_molten_manyullyn"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_manyullyn","tconstruct:flowing_molten_manyullyn"]}

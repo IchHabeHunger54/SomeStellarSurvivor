@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:spruce_box_2"
-    },
-    "B": {
-      "item": "mcwfurnitures:spruce_nightstand_4"
-    }
-  },
-  "pattern": [
-    "B",
-    "A"
-  ],
-  "result": {
-    "item": "mcwfurnitures:spruce_cupboard_9"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:spruce_box_2"},"B":{"item":"mcwfurnitures:spruce_nightstand_4"}},"pattern":["B","A"],"result":{"item":"mcwfurnitures:spruce_cupboard_9"},"type":"minecraft:crafting_shaped"}

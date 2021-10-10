@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:leaves",
-    "minecraft:bamboo"
-  ]
-}
+{"replace":true,"values":["#minecraft:leaves","minecraft:bamboo"]}

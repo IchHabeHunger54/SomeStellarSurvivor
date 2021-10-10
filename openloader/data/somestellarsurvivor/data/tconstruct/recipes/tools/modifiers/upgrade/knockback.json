@@ -1,17 +1,1 @@
-{
-  "inputs": [
-    {
-      "item": "minecraft:piston"
-    }
-  ],
-  "max_level": 5,
-  "result": {
-    "level": 1,
-    "name": "tconstruct:knockback"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee"
-  },
-  "type": "tconstruct:modifier",
-  "upgrade_slots": 1
-}
+{"inputs":[{"item":"minecraft:piston"}],"max_level":5,"result":{"level":1,"name":"tconstruct:knockback"},"tools":{"tag":"tconstruct:modifiable/melee"},"type":"tconstruct:modifier","upgrade_slots":1}

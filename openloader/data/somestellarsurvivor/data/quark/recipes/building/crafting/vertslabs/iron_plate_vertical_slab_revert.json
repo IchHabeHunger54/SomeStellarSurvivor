@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:iron_plate_vertical_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:iron_plate_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:iron_plate_vertical_slab"}],"result":{"item":"quark:iron_plate_slab"},"type":"minecraft:crafting_shapeless"}

@@ -1,17 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:dark_oak_nightstand_2"
-    },
-    "B": {
-      "item": "mcwfurnitures:dark_oak_nightstand"
-    }
-  },
-  "pattern": [
-    "AB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:dark_oak_dresser_4"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:dark_oak_nightstand_2"},"B":{"item":"mcwfurnitures:dark_oak_nightstand"}},"pattern":["AB"],"result":{"item":"mcwfurnitures:dark_oak_dresser_4"},"type":"minecraft:crafting_shaped"}

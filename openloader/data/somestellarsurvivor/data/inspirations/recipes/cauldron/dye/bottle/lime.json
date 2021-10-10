@@ -1,7 +1,1 @@
-{
-  "color": "80c71f",
-  "ingredient": {
-    "item": "inspirations:lime_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"80c71f","ingredient":{"item":"inspirations:lime_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

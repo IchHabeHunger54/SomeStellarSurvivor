@@ -1,18 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:caramel"
-    },
-    {
-      "tag": "forge:batter"
-    }
-  ],
-  "result": {
-    "count": 4,
-    "item": "pamhc2foodcore:caramelmuffinitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:caramel"},{"tag":"forge:batter"}],"result":{"count":4,"item":"pamhc2foodcore:caramelmuffinitem"},"type":"minecraft:crafting_shapeless"}

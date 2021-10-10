@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "tag": "forge:crops/tealeaf"
-    },
-    {
-      "item": "minecraft:rose_bush"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:rosepetalteaitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:crops/tealeaf"},{"item":"minecraft:rose_bush"}],"result":{"item":"pamhc2foodextended:rosepetalteaitem"},"type":"minecraft:crafting_shapeless"}

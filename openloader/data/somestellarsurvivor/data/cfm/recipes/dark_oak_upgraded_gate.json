@@ -1,18 +1,1 @@
-{
-  "key": {
-    "G": {
-      "tag": "forge:fence_gates/wooden"
-    },
-    "L": {
-      "item": "minecraft:dark_oak_log"
-    }
-  },
-  "pattern": [
-    "LGL"
-  ],
-  "result": {
-    "count": 2,
-    "item": "cfm:dark_oak_upgraded_gate"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"G":{"tag":"forge:fence_gates/wooden"},"L":{"item":"minecraft:dark_oak_log"}},"pattern":["LGL"],"result":{"count":2,"item":"cfm:dark_oak_upgraded_gate"},"type":"minecraft:crafting_shaped"}

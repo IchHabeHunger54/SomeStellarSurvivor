@@ -1,15 +1,1 @@
-{
-  "cast": {
-    "item": "tconstruct:repair_kit",
-    "type": "tconstruct:material"
-  },
-  "cast_consumed": true,
-  "cooling_time": 57,
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_gold"
-  },
-  "result": "tconstruct:repair_kit_cast",
-  "switch_slots": true,
-  "type": "tconstruct:casting_table"
-}
+{"cast":{"item":"tconstruct:repair_kit","type":"tconstruct:material"},"cast_consumed":true,"cooling_time":57,"fluid":{"amount":144,"tag":"tconstruct:molten_gold"},"result":"tconstruct:repair_kit_cast","switch_slots":true,"type":"tconstruct:casting_table"}

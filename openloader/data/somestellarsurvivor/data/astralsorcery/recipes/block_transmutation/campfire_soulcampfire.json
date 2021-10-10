@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:soul_campfire"
-  },
-  "input": [
-    {
-      "block": "minecraft:campfire",
-      "display": {
-        "item": "minecraft:campfire"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:soul_campfire"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:soul_campfire"},"input":[{"block":"minecraft:campfire","display":{"item":"minecraft:campfire"}}],"output":{"block":"minecraft:soul_campfire"},"starlight":400,"type":"astralsorcery:block_transmutation"}

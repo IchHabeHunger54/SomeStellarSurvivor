@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "tag": "forge:fruits/lime"
-    },
-    {
-      "item": "minecraft:sugar"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:limejellyitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"tag":"forge:fruits/lime"},{"item":"minecraft:sugar"}],"result":{"item":"pamhc2foodextended:limejellyitem"},"type":"minecraft:crafting_shapeless"}

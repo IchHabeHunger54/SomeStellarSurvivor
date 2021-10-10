@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_glass",
-    "tconstruct:flowing_molten_glass"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_glass","tconstruct:flowing_molten_glass"]}

@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:red_sandstone_bricks"
-    }
-  },
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:red_sandstone_bricks_stairs"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:red_sandstone_bricks"}},"pattern":["#  ","## ","###"],"result":{"count":6,"item":"quark:red_sandstone_bricks_stairs"},"type":"minecraft:crafting_shaped"}

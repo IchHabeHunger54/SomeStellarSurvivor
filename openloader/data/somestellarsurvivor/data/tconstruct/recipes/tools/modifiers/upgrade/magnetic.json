@@ -1,17 +1,1 @@
-{
-  "inputs": [
-    {
-      "item": "minecraft:compass"
-    }
-  ],
-  "max_level": 5,
-  "result": {
-    "level": 1,
-    "name": "tconstruct:magnetic"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee_or_harvest"
-  },
-  "type": "tconstruct:modifier",
-  "upgrade_slots": 1
-}
+{"inputs":[{"item":"minecraft:compass"}],"max_level":5,"result":{"level":1,"name":"tconstruct:magnetic"},"tools":{"tag":"tconstruct:modifiable/melee_or_harvest"},"type":"tconstruct:modifier","upgrade_slots":1}

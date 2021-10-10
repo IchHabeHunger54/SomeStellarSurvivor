@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:kama",
-    "tconstruct:scythe"
-  ]
-}
+{"replace":true,"values":["tconstruct:kama","tconstruct:scythe"]}

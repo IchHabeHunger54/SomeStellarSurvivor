@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:jungle_plate"
-    },
-    "B": {
-      "item": "minecraft:jungle_log"
-    }
-  },
-  "pattern": [
-    "A",
-    "B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:jungle_pult"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:jungle_plate"},"B":{"item":"minecraft:jungle_log"}},"pattern":["A","B"],"result":{"item":"mcwfurnitures:jungle_pult"},"type":"minecraft:crafting_shaped"}

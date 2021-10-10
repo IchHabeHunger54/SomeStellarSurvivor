@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:prismarine_brick_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:prismarine_brick_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:prismarine_brick_slab"}],"result":{"item":"quark:prismarine_brick_vertical_slab"},"type":"minecraft:crafting_shapeless"}

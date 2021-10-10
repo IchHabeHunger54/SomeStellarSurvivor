@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:diamond_block"
-  ]
-}
+{"replace":true,"values":["minecraft:diamond_block"]}

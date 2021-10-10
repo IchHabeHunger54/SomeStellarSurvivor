@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:flour_plants"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:flouritem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:flour_plants"}],"result":{"item":"pamhc2foodcore:flouritem"},"type":"minecraft:crafting_shapeless"}

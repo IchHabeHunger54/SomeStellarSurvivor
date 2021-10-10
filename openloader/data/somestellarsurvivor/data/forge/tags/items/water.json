@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:water/freshwater",
-    "#forge:water/water"
-  ]
-}
+{"replace":true,"values":["#forge:water/freshwater","#forge:water/water"]}

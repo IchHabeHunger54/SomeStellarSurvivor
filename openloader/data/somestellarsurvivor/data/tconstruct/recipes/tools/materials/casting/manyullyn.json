@@ -1,9 +1,1 @@
-{
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_manyullyn"
-  },
-  "output": "tconstruct:manyullyn",
-  "temperature": 1200,
-  "type": "tconstruct:material_fluid"
-}
+{"fluid":{"amount":144,"tag":"tconstruct:molten_manyullyn"},"output":"tconstruct:manyullyn","temperature":1200,"type":"tconstruct:material_fluid"}

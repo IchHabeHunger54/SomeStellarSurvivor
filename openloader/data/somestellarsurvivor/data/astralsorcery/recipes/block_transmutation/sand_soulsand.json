@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:soul_sand"
-  },
-  "input": [
-    {
-      "block": "minecraft:sand",
-      "display": {
-        "item": "minecraft:sand"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:soul_sand"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:soul_sand"},"input":[{"block":"minecraft:sand","display":{"item":"minecraft:sand"}}],"output":{"block":"minecraft:soul_sand"},"starlight":400,"type":"astralsorcery:block_transmutation"}

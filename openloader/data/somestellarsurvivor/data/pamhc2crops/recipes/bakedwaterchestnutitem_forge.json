@@ -1,8 +1,1 @@
-{
-  "cookingtime": 200,
-  "ingredient": {
-    "tag": "forge:crops/waterchestnut"
-  },
-  "result": "pamhc2crops:bakedwaterchestnutitem",
-  "type": "cfm:grill_cooking"
-}
+{"cookingtime":200,"ingredient":{"tag":"forge:crops/waterchestnut"},"result":"pamhc2crops:bakedwaterchestnutitem","type":"cfm:grill_cooking"}

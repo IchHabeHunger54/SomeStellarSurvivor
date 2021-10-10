@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:andesite"
-    }
-  },
-  "pattern": [
-    "#",
-    "#",
-    "#"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:andesite_speleothem"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:andesite"}},"pattern":["#","#","#"],"result":{"count":6,"item":"quark:andesite_speleothem"},"type":"minecraft:crafting_shaped"}

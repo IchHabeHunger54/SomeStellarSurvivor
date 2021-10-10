@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:meringue/meringue"
-  ]
-}
+{"replace":true,"values":["#forge:meringue/meringue"]}

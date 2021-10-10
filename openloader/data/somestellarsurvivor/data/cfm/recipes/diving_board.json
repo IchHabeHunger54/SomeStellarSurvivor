@@ -1,18 +1,1 @@
-{
-  "key": {
-    "C": {
-      "item": "minecraft:white_concrete"
-    },
-    "G": {
-      "item": "minecraft:light_gray_concrete"
-    }
-  },
-  "pattern": [
-    "CCC",
-    "G  "
-  ],
-  "result": {
-    "item": "cfm:diving_board"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"C":{"item":"minecraft:white_concrete"},"G":{"item":"minecraft:light_gray_concrete"}},"pattern":["CCC","G  "],"result":{"item":"cfm:diving_board"},"type":"minecraft:crafting_shaped"}

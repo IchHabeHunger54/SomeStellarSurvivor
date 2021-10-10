@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/cranberry"
-    },
-    {
-      "tag": "forge:fruits/cranberry"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:cranberryjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/cranberry"},{"tag":"forge:fruits/cranberry"}],"result":{"item":"pamhc2foodextended:cranberryjuiceitem"},"type":"minecraft:crafting_shapeless"}

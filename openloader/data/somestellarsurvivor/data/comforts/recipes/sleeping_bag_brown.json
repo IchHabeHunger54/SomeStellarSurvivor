@@ -1,14 +1,1 @@
-{
-  "key": {
-    "a": {
-      "item": "minecraft:brown_wool"
-    }
-  },
-  "pattern": [
-    "aaa"
-  ],
-  "result": {
-    "item": "comforts:sleeping_bag_brown"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"a":{"item":"minecraft:brown_wool"}},"pattern":["aaa"],"result":{"item":"comforts:sleeping_bag_brown"},"type":"minecraft:crafting_shaped"}

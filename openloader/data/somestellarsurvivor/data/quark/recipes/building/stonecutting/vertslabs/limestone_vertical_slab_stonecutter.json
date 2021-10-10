@@ -1,8 +1,1 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "quark:limestone"
-  },
-  "result": "quark:limestone_vertical_slab",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":{"item":"quark:limestone"},"result":"quark:limestone_vertical_slab","type":"minecraft:stonecutting"}

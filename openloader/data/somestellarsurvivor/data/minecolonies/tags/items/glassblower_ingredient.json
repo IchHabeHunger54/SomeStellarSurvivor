@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:glass",
-    "#forge:glass_panes"
-  ]
-}
+{"replace":true,"values":["#forge:glass","#forge:glass_panes"]}

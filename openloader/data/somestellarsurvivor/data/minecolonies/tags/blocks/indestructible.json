@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:bedrock"
-  ]
-}
+{"replace":true,"values":["minecraft:bedrock"]}

@@ -1,14 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:warped_double_desk_right"
-    }
-  },
-  "pattern": [
-    "A"
-  ],
-  "result": {
-    "item": "mcwfurnitures:warped_double_desk_left"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:warped_double_desk_right"}},"pattern":["A"],"result":{"item":"mcwfurnitures:warped_double_desk_left"},"type":"minecraft:crafting_shaped"}

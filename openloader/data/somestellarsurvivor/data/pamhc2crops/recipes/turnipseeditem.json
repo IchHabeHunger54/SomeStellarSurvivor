@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:turnipitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:turnipseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:turnipitem"}],"result":{"item":"pamhc2crops:turnipseeditem"},"type":"minecraft:crafting_shapeless"}

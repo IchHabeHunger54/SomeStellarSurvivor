@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_netherite",
-    "tconstruct:flowing_molten_netherite"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_netherite","tconstruct:flowing_molten_netherite"]}

@@ -1,17 +1,1 @@
-{
-  "key": {
-    "F": {
-      "item": "minecraft:stripped_acacia_wood"
-    }
-  },
-  "pattern": [
-    "F",
-    "F",
-    "F"
-  ],
-  "result": {
-    "count": 8,
-    "item": "quark:stripped_acacia_post"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"F":{"item":"minecraft:stripped_acacia_wood"}},"pattern":["F","F","F"],"result":{"count":8,"item":"quark:stripped_acacia_post"},"type":"minecraft:crafting_shaped"}

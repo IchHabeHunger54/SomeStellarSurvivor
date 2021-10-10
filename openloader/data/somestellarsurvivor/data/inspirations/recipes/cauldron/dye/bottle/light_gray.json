@@ -1,7 +1,1 @@
-{
-  "color": "9d9d97",
-  "ingredient": {
-    "item": "inspirations:light_gray_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"9d9d97","ingredient":{"item":"inspirations:light_gray_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

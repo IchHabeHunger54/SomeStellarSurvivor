@@ -1,8 +1,1 @@
-{
-  "default": [
-    {
-      "level": 1,
-      "name": "tconstruct:insatiable"
-    }
-  ]
-}
+{"default":[{"level":1,"name":"tconstruct:insatiable"}]}

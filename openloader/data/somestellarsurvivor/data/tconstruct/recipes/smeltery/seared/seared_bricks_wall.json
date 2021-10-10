@@ -1,16 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "tconstruct:seared_bricks"
-    }
-  },
-  "pattern": [
-    "BBB",
-    "BBB"
-  ],
-  "result": {
-    "count": 6,
-    "item": "tconstruct:seared_bricks_wall"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"tconstruct:seared_bricks"}},"pattern":["BBB","BBB"],"result":{"count":6,"item":"tconstruct:seared_bricks_wall"},"type":"minecraft:crafting_shaped"}

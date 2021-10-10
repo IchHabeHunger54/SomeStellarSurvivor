@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "tag": "forge:crops/waterchestnut"
-  },
-  "result": "pamhc2crops:bakedwaterchestnutitem",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"tag":"forge:crops/waterchestnut"},"result":"pamhc2crops:bakedwaterchestnutitem","type":"minecraft:smoking"}

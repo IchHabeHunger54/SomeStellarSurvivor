@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:white_crystal_pane"
-    }
-  },
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "count": 3,
-    "item": "quark:white_crystal"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:white_crystal_pane"}},"pattern":["###","# #","###"],"result":{"count":3,"item":"quark:white_crystal"},"type":"minecraft:crafting_shaped"}

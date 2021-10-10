@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:egg/egg",
-    "#forge:egg/avocado",
-    "#forge:egg/banana",
-    "#forge:egg/flax"
-  ]
-}
+{"replace":true,"values":["#forge:egg/egg","#forge:egg/avocado","#forge:egg/banana","#forge:egg/flax"]}

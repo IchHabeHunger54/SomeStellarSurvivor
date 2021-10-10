@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:vinegar/vinegar"
-  ]
-}
+{"replace":true,"values":["#forge:vinegar/vinegar"]}

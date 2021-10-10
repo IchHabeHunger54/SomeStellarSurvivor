@@ -1,10 +1,1 @@
-{
-  "entries": [
-    "astralsorcery:perk_void_trash",
-    "astralsorcery:scorching_heat",
-    "astralsorcery:magnet_drops",
-    "tconstruct:modifier_hook",
-    "curios:fortune_bonus"
-  ],
-  "replace": true
-}
+{"entries":["astralsorcery:perk_void_trash","astralsorcery:scorching_heat","astralsorcery:magnet_drops","tconstruct:modifier_hook","curios:fortune_bonus"],"replace":true}

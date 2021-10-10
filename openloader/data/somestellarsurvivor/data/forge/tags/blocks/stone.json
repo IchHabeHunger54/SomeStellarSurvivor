@@ -1,13 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:wg_stone",
-    "minecraft:polished_andesite",
-    "minecraft:polished_diorite",
-    "minecraft:polished_granite",
-    "quark:polished_jasper",
-    "quark:polished_limestone",
-    "quark:polished_marble",
-    "quark:polished_slate"
-  ]
-}
+{"replace":true,"values":["#forge:wg_stone","minecraft:polished_andesite","minecraft:polished_diorite","minecraft:polished_granite","quark:polished_jasper","quark:polished_limestone","quark:polished_marble","quark:polished_slate"]}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:pufferfish",
-    "minecraft:pufferfish_bucket"
-  ]
-}
+{"replace":true,"values":["minecraft:pufferfish","minecraft:pufferfish_bucket"]}

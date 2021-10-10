@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:groundcinnamon/groundcinnamon"
-  ]
-}
+{"replace":true,"values":["#forge:groundcinnamon/groundcinnamon"]}

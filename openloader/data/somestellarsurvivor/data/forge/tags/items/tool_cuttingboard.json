@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:tool_cuttingboard/cuttingboard"
-  ]
-}
+{"replace":true,"values":["#forge:tool_cuttingboard/cuttingboard"]}

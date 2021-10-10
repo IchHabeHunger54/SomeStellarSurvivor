@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:crops/parsnip"
-  },
-  "result": "pamhc2crops:bakedparsnipitem",
-  "type": "cfm:grill_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:crops/parsnip"},"result":"pamhc2crops:bakedparsnipitem","type":"cfm:grill_cooking"}

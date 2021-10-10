@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:magenta_shard"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "item": "minecraft:magenta_stained_glass"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:magenta_shard"}},"pattern":["##","##"],"result":{"item":"minecraft:magenta_stained_glass"},"type":"minecraft:crafting_shaped"}

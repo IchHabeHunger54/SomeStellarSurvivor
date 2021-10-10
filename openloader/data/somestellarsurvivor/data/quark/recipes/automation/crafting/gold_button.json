@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "minecraft:wooden_buttons"
-    },
-    {
-      "item": "minecraft:gold_ingot"
-    }
-  ],
-  "result": {
-    "item": "quark:gold_button"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"minecraft:wooden_buttons"},{"item":"minecraft:gold_ingot"}],"result":{"item":"quark:gold_button"},"type":"minecraft:crafting_shapeless"}

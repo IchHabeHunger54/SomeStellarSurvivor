@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:tomatoitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:tomatoseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:tomatoitem"}],"result":{"item":"pamhc2crops:tomatoseeditem"},"type":"minecraft:crafting_shapeless"}

@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:magma_block"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:magma_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:magma_block"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:magma_bricks"},"type":"minecraft:crafting_shaped"}

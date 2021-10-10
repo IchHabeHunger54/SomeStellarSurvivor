@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:glass",
-    "tconstruct:clear_glass"
-  ]
-}
+{"replace":true,"values":["minecraft:glass","tconstruct:clear_glass"]}

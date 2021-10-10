@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:seeds",
-    "#minecraft:saplings"
-  ]
-}
+{"replace":true,"values":["#forge:seeds","#minecraft:saplings"]}

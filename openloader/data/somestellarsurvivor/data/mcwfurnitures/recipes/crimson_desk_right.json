@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:crimson_plate"
-    },
-    "B": {
-      "item": "minecraft:crimson_fence"
-    }
-  },
-  "pattern": [
-    " AA",
-    "  B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:crimson_desk_right"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:crimson_plate"},"B":{"item":"minecraft:crimson_fence"}},"pattern":[" AA","  B"],"result":{"item":"mcwfurnitures:crimson_desk_right"},"type":"minecraft:crafting_shaped"}

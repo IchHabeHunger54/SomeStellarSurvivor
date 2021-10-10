@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "pamhc2foodextended:rawtofabbititem"
-  },
-  "result": "pamhc2foodextended:cookedtofabbititem",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"item":"pamhc2foodextended:rawtofabbititem"},"result":"pamhc2foodextended:cookedtofabbititem","type":"minecraft:smoking"}

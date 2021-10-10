@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:gold_ingot"
-    }
-  },
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 16,
-    "item": "quark:gold_bars"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:gold_ingot"}},"pattern":["###","###"],"result":{"count":16,"item":"quark:gold_bars"},"type":"minecraft:crafting_shaped"}

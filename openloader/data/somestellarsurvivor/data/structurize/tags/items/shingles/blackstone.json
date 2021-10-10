@@ -1,14 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#structurize:shingles/blackstone/oak",
-    "#structurize:shingles/blackstone/spruce",
-    "#structurize:shingles/blackstone/birch",
-    "#structurize:shingles/blackstone/jungle",
-    "#structurize:shingles/blackstone/acacia",
-    "#structurize:shingles/blackstone/dark_oak",
-    "#structurize:shingles/blackstone/warped",
-    "#structurize:shingles/blackstone/crimson",
-    "#structurize:shingles/blackstone/cactus"
-  ]
-}
+{"replace":true,"values":["#structurize:shingles/blackstone/oak","#structurize:shingles/blackstone/spruce","#structurize:shingles/blackstone/birch","#structurize:shingles/blackstone/jungle","#structurize:shingles/blackstone/acacia","#structurize:shingles/blackstone/dark_oak","#structurize:shingles/blackstone/warped","#structurize:shingles/blackstone/crimson","#structurize:shingles/blackstone/cactus"]}

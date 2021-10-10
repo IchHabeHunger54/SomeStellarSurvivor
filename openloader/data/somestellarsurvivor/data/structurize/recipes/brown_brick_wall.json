@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "structurize:brown_bricks"
-    }
-  },
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "structurize:brown_brick_wall"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"structurize:brown_bricks"}},"pattern":["###","###"],"result":{"count":6,"item":"structurize:brown_brick_wall"},"type":"minecraft:crafting_shaped"}

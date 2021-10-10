@@ -1,11 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#tconstruct:modifiable/multipart",
-    "#tconstruct:modifiable/durability",
-    "#tconstruct:modifiable/melee_or_harvest",
-    "#tconstruct:modifiable/aoe",
-    "#tconstruct:modifiable/one_handed",
-    "#tconstruct:modifiable/two_handed"
-  ]
-}
+{"replace":true,"values":["#tconstruct:modifiable/multipart","#tconstruct:modifiable/durability","#tconstruct:modifiable/melee_or_harvest","#tconstruct:modifiable/aoe","#tconstruct:modifiable/one_handed","#tconstruct:modifiable/two_handed"]}

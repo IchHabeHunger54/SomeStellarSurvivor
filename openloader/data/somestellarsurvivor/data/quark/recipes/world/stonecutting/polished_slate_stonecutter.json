@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:slate"
-  },
-  "result": "quark:polished_slate",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:slate"},"result":"quark:polished_slate","type":"minecraft:stonecutting"}

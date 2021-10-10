@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:vertical_dark_oak_planks"
-    }
-  ],
-  "result": {
-    "item": "minecraft:dark_oak_planks"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:vertical_dark_oak_planks"}],"result":{"item":"minecraft:dark_oak_planks"},"type":"minecraft:crafting_shapeless"}

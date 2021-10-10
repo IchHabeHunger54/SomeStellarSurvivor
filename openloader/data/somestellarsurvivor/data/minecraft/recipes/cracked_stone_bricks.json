@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "minecraft:stone_bricks"
-  },
-  "result": "minecraft:cracked_stone_bricks",
-  "type": "ceramics:kiln"
-}
+{"cookingtime":100,"ingredient":{"item":"minecraft:stone_bricks"},"result":"minecraft:cracked_stone_bricks","type":"ceramics:kiln"}

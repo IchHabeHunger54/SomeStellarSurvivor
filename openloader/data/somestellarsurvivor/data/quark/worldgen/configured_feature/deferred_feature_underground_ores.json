@@ -1,13 +1,1 @@
-{
-  "config": {
-    "feature": {
-      "config": {},
-      "type": "quark:deferred_feature_underground_ores"
-    },
-    "decorator": {
-      "config": {},
-      "type": "quark:chunk_corner_placement"
-    }
-  },
-  "type": "minecraft:decorated"
-}
+{"config":{"decorator":{"config":{},"type":"quark:chunk_corner_placement"},"feature":{"config":{},"type":"quark:deferred_feature_underground_ores"}},"type":"minecraft:decorated"}

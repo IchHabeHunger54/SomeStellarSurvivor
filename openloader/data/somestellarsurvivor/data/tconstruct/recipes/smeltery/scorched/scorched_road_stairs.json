@@ -1,17 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "tconstruct:scorched_road"
-    }
-  },
-  "pattern": [
-    "B  ",
-    "BB ",
-    "BBB"
-  ],
-  "result": {
-    "count": 6,
-    "item": "tconstruct:scorched_road_stairs"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"tconstruct:scorched_road"}},"pattern":["B  ","BB ","BBB"],"result":{"count":6,"item":"tconstruct:scorched_road_stairs"},"type":"minecraft:crafting_shaped"}

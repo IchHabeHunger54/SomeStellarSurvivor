@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:green_terracotta"
-    }
-  },
-  "pattern": [
-    "##"
-  ],
-  "result": {
-    "count": 2,
-    "item": "quark:green_shingles"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:green_terracotta"}},"pattern":["##"],"result":{"count":2,"item":"quark:green_shingles"},"type":"minecraft:crafting_shaped"}

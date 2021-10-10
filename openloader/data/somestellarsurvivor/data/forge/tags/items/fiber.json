@@ -1,10 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:fiber/cotton",
-    "#forge:fiber/flax",
-    "#forge:fiber/jute",
-    "#forge:fiber/kenaf",
-    "#forge:fiber/sisal"
-  ]
-}
+{"replace":true,"values":["#forge:fiber/cotton","#forge:fiber/flax","#forge:fiber/jute","#forge:fiber/kenaf","#forge:fiber/sisal"]}

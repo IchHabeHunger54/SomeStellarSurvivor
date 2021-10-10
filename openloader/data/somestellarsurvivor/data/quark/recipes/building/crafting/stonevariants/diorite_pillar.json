@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:diorite_bricks"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:diorite_pillar"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:diorite_bricks"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:diorite_pillar"},"type":"minecraft:crafting_shaped"}

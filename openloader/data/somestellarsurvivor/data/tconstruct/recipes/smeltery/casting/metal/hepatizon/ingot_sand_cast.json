@@ -1,15 +1,1 @@
-{
-  "cast": {
-    "tag": "tconstruct:casts/single_use/ingot"
-  },
-  "cast_consumed": true,
-  "cooling_time": 90,
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_hepatizon"
-  },
-  "result": {
-    "item": "tconstruct:hepatizon_ingot"
-  },
-  "type": "tconstruct:casting_table"
-}
+{"cast":{"tag":"tconstruct:casts/single_use/ingot"},"cast_consumed":true,"cooling_time":90,"fluid":{"amount":144,"tag":"tconstruct:molten_hepatizon"},"result":{"item":"tconstruct:hepatizon_ingot"},"type":"tconstruct:casting_table"}

@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "tag": "forge:chocolatebar"
-    },
-    {
-      "tag": "forge:rawpork"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:chocolatebaconitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"tag":"forge:chocolatebar"},{"tag":"forge:rawpork"}],"result":{"item":"pamhc2foodcore:chocolatebaconitem"},"type":"minecraft:crafting_shapeless"}

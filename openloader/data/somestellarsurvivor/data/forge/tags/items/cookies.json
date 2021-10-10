@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:cookies/cookie"
-  ]
-}
+{"replace":true,"values":["#forge:cookies/cookie"]}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:coal",
-    "minecraft:charcoal"
-  ]
-}
+{"replace":true,"values":["minecraft:coal","minecraft:charcoal"]}

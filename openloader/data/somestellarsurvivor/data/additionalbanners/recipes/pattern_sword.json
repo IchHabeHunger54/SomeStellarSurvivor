@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "tconstruct:sword"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:sword"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"item":"tconstruct:sword"}],"result":{"item":"additionalbanners:sword"},"type":"minecraft:crafting_shapeless"}

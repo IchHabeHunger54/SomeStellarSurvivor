@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "tag": "forge:chocolatebar"
-    },
-    {
-      "tag": "forge:crops/chilipepper"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:chilichocolateitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"tag":"forge:chocolatebar"},{"tag":"forge:crops/chilipepper"}],"result":{"item":"pamhc2foodextended:chilichocolateitem"},"type":"minecraft:crafting_shapeless"}

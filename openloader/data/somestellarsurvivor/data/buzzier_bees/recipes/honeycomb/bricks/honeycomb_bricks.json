@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:honeycomb_block"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "buzzier_bees:honeycomb_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:honeycomb_block"}},"pattern":["##","##"],"result":{"count":4,"item":"buzzier_bees:honeycomb_bricks"},"type":"minecraft:crafting_shaped"}

@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecolonies:glassblower_ingredient",
-    "#minecolonies:glassblower_ingredient_excluded",
-    "#minecolonies:glassblower_product"
-  ]
-}
+{"replace":true,"values":["#minecolonies:glassblower_ingredient","#minecolonies:glassblower_ingredient_excluded","#minecolonies:glassblower_product"]}

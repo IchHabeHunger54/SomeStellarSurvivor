@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#quark:runes_lootable",
-    "quark:rainbow_rune",
-    "quark:blank_rune"
-  ]
-}
+{"replace":true,"values":["#quark:runes_lootable","quark:rainbow_rune","quark:blank_rune"]}

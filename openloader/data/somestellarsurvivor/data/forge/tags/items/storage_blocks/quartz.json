@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:quartz_block"
-  ]
-}
+{"replace":true,"values":["minecraft:quartz_block"]}

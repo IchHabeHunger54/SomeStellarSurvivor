@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:turf_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:turf_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:turf_slab"}],"result":{"item":"quark:turf_vertical_slab"},"type":"minecraft:crafting_shapeless"}

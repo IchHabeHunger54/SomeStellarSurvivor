@@ -1,8 +1,1 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "minecraft:diorite"
-  },
-  "result": "quark:diorite_speleothem",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":{"item":"minecraft:diorite"},"result":"quark:diorite_speleothem","type":"minecraft:stonecutting"}

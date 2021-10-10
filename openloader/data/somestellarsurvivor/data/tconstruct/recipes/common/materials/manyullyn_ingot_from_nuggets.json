@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "tag": "forge:nuggets/manyullyn"
-    }
-  },
-  "pattern": [
-    "###",
-    "###",
-    "###"
-  ],
-  "result": {
-    "item": "tconstruct:manyullyn_ingot"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"tag":"forge:nuggets/manyullyn"}},"pattern":["###","###","###"],"result":{"item":"tconstruct:manyullyn_ingot"},"type":"minecraft:crafting_shaped"}

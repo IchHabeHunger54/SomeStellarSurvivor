@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:item_frame"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:frame"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"item":"minecraft:item_frame"}],"result":{"item":"additionalbanners:frame"},"type":"minecraft:crafting_shapeless"}

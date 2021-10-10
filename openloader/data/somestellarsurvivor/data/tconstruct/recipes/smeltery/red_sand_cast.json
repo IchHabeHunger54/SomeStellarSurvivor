@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:red_sand"
-    }
-  ],
-  "result": {
-    "count": 4,
-    "item": "tconstruct:blank_red_sand_cast"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:red_sand"}],"result":{"count":4,"item":"tconstruct:blank_red_sand_cast"},"type":"minecraft:crafting_shapeless"}

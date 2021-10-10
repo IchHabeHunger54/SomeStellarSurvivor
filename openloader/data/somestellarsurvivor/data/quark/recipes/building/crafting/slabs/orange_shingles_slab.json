@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:orange_shingles"
-    }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:orange_shingles_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:orange_shingles"}},"pattern":["###"],"result":{"count":6,"item":"quark:orange_shingles_slab"},"type":"minecraft:crafting_shaped"}

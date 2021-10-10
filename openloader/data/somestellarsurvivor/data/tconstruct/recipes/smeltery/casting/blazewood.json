@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "item": "tconstruct:lavawood"
-  },
-  "cast_consumed": true,
-  "cooling_time": 50,
-  "fluid": {
-    "amount": 100,
-    "name": "minecraft:lava"
-  },
-  "result": "tconstruct:blazewood",
-  "type": "tconstruct:casting_basin"
-}
+{"cast":{"item":"tconstruct:lavawood"},"cast_consumed":true,"cooling_time":50,"fluid":{"amount":100,"name":"minecraft:lava"},"result":"tconstruct:blazewood","type":"tconstruct:casting_basin"}

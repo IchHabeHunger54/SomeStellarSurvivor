@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "minecraft:potato"
-  },
-  "result": "minecraft:baked_potato",
-  "type": "cfm:grill_cooking"
-}
+{"cookingtime":600,"ingredient":{"item":"minecraft:potato"},"result":"minecraft:baked_potato","type":"cfm:grill_cooking"}

@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "comforts:sleeping_bags"
-    },
-    {
-      "tag": "forge:dyes/purple"
-    }
-  ],
-  "result": {
-    "item": "comforts:sleeping_bag_purple"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"comforts:sleeping_bags"},{"tag":"forge:dyes/purple"}],"result":{"item":"comforts:sleeping_bag_purple"},"type":"minecraft:crafting_shapeless"}

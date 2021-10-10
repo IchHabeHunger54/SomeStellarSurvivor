@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "tag": "minecraft:wooden_slabs"
-    }
-  },
-  "pattern": [
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "quark:feeding_trough"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"tag":"minecraft:wooden_slabs"}},"pattern":["# #","###"],"result":{"item":"quark:feeding_trough"},"type":"minecraft:crafting_shaped"}

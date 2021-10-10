@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:nuts/sunflowerseeds"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:sunflowerseedsbutteritem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:nuts/sunflowerseeds"}],"result":{"item":"pamhc2foodextended:sunflowerseedsbutteritem"},"type":"minecraft:crafting_shapeless"}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:rawrabbit/rawrabbit",
-    "#forge:rawrabbit/rawtofabbititem"
-  ]
-}
+{"replace":true,"values":["#forge:rawrabbit/rawrabbit","#forge:rawrabbit/rawtofabbititem"]}

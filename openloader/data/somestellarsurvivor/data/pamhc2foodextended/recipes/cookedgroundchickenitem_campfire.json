@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:groundmeats/groundchicken"
-  },
-  "result": "pamhc2foodextended:cookedgroundchickenitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:groundmeats/groundchicken"},"result":"pamhc2foodextended:cookedgroundchickenitem","type":"minecraft:campfire_cooking"}

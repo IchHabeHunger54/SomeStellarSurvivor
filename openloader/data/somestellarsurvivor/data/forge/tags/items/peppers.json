@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:peppers/bellpepper",
-    "#forge:peppers/chilipepper"
-  ]
-}
+{"replace":true,"values":["#forge:peppers/bellpepper","#forge:peppers/chilipepper"]}

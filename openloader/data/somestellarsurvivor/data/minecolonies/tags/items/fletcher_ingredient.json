@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:string",
-    "#minecraft:wool",
-    "minecraft:rabbit_hide",
-    "minecraft:leather"
-  ]
-}
+{"replace":true,"values":["minecraft:string","#minecraft:wool","minecraft:rabbit_hide","minecraft:leather"]}

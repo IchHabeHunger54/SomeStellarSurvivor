@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:purple_stained_glass",
-    "tconstruct:purple_clear_stained_glass"
-  ]
-}
+{"replace":true,"values":["minecraft:purple_stained_glass","tconstruct:purple_clear_stained_glass"]}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:kelp",
-    "aquaculture:algae"
-  ]
-}
+{"replace":true,"values":["minecraft:kelp","aquaculture:algae"]}

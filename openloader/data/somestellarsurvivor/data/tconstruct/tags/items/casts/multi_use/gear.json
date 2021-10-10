@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:gear_cast"
-  ]
-}
+{"replace":true,"values":["tconstruct:gear_cast"]}

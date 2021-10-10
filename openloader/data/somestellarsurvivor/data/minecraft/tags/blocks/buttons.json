@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:wooden_buttons",
-    "#minecraft:stone_buttons",
-    "quark:gold_button",
-    "quark:iron_button"
-  ]
-}
+{"replace":true,"values":["#minecraft:wooden_buttons","#minecraft:stone_buttons","quark:gold_button","quark:iron_button"]}

@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "tag": "forge:toast"
-    },
-    {
-      "tag": "forge:applejelly"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:applejellytoastitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:toast"},{"tag":"forge:applejelly"}],"result":{"item":"pamhc2foodcore:applejellytoastitem"},"type":"minecraft:crafting_shapeless"}

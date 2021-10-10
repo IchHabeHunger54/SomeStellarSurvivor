@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:crops/potato"
-    },
-    {
-      "tag": "forge:spices/saltandpepper"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:roastpotatoesitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:crops/potato"},{"tag":"forge:spices/saltandpepper"}],"result":{"item":"pamhc2foodextended:roastpotatoesitem"},"type":"minecraft:crafting_shapeless"}

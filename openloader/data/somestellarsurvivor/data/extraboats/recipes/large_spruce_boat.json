@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:spruce_planks"
-    },
-    "W": {
-      "item": "minecraft:spruce_boat"
-    }
-  },
-  "pattern": [
-    "#W#",
-    "###"
-  ],
-  "result": {
-    "item": "extraboats:large_spruce_boat"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:spruce_planks"},"W":{"item":"minecraft:spruce_boat"}},"pattern":["#W#","###"],"result":{"item":"extraboats:large_spruce_boat"},"type":"minecraft:crafting_shaped"}

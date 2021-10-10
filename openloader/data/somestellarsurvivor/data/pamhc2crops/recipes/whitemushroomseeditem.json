@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:whitemushroomitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:whitemushroomseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:whitemushroomitem"}],"result":{"item":"pamhc2crops:whitemushroomseeditem"},"type":"minecraft:crafting_shapeless"}

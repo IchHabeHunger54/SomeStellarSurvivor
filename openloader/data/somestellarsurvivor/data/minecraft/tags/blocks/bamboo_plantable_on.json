@@ -1,11 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:sand",
-    "#forge:dirt",
-    "#inspirations:mulch",
-    "minecraft:bamboo",
-    "minecraft:bamboo_sapling",
-    "minecraft:gravel"
-  ]
-}
+{"replace":true,"values":["#minecraft:sand","#forge:dirt","#inspirations:mulch","minecraft:bamboo","minecraft:bamboo_sapling","minecraft:gravel"]}

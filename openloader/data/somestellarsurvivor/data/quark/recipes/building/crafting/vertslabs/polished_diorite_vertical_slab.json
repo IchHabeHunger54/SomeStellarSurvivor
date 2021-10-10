@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:polished_diorite_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:polished_diorite_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:polished_diorite_slab"}],"result":{"item":"quark:polished_diorite_vertical_slab"},"type":"minecraft:crafting_shapeless"}

@@ -1,12 +1,1 @@
-{
-  "ingredient": {
-    "item": "tconstruct:tinkers_bronze_block"
-  },
-  "leftover": {
-    "item": "tconstruct:tinkers_bronze_ingot"
-  },
-  "material": "tconstruct:tinkers_bronze",
-  "needed": 1,
-  "type": "tconstruct:material",
-  "value": 9
-}
+{"ingredient":{"item":"tconstruct:tinkers_bronze_block"},"leftover":{"item":"tconstruct:tinkers_bronze_ingot"},"material":"tconstruct:tinkers_bronze","needed":1,"type":"tconstruct:material","value":9}

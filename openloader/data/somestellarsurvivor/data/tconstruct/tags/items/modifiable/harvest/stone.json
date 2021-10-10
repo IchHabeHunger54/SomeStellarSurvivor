@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:pickaxe",
-    "tconstruct:sledge_hammer",
-    "tconstruct:vein_hammer"
-  ]
-}
+{"replace":true,"values":["tconstruct:pickaxe","tconstruct:sledge_hammer","tconstruct:vein_hammer"]}

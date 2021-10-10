@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:melonjelly/melonjelly"
-  ]
-}
+{"replace":true,"values":["#forge:melonjelly/melonjelly"]}

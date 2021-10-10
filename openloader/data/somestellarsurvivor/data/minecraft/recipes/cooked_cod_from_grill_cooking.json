@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "minecraft:cod"
-  },
-  "result": "minecraft:cooked_cod",
-  "type": "cfm:grill_cooking"
-}
+{"cookingtime":600,"ingredient":{"item":"minecraft:cod"},"result":"minecraft:cooked_cod","type":"cfm:grill_cooking"}

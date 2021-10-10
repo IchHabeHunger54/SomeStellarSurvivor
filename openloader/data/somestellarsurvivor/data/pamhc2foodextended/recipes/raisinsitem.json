@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:crops/grape"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:raisinsitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:crops/grape"}],"result":{"item":"pamhc2foodextended:raisinsitem"},"type":"minecraft:crafting_shapeless"}

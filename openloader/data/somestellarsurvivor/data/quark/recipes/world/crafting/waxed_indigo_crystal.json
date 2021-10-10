@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:indigo_crystal"
-    },
-    {
-      "item": "minecraft:honeycomb"
-    }
-  ],
-  "result": {
-    "item": "quark:waxed_indigo_crystal"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:indigo_crystal"},{"item":"minecraft:honeycomb"}],"result":{"item":"quark:waxed_indigo_crystal"},"type":"minecraft:crafting_shapeless"}

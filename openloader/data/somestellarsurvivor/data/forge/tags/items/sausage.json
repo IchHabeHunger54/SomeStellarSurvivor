@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:sausage/sausage"
-  ]
-}
+{"replace":true,"values":["#forge:sausage/sausage"]}

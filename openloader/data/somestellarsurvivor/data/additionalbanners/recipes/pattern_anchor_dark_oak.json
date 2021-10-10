@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "additionalbanners:diamond"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:spades"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"additionalbanners:diamond"}],"result":{"item":"additionalbanners:spades"},"type":"minecraft:crafting_shapeless"}

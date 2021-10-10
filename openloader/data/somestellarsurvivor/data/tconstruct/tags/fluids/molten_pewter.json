@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_pewter",
-    "tconstruct:flowing_molten_pewter"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_pewter","tconstruct:flowing_molten_pewter"]}

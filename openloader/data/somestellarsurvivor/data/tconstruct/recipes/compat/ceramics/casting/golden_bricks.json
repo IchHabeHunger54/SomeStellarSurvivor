@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "item": "ceramics:porcelain_bricks"
-  },
-  "cast_consumed": true,
-  "cooling_time": 10,
-  "fluid": {
-    "amount": 2,
-    "tag": "tconstruct:molten_gold"
-  },
-  "result": "ceramics:golden_bricks",
-  "type": "tconstruct:casting_basin"
-}
+{"cast":{"item":"ceramics:porcelain_bricks"},"cast_consumed":true,"cooling_time":10,"fluid":{"amount":2,"tag":"tconstruct:molten_gold"},"result":"ceramics:golden_bricks","type":"tconstruct:casting_basin"}

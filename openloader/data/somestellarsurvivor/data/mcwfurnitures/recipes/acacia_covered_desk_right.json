@@ -1,15 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:acacia_plate"
-    }
-  },
-  "pattern": [
-    " AA",
-    "  A"
-  ],
-  "result": {
-    "item": "mcwfurnitures:acacia_covered_desk_right"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:acacia_plate"}},"pattern":[" AA","  A"],"result":{"item":"mcwfurnitures:acacia_covered_desk_right"},"type":"minecraft:crafting_shaped"}

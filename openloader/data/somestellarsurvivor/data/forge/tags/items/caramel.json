@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:caramel/caramel"
-  ]
-}
+{"replace":true,"values":["#forge:caramel/caramel"]}

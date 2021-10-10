@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:warped_wart_block"
-  },
-  "input": [
-    {
-      "block": "minecraft:dark_oak_leaves",
-      "display": {
-        "item": "minecraft:dark_oak_leaves"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:warped_wart_block"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:warped_wart_block"},"input":[{"block":"minecraft:dark_oak_leaves","display":{"item":"minecraft:dark_oak_leaves"}}],"output":{"block":"minecraft:warped_wart_block"},"starlight":400,"type":"astralsorcery:block_transmutation"}

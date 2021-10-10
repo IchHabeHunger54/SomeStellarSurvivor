@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:acacia_planks"
-    },
-    "W": {
-      "item": "minecraft:acacia_boat"
-    }
-  },
-  "pattern": [
-    "#W#",
-    "###"
-  ],
-  "result": {
-    "item": "extraboats:large_acacia_boat"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:acacia_planks"},"W":{"item":"minecraft:acacia_boat"}},"pattern":["#W#","###"],"result":{"item":"extraboats:large_acacia_boat"},"type":"minecraft:crafting_shaped"}

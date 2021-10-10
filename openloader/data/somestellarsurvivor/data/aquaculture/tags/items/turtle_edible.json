@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:small_flowers",
-    "minecraft:vine"
-  ]
-}
+{"replace":true,"values":["#minecraft:small_flowers","minecraft:vine"]}

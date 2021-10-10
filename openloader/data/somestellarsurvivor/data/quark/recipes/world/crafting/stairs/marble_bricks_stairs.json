@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:marble_bricks"
-    }
-  },
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:marble_bricks_stairs"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:marble_bricks"}},"pattern":["#  ","## ","###"],"result":{"count":6,"item":"quark:marble_bricks_stairs"},"type":"minecraft:crafting_shaped"}

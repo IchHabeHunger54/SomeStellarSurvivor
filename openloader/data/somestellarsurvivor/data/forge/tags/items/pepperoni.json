@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:pepperoni/pepperoni"
-  ]
-}
+{"replace":true,"values":["#forge:pepperoni/pepperoni"]}

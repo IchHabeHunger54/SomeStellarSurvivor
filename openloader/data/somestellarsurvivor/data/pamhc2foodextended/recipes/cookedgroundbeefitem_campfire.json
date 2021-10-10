@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:groundmeats/groundbeef"
-  },
-  "result": "pamhc2foodextended:cookedgroundbeefitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:groundmeats/groundbeef"},"result":"pamhc2foodextended:cookedgroundbeefitem","type":"minecraft:campfire_cooking"}

@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/huckleberry"
-    },
-    {
-      "tag": "forge:fruits/huckleberry"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:huckleberryjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/huckleberry"},{"tag":"forge:fruits/huckleberry"}],"result":{"item":"pamhc2foodextended:huckleberryjuiceitem"},"type":"minecraft:crafting_shapeless"}

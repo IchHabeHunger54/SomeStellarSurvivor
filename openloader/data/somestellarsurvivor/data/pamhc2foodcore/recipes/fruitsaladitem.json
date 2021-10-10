@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "tag": "forge:fruits"
-    },
-    {
-      "tag": "forge:fruits"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:fruitsaladitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:fruits"},{"tag":"forge:fruits"}],"result":{"item":"pamhc2foodcore:fruitsaladitem"},"type":"minecraft:crafting_shapeless"}

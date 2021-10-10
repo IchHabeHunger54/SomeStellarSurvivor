@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:sweetberryjuice"
-    },
-    {
-      "tag": "forge:ices"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:sweetberrysmoothieitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:sweetberryjuice"},{"tag":"forge:ices"}],"result":{"item":"pamhc2foodcore:sweetberrysmoothieitem"},"type":"minecraft:crafting_shapeless"}

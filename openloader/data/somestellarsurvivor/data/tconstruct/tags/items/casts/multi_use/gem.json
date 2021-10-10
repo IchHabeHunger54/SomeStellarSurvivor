@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:gem_cast"
-  ]
-}
+{"replace":true,"values":["tconstruct:gem_cast"]}

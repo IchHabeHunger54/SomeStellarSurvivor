@@ -1,18 +1,1 @@
-{
-  "inputs": [
-    {
-      "amount": 750,
-      "tag": "tconstruct:molten_clay"
-    },
-    {
-      "amount": 144,
-      "tag": "tconstruct:molten_quartz"
-    }
-  ],
-  "result": {
-    "amount": 1000,
-    "fluid": "tconstruct:molten_porcelain"
-  },
-  "temperature": 700,
-  "type": "tconstruct:alloy"
-}
+{"inputs":[{"amount":750,"tag":"tconstruct:molten_clay"},{"amount":144,"tag":"tconstruct:molten_quartz"}],"result":{"amount":1000,"fluid":"tconstruct:molten_porcelain"},"temperature":700,"type":"tconstruct:alloy"}

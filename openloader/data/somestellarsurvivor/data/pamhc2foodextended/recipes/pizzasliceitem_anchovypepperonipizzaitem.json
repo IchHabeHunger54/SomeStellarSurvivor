@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2foodextended:anchovypepperonipizzaitem"
-    }
-  ],
-  "result": {
-    "count": 8,
-    "item": "pamhc2foodextended:pizzasliceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2foodextended:anchovypepperonipizzaitem"}],"result":{"count":8,"item":"pamhc2foodextended:pizzasliceitem"},"type":"minecraft:crafting_shapeless"}

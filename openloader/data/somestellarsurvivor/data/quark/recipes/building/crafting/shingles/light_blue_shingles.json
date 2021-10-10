@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:light_blue_terracotta"
-    }
-  },
-  "pattern": [
-    "##"
-  ],
-  "result": {
-    "count": 2,
-    "item": "quark:light_blue_shingles"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:light_blue_terracotta"}},"pattern":["##"],"result":{"count":2,"item":"quark:light_blue_shingles"},"type":"minecraft:crafting_shaped"}

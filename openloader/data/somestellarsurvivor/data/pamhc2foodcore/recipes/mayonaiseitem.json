@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:egg"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:mayonaiseitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:egg"}],"result":{"item":"pamhc2foodcore:mayonaiseitem"},"type":"minecraft:crafting_shapeless"}

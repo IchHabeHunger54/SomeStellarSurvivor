@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:blood",
-    "tconstruct:flowing_blood"
-  ]
-}
+{"replace":true,"values":["tconstruct:blood","tconstruct:flowing_blood"]}

@@ -1,17 +1,1 @@
-{
-  "key": {
-    "X": {
-      "item": "minecraft:quartz"
-    }
-  },
-  "pattern": [
-    " X ",
-    "X X",
-    " X "
-  ],
-  "result": {
-    "count": 4,
-    "item": "tconstruct:quartz_shuriken"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"X":{"item":"minecraft:quartz"}},"pattern":[" X ","X X"," X "],"result":{"count":4,"item":"tconstruct:quartz_shuriken"},"type":"minecraft:crafting_shaped"}

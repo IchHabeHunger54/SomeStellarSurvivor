@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:permafrost_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:permafrost_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:permafrost_slab"}],"result":{"item":"quark:permafrost_vertical_slab"},"type":"minecraft:crafting_shapeless"}

@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:green_wool"
-    },
-    "X": {
-      "tag": "minecraft:planks"
-    }
-  },
-  "pattern": [
-    "###",
-    "XXX"
-  ],
-  "result": {
-    "item": "minecraft:green_bed"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:green_wool"},"X":{"tag":"minecraft:planks"}},"pattern":["###","XXX"],"result":{"item":"minecraft:green_bed"},"type":"minecraft:crafting_shaped"}

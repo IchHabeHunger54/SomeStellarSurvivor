@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:ice",
-    "minecraft:frosted_ice",
-    "minecraft:lily_pad"
-  ]
-}
+{"replace":true,"values":["minecraft:ice","minecraft:frosted_ice","minecraft:lily_pad"]}

@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "tconstruct:hepatizon_block"
-    }
-  ],
-  "result": {
-    "count": 9,
-    "item": "tconstruct:hepatizon_ingot"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"tconstruct:hepatizon_block"}],"result":{"count":9,"item":"tconstruct:hepatizon_ingot"},"type":"minecraft:crafting_shapeless"}

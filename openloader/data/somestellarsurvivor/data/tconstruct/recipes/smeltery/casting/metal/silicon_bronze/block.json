@@ -1,11 +1,1 @@
-{
-  "cooling_time": 180,
-  "fluid": {
-    "amount": 1296,
-    "name": "tconstruct:molten_tinkers_bronze"
-  },
-  "result": {
-    "item": "tconstruct:tinkers_bronze_block"
-  },
-  "type": "tconstruct:casting_basin"
-}
+{"cooling_time":180,"fluid":{"amount":1296,"name":"tconstruct:molten_tinkers_bronze"},"result":{"item":"tconstruct:tinkers_bronze_block"},"type":"tconstruct:casting_basin"}

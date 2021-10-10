@@ -1,9 +1,1 @@
-{
-  "ingredient": {
-    "item": "tconstruct:rose_gold_ingot"
-  },
-  "material": "tconstruct:rose_gold",
-  "needed": 1,
-  "type": "tconstruct:material",
-  "value": 1
-}
+{"ingredient":{"item":"tconstruct:rose_gold_ingot"},"material":"tconstruct:rose_gold","needed":1,"type":"tconstruct:material","value":1}

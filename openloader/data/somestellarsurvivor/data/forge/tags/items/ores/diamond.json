@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:diamond_ore"
-  ]
-}
+{"replace":true,"values":["minecraft:diamond_ore"]}

@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:soul_torch"
-  },
-  "input": [
-    {
-      "block": "minecraft:torch",
-      "display": {
-        "item": "minecraft:torch"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:soul_torch"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:soul_torch"},"input":[{"block":"minecraft:torch","display":{"item":"minecraft:torch"}}],"output":{"block":"minecraft:soul_torch"},"starlight":400,"type":"astralsorcery:block_transmutation"}

@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:red_terracotta"
-    }
-  },
-  "pattern": [
-    "##"
-  ],
-  "result": {
-    "count": 2,
-    "item": "quark:red_shingles"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:red_terracotta"}},"pattern":["##"],"result":{"count":2,"item":"quark:red_shingles"},"type":"minecraft:crafting_shaped"}

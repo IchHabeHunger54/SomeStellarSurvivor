@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#tconstruct:seared_tanks",
-    "#tconstruct:scorched_tanks"
-  ]
-}
+{"replace":true,"values":["#tconstruct:seared_tanks","#tconstruct:scorched_tanks"]}

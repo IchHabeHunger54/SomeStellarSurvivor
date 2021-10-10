@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:sea_lantern"
-  },
-  "input": [
-    {
-      "block": "minecraft:light_blue_wool",
-      "display": {
-        "item": "minecraft:light_blue_wool"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:sea_lantern"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:sea_lantern"},"input":[{"block":"minecraft:light_blue_wool","display":{"item":"minecraft:light_blue_wool"}}],"output":{"block":"minecraft:sea_lantern"},"starlight":400,"type":"astralsorcery:block_transmutation"}

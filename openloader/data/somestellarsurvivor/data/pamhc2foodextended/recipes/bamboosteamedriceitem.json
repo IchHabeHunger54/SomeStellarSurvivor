@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:crops/rice"
-    },
-    {
-      "item": "minecraft:bamboo"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:bamboosteamedriceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:crops/rice"},{"item":"minecraft:bamboo"}],"result":{"item":"pamhc2foodextended:bamboosteamedriceitem"},"type":"minecraft:crafting_shapeless"}

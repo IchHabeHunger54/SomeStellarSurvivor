@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:marshmellows/marshmellows"
-  ]
-}
+{"replace":true,"values":["#forge:marshmellows/marshmellows"]}

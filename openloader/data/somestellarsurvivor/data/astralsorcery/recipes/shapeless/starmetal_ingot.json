@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "astralsorcery:starmetal"
-    }
-  ],
-  "result": {
-    "count": 9,
-    "item": "astralsorcery:starmetal_ingot"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"astralsorcery:starmetal"}],"result":{"count":9,"item":"astralsorcery:starmetal_ingot"},"type":"minecraft:crafting_shapeless"}

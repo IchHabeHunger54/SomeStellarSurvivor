@@ -1,7 +1,1 @@
-{
-  "color": "c74ebd",
-  "ingredient": {
-    "item": "inspirations:magenta_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"c74ebd","ingredient":{"item":"inspirations:magenta_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

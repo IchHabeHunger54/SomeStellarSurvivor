@@ -1,18 +1,1 @@
-{
-  "key": {
-    "I": {
-      "item": "minecraft:iron_ingot"
-    },
-    "N": {
-      "item": "minecraft:iron_nugget"
-    }
-  },
-  "pattern": [
-    "I",
-    "N"
-  ],
-  "result": {
-    "item": "inspirations:lock"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"I":{"item":"minecraft:iron_ingot"},"N":{"item":"minecraft:iron_nugget"}},"pattern":["I","N"],"result":{"item":"inspirations:lock"},"type":"minecraft:crafting_shaped"}

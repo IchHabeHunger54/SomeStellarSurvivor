@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:polished_limestone"
-  },
-  "result": "quark:limestone_bricks",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:polished_limestone"},"result":"quark:limestone_bricks","type":"minecraft:stonecutting"}

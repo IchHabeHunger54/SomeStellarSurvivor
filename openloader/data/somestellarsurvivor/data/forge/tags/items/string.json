@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:string"
-  ]
-}
+{"replace":true,"values":["minecraft:string"]}

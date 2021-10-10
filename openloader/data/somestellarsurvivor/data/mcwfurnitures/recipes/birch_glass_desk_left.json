@@ -1,14 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:birch_glass_desk_right"
-    }
-  },
-  "pattern": [
-    "A"
-  ],
-  "result": {
-    "item": "mcwfurnitures:birch_glass_desk_left"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:birch_glass_desk_right"}},"pattern":["A"],"result":{"item":"mcwfurnitures:birch_glass_desk_left"},"type":"minecraft:crafting_shaped"}

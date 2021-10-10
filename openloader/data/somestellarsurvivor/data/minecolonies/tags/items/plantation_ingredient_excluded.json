@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecolonies:mechanic_ingredient",
-    "#minecolonies:mechanic_ingredient_excluded",
-    "#minecolonies:mechanic_product"
-  ]
-}
+{"replace":true,"values":["#minecolonies:mechanic_ingredient","#minecolonies:mechanic_ingredient_excluded","#minecolonies:mechanic_product"]}

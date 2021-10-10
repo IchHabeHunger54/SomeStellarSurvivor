@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:egg",
-    "alexsmobs:crocodile_egg",
-    "alexsmobs:emu_egg"
-  ]
-}
+{"replace":true,"values":["minecraft:egg","alexsmobs:crocodile_egg","alexsmobs:emu_egg"]}

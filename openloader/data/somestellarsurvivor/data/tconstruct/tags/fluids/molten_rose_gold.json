@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_rose_gold",
-    "tconstruct:flowing_molten_rose_gold"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_rose_gold","tconstruct:flowing_molten_rose_gold"]}

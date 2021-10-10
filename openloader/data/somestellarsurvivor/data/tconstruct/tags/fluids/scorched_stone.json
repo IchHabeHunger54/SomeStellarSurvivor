@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:scorched_stone",
-    "tconstruct:flowing_scorched_stone"
-  ]
-}
+{"replace":true,"values":["tconstruct:scorched_stone","tconstruct:flowing_scorched_stone"]}

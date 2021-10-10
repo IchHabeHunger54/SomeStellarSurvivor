@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:warped_nightstand"
-    },
-    "B": {
-      "item": "mcwfurnitures:drawer"
-    }
-  },
-  "pattern": [
-    "A",
-    "B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:warped_nightstand_2"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:warped_nightstand"},"B":{"item":"mcwfurnitures:drawer"}},"pattern":["A","B"],"result":{"item":"mcwfurnitures:warped_nightstand_2"},"type":"minecraft:crafting_shaped"}

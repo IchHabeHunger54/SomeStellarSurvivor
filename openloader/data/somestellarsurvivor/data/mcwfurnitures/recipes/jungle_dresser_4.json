@@ -1,17 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:jungle_nightstand_2"
-    },
-    "B": {
-      "item": "mcwfurnitures:jungle_nightstand"
-    }
-  },
-  "pattern": [
-    "AB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:jungle_dresser_4"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:jungle_nightstand_2"},"B":{"item":"mcwfurnitures:jungle_nightstand"}},"pattern":["AB"],"result":{"item":"mcwfurnitures:jungle_dresser_4"},"type":"minecraft:crafting_shaped"}

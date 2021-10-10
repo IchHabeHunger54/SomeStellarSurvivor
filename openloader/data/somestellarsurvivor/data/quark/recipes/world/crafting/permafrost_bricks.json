@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:permafrost"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:permafrost_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:permafrost"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:permafrost_bricks"},"type":"minecraft:crafting_shaped"}

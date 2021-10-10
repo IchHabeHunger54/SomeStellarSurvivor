@@ -1,17 +1,1 @@
-{
-  "key": {
-    "M": {
-      "item": "astralsorcery:marble_raw"
-    }
-  },
-  "pattern": [
-    " M ",
-    "M M",
-    " M "
-  ],
-  "result": {
-    "count": 4,
-    "item": "astralsorcery:marble_chiseled"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"M":{"item":"astralsorcery:marble_raw"}},"pattern":[" M ","M M"," M "],"result":{"count":4,"item":"astralsorcery:marble_chiseled"},"type":"minecraft:crafting_shaped"}

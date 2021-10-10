@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:slate_pavement"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:chiseled_slate_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:slate_pavement"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:chiseled_slate_bricks"},"type":"minecraft:crafting_shaped"}

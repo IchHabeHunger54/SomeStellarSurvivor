@@ -1,16 +1,1 @@
-{
-  "max_level": 3,
-  "min_level": 3,
-  "modifier": "tconstruct:luck",
-  "salvage": [
-    {
-      "item": "tconstruct:rose_gold_ingot",
-      "max": 5,
-      "min": 1
-    }
-  ],
-  "tools": {
-    "tag": "tconstruct:modifiable/melee_or_harvest"
-  },
-  "type": "tconstruct:modifier_salvage"
-}
+{"max_level":3,"min_level":3,"modifier":"tconstruct:luck","salvage":[{"item":"tconstruct:rose_gold_ingot","max":5,"min":1}],"tools":{"tag":"tconstruct:modifiable/melee_or_harvest"},"type":"tconstruct:modifier_salvage"}

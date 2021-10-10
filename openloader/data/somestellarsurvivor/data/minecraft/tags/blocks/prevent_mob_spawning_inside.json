@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:rails"
-  ]
-}
+{"replace":true,"values":["#minecraft:rails"]}

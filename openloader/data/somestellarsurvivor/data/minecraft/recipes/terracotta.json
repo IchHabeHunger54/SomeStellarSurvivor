@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "minecraft:clay"
-  },
-  "result": "minecraft:terracotta",
-  "type": "ceramics:kiln"
-}
+{"cookingtime":100,"ingredient":{"item":"minecraft:clay"},"result":"minecraft:terracotta","type":"ceramics:kiln"}

@@ -1,14 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "mcwfurnitures:dark_oak_box_2"
-    }
-  },
-  "pattern": [
-    "BB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:dark_oak_dresser_box"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"mcwfurnitures:dark_oak_box_2"}},"pattern":["BB"],"result":{"item":"mcwfurnitures:dark_oak_dresser_box"},"type":"minecraft:crafting_shaped"}

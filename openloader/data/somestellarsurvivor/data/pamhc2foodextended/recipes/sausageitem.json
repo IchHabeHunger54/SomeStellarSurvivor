@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:rawmeats"
-    },
-    {
-      "tag": "forge:salt"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:sausageitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:rawmeats"},{"tag":"forge:salt"}],"result":{"item":"pamhc2foodextended:sausageitem"},"type":"minecraft:crafting_shapeless"}

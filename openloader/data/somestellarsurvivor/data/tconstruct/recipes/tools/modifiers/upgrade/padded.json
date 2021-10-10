@@ -1,18 +1,1 @@
-{
-  "inputs": [
-    {
-      "tag": "minecraft:wool"
-    }
-  ],
-  "max_level": 3,
-  "needed_per_level": 64,
-  "result": {
-    "level": 1,
-    "name": "tconstruct:padded"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee"
-  },
-  "type": "tconstruct:modifier",
-  "upgrade_slots": 1
-}
+{"inputs":[{"tag":"minecraft:wool"}],"max_level":3,"needed_per_level":64,"result":{"level":1,"name":"tconstruct:padded"},"tools":{"tag":"tconstruct:modifiable/melee"},"type":"tconstruct:modifier","upgrade_slots":1}

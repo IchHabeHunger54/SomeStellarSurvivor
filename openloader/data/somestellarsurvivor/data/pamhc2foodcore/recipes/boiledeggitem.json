@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "tag": "forge:egg"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:boiledeggitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:egg"}],"result":{"item":"pamhc2foodcore:boiledeggitem"},"type":"minecraft:crafting_shapeless"}

@@ -1,15 +1,1 @@
-{
-  "min_level": 1,
-  "modifier": "tconstruct:sharpness",
-  "salvage": {
-    "full": false,
-    "item": "minecraft:quartz"
-  },
-  "slots": {
-    "upgrades": 1
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee"
-  },
-  "type": "tconstruct:incremental_modifier_salvage"
-}
+{"min_level":1,"modifier":"tconstruct:sharpness","salvage":{"full":false,"item":"minecraft:quartz"},"slots":{"upgrades":1},"tools":{"tag":"tconstruct:modifiable/melee"},"type":"tconstruct:incremental_modifier_salvage"}

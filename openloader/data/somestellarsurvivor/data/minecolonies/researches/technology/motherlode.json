@@ -1,17 +1,1 @@
-{
-  "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/moreoresmultiplier": 5
-    }
-  ],
-  "icon": "minecraft:emerald_ore",
-  "parentResearch": "minecolonies:technology/amazingveins",
-  "requirements": [
-    {
-      "item": "minecraft:emerald_ore",
-      "quantity": 64
-    }
-  ],
-  "researchLevel": 6
-}
+{"branch":"minecolonies:technology","effects":[{"minecolonies:effects/moreoresmultiplier":5}],"icon":"minecraft:emerald_ore","parentResearch":"minecolonies:technology/amazingveins","requirements":[{"item":"minecraft:emerald_ore","quantity":64}],"researchLevel":6}

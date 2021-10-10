@@ -1,18 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:cocoapowder"
-    },
-    {
-      "tag": "forge:dough"
-    }
-  ],
-  "result": {
-    "count": 4,
-    "item": "pamhc2foodcore:chocolatecupcakeitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:cocoapowder"},{"tag":"forge:dough"}],"result":{"count":4,"item":"pamhc2foodcore:chocolatecupcakeitem"},"type":"minecraft:crafting_shapeless"}

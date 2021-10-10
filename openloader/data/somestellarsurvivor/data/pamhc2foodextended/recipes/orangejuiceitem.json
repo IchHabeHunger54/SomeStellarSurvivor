@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/orange"
-    },
-    {
-      "tag": "forge:fruits/orange"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:orangejuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/orange"},{"tag":"forge:fruits/orange"}],"result":{"item":"pamhc2foodextended:orangejuiceitem"},"type":"minecraft:crafting_shapeless"}

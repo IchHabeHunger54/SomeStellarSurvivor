@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "tag": "forge:crops/tealeaf"
-    },
-    {
-      "tag": "forge:crops/spiceleaf"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:greenteaitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:crops/tealeaf"},{"tag":"forge:crops/spiceleaf"}],"result":{"item":"pamhc2foodextended:greenteaitem"},"type":"minecraft:crafting_shapeless"}

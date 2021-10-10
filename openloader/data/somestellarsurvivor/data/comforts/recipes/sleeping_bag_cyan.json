@@ -1,14 +1,1 @@
-{
-  "key": {
-    "a": {
-      "item": "minecraft:cyan_wool"
-    }
-  },
-  "pattern": [
-    "aaa"
-  ],
-  "result": {
-    "item": "comforts:sleeping_bag_cyan"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"a":{"item":"minecraft:cyan_wool"}},"pattern":["aaa"],"result":{"item":"comforts:sleeping_bag_cyan"},"type":"minecraft:crafting_shaped"}

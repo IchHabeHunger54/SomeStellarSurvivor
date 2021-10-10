@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:brimstone_bricks"
-  },
-  "result": "quark:brimstone_bricks_stairs",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:brimstone_bricks"},"result":"quark:brimstone_bricks_stairs","type":"minecraft:stonecutting"}

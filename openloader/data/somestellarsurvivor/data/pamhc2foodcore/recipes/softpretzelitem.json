@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:dough"
-    },
-    {
-      "tag": "forge:salt"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:softpretzelitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:dough"},{"tag":"forge:salt"}],"result":{"item":"pamhc2foodcore:softpretzelitem"},"type":"minecraft:crafting_shapeless"}

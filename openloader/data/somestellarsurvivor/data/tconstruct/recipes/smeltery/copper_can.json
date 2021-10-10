@@ -1,16 +1,1 @@
-{
-  "key": {
-    "c": {
-      "item": "tconstruct:copper_ingot"
-    }
-  },
-  "pattern": [
-    "c c",
-    " c "
-  ],
-  "result": {
-    "count": 3,
-    "item": "tconstruct:copper_can"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"c":{"item":"tconstruct:copper_ingot"}},"pattern":["c c"," c "],"result":{"count":3,"item":"tconstruct:copper_can"},"type":"minecraft:crafting_shaped"}

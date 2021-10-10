@@ -1,18 +1,1 @@
-{
-  "min_level": 1,
-  "modifier": "tconstruct:glowing",
-  "salvage": [
-    {
-      "item": "minecraft:glowstone",
-      "max": 5,
-      "min": 1
-    }
-  ],
-  "slots": {
-    "abilities": 1
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/durability"
-  },
-  "type": "tconstruct:modifier_salvage"
-}
+{"min_level":1,"modifier":"tconstruct:glowing","salvage":[{"item":"minecraft:glowstone","max":5,"min":1}],"slots":{"abilities":1},"tools":{"tag":"tconstruct:modifiable/durability"},"type":"tconstruct:modifier_salvage"}

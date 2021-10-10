@@ -1,18 +1,1 @@
-{
-  "key": {
-    "a": {
-      "item": "minecraft:stick"
-    },
-    "b": {
-      "item": "minecraft:brick"
-    }
-  },
-  "pattern": [
-    "ab",
-    "  "
-  ],
-  "result": {
-    "item": "pamhc2foodcore:saucepanitem"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"a":{"item":"minecraft:stick"},"b":{"item":"minecraft:brick"}},"pattern":["ab","  "],"result":{"item":"pamhc2foodcore:saucepanitem"},"type":"minecraft:crafting_shaped"}

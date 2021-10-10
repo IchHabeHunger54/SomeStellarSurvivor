@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:salsa/salsa"
-  ]
-}
+{"replace":true,"values":["#forge:salsa/salsa"]}

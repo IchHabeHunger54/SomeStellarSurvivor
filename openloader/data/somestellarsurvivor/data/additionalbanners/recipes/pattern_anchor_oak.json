@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "additionalbanners:heart"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:clubs"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"additionalbanners:heart"}],"result":{"item":"additionalbanners:clubs"},"type":"minecraft:crafting_shapeless"}

@@ -1,15 +1,1 @@
-{
-  "acceptChaliceInput": true,
-  "consumeMultipleFluids": false,
-  "consumptionChance": 0.2,
-  "copyNBTToOutputs": false,
-  "duration": 200,
-  "fluidInput": "astralsorcery:liquid_starlight",
-  "input": {
-    "item": "astralsorcery:aquamarine"
-  },
-  "output": {
-    "item": "astralsorcery:resonating_gem"
-  },
-  "type": "astralsorcery:infuser"
-}
+{"acceptChaliceInput":true,"consumeMultipleFluids":false,"consumptionChance":0.2,"copyNBTToOutputs":false,"duration":200,"fluidInput":"astralsorcery:liquid_starlight","input":{"item":"astralsorcery:aquamarine"},"output":{"item":"astralsorcery:resonating_gem"},"type":"astralsorcery:infuser"}

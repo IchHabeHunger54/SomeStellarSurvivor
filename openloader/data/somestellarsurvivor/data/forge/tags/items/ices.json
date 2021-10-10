@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:blue_ice",
-    "#forge:ices/ice",
-    "#forge:ices/packedice",
-    "#forge:ices/snowball"
-  ]
-}
+{"replace":true,"values":["minecraft:blue_ice","#forge:ices/ice","#forge:ices/packedice","#forge:ices/snowball"]}

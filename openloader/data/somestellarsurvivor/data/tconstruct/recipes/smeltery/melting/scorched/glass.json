@@ -1,18 +1,1 @@
-{
-  "byproducts": [
-    {
-      "amount": 1000,
-      "fluid": "tconstruct:molten_glass"
-    }
-  ],
-  "ingredient": {
-    "item": "tconstruct:scorched_glass"
-  },
-  "result": {
-    "amount": 576,
-    "fluid": "tconstruct:scorched_stone"
-  },
-  "temperature": 500,
-  "time": 100,
-  "type": "tconstruct:melting"
-}
+{"byproducts":[{"amount":1000,"fluid":"tconstruct:molten_glass"}],"ingredient":{"item":"tconstruct:scorched_glass"},"result":{"amount":576,"fluid":"tconstruct:scorched_stone"},"temperature":500,"time":100,"type":"tconstruct:melting"}

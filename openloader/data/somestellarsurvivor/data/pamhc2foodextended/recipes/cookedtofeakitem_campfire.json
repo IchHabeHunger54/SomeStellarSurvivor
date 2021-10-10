@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "pamhc2foodextended:rawtofeakitem"
-  },
-  "result": "pamhc2foodextended:cookedtofeakitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"item":"pamhc2foodextended:rawtofeakitem"},"result":"pamhc2foodextended:cookedtofeakitem","type":"minecraft:campfire_cooking"}

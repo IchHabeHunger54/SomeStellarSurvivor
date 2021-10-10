@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:diorite_pavement"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:chiseled_diorite_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:diorite_pavement"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:chiseled_diorite_bricks"},"type":"minecraft:crafting_shaped"}

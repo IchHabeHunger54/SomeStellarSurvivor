@@ -1,17 +1,1 @@
-{
-  "min_level": 1,
-  "modifier": "tconstruct:emerald",
-  "salvage": [
-    {
-      "chance": 0.5,
-      "item": "minecraft:emerald"
-    }
-  ],
-  "slots": {
-    "upgrades": 1
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable"
-  },
-  "type": "tconstruct:modifier_salvage"
-}
+{"min_level":1,"modifier":"tconstruct:emerald","salvage":[{"chance":0.5,"item":"minecraft:emerald"}],"slots":{"upgrades":1},"tools":{"tag":"tconstruct:modifiable"},"type":"tconstruct:modifier_salvage"}

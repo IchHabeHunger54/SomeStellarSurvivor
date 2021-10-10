@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:blue_shard"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "item": "minecraft:blue_stained_glass"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:blue_shard"}},"pattern":["##","##"],"result":{"item":"minecraft:blue_stained_glass"},"type":"minecraft:crafting_shaped"}

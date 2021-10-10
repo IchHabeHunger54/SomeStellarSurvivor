@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_tungsten",
-    "tconstruct:flowing_molten_tungsten"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_tungsten","tconstruct:flowing_molten_tungsten"]}

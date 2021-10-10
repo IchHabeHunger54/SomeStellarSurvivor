@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:glowstone"
-  ]
-}
+{"replace":true,"values":["minecraft:glowstone"]}

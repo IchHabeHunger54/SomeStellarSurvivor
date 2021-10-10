@@ -1,14 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "mcwfurnitures:acacia_box_2"
-    }
-  },
-  "pattern": [
-    "BB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:acacia_dresser_box"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"mcwfurnitures:acacia_box_2"}},"pattern":["BB"],"result":{"item":"mcwfurnitures:acacia_dresser_box"},"type":"minecraft:crafting_shaped"}

@@ -1,14 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:crimson_covered_desk_right"
-    }
-  },
-  "pattern": [
-    "A"
-  ],
-  "result": {
-    "item": "mcwfurnitures:crimson_covered_desk_left"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:crimson_covered_desk_right"}},"pattern":["A"],"result":{"item":"mcwfurnitures:crimson_covered_desk_left"},"type":"minecraft:crafting_shaped"}

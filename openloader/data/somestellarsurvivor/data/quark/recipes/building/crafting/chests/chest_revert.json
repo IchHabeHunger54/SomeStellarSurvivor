@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "quark:revertable_chests"
-    }
-  ],
-  "result": {
-    "item": "minecraft:chest"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"quark:revertable_chests"}],"result":{"item":"minecraft:chest"},"type":"minecraft:crafting_shapeless"}

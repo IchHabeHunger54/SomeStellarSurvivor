@@ -1,17 +1,1 @@
-{
-  "amount_per_item": 1,
-  "input": {
-    "item": "tconstruct:iron_reinforcement"
-  },
-  "max_level": 5,
-  "needed_per_level": 64,
-  "result": {
-    "level": 1,
-    "name": "tconstruct:reinforced"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/durability"
-  },
-  "type": "tconstruct:incremental_modifier",
-  "upgrade_slots": 1
-}
+{"amount_per_item":1,"input":{"item":"tconstruct:iron_reinforcement"},"max_level":5,"needed_per_level":64,"result":{"level":1,"name":"tconstruct:reinforced"},"tools":{"tag":"tconstruct:modifiable/durability"},"type":"tconstruct:incremental_modifier","upgrade_slots":1}

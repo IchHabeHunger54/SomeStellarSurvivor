@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:violet_crystal"
-    },
-    {
-      "item": "minecraft:honeycomb"
-    }
-  ],
-  "result": {
-    "item": "quark:waxed_violet_crystal"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:violet_crystal"},{"item":"minecraft:honeycomb"}],"result":{"item":"quark:waxed_violet_crystal"},"type":"minecraft:crafting_shapeless"}

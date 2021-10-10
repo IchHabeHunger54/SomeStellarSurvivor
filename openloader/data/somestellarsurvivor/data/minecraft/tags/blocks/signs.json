@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:standing_signs",
-    "#minecraft:wall_signs"
-  ]
-}
+{"replace":true,"values":["#minecraft:standing_signs","#minecraft:wall_signs"]}

@@ -1,16 +1,1 @@
-{
-  "key": {
-    "G": {
-      "item": "minecraft:glass_pane"
-    }
-  },
-  "pattern": [
-    "GG",
-    "GG",
-    "GG"
-  ],
-  "result": {
-    "item": "inspirations:glass_door"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"G":{"item":"minecraft:glass_pane"}},"pattern":["GG","GG","GG"],"result":{"item":"inspirations:glass_door"},"type":"minecraft:crafting_shaped"}

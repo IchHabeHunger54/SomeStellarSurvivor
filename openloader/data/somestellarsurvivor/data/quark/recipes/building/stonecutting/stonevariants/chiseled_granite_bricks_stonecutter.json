@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:granite_pavement"
-  },
-  "result": "quark:chiseled_granite_bricks",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:granite_pavement"},"result":"quark:chiseled_granite_bricks","type":"minecraft:stonecutting"}

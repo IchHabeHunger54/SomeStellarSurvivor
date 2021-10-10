@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_skillet"
-    },
-    {
-      "tag": "forge:tortilla"
-    },
-    {
-      "tag": "forge:cheese"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:quesadillaitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_skillet"},{"tag":"forge:tortilla"},{"tag":"forge:cheese"}],"result":{"item":"pamhc2foodextended:quesadillaitem"},"type":"minecraft:crafting_shapeless"}

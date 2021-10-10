@@ -1,14 +1,1 @@
-{
-  "input": {
-    "name": "minecraft:water",
-    "type": "inspirations:fluid"
-  },
-  "output": {
-    "name": "minecraft:ice",
-    "type": "inspirations:custom"
-  },
-  "sound": "minecraft:block.glass.place",
-  "temperature": "freezing",
-  "time": 500,
-  "type": "inspirations:cauldron_transform"
-}
+{"input":{"name":"minecraft:water","type":"inspirations:fluid"},"output":{"name":"minecraft:ice","type":"inspirations:custom"},"sound":"minecraft:block.glass.place","temperature":"freezing","time":500,"type":"inspirations:cauldron_transform"}

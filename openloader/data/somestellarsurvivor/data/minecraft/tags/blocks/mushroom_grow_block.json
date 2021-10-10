@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:mycelium",
-    "minecraft:podzol",
-    "quark:glowcelium"
-  ]
-}
+{"replace":true,"values":["minecraft:mycelium","minecraft:podzol","quark:glowcelium"]}

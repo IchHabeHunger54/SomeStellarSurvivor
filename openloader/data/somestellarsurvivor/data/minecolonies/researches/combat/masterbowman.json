@@ -1,17 +1,1 @@
-{
-  "branch": "minecolonies:combat",
-  "effects": [
-    {
-      "minecolonies:effects/doublearrowsmultiplier": 4
-    }
-  ],
-  "icon": "minecraft:bow",
-  "parentResearch": "minecolonies:combat/rapidshot",
-  "requirements": [
-    {
-      "item": "minecraft:bow",
-      "quantity": 36
-    }
-  ],
-  "researchLevel": 6
-}
+{"branch":"minecolonies:combat","effects":[{"minecolonies:effects/doublearrowsmultiplier":4}],"icon":"minecraft:bow","parentResearch":"minecolonies:combat/rapidshot","requirements":[{"item":"minecraft:bow","quantity":36}],"researchLevel":6}

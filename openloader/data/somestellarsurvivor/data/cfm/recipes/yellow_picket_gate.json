@@ -1,18 +1,1 @@
-{
-  "key": {
-    "C": {
-      "item": "minecraft:yellow_concrete"
-    },
-    "G": {
-      "tag": "forge:fence_gates/wooden"
-    }
-  },
-  "pattern": [
-    "CGC"
-  ],
-  "result": {
-    "count": 2,
-    "item": "cfm:yellow_picket_gate"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"C":{"item":"minecraft:yellow_concrete"},"G":{"tag":"forge:fence_gates/wooden"}},"pattern":["CGC"],"result":{"count":2,"item":"cfm:yellow_picket_gate"},"type":"minecraft:crafting_shaped"}

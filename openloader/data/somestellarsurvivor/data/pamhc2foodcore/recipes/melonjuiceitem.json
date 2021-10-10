@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:crops/melon"
-    },
-    {
-      "tag": "forge:crops/melon"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:melonjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:crops/melon"},{"tag":"forge:crops/melon"}],"result":{"item":"pamhc2foodcore:melonjuiceitem"},"type":"minecraft:crafting_shapeless"}

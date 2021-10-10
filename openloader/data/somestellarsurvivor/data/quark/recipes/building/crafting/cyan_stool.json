@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:cyan_wool"
-    },
-    "W": {
-      "tag": "minecraft:wooden_slabs"
-    }
-  },
-  "pattern": [
-    "###",
-    "WWW"
-  ],
-  "result": {
-    "item": "quark:cyan_stool"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:cyan_wool"},"W":{"tag":"minecraft:wooden_slabs"}},"pattern":["###","WWW"],"result":{"item":"quark:cyan_stool"},"type":"minecraft:crafting_shaped"}

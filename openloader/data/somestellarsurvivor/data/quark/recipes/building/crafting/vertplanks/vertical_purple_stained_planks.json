@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:purple_stained_planks"
-    }
-  },
-  "pattern": [
-    "#",
-    "#",
-    "#"
-  ],
-  "result": {
-    "count": 3,
-    "item": "quark:vertical_purple_stained_planks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:purple_stained_planks"}},"pattern":["#","#","#"],"result":{"count":3,"item":"quark:vertical_purple_stained_planks"},"type":"minecraft:crafting_shaped"}

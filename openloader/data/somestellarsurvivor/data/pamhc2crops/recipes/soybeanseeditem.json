@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:soybeanitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:soybeanseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:soybeanitem"}],"result":{"item":"pamhc2crops:soybeanseeditem"},"type":"minecraft:crafting_shapeless"}

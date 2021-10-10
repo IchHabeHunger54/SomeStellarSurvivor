@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_skillet"
-    },
-    {
-      "item": "pamhc2foodextended:mushroomketchupitem"
-    },
-    {
-      "tag": "forge:egg"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:mushroomketchupomeletitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_skillet"},{"item":"pamhc2foodextended:mushroomketchupitem"},{"tag":"forge:egg"}],"result":{"item":"pamhc2foodextended:mushroomketchupomeletitem"},"type":"minecraft:crafting_shapeless"}

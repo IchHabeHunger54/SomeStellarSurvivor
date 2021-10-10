@@ -1,17 +1,1 @@
-{
-  "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/blockhutglassblower": 1
-    }
-  ],
-  "icon": "minecolonies:blockhutglassblower",
-  "parentResearch": "minecolonies:technology/stonecake",
-  "requirements": [
-    {
-      "item": "minecraft:glass",
-      "quantity": 64
-    }
-  ],
-  "researchLevel": 2
-}
+{"branch":"minecolonies:technology","effects":[{"minecolonies:effects/blockhutglassblower":1}],"icon":"minecolonies:blockhutglassblower","parentResearch":"minecolonies:technology/stonecake","requirements":[{"item":"minecraft:glass","quantity":64}],"researchLevel":2}

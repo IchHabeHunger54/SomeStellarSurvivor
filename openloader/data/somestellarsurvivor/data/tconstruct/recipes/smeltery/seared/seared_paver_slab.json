@@ -1,15 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "tconstruct:seared_paver"
-    }
-  },
-  "pattern": [
-    "BBB"
-  ],
-  "result": {
-    "count": 6,
-    "item": "tconstruct:seared_paver_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"tconstruct:seared_paver"}},"pattern":["BBB"],"result":{"count":6,"item":"tconstruct:seared_paver_slab"},"type":"minecraft:crafting_shaped"}

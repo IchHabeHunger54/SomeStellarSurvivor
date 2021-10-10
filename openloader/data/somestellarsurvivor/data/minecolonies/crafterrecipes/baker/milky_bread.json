@@ -1,18 +1,1 @@
-{
-  "count": 8,
-  "crafter": "baker_crafting",
-  "inputs": [
-    {
-      "count": 8,
-      "item": "minecraft:bread"
-    },
-    {
-      "count": 1,
-      "item": "minecraft:milk_bucket"
-    }
-  ],
-  "intermediate": "minecraft:air",
-  "min-building-level": 4,
-  "result": "minecolonies:milky_bread",
-  "type": "recipe"
-}
+{"count":8,"crafter":"baker_crafting","inputs":[{"count":8,"item":"minecraft:bread"},{"count":1,"item":"minecraft:milk_bucket"}],"intermediate":"minecraft:air","min-building-level":4,"result":"minecolonies:milky_bread","type":"recipe"}

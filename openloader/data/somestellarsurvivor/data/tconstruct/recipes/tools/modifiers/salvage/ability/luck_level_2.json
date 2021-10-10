@@ -1,16 +1,1 @@
-{
-  "max_level": 2,
-  "min_level": 2,
-  "modifier": "tconstruct:luck",
-  "salvage": [
-    {
-      "item": "tconstruct:copper_ingot",
-      "max": 5,
-      "min": 1
-    }
-  ],
-  "tools": {
-    "tag": "tconstruct:modifiable/melee_or_harvest"
-  },
-  "type": "tconstruct:modifier_salvage"
-}
+{"max_level":2,"min_level":2,"modifier":"tconstruct:luck","salvage":[{"item":"tconstruct:copper_ingot","max":5,"min":1}],"tools":{"tag":"tconstruct:modifiable/melee_or_harvest"},"type":"tconstruct:modifier_salvage"}

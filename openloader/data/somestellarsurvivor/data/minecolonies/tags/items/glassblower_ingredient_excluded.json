@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecolonies:dyer_ingredient",
-    "#minecolonies:dyer_ingredient_excluded",
-    "#minecolonies:dyer_product"
-  ]
-}
+{"replace":true,"values":["#minecolonies:dyer_ingredient","#minecolonies:dyer_ingredient_excluded","#minecolonies:dyer_product"]}

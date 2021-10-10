@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:crops/almond"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:almondbutteritem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:crops/almond"}],"result":{"item":"pamhc2foodextended:almondbutteritem"},"type":"minecraft:crafting_shapeless"}

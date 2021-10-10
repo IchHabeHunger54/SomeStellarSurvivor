@@ -1,14 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "mcwfurnitures:crimson_box_2"
-    }
-  },
-  "pattern": [
-    "BB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:crimson_dresser_box"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"mcwfurnitures:crimson_box_2"}},"pattern":["BB"],"result":{"item":"mcwfurnitures:crimson_dresser_box"},"type":"minecraft:crafting_shaped"}

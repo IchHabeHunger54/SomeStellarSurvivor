@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:crafting_station",
-    "tconstruct:part_builder",
-    "tconstruct:tinker_station"
-  ]
-}
+{"replace":true,"values":["tconstruct:crafting_station","tconstruct:part_builder","tconstruct:tinker_station"]}

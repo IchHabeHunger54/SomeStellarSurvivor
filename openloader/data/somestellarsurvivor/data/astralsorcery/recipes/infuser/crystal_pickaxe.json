@@ -1,15 +1,1 @@
-{
-  "acceptChaliceInput": false,
-  "consumeMultipleFluids": true,
-  "consumptionChance": 1.0,
-  "copyNBTToOutputs": true,
-  "duration": 200,
-  "fluidInput": "astralsorcery:liquid_starlight",
-  "input": {
-    "item": "astralsorcery:crystal_pickaxe"
-  },
-  "output": {
-    "item": "astralsorcery:infused_crystal_pickaxe"
-  },
-  "type": "astralsorcery:infuser"
-}
+{"acceptChaliceInput":false,"consumeMultipleFluids":true,"consumptionChance":1.0,"copyNBTToOutputs":true,"duration":200,"fluidInput":"astralsorcery:liquid_starlight","input":{"item":"astralsorcery:crystal_pickaxe"},"output":{"item":"astralsorcery:infused_crystal_pickaxe"},"type":"astralsorcery:infuser"}

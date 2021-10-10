@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:crops/sweetpotato"
-  },
-  "result": "pamhc2crops:bakedsweetpotatoitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:crops/sweetpotato"},"result":"pamhc2crops:bakedsweetpotatoitem","type":"minecraft:campfire_cooking"}

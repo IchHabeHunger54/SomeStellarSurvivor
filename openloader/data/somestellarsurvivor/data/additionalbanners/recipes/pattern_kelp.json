@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:kelp"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:kelp"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"item":"minecraft:kelp"}],"result":{"item":"additionalbanners:kelp"},"type":"minecraft:crafting_shapeless"}

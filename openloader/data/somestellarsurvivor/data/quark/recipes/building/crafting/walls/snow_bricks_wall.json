@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:snow_bricks"
-    }
-  },
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:snow_bricks_wall"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:snow_bricks"}},"pattern":["###","###"],"result":{"count":6,"item":"quark:snow_bricks_wall"},"type":"minecraft:crafting_shaped"}

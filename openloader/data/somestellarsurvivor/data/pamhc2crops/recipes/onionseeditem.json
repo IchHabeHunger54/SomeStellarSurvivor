@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:onionitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:onionseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:onionitem"}],"result":{"item":"pamhc2crops:onionseeditem"},"type":"minecraft:crafting_shapeless"}

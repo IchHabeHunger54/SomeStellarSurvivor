@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:jungle_leaves"
-  ]
-}
+{"replace":true,"values":["minecraft:jungle_leaves"]}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:seared_stone",
-    "tconstruct:flowing_seared_stone"
-  ]
-}
+{"replace":true,"values":["tconstruct:seared_stone","tconstruct:flowing_seared_stone"]}

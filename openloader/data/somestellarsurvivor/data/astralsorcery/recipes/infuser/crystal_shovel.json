@@ -1,15 +1,1 @@
-{
-  "acceptChaliceInput": false,
-  "consumeMultipleFluids": true,
-  "consumptionChance": 1.0,
-  "copyNBTToOutputs": true,
-  "duration": 200,
-  "fluidInput": "astralsorcery:liquid_starlight",
-  "input": {
-    "item": "astralsorcery:crystal_shovel"
-  },
-  "output": {
-    "item": "astralsorcery:infused_crystal_shovel"
-  },
-  "type": "astralsorcery:infuser"
-}
+{"acceptChaliceInput":false,"consumeMultipleFluids":true,"consumptionChance":1.0,"copyNBTToOutputs":true,"duration":200,"fluidInput":"astralsorcery:liquid_starlight","input":{"item":"astralsorcery:crystal_shovel"},"output":{"item":"astralsorcery:infused_crystal_shovel"},"type":"astralsorcery:infuser"}

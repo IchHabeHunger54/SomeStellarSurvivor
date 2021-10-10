@@ -1,11 +1,1 @@
-{
-  "ingredient": {
-    "item": "toughasnails:dirty_water_bottle"
-  },
-  "purifytime": 400,
-  "result": {
-    "item": "minecraft:potion",
-    "nbt": "{Potion:\"minecraft:water\"}"
-  },
-  "type": "toughasnails:water_purifying"
-}
+{"ingredient":{"item":"toughasnails:dirty_water_bottle"},"purifytime":400,"result":{"item":"minecraft:potion","nbt":"{Potion:\"minecraft:water\"}"},"type":"toughasnails:water_purifying"}

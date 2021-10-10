@@ -1,17 +1,1 @@
-{
-  "key": {
-    "F": {
-      "item": "minecraft:stripped_spruce_wood"
-    }
-  },
-  "pattern": [
-    "F",
-    "F",
-    "F"
-  ],
-  "result": {
-    "count": 8,
-    "item": "quark:stripped_spruce_post"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"F":{"item":"minecraft:stripped_spruce_wood"}},"pattern":["F","F","F"],"result":{"count":8,"item":"quark:stripped_spruce_post"},"type":"minecraft:crafting_shaped"}

@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:sand",
-    "minecraft:gravel",
-    "minecraft:stone",
-    "minecraft:water"
-  ]
-}
+{"replace":true,"values":["#minecraft:sand","minecraft:gravel","minecraft:stone","minecraft:water"]}

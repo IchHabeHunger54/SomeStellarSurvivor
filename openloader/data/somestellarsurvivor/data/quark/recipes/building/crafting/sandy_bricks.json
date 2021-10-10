@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:bricks"
-    },
-    {
-      "tag": "minecraft:sand"
-    }
-  ],
-  "result": {
-    "item": "quark:sandy_bricks"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:bricks"},{"tag":"minecraft:sand"}],"result":{"item":"quark:sandy_bricks"},"type":"minecraft:crafting_shapeless"}

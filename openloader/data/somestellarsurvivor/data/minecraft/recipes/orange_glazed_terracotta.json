@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "minecraft:orange_terracotta"
-  },
-  "result": "minecraft:orange_glazed_terracotta",
-  "type": "ceramics:kiln"
-}
+{"cookingtime":100,"ingredient":{"item":"minecraft:orange_terracotta"},"result":"minecraft:orange_glazed_terracotta","type":"ceramics:kiln"}

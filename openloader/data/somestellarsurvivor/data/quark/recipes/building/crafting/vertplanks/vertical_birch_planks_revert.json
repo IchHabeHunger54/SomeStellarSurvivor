@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:vertical_birch_planks"
-    }
-  ],
-  "result": {
-    "item": "minecraft:birch_planks"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:vertical_birch_planks"}],"result":{"item":"minecraft:birch_planks"},"type":"minecraft:crafting_shapeless"}

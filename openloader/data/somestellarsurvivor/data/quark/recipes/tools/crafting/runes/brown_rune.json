@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:blank_rune"
-    },
-    {
-      "tag": "forge:dyes/brown"
-    }
-  ],
-  "result": {
-    "item": "quark:brown_rune"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:blank_rune"},{"tag":"forge:dyes/brown"}],"result":{"item":"quark:brown_rune"},"type":"minecraft:crafting_shapeless"}

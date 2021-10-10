@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:brimstone"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:brimstone_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:brimstone"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:brimstone_bricks"},"type":"minecraft:crafting_shaped"}

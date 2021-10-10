@@ -1,18 +1,1 @@
-{
-  "min_level": 1,
-  "modifier": "tconstruct:bucketing",
-  "salvage": [
-    {
-      "item": "minecraft:bucket",
-      "max": 5,
-      "min": 1
-    }
-  ],
-  "slots": {
-    "abilities": 1
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee_or_harvest"
-  },
-  "type": "tconstruct:modifier_salvage"
-}
+{"min_level":1,"modifier":"tconstruct:bucketing","salvage":[{"item":"minecraft:bucket","max":5,"min":1}],"slots":{"abilities":1},"tools":{"tag":"tconstruct:modifiable/melee_or_harvest"},"type":"tconstruct:modifier_salvage"}

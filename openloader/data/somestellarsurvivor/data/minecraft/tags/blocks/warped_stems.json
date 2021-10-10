@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:warped_stem",
-    "minecraft:stripped_warped_stem",
-    "minecraft:warped_hyphae",
-    "minecraft:stripped_warped_hyphae"
-  ]
-}
+{"replace":true,"values":["minecraft:warped_stem","minecraft:stripped_warped_stem","minecraft:warped_hyphae","minecraft:stripped_warped_hyphae"]}

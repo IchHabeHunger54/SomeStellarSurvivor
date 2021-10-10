@@ -1,9 +1,1 @@
-{
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_cobalt"
-  },
-  "output": "tconstruct:cobalt",
-  "temperature": 950,
-  "type": "tconstruct:material_fluid"
-}
+{"fluid":{"amount":144,"tag":"tconstruct:molten_cobalt"},"output":"tconstruct:cobalt","temperature":950,"type":"tconstruct:material_fluid"}

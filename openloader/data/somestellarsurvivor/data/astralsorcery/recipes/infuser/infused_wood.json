@@ -1,15 +1,1 @@
-{
-  "acceptChaliceInput": true,
-  "consumeMultipleFluids": false,
-  "consumptionChance": 0.1,
-  "copyNBTToOutputs": false,
-  "duration": 100,
-  "fluidInput": "astralsorcery:liquid_starlight",
-  "input": {
-    "item": "astralsorcery:infused_wood"
-  },
-  "output": {
-    "item": "astralsorcery:infused_wood_infused"
-  },
-  "type": "astralsorcery:infuser"
-}
+{"acceptChaliceInput":true,"consumeMultipleFluids":false,"consumptionChance":0.1,"copyNBTToOutputs":false,"duration":100,"fluidInput":"astralsorcery:liquid_starlight","input":{"item":"astralsorcery:infused_wood"},"output":{"item":"astralsorcery:infused_wood_infused"},"type":"astralsorcery:infuser"}

@@ -1,8 +1,1 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "minecraft:blackstone"
-  },
-  "result": "quark:blackstone_vertical_slab",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":{"item":"minecraft:blackstone"},"result":"quark:blackstone_vertical_slab","type":"minecraft:stonecutting"}

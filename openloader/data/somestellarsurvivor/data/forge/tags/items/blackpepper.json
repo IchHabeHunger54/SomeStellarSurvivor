@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:blackpepper/blackpepper"
-  ]
-}
+{"replace":true,"values":["#forge:blackpepper/blackpepper"]}

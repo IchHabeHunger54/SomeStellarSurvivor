@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:rawbeef"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:groundbeefitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:rawbeef"}],"result":{"item":"pamhc2foodcore:groundbeefitem"},"type":"minecraft:crafting_shapeless"}

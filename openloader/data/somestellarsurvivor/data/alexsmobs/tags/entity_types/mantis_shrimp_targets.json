@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "alexsmobs:mimic_octopus",
-    "alexsmobs:lobster",
-    "minecraft:squid",
-    "minecraft:tropical_fish"
-  ]
-}
+{"replace":true,"values":["alexsmobs:mimic_octopus","alexsmobs:lobster","minecraft:squid","minecraft:tropical_fish"]}

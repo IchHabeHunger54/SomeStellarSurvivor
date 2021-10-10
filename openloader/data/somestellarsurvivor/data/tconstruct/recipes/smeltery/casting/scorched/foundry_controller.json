@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "item": "tconstruct:scorched_bricks"
-  },
-  "cast_consumed": true,
-  "cooling_time": 175,
-  "fluid": {
-    "amount": 1000,
-    "name": "tconstruct:molten_obsidian"
-  },
-  "result": "tconstruct:foundry_controller",
-  "type": "tconstruct:casting_basin"
-}
+{"cast":{"item":"tconstruct:scorched_bricks"},"cast_consumed":true,"cooling_time":175,"fluid":{"amount":1000,"name":"tconstruct:molten_obsidian"},"result":"tconstruct:foundry_controller","type":"tconstruct:casting_basin"}

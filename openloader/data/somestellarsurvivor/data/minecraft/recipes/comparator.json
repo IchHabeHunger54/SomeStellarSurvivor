@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:redstone_torch"
-    },
-    "I": {
-      "item": "minecraft:smooth_stone_slab"
-    }
-  },
-  "pattern": [
-    "###",
-    "III"
-  ],
-  "result": {
-    "item": "minecraft:comparator"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:redstone_torch"},"I":{"item":"minecraft:smooth_stone_slab"}},"pattern":["###","III"],"result":{"item":"minecraft:comparator"},"type":"minecraft:crafting_shaped"}

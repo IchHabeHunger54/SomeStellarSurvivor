@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:redstone_block"
-  },
-  "input": [
-    {
-      "block": "minecraft:red_wool",
-      "display": {
-        "item": "minecraft:red_wool"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:redstone_block"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:redstone_block"},"input":[{"block":"minecraft:red_wool","display":{"item":"minecraft:red_wool"}}],"output":{"block":"minecraft:redstone_block"},"starlight":400,"type":"astralsorcery:block_transmutation"}

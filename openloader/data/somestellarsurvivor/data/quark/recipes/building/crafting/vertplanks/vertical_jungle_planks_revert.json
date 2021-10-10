@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:vertical_jungle_planks"
-    }
-  ],
-  "result": {
-    "item": "minecraft:jungle_planks"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:vertical_jungle_planks"}],"result":{"item":"minecraft:jungle_planks"},"type":"minecraft:crafting_shapeless"}

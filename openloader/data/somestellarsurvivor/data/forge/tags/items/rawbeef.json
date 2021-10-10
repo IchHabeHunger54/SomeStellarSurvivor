@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:rawbeef/rawbeef",
-    "#forge:rawbeef/rawtofeakitem"
-  ]
-}
+{"replace":true,"values":["#forge:rawbeef/rawbeef","#forge:rawbeef/rawtofeakitem"]}

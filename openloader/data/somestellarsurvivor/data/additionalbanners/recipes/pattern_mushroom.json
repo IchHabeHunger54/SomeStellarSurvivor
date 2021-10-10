@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:red_mushroom"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:mushroom"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"item":"minecraft:red_mushroom"}],"result":{"item":"additionalbanners:mushroom"},"type":"minecraft:crafting_shapeless"}

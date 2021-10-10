@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_debris",
-    "tconstruct:flowing_molten_debris"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_debris","tconstruct:flowing_molten_debris"]}

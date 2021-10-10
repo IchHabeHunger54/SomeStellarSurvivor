@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:stone"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "minecraft:stone_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:stone"}},"pattern":["##","##"],"result":{"count":4,"item":"minecraft:stone_bricks"},"type":"minecraft:crafting_shaped"}

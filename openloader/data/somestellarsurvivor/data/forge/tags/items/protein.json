@@ -1,12 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:protein/corn",
-    "#forge:protein/peanut",
-    "#forge:protein/quinoa",
-    "#forge:protein/rice",
-    "#forge:protein/spinach",
-    "#forge:protein/sweetpotato",
-    "#forge:protein/sweet_potato"
-  ]
-}
+{"replace":true,"values":["#forge:protein/corn","#forge:protein/peanut","#forge:protein/quinoa","#forge:protein/rice","#forge:protein/spinach","#forge:protein/sweetpotato","#forge:protein/sweet_potato"]}

@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:milletitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:milletseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:milletitem"}],"result":{"item":"pamhc2crops:milletseeditem"},"type":"minecraft:crafting_shapeless"}

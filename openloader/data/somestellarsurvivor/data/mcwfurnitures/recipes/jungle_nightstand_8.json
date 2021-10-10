@@ -1,17 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:jungle_box_2"
-    },
-    "B": {
-      "item": "minecraft:glass_pane"
-    }
-  },
-  "pattern": [
-    "BA"
-  ],
-  "result": {
-    "item": "mcwfurnitures:jungle_nightstand_8"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:jungle_box_2"},"B":{"item":"minecraft:glass_pane"}},"pattern":["BA"],"result":{"item":"mcwfurnitures:jungle_nightstand_8"},"type":"minecraft:crafting_shaped"}

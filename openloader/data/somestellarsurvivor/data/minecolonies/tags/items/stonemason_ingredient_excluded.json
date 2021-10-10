@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecolonies:blacksmith_ingredient",
-    "#minecolonies:blacksmith_ingredient_excluded",
-    "#minecolonies:blacksmith_product"
-  ]
-}
+{"replace":true,"values":["#minecolonies:blacksmith_ingredient","#minecolonies:blacksmith_ingredient_excluded","#minecolonies:blacksmith_product"]}

@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:string"
-    },
-    "S": {
-      "tag": "buzzier_bees:candle_base"
-    }
-  },
-  "pattern": [
-    "#",
-    "S"
-  ],
-  "result": {
-    "item": "buzzier_bees:candle"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:string"},"S":{"tag":"buzzier_bees:candle_base"}},"pattern":["#","S"],"result":{"item":"buzzier_bees:candle"},"type":"minecraft:crafting_shaped"}

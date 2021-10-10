@@ -1,14 +1,1 @@
-{
-  "input": {
-    "name": "minecraft:honey_block",
-    "type": "inspirations:custom"
-  },
-  "output": {
-    "name": "inspirations:honey",
-    "type": "inspirations:fluid"
-  },
-  "sound": "minecraft:block.honey_block.break",
-  "temperature": "boiling",
-  "time": 300,
-  "type": "inspirations:cauldron_transform"
-}
+{"input":{"name":"minecraft:honey_block","type":"inspirations:custom"},"output":{"name":"inspirations:honey","type":"inspirations:fluid"},"sound":"minecraft:block.honey_block.break","temperature":"boiling","time":300,"type":"inspirations:cauldron_transform"}

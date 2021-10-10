@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:stone"
-    }
-  },
-  "pattern": [
-    "#",
-    "#",
-    "#"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:stone_speleothem"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:stone"}},"pattern":["#","#","#"],"result":{"count":6,"item":"quark:stone_speleothem"},"type":"minecraft:crafting_shaped"}

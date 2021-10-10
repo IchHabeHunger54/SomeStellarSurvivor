@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "buzzier_bees:candle"
-    },
-    {
-      "item": "minecraft:lily_of_the_valley"
-    }
-  ],
-  "result": {
-    "item": "buzzier_bees:lily_of_the_valley_scented_candle"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"buzzier_bees:candle"},{"item":"minecraft:lily_of_the_valley"}],"result":{"item":"buzzier_bees:lily_of_the_valley_scented_candle"},"type":"minecraft:crafting_shapeless"}

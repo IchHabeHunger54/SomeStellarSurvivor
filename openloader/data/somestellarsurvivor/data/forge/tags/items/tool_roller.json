@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:tool_roller/roller"
-  ]
-}
+{"replace":true,"values":["#forge:tool_roller/roller"]}

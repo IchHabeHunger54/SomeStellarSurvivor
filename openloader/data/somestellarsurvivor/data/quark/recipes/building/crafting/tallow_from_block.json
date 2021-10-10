@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:tallow_block"
-    }
-  ],
-  "result": {
-    "count": 9,
-    "item": "quark:tallow"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:tallow_block"}],"result":{"count":9,"item":"quark:tallow"},"type":"minecraft:crafting_shapeless"}

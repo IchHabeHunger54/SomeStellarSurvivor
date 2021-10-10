@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:sandstone"
-    }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "minecraft:sandstone_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:sandstone"}},"pattern":["###"],"result":{"count":6,"item":"minecraft:sandstone_slab"},"type":"minecraft:crafting_shaped"}

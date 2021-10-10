@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "quark:crab_leg"
-  },
-  "result": "quark:cooked_crab_leg",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"item":"quark:crab_leg"},"result":"quark:cooked_crab_leg","type":"minecraft:campfire_cooking"}

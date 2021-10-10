@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "alexsmobs:kangaroo_meat"
-  },
-  "result": "alexsmobs:cooked_kangaroo_meat",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"item":"alexsmobs:kangaroo_meat"},"result":"alexsmobs:cooked_kangaroo_meat","type":"minecraft:campfire_cooking"}

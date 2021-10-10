@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "tag": "forge:caramel"
-    },
-    {
-      "tag": "forge:salt"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:saltedcaramelitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:caramel"},{"tag":"forge:salt"}],"result":{"item":"pamhc2foodextended:saltedcaramelitem"},"type":"minecraft:crafting_shapeless"}

@@ -1,9 +1,1 @@
-{
-  "ingredient": {
-    "item": "minecraft:stick"
-  },
-  "material": "tconstruct:wood",
-  "needed": 2,
-  "type": "tconstruct:material",
-  "value": 1
-}
+{"ingredient":{"item":"minecraft:stick"},"material":"tconstruct:wood","needed":2,"type":"tconstruct:material","value":1}

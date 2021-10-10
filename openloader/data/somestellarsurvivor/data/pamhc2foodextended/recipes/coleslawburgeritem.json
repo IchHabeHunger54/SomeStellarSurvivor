@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "item": "pamhc2foodcore:basichamburgeritem"
-    },
-    {
-      "item": "pamhc2foodextended:coleslawitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:coleslawburgeritem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"item":"pamhc2foodcore:basichamburgeritem"},{"item":"pamhc2foodextended:coleslawitem"}],"result":{"item":"pamhc2foodextended:coleslawburgeritem"},"type":"minecraft:crafting_shapeless"}

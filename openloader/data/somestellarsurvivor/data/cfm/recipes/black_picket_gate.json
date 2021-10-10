@@ -1,18 +1,1 @@
-{
-  "key": {
-    "C": {
-      "item": "minecraft:black_concrete"
-    },
-    "G": {
-      "tag": "forge:fence_gates/wooden"
-    }
-  },
-  "pattern": [
-    "CGC"
-  ],
-  "result": {
-    "count": 2,
-    "item": "cfm:black_picket_gate"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"C":{"item":"minecraft:black_concrete"},"G":{"tag":"forge:fence_gates/wooden"}},"pattern":["CGC"],"result":{"count":2,"item":"cfm:black_picket_gate"},"type":"minecraft:crafting_shaped"}

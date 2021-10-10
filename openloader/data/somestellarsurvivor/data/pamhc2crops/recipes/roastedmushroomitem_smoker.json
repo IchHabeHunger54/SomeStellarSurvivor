@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "tag": "forge:mushrooms"
-  },
-  "result": "pamhc2crops:roastedmushroomitem",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"tag":"forge:mushrooms"},"result":"pamhc2crops:roastedmushroomitem","type":"minecraft:smoking"}

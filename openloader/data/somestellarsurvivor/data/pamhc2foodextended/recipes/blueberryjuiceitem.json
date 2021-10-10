@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/blueberries"
-    },
-    {
-      "tag": "forge:fruits/blueberries"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:blueberryjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/blueberries"},{"tag":"forge:fruits/blueberries"}],"result":{"item":"pamhc2foodextended:blueberryjuiceitem"},"type":"minecraft:crafting_shapeless"}

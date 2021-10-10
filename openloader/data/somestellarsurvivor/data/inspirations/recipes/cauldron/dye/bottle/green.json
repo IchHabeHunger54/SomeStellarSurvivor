@@ -1,7 +1,1 @@
-{
-  "color": "5e7c16",
-  "ingredient": {
-    "item": "inspirations:green_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"5e7c16","ingredient":{"item":"inspirations:green_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

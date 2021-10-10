@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "forge:dyes"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:cottoncandyitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"item":"minecraft:sugar"},{"tag":"forge:dyes"}],"result":{"item":"pamhc2foodcore:cottoncandyitem"},"type":"minecraft:crafting_shapeless"}

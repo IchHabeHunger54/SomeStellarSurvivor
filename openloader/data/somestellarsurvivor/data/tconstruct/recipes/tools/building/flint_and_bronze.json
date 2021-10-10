@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:flint"
-    },
-    {
-      "item": "tconstruct:tinkers_bronze_ingot"
-    }
-  ],
-  "result": {
-    "item": "tconstruct:flint_and_bronze"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:flint"},{"item":"tconstruct:tinkers_bronze_ingot"}],"result":{"item":"tconstruct:flint_and_bronze"},"type":"minecraft:crafting_shapeless"}

@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecolonies:baker_ingredient",
-    "#minecolonies:baker_ingredient_excluded",
-    "#minecolonies:baker_product"
-  ]
-}
+{"replace":true,"values":["#minecolonies:baker_ingredient","#minecolonies:baker_ingredient_excluded","#minecolonies:baker_product"]}

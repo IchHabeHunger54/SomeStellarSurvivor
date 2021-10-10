@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:yogurt/yogurt"
-  ]
-}
+{"replace":true,"values":["#forge:yogurt/yogurt"]}

@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "tag": "forge:butter"
-    },
-    {
-      "tag": "forge:flour"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:rouxitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"tag":"forge:butter"},{"tag":"forge:flour"}],"result":{"item":"pamhc2foodextended:rouxitem"},"type":"minecraft:crafting_shapeless"}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:chests/trapped",
-    "#forge:chests/wooden"
-  ]
-}
+{"replace":true,"values":["#forge:chests/trapped","#forge:chests/wooden"]}

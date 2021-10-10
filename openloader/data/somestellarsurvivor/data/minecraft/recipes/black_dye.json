@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:ink_sac"
-    }
-  ],
-  "result": {
-    "item": "minecraft:black_dye"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:ink_sac"}],"result":{"item":"minecraft:black_dye"},"type":"minecraft:crafting_shapeless"}

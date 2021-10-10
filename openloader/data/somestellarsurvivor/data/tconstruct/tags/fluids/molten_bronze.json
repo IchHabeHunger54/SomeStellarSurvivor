@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_bronze",
-    "tconstruct:flowing_molten_bronze"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_bronze","tconstruct:flowing_molten_bronze"]}

@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:purple_wool"
-    },
-    "W": {
-      "tag": "minecraft:wooden_slabs"
-    }
-  },
-  "pattern": [
-    "###",
-    "WWW"
-  ],
-  "result": {
-    "item": "quark:purple_stool"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:purple_wool"},"W":{"tag":"minecraft:wooden_slabs"}},"pattern":["###","WWW"],"result":{"item":"quark:purple_stool"},"type":"minecraft:crafting_shaped"}

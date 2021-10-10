@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:cookedfish/cookedcod",
-    "#forge:cookedfish/cookedsalmon"
-  ]
-}
+{"replace":true,"values":["#forge:cookedfish/cookedcod","#forge:cookedfish/cookedsalmon"]}

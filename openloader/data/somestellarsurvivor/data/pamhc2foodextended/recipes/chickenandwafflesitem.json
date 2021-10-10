@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "item": "pamhc2foodcore:friedchickenitem"
-    },
-    {
-      "item": "pamhc2foodextended:wafflesitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:chickenandwafflesitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"item":"pamhc2foodcore:friedchickenitem"},{"item":"pamhc2foodextended:wafflesitem"}],"result":{"item":"pamhc2foodextended:chickenandwafflesitem"},"type":"minecraft:crafting_shapeless"}

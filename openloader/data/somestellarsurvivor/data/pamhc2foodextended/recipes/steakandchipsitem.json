@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_skillet"
-    },
-    {
-      "tag": "forge:rawbeef"
-    },
-    {
-      "item": "pamhc2foodcore:friesitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:steakandchipsitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_skillet"},{"tag":"forge:rawbeef"},{"item":"pamhc2foodcore:friesitem"}],"result":{"item":"pamhc2foodextended:steakandchipsitem"},"type":"minecraft:crafting_shapeless"}

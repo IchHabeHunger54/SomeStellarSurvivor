@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:ender_slime",
-    "tconstruct:flowing_ender_slime"
-  ]
-}
+{"replace":true,"values":["tconstruct:ender_slime","tconstruct:flowing_ender_slime"]}

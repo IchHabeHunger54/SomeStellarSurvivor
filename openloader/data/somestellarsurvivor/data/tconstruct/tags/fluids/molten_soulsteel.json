@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_soulsteel",
-    "tconstruct:flowing_molten_soulsteel"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_soulsteel","tconstruct:flowing_molten_soulsteel"]}

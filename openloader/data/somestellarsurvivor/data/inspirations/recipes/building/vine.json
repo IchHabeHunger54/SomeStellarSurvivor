@@ -1,17 +1,1 @@
-{
-  "key": {
-    "V": {
-      "item": "minecraft:vine"
-    }
-  },
-  "pattern": [
-    "V",
-    "V",
-    "V"
-  ],
-  "result": {
-    "count": 3,
-    "item": "inspirations:vine"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"V":{"item":"minecraft:vine"}},"pattern":["V","V","V"],"result":{"count":3,"item":"inspirations:vine"},"type":"minecraft:crafting_shaped"}

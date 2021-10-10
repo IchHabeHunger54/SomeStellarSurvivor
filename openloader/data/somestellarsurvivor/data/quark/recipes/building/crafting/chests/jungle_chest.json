@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:jungle_planks"
-    }
-  },
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "quark:jungle_chest"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:jungle_planks"}},"pattern":["###","# #","###"],"result":{"item":"quark:jungle_chest"},"type":"minecraft:crafting_shaped"}

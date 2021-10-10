@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:marble_bricks"
-  },
-  "result": "quark:marble_pillar",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:marble_bricks"},"result":"quark:marble_pillar","type":"minecraft:stonecutting"}

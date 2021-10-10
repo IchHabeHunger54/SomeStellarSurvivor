@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_osmium",
-    "tconstruct:flowing_molten_osmium"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_osmium","tconstruct:flowing_molten_osmium"]}

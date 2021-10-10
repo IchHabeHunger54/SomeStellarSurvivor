@@ -1,15 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "tconstruct:scorched_bricks"
-    }
-  },
-  "pattern": [
-    "BBB"
-  ],
-  "result": {
-    "count": 6,
-    "item": "tconstruct:scorched_bricks_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"tconstruct:scorched_bricks"}},"pattern":["BBB"],"result":{"count":6,"item":"tconstruct:scorched_bricks_slab"},"type":"minecraft:crafting_shaped"}

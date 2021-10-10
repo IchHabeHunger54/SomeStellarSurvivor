@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecolonies:farmer_ingredient",
-    "#minecolonies:farmer_ingredient_excluded",
-    "#minecolonies:farmer_product"
-  ]
-}
+{"replace":true,"values":["#minecolonies:farmer_ingredient","#minecolonies:farmer_ingredient_excluded","#minecolonies:farmer_product"]}

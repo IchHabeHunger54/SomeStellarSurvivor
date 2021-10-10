@@ -1,13 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:stone",
-    "minecraft:brick",
-    "minecraft:cobblestone",
-    "minecraft:nether_brick",
-    "minecraft:popped_chorus_fruit",
-    "minecraft:purpur_block",
-    "#minecraft:slabs",
-    "quark:cactus_paste"
-  ]
-}
+{"replace":true,"values":["#forge:stone","minecraft:brick","minecraft:cobblestone","minecraft:nether_brick","minecraft:popped_chorus_fruit","minecraft:purpur_block","#minecraft:slabs","quark:cactus_paste"]}

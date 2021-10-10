@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:midori_block"
-    }
-  },
-  "pattern": [
-    "#",
-    "#"
-  ],
-  "result": {
-    "count": 2,
-    "item": "quark:midori_pillar"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:midori_block"}},"pattern":["#","#"],"result":{"count":2,"item":"quark:midori_pillar"},"type":"minecraft:crafting_shaped"}

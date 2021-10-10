@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:blank_cast"
-  ]
-}
+{"replace":true,"values":["tconstruct:blank_cast"]}

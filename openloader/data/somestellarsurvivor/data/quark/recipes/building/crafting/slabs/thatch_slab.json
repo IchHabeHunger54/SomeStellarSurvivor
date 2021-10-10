@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:thatch"
-    }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:thatch_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:thatch"}},"pattern":["###"],"result":{"count":6,"item":"quark:thatch_slab"},"type":"minecraft:crafting_shaped"}

@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "ceramics:rainbow_bricks"
-  },
-  "result": "ceramics:rainbow_bricks_wall",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"ceramics:rainbow_bricks"},"result":"ceramics:rainbow_bricks_wall","type":"minecraft:stonecutting"}

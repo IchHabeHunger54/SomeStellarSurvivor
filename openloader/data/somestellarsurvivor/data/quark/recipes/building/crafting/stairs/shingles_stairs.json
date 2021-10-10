@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:shingles"
-    }
-  },
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:shingles_stairs"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:shingles"}},"pattern":["#  ","## ","###"],"result":{"count":6,"item":"quark:shingles_stairs"},"type":"minecraft:crafting_shaped"}

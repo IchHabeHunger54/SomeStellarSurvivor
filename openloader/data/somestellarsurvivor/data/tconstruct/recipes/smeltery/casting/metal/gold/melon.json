@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "item": "minecraft:stick"
-  },
-  "cast_consumed": true,
-  "cooling_time": 120,
-  "fluid": {
-    "amount": 576,
-    "tag": "tconstruct:molten_gold"
-  },
-  "result": "minecraft:bell",
-  "type": "tconstruct:casting_table"
-}
+{"cast":{"item":"minecraft:stick"},"cast_consumed":true,"cooling_time":120,"fluid":{"amount":576,"tag":"tconstruct:molten_gold"},"result":"minecraft:bell","type":"tconstruct:casting_table"}

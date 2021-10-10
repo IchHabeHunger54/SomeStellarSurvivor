@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:crops/tealeaf"
-  },
-  "result": "pamhc2crops:hotteaitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:crops/tealeaf"},"result":"pamhc2crops:hotteaitem","type":"minecraft:campfire_cooking"}

@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "structurize:cream_bricks"
-    }
-  },
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "structurize:cream_brick_wall"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"structurize:cream_bricks"}},"pattern":["###","###"],"result":{"count":6,"item":"structurize:cream_brick_wall"},"type":"minecraft:crafting_shaped"}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:sugar_cane",
-    "minecraft:kelp_plant"
-  ]
-}
+{"replace":true,"values":["minecraft:sugar_cane","minecraft:kelp_plant"]}

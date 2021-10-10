@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "minecraft:glass_pane"
-    },
-    "B": {
-      "item": "mcwfurnitures:jungle_double_desk_right"
-    }
-  },
-  "pattern": [
-    " A ",
-    " B "
-  ],
-  "result": {
-    "item": "mcwfurnitures:jungle_glass_desk_right"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"minecraft:glass_pane"},"B":{"item":"mcwfurnitures:jungle_double_desk_right"}},"pattern":[" A "," B "],"result":{"item":"mcwfurnitures:jungle_glass_desk_right"},"type":"minecraft:crafting_shaped"}

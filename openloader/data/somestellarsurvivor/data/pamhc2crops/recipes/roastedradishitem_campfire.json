@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:crops/radish"
-  },
-  "result": "pamhc2crops:roastedradishitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:crops/radish"},"result":"pamhc2crops:roastedradishitem","type":"minecraft:campfire_cooking"}

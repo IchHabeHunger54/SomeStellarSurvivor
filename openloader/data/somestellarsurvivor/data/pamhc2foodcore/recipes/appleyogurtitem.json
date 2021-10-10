@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "tag": "forge:yogurt"
-    },
-    {
-      "tag": "forge:crops/apple"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:appleyogurtitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:yogurt"},{"tag":"forge:crops/apple"}],"result":{"item":"pamhc2foodcore:appleyogurtitem"},"type":"minecraft:crafting_shapeless"}

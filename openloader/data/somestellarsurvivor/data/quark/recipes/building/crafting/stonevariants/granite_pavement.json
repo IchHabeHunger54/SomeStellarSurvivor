@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:granite_pillar"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:granite_pavement"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:granite_pillar"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:granite_pavement"},"type":"minecraft:crafting_shaped"}

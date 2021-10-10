@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:coral_blocks"
-  ]
-}
+{"replace":true,"values":["#minecraft:coral_blocks"]}

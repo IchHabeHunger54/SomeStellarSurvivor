@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:paper_lantern"
-    },
-    {
-      "tag": "minecraft:saplings"
-    }
-  ],
-  "result": {
-    "item": "quark:paper_lantern_sakura"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:paper_lantern"},{"tag":"minecraft:saplings"}],"result":{"item":"quark:paper_lantern_sakura"},"type":"minecraft:crafting_shapeless"}

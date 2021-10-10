@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:birch_leaves"
-    }
-  },
-  "pattern": [
-    "##"
-  ],
-  "result": {
-    "count": 3,
-    "item": "quark:birch_leaf_carpet"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:birch_leaves"}},"pattern":["##"],"result":{"count":3,"item":"quark:birch_leaf_carpet"},"type":"minecraft:crafting_shaped"}

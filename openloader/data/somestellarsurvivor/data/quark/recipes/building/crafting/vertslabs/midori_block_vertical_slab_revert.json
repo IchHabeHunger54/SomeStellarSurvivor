@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:midori_block_vertical_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:midori_block_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:midori_block_vertical_slab"}],"result":{"item":"quark:midori_block_slab"},"type":"minecraft:crafting_shapeless"}

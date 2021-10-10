@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:tool_handle_sand_cast",
-    "tconstruct:tool_handle_red_sand_cast"
-  ]
-}
+{"replace":true,"values":["tconstruct:tool_handle_sand_cast","tconstruct:tool_handle_red_sand_cast"]}

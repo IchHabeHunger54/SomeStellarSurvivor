@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "tag": "forge:milk"
-    },
-    {
-      "tag": "forge:salt"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:cheeseitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:milk"},{"tag":"forge:salt"}],"result":{"item":"pamhc2foodcore:cheeseitem"},"type":"minecraft:crafting_shapeless"}

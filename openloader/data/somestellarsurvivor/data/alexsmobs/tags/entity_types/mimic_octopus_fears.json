@@ -1,11 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:drowned",
-    "minecraft:dolphin",
-    "alexsmobs:orca",
-    "alexsmobs:hammerhead_shark",
-    "alexsmobs:mantis_shrimp",
-    "alexsmobs:frilled_shark"
-  ]
-}
+{"replace":true,"values":["minecraft:drowned","minecraft:dolphin","alexsmobs:orca","alexsmobs:hammerhead_shark","alexsmobs:mantis_shrimp","alexsmobs:frilled_shark"]}

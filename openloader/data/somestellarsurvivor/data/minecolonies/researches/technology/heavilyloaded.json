@@ -1,18 +1,1 @@
-{
-  "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/citizeninvslotsaddition": 3
-    }
-  ],
-  "icon": "minecraft:emerald",
-  "no-reset": true,
-  "parentResearch": "minecolonies:technology/loaded",
-  "requirements": [
-    {
-      "item": "minecraft:emerald",
-      "quantity": 256
-    }
-  ],
-  "researchLevel": 6
-}
+{"branch":"minecolonies:technology","effects":[{"minecolonies:effects/citizeninvslotsaddition":3}],"icon":"minecraft:emerald","no-reset":true,"parentResearch":"minecolonies:technology/loaded","requirements":[{"item":"minecraft:emerald","quantity":256}],"researchLevel":6}

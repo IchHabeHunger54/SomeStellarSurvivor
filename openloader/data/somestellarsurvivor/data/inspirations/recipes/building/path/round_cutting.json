@@ -1,8 +1,1 @@
-{
-  "count": 6,
-  "ingredient": {
-    "item": "minecraft:stone"
-  },
-  "result": "inspirations:round_path",
-  "type": "minecraft:stonecutting"
-}
+{"count":6,"ingredient":{"item":"minecraft:stone"},"result":"inspirations:round_path","type":"minecraft:stonecutting"}

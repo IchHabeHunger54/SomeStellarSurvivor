@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "tag": "forge:crops/almond"
-  },
-  "result": "pamhc2trees:roastedalmonditem",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"tag":"forge:crops/almond"},"result":"pamhc2trees:roastedalmonditem","type":"minecraft:smoking"}

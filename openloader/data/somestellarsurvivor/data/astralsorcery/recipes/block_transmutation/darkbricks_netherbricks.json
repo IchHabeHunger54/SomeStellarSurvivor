@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:nether_bricks"
-  },
-  "input": [
-    {
-      "block": "ceramics:dark_bricks",
-      "display": {
-        "item": "ceramics:dark_bricks"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:nether_bricks"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:nether_bricks"},"input":[{"block":"ceramics:dark_bricks","display":{"item":"ceramics:dark_bricks"}}],"output":{"block":"minecraft:nether_bricks"},"starlight":400,"type":"astralsorcery:block_transmutation"}

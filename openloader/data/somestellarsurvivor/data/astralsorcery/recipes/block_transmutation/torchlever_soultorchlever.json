@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "inspirations:soul_torch_lever"
-  },
-  "input": [
-    {
-      "block": "inspirations:torch_lever",
-      "display": {
-        "item": "inspirations:torch_lever"
-      }
-    }
-  ],
-  "output": {
-    "block": "inspirations:soul_torch_lever"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"inspirations:soul_torch_lever"},"input":[{"block":"inspirations:torch_lever","display":{"item":"inspirations:torch_lever"}}],"output":{"block":"inspirations:soul_torch_lever"},"starlight":400,"type":"astralsorcery:block_transmutation"}

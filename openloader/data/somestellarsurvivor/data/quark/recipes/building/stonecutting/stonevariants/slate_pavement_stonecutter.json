@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:slate_pillar"
-  },
-  "result": "quark:slate_pavement",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:slate_pillar"},"result":"quark:slate_pavement","type":"minecraft:stonecutting"}

@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:mushrooms/brownmushroom",
-    "#forge:mushrooms/glowshroom",
-    "#forge:mushrooms/redmushroom",
-    "#forge:mushrooms/whitemushroom"
-  ]
-}
+{"replace":true,"values":["#forge:mushrooms/brownmushroom","#forge:mushrooms/glowshroom","#forge:mushrooms/redmushroom","#forge:mushrooms/whitemushroom"]}

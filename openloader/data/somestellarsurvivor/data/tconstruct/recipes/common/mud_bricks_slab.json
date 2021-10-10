@@ -1,15 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "tconstruct:mud_bricks"
-    }
-  },
-  "pattern": [
-    "BBB"
-  ],
-  "result": {
-    "count": 6,
-    "item": "tconstruct:mud_bricks_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"tconstruct:mud_bricks"}},"pattern":["BBB"],"result":{"count":6,"item":"tconstruct:mud_bricks_slab"},"type":"minecraft:crafting_shaped"}

@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:rawmutton"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:groundmuttonitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:rawmutton"}],"result":{"item":"pamhc2foodcore:groundmuttonitem"},"type":"minecraft:crafting_shapeless"}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:shears",
-    "tconstruct:kama"
-  ]
-}
+{"replace":true,"values":["minecraft:shears","tconstruct:kama"]}

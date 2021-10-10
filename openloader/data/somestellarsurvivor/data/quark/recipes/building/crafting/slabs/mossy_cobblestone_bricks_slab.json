@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:mossy_cobblestone_bricks"
-    }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:mossy_cobblestone_bricks_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:mossy_cobblestone_bricks"}},"pattern":["###"],"result":{"count":6,"item":"quark:mossy_cobblestone_bricks_slab"},"type":"minecraft:crafting_shaped"}

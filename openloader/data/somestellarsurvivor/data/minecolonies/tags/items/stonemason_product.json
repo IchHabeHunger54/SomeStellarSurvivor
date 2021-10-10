@@ -1,12 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:stone",
-    "minecraft:cobblestone",
-    "#minecraft:stone_bricks",
-    "#minecraft:slabs",
-    "#minecraft:stairs",
-    "#minecraft:walls",
-    "#forge:sandstone"
-  ]
-}
+{"replace":true,"values":["#forge:stone","minecraft:cobblestone","#minecraft:stone_bricks","#minecraft:slabs","#minecraft:stairs","#minecraft:walls","#forge:sandstone"]}

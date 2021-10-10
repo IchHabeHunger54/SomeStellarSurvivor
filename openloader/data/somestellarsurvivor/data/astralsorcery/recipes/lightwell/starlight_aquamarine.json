@@ -1,10 +1,1 @@
-{
-  "color": -16734209,
-  "input": {
-    "item": "astralsorcery:aquamarine"
-  },
-  "output": "astralsorcery:liquid_starlight",
-  "productionMultiplier": 0.25,
-  "shatterMultiplier": 6.0,
-  "type": "astralsorcery:lightwell"
-}
+{"color":-16734209,"input":{"item":"astralsorcery:aquamarine"},"output":"astralsorcery:liquid_starlight","productionMultiplier":0.25,"shatterMultiplier":6.0,"type":"astralsorcery:lightwell"}

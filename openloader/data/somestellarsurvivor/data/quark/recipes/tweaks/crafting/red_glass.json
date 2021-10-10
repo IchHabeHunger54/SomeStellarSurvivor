@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:red_shard"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "item": "minecraft:red_stained_glass"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:red_shard"}},"pattern":["##","##"],"result":{"item":"minecraft:red_stained_glass"},"type":"minecraft:crafting_shaped"}

@@ -1,16 +1,1 @@
-{
-  "key": {
-    "L": {
-      "item": "minecraft:oak_leaves"
-    }
-  },
-  "pattern": [
-    "LLL",
-    "LLL"
-  ],
-  "result": {
-    "count": 12,
-    "item": "cfm:oak_hedge"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"L":{"item":"minecraft:oak_leaves"}},"pattern":["LLL","LLL"],"result":{"count":12,"item":"cfm:oak_hedge"},"type":"minecraft:crafting_shaped"}

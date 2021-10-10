@@ -1,17 +1,1 @@
-{
-  "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/farmingmultiplier": 5
-    }
-  ],
-  "icon": "minecraft:wheat_seeds",
-  "parentResearch": "minecolonies:technology/fertilizer",
-  "requirements": [
-    {
-      "item": "minecraft:wheat_seeds",
-      "quantity": 1024
-    }
-  ],
-  "researchLevel": 6
-}
+{"branch":"minecolonies:technology","effects":[{"minecolonies:effects/farmingmultiplier":5}],"icon":"minecraft:wheat_seeds","parentResearch":"minecolonies:technology/fertilizer","requirements":[{"item":"minecraft:wheat_seeds","quantity":1024}],"researchLevel":6}

@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "alexsmobs:lobster_tail"
-  },
-  "result": "alexsmobs:cooked_lobster_tail",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"item":"alexsmobs:lobster_tail"},"result":"alexsmobs:cooked_lobster_tail","type":"minecraft:smoking"}

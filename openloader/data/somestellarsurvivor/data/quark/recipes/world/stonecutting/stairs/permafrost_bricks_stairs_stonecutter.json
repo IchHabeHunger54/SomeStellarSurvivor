@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:permafrost_bricks"
-  },
-  "result": "quark:permafrost_bricks_stairs",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:permafrost_bricks"},"result":"quark:permafrost_bricks_stairs","type":"minecraft:stonecutting"}

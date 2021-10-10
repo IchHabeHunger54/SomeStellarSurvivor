@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:honey_bottle"
-    },
-    {
-      "item": "minecraft:bread"
-    }
-  ],
-  "result": {
-    "item": "buzzier_bees:honey_bread"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:honey_bottle"},{"item":"minecraft:bread"}],"result":{"item":"buzzier_bees:honey_bread"},"type":"minecraft:crafting_shapeless"}

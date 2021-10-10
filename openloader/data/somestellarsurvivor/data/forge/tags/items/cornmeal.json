@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:cornmeal/cornmeal"
-  ]
-}
+{"replace":true,"values":["#forge:cornmeal/cornmeal"]}

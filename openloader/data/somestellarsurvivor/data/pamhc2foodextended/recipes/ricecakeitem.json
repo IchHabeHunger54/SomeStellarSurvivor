@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:crops/rice"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:ricecakeitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:crops/rice"}],"result":{"item":"pamhc2foodextended:ricecakeitem"},"type":"minecraft:crafting_shapeless"}

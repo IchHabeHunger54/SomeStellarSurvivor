@@ -1,11 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:fishes",
-    "minecraft:redstone",
-    "minecraft:redstone_block",
-    "alexsmobs:maggot",
-    "alexsmobs:lobster_tail",
-    "alexsmobs:cooked_lobster_tail"
-  ]
-}
+{"replace":true,"values":["#minecraft:fishes","minecraft:redstone","minecraft:redstone_block","alexsmobs:maggot","alexsmobs:lobster_tail","alexsmobs:cooked_lobster_tail"]}

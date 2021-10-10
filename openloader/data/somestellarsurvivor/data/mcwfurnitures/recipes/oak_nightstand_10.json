@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:oak_nightstand_9"
-    },
-    "B": {
-      "item": "mcwfurnitures:oak_plate"
-    }
-  },
-  "pattern": [
-    "A",
-    "B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:oak_nightstand_10"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:oak_nightstand_9"},"B":{"item":"mcwfurnitures:oak_plate"}},"pattern":["A","B"],"result":{"item":"mcwfurnitures:oak_nightstand_10"},"type":"minecraft:crafting_shaped"}

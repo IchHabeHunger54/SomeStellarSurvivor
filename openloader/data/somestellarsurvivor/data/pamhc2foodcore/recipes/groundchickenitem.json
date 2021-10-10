@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:rawchicken"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:groundchickenitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:rawchicken"}],"result":{"item":"pamhc2foodcore:groundchickenitem"},"type":"minecraft:crafting_shapeless"}

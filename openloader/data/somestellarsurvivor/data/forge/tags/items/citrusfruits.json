@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:citrusfruits/grapefruit",
-    "#forge:citrusfruits/lemon",
-    "#forge:citrusfruits/lime"
-  ]
-}
+{"replace":true,"values":["#forge:citrusfruits/grapefruit","#forge:citrusfruits/lemon","#forge:citrusfruits/lime"]}

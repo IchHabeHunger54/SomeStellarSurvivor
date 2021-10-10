@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_bakeware"
-    },
-    {
-      "tag": "forge:crops/carrot"
-    },
-    {
-      "tag": "forge:dough"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:carrotbreaditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:crops/carrot"},{"tag":"forge:dough"}],"result":{"item":"pamhc2foodcore:carrotbreaditem"},"type":"minecraft:crafting_shapeless"}

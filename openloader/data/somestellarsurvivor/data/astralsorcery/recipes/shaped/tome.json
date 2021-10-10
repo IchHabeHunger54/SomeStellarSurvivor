@@ -1,18 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "minecraft:book"
-    },
-    "P": {
-      "item": "astralsorcery:parchment"
-    }
-  },
-  "pattern": [
-    "P",
-    "B"
-  ],
-  "result": {
-    "item": "astralsorcery:tome"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"minecraft:book"},"P":{"item":"astralsorcery:parchment"}},"pattern":["P","B"],"result":{"item":"astralsorcery:tome"},"type":"minecraft:crafting_shaped"}

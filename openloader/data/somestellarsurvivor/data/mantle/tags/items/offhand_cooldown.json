@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#tconstruct:modifiable/melee"
-  ]
-}
+{"replace":true,"values":["#tconstruct:modifiable/melee"]}

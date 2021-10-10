@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "item": "ceramics:dark_bricks"
-  },
-  "cast_consumed": true,
-  "cooling_time": 50,
-  "fluid": {
-    "amount": 100,
-    "name": "minecraft:lava"
-  },
-  "result": "ceramics:lava_bricks",
-  "type": "tconstruct:casting_basin"
-}
+{"cast":{"item":"ceramics:dark_bricks"},"cast_consumed":true,"cooling_time":50,"fluid":{"amount":100,"name":"minecraft:lava"},"result":"ceramics:lava_bricks","type":"tconstruct:casting_basin"}

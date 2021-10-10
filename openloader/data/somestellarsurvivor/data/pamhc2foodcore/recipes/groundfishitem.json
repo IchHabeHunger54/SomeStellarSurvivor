@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:fishes"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:groundfishitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:fishes"}],"result":{"item":"pamhc2foodcore:groundfishitem"},"type":"minecraft:crafting_shapeless"}

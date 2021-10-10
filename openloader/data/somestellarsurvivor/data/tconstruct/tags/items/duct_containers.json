@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:bucket",
-    "tconstruct:copper_can",
-    "tconstruct:seared_lantern",
-    "tconstruct:scorched_lantern"
-  ]
-}
+{"replace":true,"values":["minecraft:bucket","tconstruct:copper_can","tconstruct:seared_lantern","tconstruct:scorched_lantern"]}

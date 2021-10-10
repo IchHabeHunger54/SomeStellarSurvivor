@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:iron_ingot"
-  ]
-}
+{"replace":true,"values":["minecraft:iron_ingot"]}

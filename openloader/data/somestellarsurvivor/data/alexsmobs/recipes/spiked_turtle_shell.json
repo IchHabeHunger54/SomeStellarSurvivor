@@ -1,18 +1,1 @@
-{
-  "key": {
-    "C": {
-      "item": "minecraft:turtle_helmet"
-    },
-    "H": {
-      "item": "alexsmobs:spiked_scute"
-    }
-  },
-  "pattern": [
-    "HHH",
-    "HCH"
-  ],
-  "result": {
-    "item": "alexsmobs:spiked_turtle_shell"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"C":{"item":"minecraft:turtle_helmet"},"H":{"item":"alexsmobs:spiked_scute"}},"pattern":["HHH","HCH"],"result":{"item":"alexsmobs:spiked_turtle_shell"},"type":"minecraft:crafting_shaped"}

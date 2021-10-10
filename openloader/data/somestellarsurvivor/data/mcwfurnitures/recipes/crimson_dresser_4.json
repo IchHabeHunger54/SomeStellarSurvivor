@@ -1,17 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:crimson_nightstand_2"
-    },
-    "B": {
-      "item": "mcwfurnitures:crimson_nightstand"
-    }
-  },
-  "pattern": [
-    "AB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:crimson_dresser_4"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:crimson_nightstand_2"},"B":{"item":"mcwfurnitures:crimson_nightstand"}},"pattern":["AB"],"result":{"item":"mcwfurnitures:crimson_dresser_4"},"type":"minecraft:crafting_shaped"}

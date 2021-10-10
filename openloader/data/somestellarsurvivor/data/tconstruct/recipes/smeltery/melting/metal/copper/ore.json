@@ -1,12 +1,1 @@
-{
-  "ingredient": {
-    "item": "tconstruct:copper_ore"
-  },
-  "result": {
-    "amount": 144,
-    "fluid": "tconstruct:molten_copper"
-  },
-  "temperature": 500,
-  "time": 80,
-  "type": "tconstruct:ore_melting"
-}
+{"ingredient":{"item":"tconstruct:copper_ore"},"result":{"amount":144,"fluid":"tconstruct:molten_copper"},"temperature":500,"time":80,"type":"tconstruct:ore_melting"}

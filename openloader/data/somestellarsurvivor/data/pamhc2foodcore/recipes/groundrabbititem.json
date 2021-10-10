@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_grinder"
-    },
-    {
-      "tag": "forge:rawrabbit"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:groundrabbititem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_grinder"},{"tag":"forge:rawrabbit"}],"result":{"item":"pamhc2foodcore:groundrabbititem"},"type":"minecraft:crafting_shapeless"}

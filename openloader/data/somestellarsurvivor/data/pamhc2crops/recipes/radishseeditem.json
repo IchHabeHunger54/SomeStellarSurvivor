@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:radishitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:radishseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:radishitem"}],"result":{"item":"pamhc2crops:radishseeditem"},"type":"minecraft:crafting_shapeless"}

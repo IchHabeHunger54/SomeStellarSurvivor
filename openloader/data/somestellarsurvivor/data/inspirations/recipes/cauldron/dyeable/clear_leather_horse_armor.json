@@ -1,6 +1,1 @@
-{
-  "ingredient": {
-    "item": "minecraft:leather_horse_armor"
-  },
-  "type": "inspirations:cauldron_clear_dyeable"
-}
+{"ingredient":{"item":"minecraft:leather_horse_armor"},"type":"inspirations:cauldron_clear_dyeable"}

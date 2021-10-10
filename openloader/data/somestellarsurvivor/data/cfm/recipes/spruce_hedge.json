@@ -1,16 +1,1 @@
-{
-  "key": {
-    "L": {
-      "item": "minecraft:spruce_leaves"
-    }
-  },
-  "pattern": [
-    "LLL",
-    "LLL"
-  ],
-  "result": {
-    "count": 12,
-    "item": "cfm:spruce_hedge"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"L":{"item":"minecraft:spruce_leaves"}},"pattern":["LLL","LLL"],"result":{"count":12,"item":"cfm:spruce_hedge"},"type":"minecraft:crafting_shaped"}

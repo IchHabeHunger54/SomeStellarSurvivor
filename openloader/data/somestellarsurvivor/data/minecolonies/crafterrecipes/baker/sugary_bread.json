@@ -1,18 +1,1 @@
-{
-  "count": 8,
-  "crafter": "baker_crafting",
-  "inputs": [
-    {
-      "count": 8,
-      "item": "minecraft:bread"
-    },
-    {
-      "count": 1,
-      "item": "minecraft:honey_bottle"
-    }
-  ],
-  "intermediate": "minecraft:air",
-  "min-building-level": 3,
-  "result": "minecolonies:sugary_bread",
-  "type": "recipe"
-}
+{"count":8,"crafter":"baker_crafting","inputs":[{"count":8,"item":"minecraft:bread"},{"count":1,"item":"minecraft:honey_bottle"}],"intermediate":"minecraft:air","min-building-level":3,"result":"minecolonies:sugary_bread","type":"recipe"}

@@ -1,7 +1,1 @@
-{
-  "color": "f9801d",
-  "ingredient": {
-    "item": "inspirations:orange_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"f9801d","ingredient":{"item":"inspirations:orange_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

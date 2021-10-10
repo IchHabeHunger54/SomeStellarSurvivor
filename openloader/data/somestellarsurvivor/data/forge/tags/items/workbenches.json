@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:crafting_table",
-    "tconstruct:crafting_station"
-  ]
-}
+{"replace":true,"values":["minecraft:crafting_table","tconstruct:crafting_station"]}

@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:condiments/mayonaise"
-    },
-    {
-      "tag": "forge:crops/spiceleaf"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:saladdressingitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:condiments/mayonaise"},{"tag":"forge:crops/spiceleaf"}],"result":{"item":"pamhc2foodextended:saladdressingitem"},"type":"minecraft:crafting_shapeless"}

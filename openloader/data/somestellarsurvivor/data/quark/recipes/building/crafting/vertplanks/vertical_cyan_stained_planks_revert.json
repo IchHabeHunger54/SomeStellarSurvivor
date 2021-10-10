@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:vertical_cyan_stained_planks"
-    }
-  ],
-  "result": {
-    "item": "quark:cyan_stained_planks"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:vertical_cyan_stained_planks"}],"result":{"item":"quark:cyan_stained_planks"},"type":"minecraft:crafting_shapeless"}

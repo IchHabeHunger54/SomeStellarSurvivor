@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:warped_planks"
-    }
-  },
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "quark:warped_chest"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:warped_planks"}},"pattern":["###","# #","###"],"result":{"item":"quark:warped_chest"},"type":"minecraft:crafting_shaped"}

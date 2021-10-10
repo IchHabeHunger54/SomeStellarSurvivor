@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "tag": "forge:chocolatebar"
-    },
-    {
-      "tag": "forge:crops/peanut"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:chocolatepeanutbaritem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"tag":"forge:chocolatebar"},{"tag":"forge:crops/peanut"}],"result":{"item":"pamhc2foodextended:chocolatepeanutbaritem"},"type":"minecraft:crafting_shapeless"}

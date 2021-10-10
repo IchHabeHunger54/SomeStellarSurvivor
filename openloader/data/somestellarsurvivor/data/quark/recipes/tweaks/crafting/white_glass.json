@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:white_shard"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "item": "minecraft:white_stained_glass"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:white_shard"}},"pattern":["##","##"],"result":{"item":"minecraft:white_stained_glass"},"type":"minecraft:crafting_shaped"}

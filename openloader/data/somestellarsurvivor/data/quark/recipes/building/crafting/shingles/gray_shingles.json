@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:gray_terracotta"
-    }
-  },
-  "pattern": [
-    "##"
-  ],
-  "result": {
-    "count": 2,
-    "item": "quark:gray_shingles"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:gray_terracotta"}},"pattern":["##"],"result":{"count":2,"item":"quark:gray_shingles"},"type":"minecraft:crafting_shaped"}

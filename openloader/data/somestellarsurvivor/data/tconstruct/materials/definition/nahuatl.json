@@ -1,5 +1,1 @@
-{
-  "condition": {
-    "type": "forge:false"
-  }
-}
+{"condition":{"type":"forge:false"}}

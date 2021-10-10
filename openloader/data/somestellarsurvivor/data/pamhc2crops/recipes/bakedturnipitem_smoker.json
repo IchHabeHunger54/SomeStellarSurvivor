@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "tag": "forge:crops/turnip"
-  },
-  "result": "pamhc2crops:bakedturnipitem",
-  "type": "minecraft:smoking"
-}
+{"cookingtime":100,"ingredient":{"tag":"forge:crops/turnip"},"result":"pamhc2crops:bakedturnipitem","type":"minecraft:smoking"}

@@ -1,7 +1,1 @@
-{
-  "replace": false,
-  "values": [
-    "#tconstruct:modifiable/one_handed",
-    "#tconstruct:modifiable/two_handed"
-  ]
-}
+{"replace":false,"values":["#tconstruct:modifiable/one_handed","#tconstruct:modifiable/two_handed"]}

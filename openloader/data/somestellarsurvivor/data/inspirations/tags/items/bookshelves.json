@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "inspirations:shelf",
-    "inspirations:ancient_shelf",
-    "inspirations:rainbow_shelf",
-    "inspirations:tomes_shelf"
-  ]
-}
+{"replace":true,"values":["inspirations:shelf","inspirations:ancient_shelf","inspirations:rainbow_shelf","inspirations:tomes_shelf"]}

@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:salt/salt"
-  ]
-}
+{"replace":true,"values":["#forge:salt/salt"]}

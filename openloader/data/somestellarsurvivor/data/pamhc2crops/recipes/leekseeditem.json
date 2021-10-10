@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:leekitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:leekseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:leekitem"}],"result":{"item":"pamhc2crops:leekseeditem"},"type":"minecraft:crafting_shapeless"}

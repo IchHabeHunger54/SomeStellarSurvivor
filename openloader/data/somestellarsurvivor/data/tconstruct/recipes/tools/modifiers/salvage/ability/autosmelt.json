@@ -1,18 +1,1 @@
-{
-  "min_level": 1,
-  "modifier": "tconstruct:autosmelt",
-  "salvage": [
-    {
-      "item": "tconstruct:blazewood",
-      "max": 5,
-      "min": 1
-    }
-  ],
-  "slots": {
-    "abilities": 1
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/harvest/primary"
-  },
-  "type": "tconstruct:modifier_salvage"
-}
+{"min_level":1,"modifier":"tconstruct:autosmelt","salvage":[{"item":"tconstruct:blazewood","max":5,"min":1}],"slots":{"abilities":1},"tools":{"tag":"tconstruct:modifiable/harvest/primary"},"type":"tconstruct:modifier_salvage"}

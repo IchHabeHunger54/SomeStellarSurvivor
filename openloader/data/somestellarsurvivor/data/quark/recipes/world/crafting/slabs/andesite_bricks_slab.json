@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:andesite_bricks"
-    }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:andesite_bricks_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:andesite_bricks"}},"pattern":["###"],"result":{"count":6,"item":"quark:andesite_bricks_slab"},"type":"minecraft:crafting_shaped"}

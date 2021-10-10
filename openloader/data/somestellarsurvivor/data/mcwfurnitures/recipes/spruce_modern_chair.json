@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:spruce_plate"
-    },
-    "B": {
-      "item": "minecraft:spruce_fence"
-    }
-  },
-  "pattern": [
-    " AA",
-    " BB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:spruce_modern_chair"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:spruce_plate"},"B":{"item":"minecraft:spruce_fence"}},"pattern":[" AA"," BB"],"result":{"item":"mcwfurnitures:spruce_modern_chair"},"type":"minecraft:crafting_shaped"}

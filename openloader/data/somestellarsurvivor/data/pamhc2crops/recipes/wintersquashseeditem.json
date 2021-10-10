@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:wintersquashitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:wintersquashseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:wintersquashitem"}],"result":{"item":"pamhc2crops:wintersquashseeditem"},"type":"minecraft:crafting_shapeless"}

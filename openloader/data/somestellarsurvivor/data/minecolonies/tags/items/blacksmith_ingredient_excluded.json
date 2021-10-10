@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecolonies:sawmill_ingredient",
-    "#minecolonies:sawmill_ingredient_excluded",
-    "#minecolonies:sawmill_product"
-  ]
-}
+{"replace":true,"values":["#minecolonies:sawmill_ingredient","#minecolonies:sawmill_ingredient_excluded","#minecolonies:sawmill_product"]}

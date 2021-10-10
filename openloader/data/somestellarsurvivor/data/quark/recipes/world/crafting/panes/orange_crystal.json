@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:orange_crystal_pane"
-    }
-  },
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "count": 3,
-    "item": "quark:orange_crystal"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:orange_crystal_pane"}},"pattern":["###","# #","###"],"result":{"count":3,"item":"quark:orange_crystal"},"type":"minecraft:crafting_shaped"}

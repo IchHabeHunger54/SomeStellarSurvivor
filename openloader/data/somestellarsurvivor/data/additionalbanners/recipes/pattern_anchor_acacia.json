@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "tag": "minecraft:boats"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:anchor"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"tag":"minecraft:boats"}],"result":{"item":"additionalbanners:anchor"},"type":"minecraft:crafting_shapeless"}

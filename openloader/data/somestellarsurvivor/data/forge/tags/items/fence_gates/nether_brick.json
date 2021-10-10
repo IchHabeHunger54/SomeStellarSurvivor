@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "quark:nether_brick_fence_gate"
-  ]
-}
+{"replace":true,"values":["quark:nether_brick_fence_gate"]}

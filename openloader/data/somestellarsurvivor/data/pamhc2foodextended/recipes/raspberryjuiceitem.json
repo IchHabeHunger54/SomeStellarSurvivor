@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/raspberries"
-    },
-    {
-      "tag": "forge:fruits/raspberries"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:raspberryjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/raspberries"},{"tag":"forge:fruits/raspberries"}],"result":{"item":"pamhc2foodextended:raspberryjuiceitem"},"type":"minecraft:crafting_shapeless"}

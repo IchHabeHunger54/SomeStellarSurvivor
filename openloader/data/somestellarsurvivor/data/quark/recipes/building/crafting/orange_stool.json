@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:orange_wool"
-    },
-    "W": {
-      "tag": "minecraft:wooden_slabs"
-    }
-  },
-  "pattern": [
-    "###",
-    "WWW"
-  ],
-  "result": {
-    "item": "quark:orange_stool"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:orange_wool"},"W":{"tag":"minecraft:wooden_slabs"}},"pattern":["###","WWW"],"result":{"item":"quark:orange_stool"},"type":"minecraft:crafting_shaped"}

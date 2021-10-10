@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:dirt"
-  ]
-}
+{"replace":true,"values":["minecraft:dirt"]}

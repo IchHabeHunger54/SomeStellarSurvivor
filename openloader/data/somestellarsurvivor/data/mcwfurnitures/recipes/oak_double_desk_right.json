@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:oak_plate"
-    },
-    "B": {
-      "item": "mcwfurnitures:oak_desk_right"
-    }
-  },
-  "pattern": [
-    " B ",
-    " A "
-  ],
-  "result": {
-    "item": "mcwfurnitures:oak_double_desk_right"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:oak_plate"},"B":{"item":"mcwfurnitures:oak_desk_right"}},"pattern":[" B "," A "],"result":{"item":"mcwfurnitures:oak_double_desk_right"},"type":"minecraft:crafting_shaped"}

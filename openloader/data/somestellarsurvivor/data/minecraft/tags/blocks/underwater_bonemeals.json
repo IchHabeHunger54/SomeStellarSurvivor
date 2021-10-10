@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:corals",
-    "#minecraft:wall_corals",
-    "minecraft:sea_pickle",
-    "minecraft:seagrass"
-  ]
-}
+{"replace":true,"values":["#minecraft:corals","#minecraft:wall_corals","minecraft:sea_pickle","minecraft:seagrass"]}

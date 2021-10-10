@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:polished_jasper"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:jasper_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:polished_jasper"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:jasper_bricks"},"type":"minecraft:crafting_shaped"}

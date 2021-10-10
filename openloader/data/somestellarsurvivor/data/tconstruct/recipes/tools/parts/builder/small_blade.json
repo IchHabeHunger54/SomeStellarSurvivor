@@ -1,8 +1,1 @@
-{
-  "cost": 2,
-  "pattern": "tconstruct:small_blade",
-  "result": {
-    "item": "tconstruct:small_blade"
-  },
-  "type": "tconstruct:part_builder"
-}
+{"cost":2,"pattern":"tconstruct:small_blade","result":{"item":"tconstruct:small_blade"},"type":"tconstruct:part_builder"}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_ender",
-    "tconstruct:flowing_molten_ender"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_ender","tconstruct:flowing_molten_ender"]}

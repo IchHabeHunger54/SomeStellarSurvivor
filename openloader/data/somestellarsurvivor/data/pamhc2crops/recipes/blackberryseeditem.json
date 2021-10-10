@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:blackberryitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:blackberryseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:blackberryitem"}],"result":{"item":"pamhc2crops:blackberryseeditem"},"type":"minecraft:crafting_shapeless"}

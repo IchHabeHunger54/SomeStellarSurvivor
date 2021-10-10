@@ -1,18 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "minecraft:jungle_button"
-    },
-    "H": {
-      "item": "aquaculture:iron_hook"
-    }
-  },
-  "pattern": [
-    "BHB",
-    "BBB"
-  ],
-  "result": {
-    "item": "aquaculture:jungle_fish_mount"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"minecraft:jungle_button"},"H":{"item":"aquaculture:iron_hook"}},"pattern":["BHB","BBB"],"result":{"item":"aquaculture:jungle_fish_mount"},"type":"minecraft:crafting_shaped"}

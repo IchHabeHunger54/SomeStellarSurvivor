@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:crops/candleberry"
-    },
-    {
-      "tag": "forge:crops/candleberry"
-    },
-    {
-      "tag": "forge:crops/candleberry"
-    }
-  ],
-  "result": {
-    "item": "minecraft:honeycomb"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:crops/candleberry"},{"tag":"forge:crops/candleberry"},{"tag":"forge:crops/candleberry"}],"result":{"item":"minecraft:honeycomb"},"type":"minecraft:crafting_shapeless"}

@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "buzzier_bees:candle"
-    },
-    {
-      "item": "minecraft:poppy"
-    }
-  ],
-  "result": {
-    "item": "buzzier_bees:poppy_scented_candle"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"buzzier_bees:candle"},{"item":"minecraft:poppy"}],"result":{"item":"buzzier_bees:poppy_scented_candle"},"type":"minecraft:crafting_shapeless"}

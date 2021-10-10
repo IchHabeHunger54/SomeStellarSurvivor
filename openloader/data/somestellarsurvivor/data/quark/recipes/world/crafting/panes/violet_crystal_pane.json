@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:violet_crystal"
-    }
-  },
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 16,
-    "item": "quark:violet_crystal_pane"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:violet_crystal"}},"pattern":["###","###"],"result":{"count":16,"item":"quark:violet_crystal_pane"},"type":"minecraft:crafting_shaped"}

@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:dirt"
-  ]
-}
+{"replace":true,"values":["#forge:dirt"]}

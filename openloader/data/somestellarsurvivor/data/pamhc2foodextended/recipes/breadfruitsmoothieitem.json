@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:fruits/breadfruit"
-    },
-    {
-      "tag": "forge:ices"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:breadfruitsmoothieitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:fruits/breadfruit"},{"tag":"forge:ices"}],"result":{"item":"pamhc2foodextended:breadfruitsmoothieitem"},"type":"minecraft:crafting_shapeless"}

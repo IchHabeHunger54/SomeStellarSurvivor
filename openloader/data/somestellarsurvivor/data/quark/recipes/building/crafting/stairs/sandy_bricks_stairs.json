@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:sandy_bricks"
-    }
-  },
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:sandy_bricks_stairs"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:sandy_bricks"}},"pattern":["#  ","## ","###"],"result":{"count":6,"item":"quark:sandy_bricks_stairs"},"type":"minecraft:crafting_shaped"}

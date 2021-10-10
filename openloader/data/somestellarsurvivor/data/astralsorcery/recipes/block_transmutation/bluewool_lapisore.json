@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "contenttweaker:lapis_ore"
-  },
-  "input": [
-    {
-      "block": "minecraft:blue_wool",
-      "display": {
-        "item": "minecraft:blue_wool"
-      }
-    }
-  ],
-  "output": {
-    "block": "contenttweaker:lapis_ore"
-  },
-  "starlight": 800,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"contenttweaker:lapis_ore"},"input":[{"block":"minecraft:blue_wool","display":{"item":"minecraft:blue_wool"}}],"output":{"block":"contenttweaker:lapis_ore"},"starlight":800,"type":"astralsorcery:block_transmutation"}

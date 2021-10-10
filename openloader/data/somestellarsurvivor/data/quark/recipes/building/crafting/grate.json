@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:iron_bars"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "item": "quark:grate"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:iron_bars"}},"pattern":["##","##"],"result":{"item":"quark:grate"},"type":"minecraft:crafting_shaped"}

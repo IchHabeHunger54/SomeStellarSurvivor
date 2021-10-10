@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "minecraft:sandstone"
-  },
-  "result": "minecraft:smooth_sandstone",
-  "type": "ceramics:kiln"
-}
+{"cookingtime":100,"ingredient":{"item":"minecraft:sandstone"},"result":"minecraft:smooth_sandstone","type":"ceramics:kiln"}

@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:acacia_plate"
-    },
-    "B": {
-      "item": "mcwfurnitures:acacia_box_2"
-    }
-  },
-  "pattern": [
-    "A",
-    "B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:acacia_pult_2"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:acacia_plate"},"B":{"item":"mcwfurnitures:acacia_box_2"}},"pattern":["A","B"],"result":{"item":"mcwfurnitures:acacia_pult_2"},"type":"minecraft:crafting_shaped"}

@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "buzzier_bees:candle"
-    },
-    {
-      "item": "minecraft:allium"
-    }
-  ],
-  "result": {
-    "item": "buzzier_bees:allium_scented_candle"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"buzzier_bees:candle"},{"item":"minecraft:allium"}],"result":{"item":"buzzier_bees:allium_scented_candle"},"type":"minecraft:crafting_shapeless"}

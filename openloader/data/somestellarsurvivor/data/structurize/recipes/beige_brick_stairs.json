@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "structurize:beige_bricks"
-    }
-  },
-  "pattern": [
-    "#  ",
-    "## ",
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "structurize:beige_brick_stairs"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"structurize:beige_bricks"}},"pattern":["#  ","## ","###"],"result":{"count":6,"item":"structurize:beige_brick_stairs"},"type":"minecraft:crafting_shaped"}

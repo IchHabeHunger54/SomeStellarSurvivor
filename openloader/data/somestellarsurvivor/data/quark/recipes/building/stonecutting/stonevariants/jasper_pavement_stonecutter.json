@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:jasper_pillar"
-  },
-  "result": "quark:jasper_pavement",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:jasper_pillar"},"result":"quark:jasper_pavement","type":"minecraft:stonecutting"}

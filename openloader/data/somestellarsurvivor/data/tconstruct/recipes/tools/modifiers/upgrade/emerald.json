@@ -1,17 +1,1 @@
-{
-  "inputs": [
-    {
-      "item": "minecraft:emerald"
-    }
-  ],
-  "max_level": 1,
-  "result": {
-    "level": 1,
-    "name": "tconstruct:emerald"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable"
-  },
-  "type": "tconstruct:modifier",
-  "upgrade_slots": 1
-}
+{"inputs":[{"item":"minecraft:emerald"}],"max_level":1,"result":{"level":1,"name":"tconstruct:emerald"},"tools":{"tag":"tconstruct:modifiable"},"type":"tconstruct:modifier","upgrade_slots":1}

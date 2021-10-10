@@ -1,11 +1,1 @@
-{
-  "cooling_time": 270,
-  "fluid": {
-    "amount": 1296,
-    "name": "tconstruct:molten_hepatizon"
-  },
-  "result": {
-    "item": "tconstruct:hepatizon_block"
-  },
-  "type": "tconstruct:casting_basin"
-}
+{"cooling_time":270,"fluid":{"amount":1296,"name":"tconstruct:molten_hepatizon"},"result":{"item":"tconstruct:hepatizon_block"},"type":"tconstruct:casting_basin"}

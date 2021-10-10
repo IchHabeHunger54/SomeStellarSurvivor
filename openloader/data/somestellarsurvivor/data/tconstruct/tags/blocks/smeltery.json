@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#tconstruct:smeltery/wall",
-    "#tconstruct:smeltery/floor",
-    "#tconstruct:smeltery/tanks"
-  ]
-}
+{"replace":true,"values":["#tconstruct:smeltery/wall","#tconstruct:smeltery/floor","#tconstruct:smeltery/tanks"]}

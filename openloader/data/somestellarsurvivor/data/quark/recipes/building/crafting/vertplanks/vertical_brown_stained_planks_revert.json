@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:vertical_brown_stained_planks"
-    }
-  ],
-  "result": {
-    "item": "quark:brown_stained_planks"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:vertical_brown_stained_planks"}],"result":{"item":"quark:brown_stained_planks"},"type":"minecraft:crafting_shapeless"}

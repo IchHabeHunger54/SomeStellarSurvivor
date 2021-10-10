@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:rutabagaitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:rutabagaseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:rutabagaitem"}],"result":{"item":"pamhc2crops:rutabagaseeditem"},"type":"minecraft:crafting_shapeless"}

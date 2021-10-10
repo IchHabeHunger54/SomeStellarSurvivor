@@ -1,16 +1,1 @@
-{
-  "key": {
-    "I": {
-      "item": "astralsorcery:starmetal_ingot"
-    }
-  },
-  "pattern": [
-    "III",
-    "III",
-    "III"
-  ],
-  "result": {
-    "item": "astralsorcery:starmetal"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"I":{"item":"astralsorcery:starmetal_ingot"}},"pattern":["III","III","III"],"result":{"item":"astralsorcery:starmetal"},"type":"minecraft:crafting_shaped"}

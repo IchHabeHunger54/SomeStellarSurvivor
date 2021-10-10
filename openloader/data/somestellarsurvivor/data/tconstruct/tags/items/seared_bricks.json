@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:seared_bricks",
-    "tconstruct:seared_fancy_bricks",
-    "tconstruct:seared_triangle_bricks"
-  ]
-}
+{"replace":true,"values":["tconstruct:seared_bricks","tconstruct:seared_fancy_bricks","tconstruct:seared_triangle_bricks"]}

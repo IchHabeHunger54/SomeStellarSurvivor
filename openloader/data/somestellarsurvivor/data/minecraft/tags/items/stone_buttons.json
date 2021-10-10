@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:stone_button",
-    "minecraft:polished_blackstone_button"
-  ]
-}
+{"replace":true,"values":["minecraft:stone_button","minecraft:polished_blackstone_button"]}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:magma",
-    "tconstruct:flowing_magma"
-  ]
-}
+{"replace":true,"values":["tconstruct:magma","tconstruct:flowing_magma"]}

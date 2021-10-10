@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:acacia_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:acacia_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:acacia_slab"}],"result":{"item":"quark:acacia_vertical_slab"},"type":"minecraft:crafting_shapeless"}

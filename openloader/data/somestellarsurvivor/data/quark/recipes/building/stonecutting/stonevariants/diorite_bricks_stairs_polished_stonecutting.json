@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:diorite_bricks"
-  },
-  "result": "quark:diorite_bricks_stairs",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:diorite_bricks"},"result":"quark:diorite_bricks_stairs","type":"minecraft:stonecutting"}

@@ -1,14 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:spruce_desk_right"
-    }
-  },
-  "pattern": [
-    "A"
-  ],
-  "result": {
-    "item": "mcwfurnitures:spruce_desk_left"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:spruce_desk_right"}},"pattern":["A"],"result":{"item":"mcwfurnitures:spruce_desk_left"},"type":"minecraft:crafting_shaped"}

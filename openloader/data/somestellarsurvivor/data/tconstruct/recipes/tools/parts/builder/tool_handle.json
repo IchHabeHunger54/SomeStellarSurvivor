@@ -1,8 +1,1 @@
-{
-  "cost": 1,
-  "pattern": "tconstruct:tool_handle",
-  "result": {
-    "item": "tconstruct:tool_handle"
-  },
-  "type": "tconstruct:part_builder"
-}
+{"cost":1,"pattern":"tconstruct:tool_handle","result":{"item":"tconstruct:tool_handle"},"type":"tconstruct:part_builder"}

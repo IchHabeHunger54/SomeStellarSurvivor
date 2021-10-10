@@ -1,8 +1,1 @@
-{
-  "cookingtime": 100,
-  "ingredient": {
-    "item": "minecraft:light_gray_terracotta"
-  },
-  "result": "minecraft:light_gray_glazed_terracotta",
-  "type": "ceramics:kiln"
-}
+{"cookingtime":100,"ingredient":{"item":"minecraft:light_gray_terracotta"},"result":"minecraft:light_gray_glazed_terracotta","type":"ceramics:kiln"}

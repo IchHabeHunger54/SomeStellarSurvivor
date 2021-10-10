@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "item": "pamhc2foodextended:biscuititem"
-    },
-    {
-      "item": "pamhc2foodextended:gravyitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:biscuitsandgravyitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"item":"pamhc2foodextended:biscuititem"},{"item":"pamhc2foodextended:gravyitem"}],"result":{"item":"pamhc2foodextended:biscuitsandgravyitem"},"type":"minecraft:crafting_shapeless"}

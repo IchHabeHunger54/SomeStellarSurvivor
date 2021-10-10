@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:sandstone_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:sandstone_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:sandstone_slab"}],"result":{"item":"quark:sandstone_vertical_slab"},"type":"minecraft:crafting_shapeless"}

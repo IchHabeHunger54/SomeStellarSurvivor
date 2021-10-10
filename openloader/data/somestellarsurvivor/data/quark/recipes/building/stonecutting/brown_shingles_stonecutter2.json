@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "minecraft:brown_terracotta"
-  },
-  "result": "quark:brown_shingles",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"minecraft:brown_terracotta"},"result":"quark:brown_shingles","type":"minecraft:stonecutting"}

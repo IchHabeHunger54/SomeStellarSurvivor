@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:snowball"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:snowflake"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"item":"minecraft:snowball"}],"result":{"item":"additionalbanners:snowflake"},"type":"minecraft:crafting_shapeless"}

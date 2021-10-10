@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:crops/leek"
-  },
-  "result": "pamhc2crops:roastedleekitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:crops/leek"},"result":"pamhc2crops:roastedleekitem","type":"minecraft:campfire_cooking"}

@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:honey_bottle"
-    },
-    {
-      "item": "minecraft:cooked_porkchop"
-    }
-  ],
-  "result": {
-    "item": "buzzier_bees:glazed_porkchop"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:honey_bottle"},{"item":"minecraft:cooked_porkchop"}],"result":{"item":"buzzier_bees:glazed_porkchop"},"type":"minecraft:crafting_shapeless"}

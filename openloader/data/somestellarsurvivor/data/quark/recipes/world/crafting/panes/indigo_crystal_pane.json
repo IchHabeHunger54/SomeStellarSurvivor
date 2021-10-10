@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:indigo_crystal"
-    }
-  },
-  "pattern": [
-    "###",
-    "###"
-  ],
-  "result": {
-    "count": 16,
-    "item": "quark:indigo_crystal_pane"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:indigo_crystal"}},"pattern":["###","###"],"result":{"count":16,"item":"quark:indigo_crystal_pane"},"type":"minecraft:crafting_shaped"}

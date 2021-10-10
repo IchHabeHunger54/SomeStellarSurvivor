@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:crops/cassava"
-  },
-  "result": "pamhc2crops:bakedcassavaitem",
-  "type": "cfm:grill_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:crops/cassava"},"result":"pamhc2crops:bakedcassavaitem","type":"cfm:grill_cooking"}

@@ -1,17 +1,1 @@
-{
-  "branch": "minecolonies:technology",
-  "effects": [
-    {
-      "minecolonies:effects/workinginrainunlock": 1
-    }
-  ],
-  "icon": "minecraft:water_bucket",
-  "parentResearch": "minecolonies:technology/rtm",
-  "requirements": [
-    {
-      "item": "minecraft:water_bucket",
-      "quantity": 16
-    }
-  ],
-  "researchLevel": 6
-}
+{"branch":"minecolonies:technology","effects":[{"minecolonies:effects/workinginrainunlock":1}],"icon":"minecraft:water_bucket","parentResearch":"minecolonies:technology/rtm","requirements":[{"item":"minecraft:water_bucket","quantity":16}],"researchLevel":6}

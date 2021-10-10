@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:pineappleitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:pineappleseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:pineappleitem"}],"result":{"item":"pamhc2crops:pineappleseeditem"},"type":"minecraft:crafting_shapeless"}

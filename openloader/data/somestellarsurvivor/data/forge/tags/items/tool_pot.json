@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:tool_pot/pot"
-  ]
-}
+{"replace":true,"values":["#forge:tool_pot/pot"]}

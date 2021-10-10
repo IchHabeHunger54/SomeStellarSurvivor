@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:clay_ball"
-    }
-  ],
-  "result": {
-    "item": "additionalbanners:balance"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:paper"},{"item":"minecraft:clay_ball"}],"result":{"item":"additionalbanners:balance"},"type":"minecraft:crafting_shapeless"}

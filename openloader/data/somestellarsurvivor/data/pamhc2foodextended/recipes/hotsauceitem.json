@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:crops/chilipepper"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:hotsauceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:crops/chilipepper"}],"result":{"item":"pamhc2foodextended:hotsauceitem"},"type":"minecraft:crafting_shapeless"}

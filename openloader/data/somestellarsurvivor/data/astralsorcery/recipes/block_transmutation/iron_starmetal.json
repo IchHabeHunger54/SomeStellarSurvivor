@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "astralsorcery:starmetal_ore"
-  },
-  "input": [
-    {
-      "block": "minecraft:iron_ore",
-      "display": {
-        "item": "minecraft:iron_ore"
-      }
-    }
-  ],
-  "output": {
-    "block": "astralsorcery:starmetal_ore"
-  },
-  "starlight": 200,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"astralsorcery:starmetal_ore"},"input":[{"block":"minecraft:iron_ore","display":{"item":"minecraft:iron_ore"}}],"output":{"block":"astralsorcery:starmetal_ore"},"starlight":200,"type":"astralsorcery:block_transmutation"}

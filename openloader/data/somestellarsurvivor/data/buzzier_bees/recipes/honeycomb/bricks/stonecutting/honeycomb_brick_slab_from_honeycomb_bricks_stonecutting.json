@@ -1,10 +1,1 @@
-{
-  "count": 2,
-  "ingredient": [
-    {
-      "item": "buzzier_bees:honeycomb_bricks"
-    }
-  ],
-  "result": "buzzier_bees:honeycomb_brick_slab",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":[{"item":"buzzier_bees:honeycomb_bricks"}],"result":"buzzier_bees:honeycomb_brick_slab","type":"minecraft:stonecutting"}

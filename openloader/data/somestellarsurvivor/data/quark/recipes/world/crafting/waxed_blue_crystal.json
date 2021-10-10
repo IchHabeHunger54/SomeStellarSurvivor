@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:blue_crystal"
-    },
-    {
-      "item": "minecraft:honeycomb"
-    }
-  ],
-  "result": {
-    "item": "quark:waxed_blue_crystal"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:blue_crystal"},{"item":"minecraft:honeycomb"}],"result":{"item":"quark:waxed_blue_crystal"},"type":"minecraft:crafting_shapeless"}

@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "astralsorcery:altar_discovery"
-  },
-  "input": [
-    {
-      "block": "minecraft:crafting_table",
-      "display": {
-        "item": "minecraft:crafting_table"
-      }
-    }
-  ],
-  "output": {
-    "block": "astralsorcery:altar_discovery"
-  },
-  "starlight": 100,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"astralsorcery:altar_discovery"},"input":[{"block":"minecraft:crafting_table","display":{"item":"minecraft:crafting_table"}}],"output":{"block":"astralsorcery:altar_discovery"},"starlight":100,"type":"astralsorcery:block_transmutation"}

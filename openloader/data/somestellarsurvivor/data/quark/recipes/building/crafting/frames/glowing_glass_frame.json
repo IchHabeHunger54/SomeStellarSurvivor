@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:glass_item_frame"
-    },
-    {
-      "item": "minecraft:glowstone_dust"
-    }
-  ],
-  "result": {
-    "item": "quark:glowing_glass_item_frame"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:glass_item_frame"},{"item":"minecraft:glowstone_dust"}],"result":{"item":"quark:glowing_glass_item_frame"},"type":"minecraft:crafting_shapeless"}

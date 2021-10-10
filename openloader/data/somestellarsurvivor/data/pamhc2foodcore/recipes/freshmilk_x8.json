@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:milk_bucket"
-    }
-  ],
-  "result": {
-    "count": 8,
-    "item": "pamhc2foodcore:freshmilkitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:milk_bucket"}],"result":{"count":8,"item":"pamhc2foodcore:freshmilkitem"},"type":"minecraft:crafting_shapeless"}

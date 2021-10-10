@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_roller"
-    },
-    {
-      "tag": "forge:crops/sesameseeds"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:sesameoilitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_roller"},{"tag":"forge:crops/sesameseeds"}],"result":{"item":"pamhc2foodextended:sesameoilitem"},"type":"minecraft:crafting_shapeless"}

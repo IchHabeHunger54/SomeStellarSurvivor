@@ -1,15 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#inspirations:carpeted_trapdoors",
-    "minecraft:acacia_trapdoor",
-    "minecraft:birch_trapdoor",
-    "minecraft:dark_oak_trapdoor",
-    "minecraft:jungle_trapdoor",
-    "minecraft:oak_trapdoor",
-    "minecraft:spruce_trapdoor",
-    "minecraft:crimson_trapdoor",
-    "minecraft:warped_trapdoor",
-    "structurize:blockcactustrapdoor"
-  ]
-}
+{"replace":true,"values":["#inspirations:carpeted_trapdoors","minecraft:acacia_trapdoor","minecraft:birch_trapdoor","minecraft:dark_oak_trapdoor","minecraft:jungle_trapdoor","minecraft:oak_trapdoor","minecraft:spruce_trapdoor","minecraft:crimson_trapdoor","minecraft:warped_trapdoor","structurize:blockcactustrapdoor"]}

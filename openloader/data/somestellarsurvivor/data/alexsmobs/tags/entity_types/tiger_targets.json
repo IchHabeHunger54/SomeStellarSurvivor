@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#alexsmobs:passive_land_animals",
-    "alexsmobs:kangaroo",
-    "alexsmobs:moose"
-  ]
-}
+{"replace":true,"values":["#alexsmobs:passive_land_animals","alexsmobs:kangaroo","alexsmobs:moose"]}

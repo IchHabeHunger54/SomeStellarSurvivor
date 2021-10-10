@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:milk"
-    },
-    {
-      "item": "minecraft:cookie"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:chocovoxelsitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:milk"},{"item":"minecraft:cookie"}],"result":{"item":"pamhc2foodextended:chocovoxelsitem"},"type":"minecraft:crafting_shapeless"}

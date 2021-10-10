@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:pink_shard"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "item": "minecraft:pink_stained_glass"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:pink_shard"}},"pattern":["##","##"],"result":{"item":"minecraft:pink_stained_glass"},"type":"minecraft:crafting_shaped"}

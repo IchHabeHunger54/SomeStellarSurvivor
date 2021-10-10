@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_skillet"
-    },
-    {
-      "item": "pamhc2foodcore:potatochipsitem"
-    },
-    {
-      "tag": "forge:cream"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:chipsanddipitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_skillet"},{"item":"pamhc2foodcore:potatochipsitem"},{"tag":"forge:cream"}],"result":{"item":"pamhc2foodextended:chipsanddipitem"},"type":"minecraft:crafting_shapeless"}

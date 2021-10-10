@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "structurize:slate_shingle_slab",
-    "structurize:blue_slate_shingle_slab",
-    "structurize:green_slate_shingle_slab",
-    "structurize:purple_slate_shingle_slab"
-  ]
-}
+{"replace":true,"values":["structurize:slate_shingle_slab","structurize:blue_slate_shingle_slab","structurize:green_slate_shingle_slab","structurize:purple_slate_shingle_slab"]}

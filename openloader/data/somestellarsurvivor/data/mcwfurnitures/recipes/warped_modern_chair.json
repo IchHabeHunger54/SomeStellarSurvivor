@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:warped_plate"
-    },
-    "B": {
-      "item": "minecraft:warped_fence"
-    }
-  },
-  "pattern": [
-    " AA",
-    " BB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:warped_modern_chair"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:warped_plate"},"B":{"item":"minecraft:warped_fence"}},"pattern":[" AA"," BB"],"result":{"item":"mcwfurnitures:warped_modern_chair"},"type":"minecraft:crafting_shaped"}

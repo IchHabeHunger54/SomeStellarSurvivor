@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:birch_plate"
-    },
-    "B": {
-      "item": "minecraft:birch_fence"
-    }
-  },
-  "pattern": [
-    " AA",
-    " BB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:birch_modern_chair"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:birch_plate"},"B":{"item":"minecraft:birch_fence"}},"pattern":[" AA"," BB"],"result":{"item":"mcwfurnitures:birch_modern_chair"},"type":"minecraft:crafting_shaped"}

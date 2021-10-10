@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "tag": "forge:fruits/rambutan"
-    },
-    {
-      "tag": "forge:yogurt"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:rambutanyogurtitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:fruits/rambutan"},{"tag":"forge:yogurt"}],"result":{"item":"pamhc2foodextended:rambutanyogurtitem"},"type":"minecraft:crafting_shapeless"}

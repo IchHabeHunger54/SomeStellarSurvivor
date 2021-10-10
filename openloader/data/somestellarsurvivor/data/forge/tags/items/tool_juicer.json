@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:tool_juicer/juicer"
-  ]
-}
+{"replace":true,"values":["#forge:tool_juicer/juicer"]}

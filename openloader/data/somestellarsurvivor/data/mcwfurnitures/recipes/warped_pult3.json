@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:warped_plate"
-    },
-    "B": {
-      "item": "mcwfurnitures:warped_nightstand_2"
-    }
-  },
-  "pattern": [
-    "A",
-    "B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:warped_pult_3"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:warped_plate"},"B":{"item":"mcwfurnitures:warped_nightstand_2"}},"pattern":["A","B"],"result":{"item":"mcwfurnitures:warped_pult_3"},"type":"minecraft:crafting_shaped"}

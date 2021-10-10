@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:crimson_planks"
-    }
-  },
-  "pattern": [
-    "##",
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 3,
-    "item": "minecraft:crimson_door"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:crimson_planks"}},"pattern":["##","##","##"],"result":{"count":3,"item":"minecraft:crimson_door"},"type":"minecraft:crafting_shaped"}

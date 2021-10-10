@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "inspirations:cyan_flower"
-    }
-  ],
-  "result": {
-    "item": "minecraft:cyan_dye"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"inspirations:cyan_flower"}],"result":{"item":"minecraft:cyan_dye"},"type":"minecraft:crafting_shapeless"}

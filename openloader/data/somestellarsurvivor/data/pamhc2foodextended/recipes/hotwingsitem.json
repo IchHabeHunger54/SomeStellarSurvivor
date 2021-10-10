@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:condiments/hotsauce"
-    },
-    {
-      "tag": "forge:rawchicken"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:hotwingsitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:condiments/hotsauce"},{"tag":"forge:rawchicken"}],"result":{"item":"pamhc2foodextended:hotwingsitem"},"type":"minecraft:crafting_shapeless"}

@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "minecraft:magma_block"
-  },
-  "result": "quark:magma_bricks",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"minecraft:magma_block"},"result":"quark:magma_bricks","type":"minecraft:stonecutting"}

@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:tool_handle_cast"
-  ]
-}
+{"replace":true,"values":["tconstruct:tool_handle_cast"]}

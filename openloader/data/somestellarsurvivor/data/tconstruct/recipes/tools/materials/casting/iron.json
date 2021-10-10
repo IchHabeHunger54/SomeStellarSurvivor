@@ -1,9 +1,1 @@
-{
-  "fluid": {
-    "amount": 144,
-    "tag": "tconstruct:molten_iron"
-  },
-  "output": "tconstruct:iron",
-  "temperature": 800,
-  "type": "tconstruct:material_fluid"
-}
+{"fluid":{"amount":144,"tag":"tconstruct:molten_iron"},"output":"tconstruct:iron","temperature":800,"type":"tconstruct:material_fluid"}

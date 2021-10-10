@@ -1,10 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:gems/aquamarine",
-    "#forge:gems/diamond",
-    "#forge:gems/emerald",
-    "#forge:gems/lapis",
-    "#forge:gems/quartz"
-  ]
-}
+{"replace":true,"values":["#forge:gems/aquamarine","#forge:gems/diamond","#forge:gems/emerald","#forge:gems/lapis","#forge:gems/quartz"]}

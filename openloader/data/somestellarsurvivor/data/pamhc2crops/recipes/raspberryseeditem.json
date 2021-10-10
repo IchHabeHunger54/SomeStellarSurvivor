@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:raspberryitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:raspberryseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:raspberryitem"}],"result":{"item":"pamhc2crops:raspberryseeditem"},"type":"minecraft:crafting_shapeless"}

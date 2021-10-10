@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:mossy_cobblestone_vertical_slab"
-    }
-  ],
-  "result": {
-    "item": "minecraft:mossy_cobblestone_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:mossy_cobblestone_vertical_slab"}],"result":{"item":"minecraft:mossy_cobblestone_slab"},"type":"minecraft:crafting_shapeless"}

@@ -1,17 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "ceramics:porcelain_bricks"
-    }
-  },
-  "pattern": [
-    "B  ",
-    "BB ",
-    "BBB"
-  ],
-  "result": {
-    "count": 6,
-    "item": "ceramics:porcelain_bricks_stairs"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"ceramics:porcelain_bricks"}},"pattern":["B  ","BB ","BBB"],"result":{"count":6,"item":"ceramics:porcelain_bricks_stairs"},"type":"minecraft:crafting_shaped"}

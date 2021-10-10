@@ -1,17 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:oak_box_2"
-    },
-    "B": {
-      "item": "minecraft:glass_pane"
-    }
-  },
-  "pattern": [
-    "BA"
-  ],
-  "result": {
-    "item": "mcwfurnitures:oak_nightstand_8"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:oak_box_2"},"B":{"item":"minecraft:glass_pane"}},"pattern":["BA"],"result":{"item":"mcwfurnitures:oak_nightstand_8"},"type":"minecraft:crafting_shaped"}

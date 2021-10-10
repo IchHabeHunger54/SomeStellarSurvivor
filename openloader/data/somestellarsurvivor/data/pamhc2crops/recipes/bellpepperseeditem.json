@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:bellpepperitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:bellpepperseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:bellpepperitem"}],"result":{"item":"pamhc2crops:bellpepperseeditem"},"type":"minecraft:crafting_shapeless"}

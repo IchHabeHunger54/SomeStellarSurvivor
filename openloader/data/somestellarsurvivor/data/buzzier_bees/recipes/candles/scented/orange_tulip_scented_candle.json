@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "buzzier_bees:candle"
-    },
-    {
-      "item": "minecraft:orange_tulip"
-    }
-  ],
-  "result": {
-    "item": "buzzier_bees:orange_tulip_scented_candle"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"buzzier_bees:candle"},{"item":"minecraft:orange_tulip"}],"result":{"item":"buzzier_bees:orange_tulip_scented_candle"},"type":"minecraft:crafting_shapeless"}

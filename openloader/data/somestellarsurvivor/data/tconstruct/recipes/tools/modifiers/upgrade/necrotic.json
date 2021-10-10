@@ -1,18 +1,1 @@
-{
-  "inputs": [
-    {
-      "item": "quark:crab_shell"
-    }
-  ],
-  "max_level": 5,
-  "needed_per_level": 64,
-  "result": {
-    "level": 1,
-    "name": "tconstruct:necrotic"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee"
-  },
-  "type": "tconstruct:modifier",
-  "upgrade_slots": 1
-}
+{"inputs":[{"item":"quark:crab_shell"}],"max_level":5,"needed_per_level":64,"result":{"level":1,"name":"tconstruct:necrotic"},"tools":{"tag":"tconstruct:modifiable/melee"},"type":"tconstruct:modifier","upgrade_slots":1}

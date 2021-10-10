@@ -1,14 +1,1 @@
-{
-  "input": {
-    "name": "minecraft:ice",
-    "type": "inspirations:custom"
-  },
-  "output": {
-    "name": "minecraft:water",
-    "type": "inspirations:fluid"
-  },
-  "sound": "minecraft:item.bucket.empty",
-  "temperature": "boiling",
-  "time": 500,
-  "type": "inspirations:cauldron_transform"
-}
+{"input":{"name":"minecraft:ice","type":"inspirations:custom"},"output":{"name":"minecraft:water","type":"inspirations:fluid"},"sound":"minecraft:item.bucket.empty","temperature":"boiling","time":500,"type":"inspirations:cauldron_transform"}

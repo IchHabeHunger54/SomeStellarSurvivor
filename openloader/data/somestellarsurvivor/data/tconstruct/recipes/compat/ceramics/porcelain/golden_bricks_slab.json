@@ -1,18 +1,1 @@
-{
-  "byproducts": [
-    {
-      "amount": 1,
-      "fluid": "tconstruct:molten_gold"
-    }
-  ],
-  "ingredient": {
-    "item": "ceramics:golden_bricks_slab"
-  },
-  "result": {
-    "amount": 500,
-    "fluid": "tconstruct:molten_porcelain"
-  },
-  "temperature": 700,
-  "time": 50,
-  "type": "tconstruct:melting"
-}
+{"byproducts":[{"amount":1,"fluid":"tconstruct:molten_gold"}],"ingredient":{"item":"ceramics:golden_bricks_slab"},"result":{"amount":500,"fluid":"tconstruct:molten_porcelain"},"temperature":700,"time":50,"type":"tconstruct:melting"}

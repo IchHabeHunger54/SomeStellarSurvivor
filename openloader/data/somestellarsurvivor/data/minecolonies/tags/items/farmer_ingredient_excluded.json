@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecolonies:plantation_ingredient",
-    "#minecolonies:plantation_ingredient_excluded",
-    "#minecolonies:plantation_product"
-  ]
-}
+{"replace":true,"values":["#minecolonies:plantation_ingredient","#minecolonies:plantation_ingredient_excluded","#minecolonies:plantation_product"]}

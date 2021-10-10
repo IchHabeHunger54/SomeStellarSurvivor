@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_constantan",
-    "tconstruct:flowing_molten_constantan"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_constantan","tconstruct:flowing_molten_constantan"]}

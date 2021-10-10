@@ -1,7 +1,1 @@
-{
-  "color": "fed83d",
-  "ingredient": {
-    "item": "inspirations:yellow_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"fed83d","ingredient":{"item":"inspirations:yellow_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

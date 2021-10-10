@@ -1,7 +1,1 @@
-{
-  "color": "b02e26",
-  "ingredient": {
-    "item": "inspirations:red_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"b02e26","ingredient":{"item":"inspirations:red_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

@@ -1,7 +1,1 @@
-{
-  "color": "835432",
-  "ingredient": {
-    "item": "inspirations:brown_dyed_bottle"
-  },
-  "type": "inspirations:cauldron_mix_dye"
-}
+{"color":"835432","ingredient":{"item":"inspirations:brown_dyed_bottle"},"type":"inspirations:cauldron_mix_dye"}

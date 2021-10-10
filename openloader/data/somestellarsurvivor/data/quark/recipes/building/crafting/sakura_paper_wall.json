@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:paper_wall"
-    },
-    {
-      "tag": "minecraft:saplings"
-    }
-  ],
-  "result": {
-    "item": "quark:paper_wall_sakura"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:paper_wall"},{"tag":"minecraft:saplings"}],"result":{"item":"quark:paper_wall_sakura"},"type":"minecraft:crafting_shapeless"}

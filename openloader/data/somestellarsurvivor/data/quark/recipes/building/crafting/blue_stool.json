@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:blue_wool"
-    },
-    "W": {
-      "tag": "minecraft:wooden_slabs"
-    }
-  },
-  "pattern": [
-    "###",
-    "WWW"
-  ],
-  "result": {
-    "item": "quark:blue_stool"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:blue_wool"},"W":{"tag":"minecraft:wooden_slabs"}},"pattern":["###","WWW"],"result":{"item":"quark:blue_stool"},"type":"minecraft:crafting_shaped"}

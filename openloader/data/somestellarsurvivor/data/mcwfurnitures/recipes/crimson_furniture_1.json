@@ -1,14 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:crimson_cupboard_6"
-    }
-  },
-  "pattern": [
-    "AA"
-  ],
-  "result": {
-    "item": "mcwfurnitures:crimson_furniture_1"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:crimson_cupboard_6"}},"pattern":["AA"],"result":{"item":"mcwfurnitures:crimson_furniture_1"},"type":"minecraft:crafting_shaped"}

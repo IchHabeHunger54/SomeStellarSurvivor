@@ -1,17 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:oak_cupboard_6"
-    },
-    "B": {
-      "item": "mcwfurnitures:oak_plate"
-    }
-  },
-  "pattern": [
-    "AB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:oak_cupboard_7"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:oak_cupboard_6"},"B":{"item":"mcwfurnitures:oak_plate"}},"pattern":["AB"],"result":{"item":"mcwfurnitures:oak_cupboard_7"},"type":"minecraft:crafting_shaped"}

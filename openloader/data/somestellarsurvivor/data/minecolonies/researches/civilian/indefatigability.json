@@ -1,17 +1,1 @@
-{
-  "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/healingsaturationlimitaddition": 5
-    }
-  ],
-  "icon": "minecraft:apple",
-  "parentResearch": "minecolonies:civilian/fortitude",
-  "requirements": [
-    {
-      "item": "minecraft:apple",
-      "quantity": 64
-    }
-  ],
-  "researchLevel": 6
-}
+{"branch":"minecolonies:civilian","effects":[{"minecolonies:effects/healingsaturationlimitaddition":5}],"icon":"minecraft:apple","parentResearch":"minecolonies:civilian/fortitude","requirements":[{"item":"minecraft:apple","quantity":64}],"researchLevel":6}

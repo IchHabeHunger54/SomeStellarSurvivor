@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_cuttingboard"
-    },
-    {
-      "tag": "forge:rawbeef"
-    },
-    {
-      "tag": "forge:cookingoil"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:suaderoitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:rawbeef"},{"tag":"forge:cookingoil"}],"result":{"item":"pamhc2foodextended:suaderoitem"},"type":"minecraft:crafting_shapeless"}

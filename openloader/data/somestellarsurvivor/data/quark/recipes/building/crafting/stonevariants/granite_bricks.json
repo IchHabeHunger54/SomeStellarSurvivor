@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:polished_granite"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:granite_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:polished_granite"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:granite_bricks"},"type":"minecraft:crafting_shaped"}

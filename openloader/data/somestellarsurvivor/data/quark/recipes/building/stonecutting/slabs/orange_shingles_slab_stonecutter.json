@@ -1,8 +1,1 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "quark:orange_shingles"
-  },
-  "result": "quark:orange_shingles_slab",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":{"item":"quark:orange_shingles"},"result":"quark:orange_shingles_slab","type":"minecraft:stonecutting"}

@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:redstone_lamp"
-    }
-  ],
-  "result": {
-    "item": "quark:lit_lamp"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:redstone_lamp"}],"result":{"item":"quark:lit_lamp"},"type":"minecraft:crafting_shapeless"}

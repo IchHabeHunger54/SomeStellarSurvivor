@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:glowstone"
-  },
-  "input": [
-    {
-      "block": "minecraft:yellow_wool",
-      "display": {
-        "item": "minecraft:yellow_wool"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:glowstone"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:glowstone"},"input":[{"block":"minecraft:yellow_wool","display":{"item":"minecraft:yellow_wool"}}],"output":{"block":"minecraft:glowstone"},"starlight":400,"type":"astralsorcery:block_transmutation"}

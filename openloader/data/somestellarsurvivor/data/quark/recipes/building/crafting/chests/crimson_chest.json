@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:crimson_planks"
-    }
-  },
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "quark:crimson_chest"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:crimson_planks"}},"pattern":["###","# #","###"],"result":{"item":"quark:crimson_chest"},"type":"minecraft:crafting_shaped"}

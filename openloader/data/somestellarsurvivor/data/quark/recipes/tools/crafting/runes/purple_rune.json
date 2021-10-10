@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:stone"
-    },
-    {
-      "tag": "forge:dyes/purple"
-    }
-  ],
-  "result": {
-    "item": "quark:purple_rune"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:stone"},{"tag":"forge:dyes/purple"}],"result":{"item":"quark:purple_rune"},"type":"minecraft:crafting_shapeless"}

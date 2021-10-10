@@ -1,15 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:jungle_box_2"
-    }
-  },
-  "pattern": [
-    "A",
-    "A"
-  ],
-  "result": {
-    "item": "mcwfurnitures:jungle_cupboard_6"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:jungle_box_2"}},"pattern":["A","A"],"result":{"item":"mcwfurnitures:jungle_cupboard_6"},"type":"minecraft:crafting_shaped"}

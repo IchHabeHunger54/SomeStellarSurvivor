@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:bamboo"
-    }
-  },
-  "pattern": [
-    "#",
-    "#"
-  ],
-  "result": {
-    "item": "minecraft:stick"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:bamboo"}},"pattern":["#","#"],"result":{"item":"minecraft:stick"},"type":"minecraft:crafting_shaped"}

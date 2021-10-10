@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:fences/wooden",
-    "#cfm:fences/upgraded"
-  ]
-}
+{"replace":true,"values":["#forge:fences/wooden","#cfm:fences/upgraded"]}

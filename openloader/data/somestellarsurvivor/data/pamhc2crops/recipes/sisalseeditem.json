@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:sisalitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:sisalseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:sisalitem"}],"result":{"item":"pamhc2crops:sisalseeditem"},"type":"minecraft:crafting_shapeless"}

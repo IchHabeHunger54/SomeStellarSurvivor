@@ -1,7 +1,1 @@
-{
-  "repair_material": "tconstruct:tinkers_bronze",
-  "tool": {
-    "item": "tconstruct:flint_and_bronze"
-  },
-  "type": "tconstruct:specialized_station_repair"
-}
+{"repair_material":"tconstruct:tinkers_bronze","tool":{"item":"tconstruct:flint_and_bronze"},"type":"tconstruct:specialized_station_repair"}

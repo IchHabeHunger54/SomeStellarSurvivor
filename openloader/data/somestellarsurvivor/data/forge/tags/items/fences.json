@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:fences/wooden",
-    "minecraft:nether_brick_fence",
-    "#cfm:fences/upgraded"
-  ]
-}
+{"replace":true,"values":["#forge:fences/wooden","minecraft:nether_brick_fence","#cfm:fences/upgraded"]}

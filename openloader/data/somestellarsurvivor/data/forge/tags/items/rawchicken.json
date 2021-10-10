@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:rawchicken/rawchicken",
-    "#forge:rawchicken/rawtofickenitem"
-  ]
-}
+{"replace":true,"values":["#forge:rawchicken/rawchicken","#forge:rawchicken/rawtofickenitem"]}

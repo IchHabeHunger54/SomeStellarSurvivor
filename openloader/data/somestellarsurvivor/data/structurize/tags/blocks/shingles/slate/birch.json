@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "structurize:slate_birch_shingle",
-    "structurize:blue_slate_birch_shingle",
-    "structurize:green_slate_birch_shingle",
-    "structurize:purple_slate_birch_shingle"
-  ]
-}
+{"replace":true,"values":["structurize:slate_birch_shingle","structurize:blue_slate_birch_shingle","structurize:green_slate_birch_shingle","structurize:purple_slate_birch_shingle"]}

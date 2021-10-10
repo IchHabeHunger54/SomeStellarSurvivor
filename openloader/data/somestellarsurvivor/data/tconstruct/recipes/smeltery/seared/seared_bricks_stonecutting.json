@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "tconstruct:seared_paver"
-  },
-  "result": "tconstruct:seared_bricks",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"tconstruct:seared_paver"},"result":"tconstruct:seared_bricks","type":"minecraft:stonecutting"}

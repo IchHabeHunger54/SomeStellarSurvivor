@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "quark:cobbedstone_slab"
-    }
-  ],
-  "result": {
-    "item": "quark:cobbedstone_vertical_slab"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"quark:cobbedstone_slab"}],"result":{"item":"quark:cobbedstone_vertical_slab"},"type":"minecraft:crafting_shapeless"}

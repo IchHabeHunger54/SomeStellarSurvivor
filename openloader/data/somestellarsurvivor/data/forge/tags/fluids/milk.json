@@ -1,13 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    {
-      "id": "minecraft:milk",
-      "required": false
-    },
-    {
-      "id": "minecraft:flowing_milk",
-      "required": false
-    }
-  ]
-}
+{"replace":true,"values":[{"id":"minecraft:milk","required":false},{"id":"minecraft:flowing_milk","required":false}]}

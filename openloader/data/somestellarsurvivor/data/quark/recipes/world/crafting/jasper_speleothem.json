@@ -1,17 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:jasper"
-    }
-  },
-  "pattern": [
-    "#",
-    "#",
-    "#"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:jasper_speleothem"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:jasper"}},"pattern":["#","#","#"],"result":{"count":6,"item":"quark:jasper_speleothem"},"type":"minecraft:crafting_shaped"}

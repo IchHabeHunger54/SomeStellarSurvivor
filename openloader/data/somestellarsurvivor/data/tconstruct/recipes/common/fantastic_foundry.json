@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "item": "minecraft:book"
-  },
-  "cast_consumed": true,
-  "cooling_time": 50,
-  "fluid": {
-    "amount": 144,
-    "name": "tconstruct:scorched_stone"
-  },
-  "result": "tconstruct:fantastic_foundry",
-  "type": "tconstruct:casting_table"
-}
+{"cast":{"item":"minecraft:book"},"cast_consumed":true,"cooling_time":50,"fluid":{"amount":144,"name":"tconstruct:scorched_stone"},"result":"tconstruct:fantastic_foundry","type":"tconstruct:casting_table"}

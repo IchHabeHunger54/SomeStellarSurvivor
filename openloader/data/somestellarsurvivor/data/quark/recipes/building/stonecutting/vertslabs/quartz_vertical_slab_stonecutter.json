@@ -1,8 +1,1 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "minecraft:quartz_block"
-  },
-  "result": "quark:quartz_vertical_slab",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":{"item":"minecraft:quartz_block"},"result":"quark:quartz_vertical_slab","type":"minecraft:stonecutting"}

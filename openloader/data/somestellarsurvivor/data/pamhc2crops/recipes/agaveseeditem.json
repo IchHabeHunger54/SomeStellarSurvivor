@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:agaveitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:agaveseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:agaveitem"}],"result":{"item":"pamhc2crops:agaveseeditem"},"type":"minecraft:crafting_shapeless"}

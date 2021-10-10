@@ -1,17 +1,1 @@
-{
-  "ingredient": [
-    {
-      "item": "ceramics:unfired_porcelain"
-    },
-    {
-      "item": "ceramics:porcelain_brick"
-    }
-  ],
-  "result": {
-    "amount": 250,
-    "fluid": "tconstruct:molten_porcelain"
-  },
-  "temperature": 700,
-  "time": 25,
-  "type": "tconstruct:melting"
-}
+{"ingredient":[{"item":"ceramics:unfired_porcelain"},{"item":"ceramics:porcelain_brick"}],"result":{"amount":250,"fluid":"tconstruct:molten_porcelain"},"temperature":700,"time":25,"type":"tconstruct:melting"}

@@ -1,5 +1,1 @@
-{
-  "container": "tconstruct:copper_can",
-  "fluid_amount": 144,
-  "type": "tconstruct:table_filling"
-}
+{"container":"tconstruct:copper_can","fluid_amount":144,"type":"tconstruct:table_filling"}

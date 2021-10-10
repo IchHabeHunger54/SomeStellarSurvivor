@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "tconstruct:seared_brick"
-    }
-  },
-  "pattern": [
-    "# #",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "tconstruct:seared_basin"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"tconstruct:seared_brick"}},"pattern":["# #","# #","###"],"result":{"item":"tconstruct:seared_basin"},"type":"minecraft:crafting_shaped"}

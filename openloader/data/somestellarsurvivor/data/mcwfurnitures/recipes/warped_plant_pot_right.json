@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:warped_plate"
-    },
-    "B": {
-      "item": "minecraft:flower_pot"
-    }
-  },
-  "pattern": [
-    " AA",
-    " BA"
-  ],
-  "result": {
-    "item": "mcwfurnitures:warped_plant_pot_right"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:warped_plate"},"B":{"item":"minecraft:flower_pot"}},"pattern":[" AA"," BA"],"result":{"item":"mcwfurnitures:warped_plant_pot_right"},"type":"minecraft:crafting_shaped"}

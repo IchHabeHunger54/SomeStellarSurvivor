@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "forge:milk"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:caramelitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"item":"minecraft:sugar"},{"tag":"forge:milk"}],"result":{"item":"pamhc2foodcore:caramelitem"},"type":"minecraft:crafting_shapeless"}

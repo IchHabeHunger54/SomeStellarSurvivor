@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:green_wool"
-    }
-  },
-  "pattern": [
-    "##"
-  ],
-  "result": {
-    "count": 3,
-    "item": "minecraft:green_carpet"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:green_wool"}},"pattern":["##"],"result":{"count":3,"item":"minecraft:green_carpet"},"type":"minecraft:crafting_shaped"}

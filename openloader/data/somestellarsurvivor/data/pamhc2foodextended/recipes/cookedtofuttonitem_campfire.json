@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "pamhc2foodextended:rawtofuttonitem"
-  },
-  "result": "pamhc2foodextended:cookedtofuttonitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"item":"pamhc2foodextended:rawtofuttonitem"},"result":"pamhc2foodextended:cookedtofuttonitem","type":"minecraft:campfire_cooking"}

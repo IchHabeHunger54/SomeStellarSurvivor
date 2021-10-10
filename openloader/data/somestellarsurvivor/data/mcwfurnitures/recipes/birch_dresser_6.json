@@ -1,14 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:birch_nightstand_3"
-    }
-  },
-  "pattern": [
-    "AA"
-  ],
-  "result": {
-    "item": "mcwfurnitures:birch_dresser_6"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:birch_nightstand_3"}},"pattern":["AA"],"result":{"item":"mcwfurnitures:birch_dresser_6"},"type":"minecraft:crafting_shaped"}

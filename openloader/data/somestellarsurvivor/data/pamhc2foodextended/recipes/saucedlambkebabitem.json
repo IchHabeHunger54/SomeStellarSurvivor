@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "item": "pamhc2foodextended:lambkebabitem"
-    },
-    {
-      "tag": "forge:yogurt"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:saucedlambkebabitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"item":"pamhc2foodextended:lambkebabitem"},{"tag":"forge:yogurt"}],"result":{"item":"pamhc2foodextended:saucedlambkebabitem"},"type":"minecraft:crafting_shapeless"}

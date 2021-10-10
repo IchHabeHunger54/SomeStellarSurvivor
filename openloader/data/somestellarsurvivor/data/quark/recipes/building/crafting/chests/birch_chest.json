@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:birch_planks"
-    }
-  },
-  "pattern": [
-    "###",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "quark:birch_chest"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:birch_planks"}},"pattern":["###","# #","###"],"result":{"item":"quark:birch_chest"},"type":"minecraft:crafting_shaped"}

@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:deepslate"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:polished_deepslate"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:deepslate"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:polished_deepslate"},"type":"minecraft:crafting_shaped"}

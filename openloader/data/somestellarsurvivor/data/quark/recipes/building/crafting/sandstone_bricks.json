@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:cut_sandstone"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:sandstone_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:cut_sandstone"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:sandstone_bricks"},"type":"minecraft:crafting_shaped"}

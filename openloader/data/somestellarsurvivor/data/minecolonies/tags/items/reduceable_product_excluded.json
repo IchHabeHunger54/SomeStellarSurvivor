@@ -1,17 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:stone",
-    "minecraft:cobblestone",
-    "minecraft:gravel",
-    "#forge:sand",
-    "#forge:ingots",
-    "#forge:storage_blocks",
-    "minecraft:dried_kelp_block",
-    "minecraft:hay_block",
-    "minecolonies:bread_dough",
-    "minecolonies:cookie_dough",
-    "minecolonies:raw_pumpkin_pie",
-    "minecolonies:cake_batter"
-  ]
-}
+{"replace":true,"values":["#forge:stone","minecraft:cobblestone","minecraft:gravel","#forge:sand","#forge:ingots","#forge:storage_blocks","minecraft:dried_kelp_block","minecraft:hay_block","minecolonies:bread_dough","minecolonies:cookie_dough","minecolonies:raw_pumpkin_pie","minecolonies:cake_batter"]}

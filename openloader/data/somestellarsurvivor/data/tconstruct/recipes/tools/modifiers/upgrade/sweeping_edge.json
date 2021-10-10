@@ -1,17 +1,1 @@
-{
-  "amount_per_item": 1,
-  "input": {
-    "item": "minecraft:chain"
-  },
-  "max_level": 4,
-  "needed_per_level": 64,
-  "result": {
-    "level": 1,
-    "name": "tconstruct:sweeping_edge"
-  },
-  "tools": {
-    "tag": "tconstruct:modifiable/melee/sword"
-  },
-  "type": "tconstruct:incremental_modifier",
-  "upgrade_slots": 1
-}
+{"amount_per_item":1,"input":{"item":"minecraft:chain"},"max_level":4,"needed_per_level":64,"result":{"level":1,"name":"tconstruct:sweeping_edge"},"tools":{"tag":"tconstruct:modifiable/melee/sword"},"type":"tconstruct:incremental_modifier","upgrade_slots":1}

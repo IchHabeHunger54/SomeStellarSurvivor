@@ -1,12 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:water_bucket"
-    }
-  ],
-  "result": {
-    "count": 8,
-    "item": "pamhc2foodcore:freshwateritem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:water_bucket"}],"result":{"count":8,"item":"pamhc2foodcore:freshwateritem"},"type":"minecraft:crafting_shapeless"}

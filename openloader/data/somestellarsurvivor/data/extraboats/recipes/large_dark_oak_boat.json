@@ -1,18 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "minecraft:dark_oak_planks"
-    },
-    "W": {
-      "item": "minecraft:dark_oak_boat"
-    }
-  },
-  "pattern": [
-    "#W#",
-    "###"
-  ],
-  "result": {
-    "item": "extraboats:large_dark_oak_boat"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"minecraft:dark_oak_planks"},"W":{"item":"minecraft:dark_oak_boat"}},"pattern":["#W#","###"],"result":{"item":"extraboats:large_dark_oak_boat"},"type":"minecraft:crafting_shaped"}

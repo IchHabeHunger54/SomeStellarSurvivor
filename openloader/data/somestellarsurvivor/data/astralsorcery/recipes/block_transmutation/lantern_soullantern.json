@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:soul_lantern"
-  },
-  "input": [
-    {
-      "block": "minecraft:lantern",
-      "display": {
-        "item": "minecraft:lantern"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:soul_lantern"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:soul_lantern"},"input":[{"block":"minecraft:lantern","display":{"item":"minecraft:lantern"}}],"output":{"block":"minecraft:soul_lantern"},"starlight":400,"type":"astralsorcery:block_transmutation"}

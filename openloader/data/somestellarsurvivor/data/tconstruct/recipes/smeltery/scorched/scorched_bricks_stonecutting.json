@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "tconstruct:polished_scorched_stone"
-  },
-  "result": "tconstruct:scorched_bricks",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"tconstruct:polished_scorched_stone"},"result":"tconstruct:scorched_bricks","type":"minecraft:stonecutting"}

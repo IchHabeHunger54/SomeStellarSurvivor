@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "structurize:slate_cactus_shingle",
-    "structurize:blue_slate_cactus_shingle",
-    "structurize:green_slate_cactus_shingle",
-    "structurize:purple_slate_cactus_shingle"
-  ]
-}
+{"replace":true,"values":["structurize:slate_cactus_shingle","structurize:blue_slate_cactus_shingle","structurize:green_slate_cactus_shingle","structurize:purple_slate_cactus_shingle"]}

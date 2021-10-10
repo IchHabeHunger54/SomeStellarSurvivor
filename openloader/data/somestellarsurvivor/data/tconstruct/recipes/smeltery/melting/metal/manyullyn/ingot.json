@@ -1,12 +1,1 @@
-{
-  "ingredient": {
-    "item": "tconstruct:manyullyn_ingot"
-  },
-  "result": {
-    "amount": 144,
-    "fluid": "tconstruct:molten_manyullyn"
-  },
-  "temperature": 1200,
-  "time": 72,
-  "type": "tconstruct:melting"
-}
+{"ingredient":{"item":"tconstruct:manyullyn_ingot"},"result":{"amount":144,"fluid":"tconstruct:molten_manyullyn"},"temperature":1200,"time":72,"type":"tconstruct:melting"}

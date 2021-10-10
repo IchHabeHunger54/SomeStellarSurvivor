@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:sky_slime",
-    "tconstruct:flowing_sky_slime"
-  ]
-}
+{"replace":true,"values":["tconstruct:sky_slime","tconstruct:flowing_sky_slime"]}

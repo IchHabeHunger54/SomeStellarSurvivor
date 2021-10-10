@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "ceramics:golden_bricks"
-  },
-  "result": "ceramics:golden_bricks_wall",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"ceramics:golden_bricks"},"result":"ceramics:golden_bricks_wall","type":"minecraft:stonecutting"}

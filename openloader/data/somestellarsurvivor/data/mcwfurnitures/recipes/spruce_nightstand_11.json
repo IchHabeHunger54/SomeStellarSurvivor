@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:spruce_plate"
-    },
-    "B": {
-      "item": "minecraft:spruce_fence"
-    }
-  },
-  "pattern": [
-    "A",
-    "B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:spruce_nightstand_11"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:spruce_plate"},"B":{"item":"minecraft:spruce_fence"}},"pattern":["A","B"],"result":{"item":"mcwfurnitures:spruce_nightstand_11"},"type":"minecraft:crafting_shaped"}

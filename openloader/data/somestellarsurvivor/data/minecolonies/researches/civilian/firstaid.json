@@ -1,16 +1,1 @@
-{
-  "branch": "minecolonies:civilian",
-  "effects": [
-    {
-      "minecolonies:effects/healthaddition": 1
-    }
-  ],
-  "icon": "minecraft:hay_block",
-  "requirements": [
-    {
-      "item": "minecraft:hay_block",
-      "quantity": 1
-    }
-  ],
-  "researchLevel": 1
-}
+{"branch":"minecolonies:civilian","effects":[{"minecolonies:effects/healthaddition":1}],"icon":"minecraft:hay_block","requirements":[{"item":"minecraft:hay_block","quantity":1}],"researchLevel":1}

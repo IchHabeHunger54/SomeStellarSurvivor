@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_slimesteel",
-    "tconstruct:flowing_molten_slimesteel"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_slimesteel","tconstruct:flowing_molten_slimesteel"]}

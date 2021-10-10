@@ -1,13 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:carbs/barley",
-    "#forge:carbs/corn",
-    "#forge:carbs/oat",
-    "#forge:carbs/oats",
-    "#forge:carbs/rice",
-    "#forge:carbs/rye",
-    "#forge:carbs/sweet_potato",
-    "#forge:carbs/sweetpotato"
-  ]
-}
+{"replace":true,"values":["#forge:carbs/barley","#forge:carbs/corn","#forge:carbs/oat","#forge:carbs/oats","#forge:carbs/rice","#forge:carbs/rye","#forge:carbs/sweet_potato","#forge:carbs/sweetpotato"]}

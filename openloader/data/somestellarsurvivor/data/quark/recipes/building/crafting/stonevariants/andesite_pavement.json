@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:andesite_pillar"
-    }
-  },
-  "pattern": [
-    "##",
-    "##"
-  ],
-  "result": {
-    "count": 4,
-    "item": "quark:andesite_pavement"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:andesite_pillar"}},"pattern":["##","##"],"result":{"count":4,"item":"quark:andesite_pavement"},"type":"minecraft:crafting_shaped"}

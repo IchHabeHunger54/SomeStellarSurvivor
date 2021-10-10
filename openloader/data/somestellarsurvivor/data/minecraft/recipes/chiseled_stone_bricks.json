@@ -1,16 +1,1 @@
-{
-  "key": {
-    "N": {
-      "item": "minecraft:stone_bricks"
-    }
-  },
-  "pattern": [
-    "NN",
-    "NN"
-  ],
-  "result": {
-    "count": 4,
-    "item": "minecraft:chiseled_stone_bricks"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"N":{"item":"minecraft:stone_bricks"}},"pattern":["NN","NN"],"result":{"count":4,"item":"minecraft:chiseled_stone_bricks"},"type":"minecraft:crafting_shaped"}

@@ -1,8 +1,1 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "quark:granite_bricks"
-  },
-  "result": "quark:granite_bricks_slab",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":{"item":"quark:granite_bricks"},"result":"quark:granite_bricks_slab","type":"minecraft:stonecutting"}

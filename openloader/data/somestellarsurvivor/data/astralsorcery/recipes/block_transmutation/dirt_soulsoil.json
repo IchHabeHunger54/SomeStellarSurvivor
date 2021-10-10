@@ -1,18 +1,1 @@
-{
-  "display": {
-    "item": "minecraft:soul_soil"
-  },
-  "input": [
-    {
-      "block": "minecraft:dirt",
-      "display": {
-        "item": "minecraft:dirt"
-      }
-    }
-  ],
-  "output": {
-    "block": "minecraft:soul_soil"
-  },
-  "starlight": 400,
-  "type": "astralsorcery:block_transmutation"
-}
+{"display":{"item":"minecraft:soul_soil"},"input":[{"block":"minecraft:dirt","display":{"item":"minecraft:dirt"}}],"output":{"block":"minecraft:soul_soil"},"starlight":400,"type":"astralsorcery:block_transmutation"}

@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:cream/cream",
-    "#forge:cream/silkentofu"
-  ]
-}
+{"replace":true,"values":["#forge:cream/cream","#forge:cream/silkentofu"]}

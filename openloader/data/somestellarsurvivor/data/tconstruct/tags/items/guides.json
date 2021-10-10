@@ -1,10 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:materials_and_you",
-    "tconstruct:puny_smelting",
-    "tconstruct:mighty_smelting",
-    "tconstruct:fantastic_foundry",
-    "tconstruct:encyclopedia"
-  ]
-}
+{"replace":true,"values":["tconstruct:materials_and_you","tconstruct:puny_smelting","tconstruct:mighty_smelting","tconstruct:fantastic_foundry","tconstruct:encyclopedia"]}

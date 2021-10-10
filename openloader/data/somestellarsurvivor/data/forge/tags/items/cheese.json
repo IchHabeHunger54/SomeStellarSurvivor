@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:cheese/cheese",
-    "#forge:cheese/silkentofu"
-  ]
-}
+{"replace":true,"values":["#forge:cheese/cheese","#forge:cheese/silkentofu"]}

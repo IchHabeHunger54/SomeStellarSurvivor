@@ -1,16 +1,1 @@
-{
-  "key": {
-    "N": {
-      "item": "minecraft:polished_blackstone_bricks"
-    }
-  },
-  "pattern": [
-    "NN",
-    "NN"
-  ],
-  "result": {
-    "count": 4,
-    "item": "minecraft:chiseled_polished_blackstone"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"N":{"item":"minecraft:polished_blackstone_bricks"}},"pattern":["NN","NN"],"result":{"count":4,"item":"minecraft:chiseled_polished_blackstone"},"type":"minecraft:crafting_shaped"}

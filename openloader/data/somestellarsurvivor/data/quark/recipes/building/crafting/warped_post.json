@@ -1,17 +1,1 @@
-{
-  "key": {
-    "F": {
-      "item": "minecraft:warped_hyphae"
-    }
-  },
-  "pattern": [
-    "F",
-    "F",
-    "F"
-  ],
-  "result": {
-    "count": 8,
-    "item": "quark:warped_post"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"F":{"item":"minecraft:warped_hyphae"}},"pattern":["F","F","F"],"result":{"count":8,"item":"quark:warped_post"},"type":"minecraft:crafting_shaped"}

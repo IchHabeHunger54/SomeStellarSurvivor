@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "forge:dyes"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:marshmellowchicksitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"item":"minecraft:sugar"},{"tag":"forge:dyes"}],"result":{"item":"pamhc2foodcore:marshmellowchicksitem"},"type":"minecraft:crafting_shapeless"}

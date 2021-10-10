@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:dark_oak_plate"
-    },
-    "B": {
-      "item": "minecraft:dark_oak_fence"
-    }
-  },
-  "pattern": [
-    " AA",
-    " BB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:dark_oak_modern_chair"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:dark_oak_plate"},"B":{"item":"minecraft:dark_oak_fence"}},"pattern":[" AA"," BB"],"result":{"item":"mcwfurnitures:dark_oak_modern_chair"},"type":"minecraft:crafting_shaped"}

@@ -1,13 +1,1 @@
-{
-  "input": [
-    {
-      "max-saturation": 0.5,
-      "type": "minecolonies:food"
-    },
-    {
-      "tag": "minecolonies:compostables_poor"
-    }
-  ],
-  "strength": 2,
-  "type": "minecolonies:composting"
-}
+{"input":[{"max-saturation":0.5,"type":"minecolonies:food"},{"tag":"minecolonies:compostables_poor"}],"strength":2,"type":"minecolonies:composting"}

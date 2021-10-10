@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:gold_ore"
-  ]
-}
+{"replace":true,"values":["minecraft:gold_ore"]}

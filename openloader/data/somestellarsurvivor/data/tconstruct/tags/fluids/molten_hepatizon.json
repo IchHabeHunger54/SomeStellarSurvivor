@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_hepatizon",
-    "tconstruct:flowing_molten_hepatizon"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_hepatizon","tconstruct:flowing_molten_hepatizon"]}

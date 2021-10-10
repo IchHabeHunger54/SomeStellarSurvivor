@@ -1,8 +1,1 @@
-{
-  "count": 2,
-  "ingredient": {
-    "item": "quark:mossy_cobblestone_bricks"
-  },
-  "result": "quark:mossy_cobblestone_bricks_slab",
-  "type": "minecraft:stonecutting"
-}
+{"count":2,"ingredient":{"item":"quark:mossy_cobblestone_bricks"},"result":"quark:mossy_cobblestone_bricks_slab","type":"minecraft:stonecutting"}

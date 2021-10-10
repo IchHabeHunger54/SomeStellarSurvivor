@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_saucepan"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "forge:crops/sweet_potato"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:candiedsweetpotatoesitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_saucepan"},{"item":"minecraft:sugar"},{"tag":"forge:crops/sweet_potato"}],"result":{"item":"pamhc2foodextended:candiedsweetpotatoesitem"},"type":"minecraft:crafting_shapeless"}

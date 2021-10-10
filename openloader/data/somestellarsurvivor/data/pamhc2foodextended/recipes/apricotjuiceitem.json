@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/apricot"
-    },
-    {
-      "tag": "forge:fruits/apricot"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:apricotjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/apricot"},{"tag":"forge:fruits/apricot"}],"result":{"item":"pamhc2foodextended:apricotjuiceitem"},"type":"minecraft:crafting_shapeless"}

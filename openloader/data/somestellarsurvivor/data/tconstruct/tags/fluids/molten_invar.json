@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:molten_invar",
-    "tconstruct:flowing_molten_invar"
-  ]
-}
+{"replace":true,"values":["tconstruct:molten_invar","tconstruct:flowing_molten_invar"]}

@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:milk/freshmilk",
-    "#forge:milk/milk",
-    "#forge:milk/soymilk"
-  ]
-}
+{"replace":true,"values":["#forge:milk/freshmilk","#forge:milk/milk","#forge:milk/soymilk"]}

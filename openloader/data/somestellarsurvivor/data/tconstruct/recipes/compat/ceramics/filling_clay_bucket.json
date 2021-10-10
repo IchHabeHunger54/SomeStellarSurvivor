@@ -1,5 +1,1 @@
-{
-  "container": "ceramics:clay_bucket",
-  "fluid_amount": 1000,
-  "type": "tconstruct:table_filling"
-}
+{"container":"ceramics:clay_bucket","fluid_amount":1000,"type":"tconstruct:table_filling"}

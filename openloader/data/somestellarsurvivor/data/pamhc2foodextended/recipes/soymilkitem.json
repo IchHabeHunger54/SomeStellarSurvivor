@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_pot"
-    },
-    {
-      "tag": "forge:crops/soybean"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:soymilkitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:crops/soybean"}],"result":{"item":"pamhc2foodextended:soymilkitem"},"type":"minecraft:crafting_shapeless"}

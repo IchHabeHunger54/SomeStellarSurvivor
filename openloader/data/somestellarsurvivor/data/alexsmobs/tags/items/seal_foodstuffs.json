@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:fishes",
-    "alexsmobs:lobster_tail",
-    "alexsmobs:cooked_lobster_tail"
-  ]
-}
+{"replace":true,"values":["#minecraft:fishes","alexsmobs:lobster_tail","alexsmobs:cooked_lobster_tail"]}

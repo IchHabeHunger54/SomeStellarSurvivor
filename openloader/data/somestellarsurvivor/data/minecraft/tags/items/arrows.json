@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:arrow",
-    "alexsmobs:shark_tooth_arrow",
-    "inspirations:charged_arrow"
-  ]
-}
+{"replace":true,"values":["minecraft:arrow","alexsmobs:shark_tooth_arrow","inspirations:charged_arrow"]}

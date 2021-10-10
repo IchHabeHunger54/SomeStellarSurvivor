@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "minecraft:red_sandstone"
-  },
-  "result": "quark:red_sandstone_bricks",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"minecraft:red_sandstone"},"result":"quark:red_sandstone_bricks","type":"minecraft:stonecutting"}

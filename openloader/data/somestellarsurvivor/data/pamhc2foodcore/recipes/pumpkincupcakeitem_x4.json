@@ -1,18 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:crops/pumpkin"
-    },
-    {
-      "tag": "forge:dough"
-    }
-  ],
-  "result": {
-    "count": 4,
-    "item": "pamhc2foodcore:pumpkincupcakeitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:crops/pumpkin"},{"tag":"forge:dough"}],"result":{"count":4,"item":"pamhc2foodcore:pumpkincupcakeitem"},"type":"minecraft:crafting_shapeless"}

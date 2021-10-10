@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:barrels/wooden"
-  ]
-}
+{"replace":true,"values":["#forge:barrels/wooden"]}

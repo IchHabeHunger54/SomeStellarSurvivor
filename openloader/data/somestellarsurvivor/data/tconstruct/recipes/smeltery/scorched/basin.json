@@ -1,16 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "tconstruct:scorched_brick"
-    }
-  },
-  "pattern": [
-    "# #",
-    "# #",
-    "###"
-  ],
-  "result": {
-    "item": "tconstruct:scorched_basin"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"tconstruct:scorched_brick"}},"pattern":["# #","# #","###"],"result":{"item":"tconstruct:scorched_basin"},"type":"minecraft:crafting_shaped"}

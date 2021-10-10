@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "item": "minecraft:chicken"
-  },
-  "result": "minecraft:cooked_chicken",
-  "type": "cfm:grill_cooking"
-}
+{"cookingtime":600,"ingredient":{"item":"minecraft:chicken"},"result":"minecraft:cooked_chicken","type":"cfm:grill_cooking"}

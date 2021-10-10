@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:blue_shingles"
-    }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:blue_shingles_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:blue_shingles"}},"pattern":["###"],"result":{"count":6,"item":"quark:blue_shingles_slab"},"type":"minecraft:crafting_shaped"}

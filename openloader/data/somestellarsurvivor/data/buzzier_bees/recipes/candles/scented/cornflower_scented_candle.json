@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "buzzier_bees:candle"
-    },
-    {
-      "item": "minecraft:cornflower"
-    }
-  ],
-  "result": {
-    "item": "buzzier_bees:cornflower_scented_candle"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"buzzier_bees:candle"},{"item":"minecraft:cornflower"}],"result":{"item":"buzzier_bees:cornflower_scented_candle"},"type":"minecraft:crafting_shapeless"}

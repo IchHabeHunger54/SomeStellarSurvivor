@@ -1,8 +1,1 @@
-{
-  "count": 1,
-  "ingredient": {
-    "item": "quark:vanilla_basalt_bricks"
-  },
-  "result": "quark:vanilla_basalt_bricks_stairs",
-  "type": "minecraft:stonecutting"
-}
+{"count":1,"ingredient":{"item":"quark:vanilla_basalt_bricks"},"result":"quark:vanilla_basalt_bricks_stairs","type":"minecraft:stonecutting"}

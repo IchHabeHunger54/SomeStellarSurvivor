@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "minecraft:cooked_rabbit"
-  ]
-}
+{"replace":true,"values":["minecraft:cooked_rabbit"]}

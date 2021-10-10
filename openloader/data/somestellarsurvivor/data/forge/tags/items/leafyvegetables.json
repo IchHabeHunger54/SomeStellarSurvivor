@@ -1,9 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:leafyvegetables/cabbage",
-    "#forge:leafyvegetables/kale",
-    "#forge:leafyvegetables/lettuce",
-    "#forge:leafyvegetables/spinach"
-  ]
-}
+{"replace":true,"values":["#forge:leafyvegetables/cabbage","#forge:leafyvegetables/kale","#forge:leafyvegetables/lettuce","#forge:leafyvegetables/spinach"]}

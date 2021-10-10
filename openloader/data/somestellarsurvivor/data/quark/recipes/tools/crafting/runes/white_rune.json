@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "minecraft:stone"
-    },
-    {
-      "tag": "forge:dyes/white"
-    }
-  ],
-  "result": {
-    "item": "quark:white_rune"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"minecraft:stone"},{"tag":"forge:dyes/white"}],"result":{"item":"quark:white_rune"},"type":"minecraft:crafting_shapeless"}

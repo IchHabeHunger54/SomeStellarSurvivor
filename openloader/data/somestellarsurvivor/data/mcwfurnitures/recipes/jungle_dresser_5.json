@@ -1,14 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:jungle_dresser_4"
-    }
-  },
-  "pattern": [
-    "A"
-  ],
-  "result": {
-    "item": "mcwfurnitures:jungle_dresser_5"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:jungle_dresser_4"}},"pattern":["A"],"result":{"item":"mcwfurnitures:jungle_dresser_5"},"type":"minecraft:crafting_shaped"}

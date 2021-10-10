@@ -1,9 +1,1 @@
-{
-  "input": "tconstruct:seared_stone",
-  "result": {
-    "amount": 288,
-    "fluid": "tconstruct:seared_stone"
-  },
-  "temperature": 600,
-  "type": "tconstruct:material_melting"
-}
+{"input":"tconstruct:seared_stone","result":{"amount":288,"fluid":"tconstruct:seared_stone"},"temperature":600,"type":"tconstruct:material_melting"}

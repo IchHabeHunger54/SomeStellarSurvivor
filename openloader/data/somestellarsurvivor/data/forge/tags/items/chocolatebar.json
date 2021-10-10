@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:chocolatebar/chocolatebar"
-  ]
-}
+{"replace":true,"values":["#forge:chocolatebar/chocolatebar"]}

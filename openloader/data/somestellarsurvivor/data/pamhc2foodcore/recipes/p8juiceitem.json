@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:vegetables"
-    },
-    {
-      "tag": "forge:vegetables"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:p8juiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:vegetables"},{"tag":"forge:vegetables"}],"result":{"item":"pamhc2foodcore:p8juiceitem"},"type":"minecraft:crafting_shapeless"}

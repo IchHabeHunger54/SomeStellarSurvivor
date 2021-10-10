@@ -1,11 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#alexsmobs:orca_breakables",
-    "#minecraft:planks",
-    "#minecraft:logs",
-    "#minecraft:wooden_stairs",
-    "#minecraft:wooden_slabs",
-    "#minecraft:wool"
-  ]
-}
+{"replace":true,"values":["#alexsmobs:orca_breakables","#minecraft:planks","#minecraft:logs","#minecraft:wooden_stairs","#minecraft:wooden_slabs","#minecraft:wool"]}

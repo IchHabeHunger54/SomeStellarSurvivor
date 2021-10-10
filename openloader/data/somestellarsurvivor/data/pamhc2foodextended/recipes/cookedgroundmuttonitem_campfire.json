@@ -1,8 +1,1 @@
-{
-  "cookingtime": 600,
-  "ingredient": {
-    "tag": "forge:groundmeats/groundmutton"
-  },
-  "result": "pamhc2foodextended:cookedgroundmuttonitem",
-  "type": "minecraft:campfire_cooking"
-}
+{"cookingtime":600,"ingredient":{"tag":"forge:groundmeats/groundmutton"},"result":"pamhc2foodextended:cookedgroundmuttonitem","type":"minecraft:campfire_cooking"}

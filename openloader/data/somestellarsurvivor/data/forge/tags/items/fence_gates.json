@@ -1,8 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:fence_gates/wooden",
-    "quark:nether_brick_fence_gate",
-    "#cfm:fence_gates/upgraded"
-  ]
-}
+{"replace":true,"values":["#forge:fence_gates/wooden","quark:nether_brick_fence_gate","#cfm:fence_gates/upgraded"]}

@@ -1,18 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:birch_plate"
-    },
-    "B": {
-      "item": "minecraft:birch_log"
-    }
-  },
-  "pattern": [
-    "A",
-    "B"
-  ],
-  "result": {
-    "item": "mcwfurnitures:birch_pult"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:birch_plate"},"B":{"item":"minecraft:birch_log"}},"pattern":["A","B"],"result":{"item":"mcwfurnitures:birch_pult"},"type":"minecraft:crafting_shaped"}

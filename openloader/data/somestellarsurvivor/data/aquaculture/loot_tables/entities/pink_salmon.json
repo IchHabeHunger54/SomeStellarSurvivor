@@ -1,14 +1,1 @@
-{
-  "pools": [
-    {
-      "entries": [
-        {
-          "name": "aquaculture:pink_salmon",
-          "type": "minecraft:item"
-        }
-      ],
-      "rolls": 1
-    }
-  ],
-  "type": "minecraft:entity"
-}
+{"pools":[{"entries":[{"name":"aquaculture:pink_salmon","type":"minecraft:item"}],"rolls":1}],"type":"minecraft:entity"}

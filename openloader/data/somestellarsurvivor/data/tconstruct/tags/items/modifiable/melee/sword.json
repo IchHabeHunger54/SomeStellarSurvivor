@@ -1,7 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "tconstruct:sword",
-    "tconstruct:cleaver"
-  ]
-}
+{"replace":true,"values":["tconstruct:sword","tconstruct:cleaver"]}

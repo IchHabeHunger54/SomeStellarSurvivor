@@ -1,17 +1,1 @@
-{
-  "key": {
-    "A": {
-      "item": "mcwfurnitures:spruce_furniture_3"
-    },
-    "B": {
-      "item": "minecraft:glass_pane"
-    }
-  },
-  "pattern": [
-    "BAB"
-  ],
-  "result": {
-    "item": "mcwfurnitures:spruce_furniture_4"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"A":{"item":"mcwfurnitures:spruce_furniture_3"},"B":{"item":"minecraft:glass_pane"}},"pattern":["BAB"],"result":{"item":"mcwfurnitures:spruce_furniture_4"},"type":"minecraft:crafting_shaped"}

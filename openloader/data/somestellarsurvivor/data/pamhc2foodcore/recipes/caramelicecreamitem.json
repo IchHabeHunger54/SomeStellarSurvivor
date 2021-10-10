@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_mixingbowl"
-    },
-    {
-      "tag": "forge:icecream"
-    },
-    {
-      "tag": "forge:caramel"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodcore:caramelicecreamitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_mixingbowl"},{"tag":"forge:icecream"},{"tag":"forge:caramel"}],"result":{"item":"pamhc2foodcore:caramelicecreamitem"},"type":"minecraft:crafting_shapeless"}

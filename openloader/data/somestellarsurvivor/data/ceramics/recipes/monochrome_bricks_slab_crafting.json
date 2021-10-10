@@ -1,15 +1,1 @@
-{
-  "key": {
-    "B": {
-      "item": "ceramics:monochrome_bricks"
-    }
-  },
-  "pattern": [
-    "BBB"
-  ],
-  "result": {
-    "count": 6,
-    "item": "ceramics:monochrome_bricks_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"B":{"item":"ceramics:monochrome_bricks"}},"pattern":["BBB"],"result":{"count":6,"item":"ceramics:monochrome_bricks_slab"},"type":"minecraft:crafting_shaped"}

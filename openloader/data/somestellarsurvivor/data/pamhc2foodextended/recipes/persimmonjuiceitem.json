@@ -1,17 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:tool_juicer"
-    },
-    {
-      "tag": "forge:fruits/persimmon"
-    },
-    {
-      "tag": "forge:fruits/persimmon"
-    }
-  ],
-  "result": {
-    "item": "pamhc2foodextended:persimmonjuiceitem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:tool_juicer"},{"tag":"forge:fruits/persimmon"},{"tag":"forge:fruits/persimmon"}],"result":{"item":"pamhc2foodextended:persimmonjuiceitem"},"type":"minecraft:crafting_shapeless"}

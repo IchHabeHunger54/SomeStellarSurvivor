@@ -1,11 +1,1 @@
-{
-  "ingredients": [
-    {
-      "item": "pamhc2crops:beanitem"
-    }
-  ],
-  "result": {
-    "item": "pamhc2crops:beanseeditem"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"item":"pamhc2crops:beanitem"}],"result":{"item":"pamhc2crops:beanseeditem"},"type":"minecraft:crafting_shapeless"}

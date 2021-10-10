@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "forge:fiber"
-    },
-    {
-      "tag": "forge:fiber"
-    }
-  ],
-  "result": {
-    "item": "minecraft:string"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"forge:fiber"},{"tag":"forge:fiber"}],"result":{"item":"minecraft:string"},"type":"minecraft:crafting_shapeless"}

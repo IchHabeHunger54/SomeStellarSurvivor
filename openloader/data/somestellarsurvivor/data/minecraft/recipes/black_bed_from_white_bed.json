@@ -1,14 +1,1 @@
-{
-  "ingredients": [
-    {
-      "tag": "minecraft:beds"
-    },
-    {
-      "tag": "forge:dyes/black"
-    }
-  ],
-  "result": {
-    "item": "minecraft:black_bed"
-  },
-  "type": "minecraft:crafting_shapeless"
-}
+{"ingredients":[{"tag":"minecraft:beds"},{"tag":"forge:dyes/black"}],"result":{"item":"minecraft:black_bed"},"type":"minecraft:crafting_shapeless"}

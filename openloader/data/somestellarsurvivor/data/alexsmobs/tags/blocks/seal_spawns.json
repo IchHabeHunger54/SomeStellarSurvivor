@@ -1,10 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#minecraft:sand",
-    "#minecraft:ice",
-    "#minecraft:base_stone_overworld",
-    "minecraft:gravel",
-    "minecraft:snow_block"
-  ]
-}
+{"replace":true,"values":["#minecraft:sand","#minecraft:ice","#minecraft:base_stone_overworld","minecraft:gravel","minecraft:snow_block"]}

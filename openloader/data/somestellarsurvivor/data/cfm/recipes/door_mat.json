@@ -1,15 +1,1 @@
-{
-  "key": {
-    "W": {
-      "item": "minecraft:wheat"
-    }
-  },
-  "pattern": [
-    "WWW",
-    "WWW"
-  ],
-  "result": {
-    "item": "cfm:door_mat"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"W":{"item":"minecraft:wheat"}},"pattern":["WWW","WWW"],"result":{"item":"cfm:door_mat"},"type":"minecraft:crafting_shaped"}

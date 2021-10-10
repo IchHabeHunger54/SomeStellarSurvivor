@@ -1,13 +1,1 @@
-{
-  "cast": {
-    "tag": "forge:glass"
-  },
-  "cast_consumed": true,
-  "cooling_time": 100,
-  "fluid": {
-    "amount": 576,
-    "name": "tconstruct:scorched_stone"
-  },
-  "result": "tconstruct:scorched_glass",
-  "type": "tconstruct:casting_basin"
-}
+{"cast":{"tag":"forge:glass"},"cast_consumed":true,"cooling_time":100,"fluid":{"amount":576,"name":"tconstruct:scorched_stone"},"result":"tconstruct:scorched_glass","type":"tconstruct:casting_basin"}

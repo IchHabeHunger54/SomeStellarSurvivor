@@ -1,6 +1,1 @@
-{
-  "replace": true,
-  "values": [
-    "#forge:cocoapowder/cocoapowder"
-  ]
-}
+{"replace":true,"values":["#forge:cocoapowder/cocoapowder"]}

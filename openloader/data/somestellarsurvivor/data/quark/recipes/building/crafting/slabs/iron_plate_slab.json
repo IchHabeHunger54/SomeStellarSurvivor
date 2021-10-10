@@ -1,15 +1,1 @@
-{
-  "key": {
-    "#": {
-      "item": "quark:iron_plate"
-    }
-  },
-  "pattern": [
-    "###"
-  ],
-  "result": {
-    "count": 6,
-    "item": "quark:iron_plate_slab"
-  },
-  "type": "minecraft:crafting_shaped"
-}
+{"key":{"#":{"item":"quark:iron_plate"}},"pattern":["###"],"result":{"count":6,"item":"quark:iron_plate_slab"},"type":"minecraft:crafting_shaped"}
