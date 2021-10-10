@@ -1,1 +1,1 @@
-{"biomes":[[{"negate":false,"type":"BIOME_DICT","value":"overworld"},{"negate":false,"type":"BIOME_DICT","value":"river"},{"negate":true,"type":"BIOME_DICT","value":"cold"}],[{"negate":false,"type":"REGISTRY_NAME","value":"biomesoplenty:tundra_bog"}]]}
+{"biomes":[[{"negate":false,"type":"BIOME_DICT","value":"overworld"},{"negate":false,"type":"BIOME_DICT","value":"river"},{"negate":true,"type":"BIOME_DICT","value":"cold"}]]}
