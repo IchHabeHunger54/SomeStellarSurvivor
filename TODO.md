@@ -14,7 +14,6 @@ Finished stuff will be removed from this list.
 - Configure Property Modifier
 - Set food values
 - Set fuel values
-- Fix Quark buttons in TConstruct GUIs
 - Fix stronghold issue
 - Tooltip Removal
 - Tempban feature
