@@ -1,1 +1,6 @@
-{"config":{"probability":0.02},"type":"minecraft:canyon"}
+{
+  "config": {
+    "probability": 0.02
+  },
+  "type": "minecraft:canyon"
+}

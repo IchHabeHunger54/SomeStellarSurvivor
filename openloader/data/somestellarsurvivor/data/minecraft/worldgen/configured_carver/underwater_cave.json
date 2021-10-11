@@ -1,1 +1,6 @@
-{"config":{"probability":0.05},"type":"minecraft:underwater_cave"}
+{
+  "config": {
+    "probability": 0.05
+  },
+  "type": "minecraft:underwater_cave"
+}

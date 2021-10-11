@@ -38,22 +38,23 @@
     [
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
-      "minecraft:ore_granite",
-      "minecraft:ore_diorite",
-      "minecraft:ore_andesite",
+      "minecraft:ore_blackstone",
       "minecraft:ore_coal",
-      "minecraft:ore_iron",
-      "minecraft:ore_gold",
-      "minecraft:ore_redstone",
-      "minecraft:ore_diamond",
       "minecraft:ore_lapis",
+      "minecraft:ore_iron",
+      "tconstruct:copper_ore",
+      "minecraft:ore_gold",
+      "minecraft:ore_diamond",
+      "minecraft:ore_emerald",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "astralsorcery:marble",
       "astralsorcery:aquamarine",
       "astralsorcery:rock_crystal",
-      "tconstruct:copper_ore",
+      "minecraft:ore_andesite",
+      "minecraft:ore_diorite",
+      "minecraft:ore_granite",
       "quark:deferred_feature_underground_ores"
     ],
     [
@@ -97,24 +98,6 @@
       }
     ],
     "creature": [
-      {
-        "maxCount": 8,
-        "minCount": 4,
-        "type": "minecraft:mooshroom",
-        "weight": 8
-      },
-      {
-        "maxCount": 8,
-        "minCount": 3,
-        "type": "alexsmobs:seal",
-        "weight": 30
-      },
-      {
-        "maxCount": 6,
-        "minCount": 3,
-        "type": "alexsmobs:seagull",
-        "weight": 20
-      },
       {
         "maxCount": 8,
         "minCount": 3,
@@ -172,20 +155,11 @@
         "minCount": 3,
         "type": "alexsmobs:lobster",
         "weight": 7
-      },
-      {
-        "maxCount": 5,
-        "minCount": 3,
-        "type": "alexsmobs:lobster",
-        "weight": 7
       }
     ],
     "water_creature": []
   },
-  "starts": [
-    "minecraft:mineshaft",
-    "minecraft:ruined_portal"
-  ],
+  "starts": [],
   "surface_builder": "minecraft:mycelium",
   "temperature": 0.9
 }
