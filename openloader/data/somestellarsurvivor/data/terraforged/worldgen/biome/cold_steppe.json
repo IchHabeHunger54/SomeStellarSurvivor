@@ -7,7 +7,7 @@
   },
   "category": "taiga",
   "depth": 0.2,
-  "downfall": 0.025,
+  "downfall": 0.05,
   "effects": {
     "fog_color": 12638463,
     "sky_color": 8233983,

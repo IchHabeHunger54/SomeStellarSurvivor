@@ -7,7 +7,7 @@
   },
   "category": "icy",
   "depth": 0.2,
-  "downfall": 0.15,
+  "downfall": 0.8,
   "effects": {
     "fog_color": 12638463,
     "sky_color": 8625919,
@@ -220,5 +220,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:grass",
-  "temperature": 0.14999
+  "temperature": 0.0
 }

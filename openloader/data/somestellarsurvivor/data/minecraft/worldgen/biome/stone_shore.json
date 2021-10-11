@@ -5,7 +5,7 @@
       "minecraft:canyon"
     ]
   },
-  "category": "none",
+  "category": "beach",
   "depth": 0.1,
   "downfall": 0.3,
   "effects": {
@@ -79,7 +79,7 @@
   "forge:registry_name": "minecraft:stone_shore",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.8,
+  "scale": 0.025,
   "spawn_costs": {},
   "spawners": {
     "ambient": [],

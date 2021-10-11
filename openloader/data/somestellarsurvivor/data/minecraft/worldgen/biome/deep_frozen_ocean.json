@@ -85,7 +85,7 @@
   ],
   "forge:registry_name": "minecraft:deep_frozen_ocean",
   "player_spawn_friendly": false,
-  "precipitation": "rain",
+  "precipitation": "snow",
   "scale": 0.1,
   "spawn_costs": {},
   "spawners": {
@@ -222,6 +222,6 @@
   },
   "starts": [],
   "surface_builder": "minecraft:frozen_ocean",
-  "temperature": 0.5,
+  "temperature": 0.0,
   "temperature_modifier": "frozen"
 }

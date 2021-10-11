@@ -3,15 +3,11 @@
     "air": [
       "minecraft:ocean_cave",
       "minecraft:canyon"
-    ],
-    "liquid": [
-      "minecraft:underwater_canyon",
-      "minecraft:underwater_cave"
     ]
   },
   "category": "beach",
-  "depth": -1.0,
-  "downfall": 0.5,
+  "depth": 0.0,
+  "downfall": 0.4,
   "effects": {
     "fog_color": 12638463,
     "sky_color": 8103167,
@@ -83,7 +79,7 @@
   "forge:registry_name": "terraforged:warm_beach",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.1,
+  "scale": 0.025,
   "spawn_costs": {},
   "spawners": {
     "ambient": [],

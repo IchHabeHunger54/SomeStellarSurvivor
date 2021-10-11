@@ -5,9 +5,9 @@
       "minecraft:canyon"
     ]
   },
-  "category": "icy",
-  "depth": 0.45,
-  "downfall": 0.5,
+  "category": "extreme_hills",
+  "depth": 1.0,
+  "downfall": 0.3,
   "effects": {
     "fog_color": 12638463,
     "sky_color": 8364543,

@@ -7,7 +7,7 @@
   },
   "category": "swamp",
   "depth": -0.2,
-  "downfall": 0.9,
+  "downfall": 0.6,
   "effects": {
     "fog_color": 12638463,
     "foliage_color": 6975545,
@@ -91,7 +91,7 @@
   "forge:registry_name": "terraforged:marshland",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.1,
+  "scale": 0.2,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
@@ -233,5 +233,5 @@
   },
   "starts": [],
   "surface_builder": "minecraft:swamp",
-  "temperature": 0.7
+  "temperature": 0.6
 }

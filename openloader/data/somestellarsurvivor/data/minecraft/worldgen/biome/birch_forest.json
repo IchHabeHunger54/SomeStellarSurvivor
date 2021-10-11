@@ -100,7 +100,7 @@
   "forge:registry_name": "minecraft:birch_forest",
   "player_spawn_friendly": false,
   "precipitation": "rain",
-  "scale": 0.2,
+  "scale": 0.3,
   "spawn_costs": {},
   "spawners": {
     "ambient": [
