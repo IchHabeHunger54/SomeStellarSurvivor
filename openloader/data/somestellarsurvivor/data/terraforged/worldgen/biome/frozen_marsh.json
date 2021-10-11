@@ -64,6 +64,7 @@
       "minecraft:patch_large_fern",
       "minecraft:flower_default",
       "minecraft:patch_grass_taiga_2",
+      "minecraft:patch_berry_decorated",
       "minecraft:brown_mushroom_taiga",
       "minecraft:red_mushroom_taiga",
       "minecraft:brown_mushroom_normal",
@@ -72,7 +73,6 @@
       "minecraft:patch_pumpkin",
       "minecraft:spring_water",
       "minecraft:spring_lava",
-      "minecraft:patch_berry_decorated",
       "pamhc2crops:soggy_garden",
       "quark:deferred_feature_vegetal_decoration"
     ],
