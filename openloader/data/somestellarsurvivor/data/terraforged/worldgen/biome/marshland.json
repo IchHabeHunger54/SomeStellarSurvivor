@@ -62,13 +62,11 @@
       "quark:deferred_feature_underground_decoration"
     ],
     [
-      "minecraft:patch_dead_bush_2",
       "minecraft:patch_large_fern",
-      "minecraft:patch_grass_plain",
-      "minecraft:patch_grass_badlands",
       "minecraft:patch_tall_grass",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
+      "minecraft:swamp_tree",
       "minecraft:flower_swamp",
       "minecraft:patch_grass_normal",
       "minecraft:patch_dead_bush",

@@ -61,8 +61,8 @@
       "quark:deferred_feature_underground_decoration"
     ],
     [
-      "minecraft:forest_flower_vegetation",
       "minecraft:birch_other",
+      "minecraft:forest_flower_vegetation",
       "minecraft:flower_default",
       "minecraft:patch_grass_forest",
       "minecraft:brown_mushroom_normal",
