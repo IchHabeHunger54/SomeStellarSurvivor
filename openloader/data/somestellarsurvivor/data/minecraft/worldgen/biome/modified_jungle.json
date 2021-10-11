@@ -187,8 +187,8 @@
         "weight": 8
       },
       {
-        "maxCount": 7,
-        "minCount": 7,
+        "maxCount": 6,
+        "minCount": 6,
         "type": "alexsmobs:hummingbird",
         "weight": 36
       },
@@ -200,15 +200,9 @@
       },
       {
         "maxCount": 16,
-        "minCount": 9,
+        "minCount": 8,
         "type": "alexsmobs:capuchin_monkey",
         "weight": 56
-      },
-      {
-        "maxCount": 4,
-        "minCount": 2,
-        "type": "alexsmobs:bald_eagle",
-        "weight": 16
       }
     ],
     "misc": [],

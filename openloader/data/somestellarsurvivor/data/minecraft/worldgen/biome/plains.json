@@ -128,10 +128,10 @@
         "maxCount": 6,
         "minCount": 2,
         "type": "minecraft:horse",
-        "weight": 5
+        "weight": 1
       },
       {
-        "maxCount": 3,
+        "maxCount": 1,
         "minCount": 1,
         "type": "minecraft:donkey",
         "weight": 1

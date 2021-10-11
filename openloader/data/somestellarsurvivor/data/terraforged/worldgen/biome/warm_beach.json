@@ -96,6 +96,12 @@
         "minCount": 1,
         "type": "quark:crab",
         "weight": 4
+      },
+      {
+        "maxCount": 6,
+        "minCount": 2,
+        "type": "alexsmobs:seagull",
+        "weight": 20
       }
     ],
     "misc": [],

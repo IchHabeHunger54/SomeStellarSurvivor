@@ -143,19 +143,19 @@
       },
       {
         "maxCount": 2,
-        "minCount": 1,
+        "minCount": 2,
         "type": "alexsmobs:crocodile",
         "weight": 20
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:shoebill",
         "weight": 10
       },
       {
         "maxCount": 2,
-        "minCount": 1,
+        "minCount": 2,
         "type": "alexsmobs:alligator_snapping_turtle",
         "weight": 20
       }

@@ -104,14 +104,14 @@
     ],
     "creature": [
       {
-        "maxCount": 3,
+        "maxCount": 2,
         "minCount": 2,
         "type": "minecraft:rabbit",
-        "weight": 10
+        "weight": 4
       },
       {
         "maxCount": 2,
-        "minCount": 1,
+        "minCount": 2,
         "type": "alexsmobs:snow_leopard",
         "weight": 20
       },

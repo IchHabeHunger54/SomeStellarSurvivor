@@ -145,20 +145,20 @@
         "weight": 10
       },
       {
-        "maxCount": 3,
+        "maxCount": 2,
         "minCount": 2,
         "type": "minecraft:rabbit",
         "weight": 4
       },
       {
-        "maxCount": 3,
+        "maxCount": 4,
         "minCount": 2,
         "type": "alexsmobs:grizzly_bear",
         "weight": 8
       },
       {
-        "maxCount": 7,
-        "minCount": 7,
+        "maxCount": 6,
+        "minCount": 6,
         "type": "alexsmobs:hummingbird",
         "weight": 36
       },
@@ -175,7 +175,7 @@
         "weight": 10
       },
       {
-        "maxCount": 2,
+        "maxCount": 3,
         "minCount": 1,
         "type": "alexsmobs:tasmanian_devil",
         "weight": 10

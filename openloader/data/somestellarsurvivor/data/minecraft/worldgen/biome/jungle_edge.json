@@ -185,14 +185,14 @@
         "weight": 8
       },
       {
-        "maxCount": 3,
+        "maxCount": 4,
         "minCount": 2,
         "type": "alexsmobs:grizzly_bear",
         "weight": 8
       },
       {
-        "maxCount": 7,
-        "minCount": 7,
+        "maxCount": 6,
+        "minCount": 6,
         "type": "alexsmobs:hummingbird",
         "weight": 36
       },
@@ -204,7 +204,7 @@
       },
       {
         "maxCount": 16,
-        "minCount": 9,
+        "minCount": 8,
         "type": "alexsmobs:capuchin_monkey",
         "weight": 56
       },
@@ -221,7 +221,7 @@
         "weight": 10
       },
       {
-        "maxCount": 2,
+        "maxCount": 3,
         "minCount": 1,
         "type": "alexsmobs:tasmanian_devil",
         "weight": 10

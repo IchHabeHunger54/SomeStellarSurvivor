@@ -116,14 +116,14 @@
         "weight": 7
       },
       {
-        "maxCount": 3,
+        "maxCount": 2,
         "minCount": 2,
         "type": "minecraft:rabbit",
         "weight": 10
       },
       {
         "maxCount": 4,
-        "minCount": 3,
+        "minCount": 2,
         "type": "alexsmobs:moose",
         "weight": 8
       }

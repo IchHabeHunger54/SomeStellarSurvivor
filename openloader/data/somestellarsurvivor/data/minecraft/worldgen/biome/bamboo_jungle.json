@@ -188,8 +188,8 @@
         "weight": 8
       },
       {
-        "maxCount": 7,
-        "minCount": 7,
+        "maxCount": 6,
+        "minCount": 6,
         "type": "alexsmobs:hummingbird",
         "weight": 36
       },

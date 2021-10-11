@@ -100,7 +100,7 @@
     ],
     "creature": [
       {
-        "maxCount": 3,
+        "maxCount": 2,
         "minCount": 2,
         "type": "minecraft:rabbit",
         "weight": 4
@@ -112,7 +112,7 @@
         "weight": 8
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "alexsmobs:rattlesnake",
         "weight": 10

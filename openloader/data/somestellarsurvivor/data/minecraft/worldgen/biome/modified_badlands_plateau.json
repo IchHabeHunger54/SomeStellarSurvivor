@@ -100,14 +100,7 @@
         "weight": 4
       }
     ],
-    "creature": [
-      {
-        "maxCount": 4,
-        "minCount": 2,
-        "type": "alexsmobs:bald_eagle",
-        "weight": 16
-      }
-    ],
+    "creature": [],
     "misc": [],
     "monster": [
       {

@@ -149,7 +149,7 @@
       },
       {
         "maxCount": 5,
-        "minCount": 2,
+        "minCount": 3,
         "type": "alexsmobs:emu",
         "weight": 20
       },
@@ -158,12 +158,6 @@
         "minCount": 3,
         "type": "alexsmobs:kangaroo",
         "weight": 24
-      },
-      {
-        "maxCount": 4,
-        "minCount": 2,
-        "type": "alexsmobs:bald_eagle",
-        "weight": 16
       }
     ],
     "misc": [],

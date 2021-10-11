@@ -149,7 +149,7 @@
       },
       {
         "maxCount": 5,
-        "minCount": 2,
+        "minCount": 3,
         "type": "alexsmobs:emu",
         "weight": 20
       },

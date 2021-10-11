@@ -137,12 +137,6 @@
         "weight": 1
       },
       {
-        "maxCount": 4,
-        "minCount": 4,
-        "type": "minecraft:llama",
-        "weight": 8
-      },
-      {
         "maxCount": 7,
         "minCount": 7,
         "type": "alexsmobs:gazelle",
@@ -156,7 +150,7 @@
       },
       {
         "maxCount": 5,
-        "minCount": 2,
+        "minCount": 3,
         "type": "alexsmobs:emu",
         "weight": 20
       },
