@@ -6,7 +6,6 @@
     ]
   },
   "category": "icy",
-  "creature_spawn_probability": 0.07,
   "depth": 0.425,
   "downfall": 0.5,
   "effects": {
@@ -107,12 +106,6 @@
     ],
     "creature": [
       {
-        "maxCount": 3,
-        "minCount": 2,
-        "type": "minecraft:rabbit",
-        "weight": 10
-      },
-      {
         "maxCount": 2,
         "minCount": 1,
         "type": "minecraft:polar_bear",
@@ -123,6 +116,12 @@
         "minCount": 1,
         "type": "waddles:adelie_penguin",
         "weight": 7
+      },
+      {
+        "maxCount": 3,
+        "minCount": 2,
+        "type": "minecraft:rabbit",
+        "weight": 10
       }
     ],
     "misc": [],
@@ -138,38 +137,32 @@
       {
         "maxCount": 3,
         "minCount": 1,
-        "type": "aquaculture:carp",
-        "weight": 10
-      },
-      {
-        "maxCount": 5,
-        "minCount": 1,
-        "type": "aquaculture:minnow",
-        "weight": 18
-      },
-      {
-        "maxCount": 6,
-        "minCount": 1,
-        "type": "aquaculture:bluegill",
-        "weight": 20
-      },
-      {
-        "maxCount": 1,
-        "minCount": 1,
-        "type": "aquaculture:muskellunge",
-        "weight": 3
-      },
-      {
-        "maxCount": 6,
-        "minCount": 1,
-        "type": "aquaculture:perch",
-        "weight": 20
+        "type": "aquaculture:brown_trout",
+        "weight": 30
       },
       {
         "maxCount": 3,
         "minCount": 1,
-        "type": "aquaculture:brown_trout",
+        "type": "aquaculture:carp",
+        "weight": 30
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:minnow",
+        "weight": 50
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:muskellunge",
         "weight": 10
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:perch",
+        "weight": 50
       }
     ],
     "water_creature": []

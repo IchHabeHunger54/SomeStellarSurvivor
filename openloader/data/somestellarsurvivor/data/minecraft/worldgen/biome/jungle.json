@@ -164,8 +164,14 @@
         "weight": 10
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
+        "type": "minecraft:ocelot",
+        "weight": 2
+      },
+      {
+        "maxCount": 2,
+        "minCount": 2,
         "type": "minecraft:parrot",
         "weight": 40
       },
@@ -176,7 +182,7 @@
         "weight": 1
       },
       {
-        "maxCount": 2,
+        "maxCount": 1,
         "minCount": 1,
         "type": "aquaculture:arrau_turtle",
         "weight": 8
@@ -207,32 +213,26 @@
         "minCount": 4,
         "type": "minecraft:zombie",
         "weight": 100
-      },
-      {
-        "maxCount": 1,
-        "minCount": 1,
-        "type": "minecraft:ocelot",
-        "weight": 2
       }
     ],
     "water_ambient": [
       {
-        "maxCount": 6,
+        "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:piranha",
+        "weight": 60
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:tambaqui",
         "weight": 20
       },
       {
-        "maxCount": 2,
-        "minCount": 1,
-        "type": "aquaculture:tambaqui",
-        "weight": 6
-      },
-      {
-        "maxCount": 1,
+        "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:arapaima",
-        "weight": 1
+        "weight": 10
       }
     ],
     "water_creature": []

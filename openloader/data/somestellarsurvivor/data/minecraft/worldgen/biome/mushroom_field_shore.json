@@ -83,80 +83,11 @@
   "scale": 0.025,
   "spawn_costs": {},
   "spawners": {
-    "ambient": [
-      {
-        "maxCount": 8,
-        "minCount": 8,
-        "type": "minecraft:bat",
-        "weight": 8
-      },
-      {
-        "maxCount": 2,
-        "minCount": 2,
-        "type": "alexsmobs:fly",
-        "weight": 4
-      }
-    ],
-    "creature": [
-      {
-        "maxCount": 8,
-        "minCount": 3,
-        "type": "alexsmobs:seal",
-        "weight": 30
-      },
-      {
-        "maxCount": 6,
-        "minCount": 3,
-        "type": "alexsmobs:seagull",
-        "weight": 20
-      },
-      {
-        "maxCount": 3,
-        "minCount": 1,
-        "type": "quark:crab",
-        "weight": 4
-      }
-    ],
+    "ambient": [],
+    "creature": [],
     "misc": [],
     "monster": [],
-    "water_ambient": [
-      {
-        "maxCount": 6,
-        "minCount": 1,
-        "type": "aquaculture:atlantic_herring",
-        "weight": 20
-      },
-      {
-        "maxCount": 2,
-        "minCount": 1,
-        "type": "aquaculture:red_grouper",
-        "weight": 6
-      },
-      {
-        "maxCount": 3,
-        "minCount": 1,
-        "type": "aquaculture:jellyfish",
-        "weight": 10
-      },
-      {
-        "maxCount": 1,
-        "minCount": 1,
-        "type": "aquaculture:atlantic_halibut",
-        "weight": 2
-      },
-      {
-        "maxCount": 1,
-        "minCount": 1,
-        "type": "aquaculture:tuna",
-        "weight": 1
-      },
-      {
-        "maxCount": 5,
-        "minCount": 3,
-        "type": "alexsmobs:lobster",
-        "weight": 7
-      }
-    ],
+    "water_ambient": [],
     "water_creature": []
   },
   "starts": [],

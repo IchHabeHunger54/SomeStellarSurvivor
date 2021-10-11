@@ -192,58 +192,58 @@
     ],
     "water_ambient": [
       {
-        "maxCount": 1,
-        "minCount": 1,
-        "type": "aquaculture:catfish",
-        "weight": 1
-      },
-      {
         "maxCount": 3,
         "minCount": 1,
-        "type": "aquaculture:carp",
-        "weight": 10
-      },
-      {
-        "maxCount": 5,
-        "minCount": 1,
-        "type": "aquaculture:minnow",
-        "weight": 18
-      },
-      {
-        "maxCount": 6,
-        "minCount": 1,
         "type": "aquaculture:bluegill",
-        "weight": 20
-      },
-      {
-        "maxCount": 2,
-        "minCount": 1,
-        "type": "aquaculture:gar",
-        "weight": 6
+        "weight": 50
       },
       {
         "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:smallmouth_bass",
+        "weight": 30
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:catfish",
         "weight": 10
       },
       {
-        "maxCount": 1,
+        "maxCount": 3,
         "minCount": 1,
-        "type": "aquaculture:muskellunge",
-        "weight": 3
-      },
-      {
-        "maxCount": 6,
-        "minCount": 1,
-        "type": "aquaculture:perch",
+        "type": "aquaculture:gar",
         "weight": 20
       },
       {
         "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:brown_trout",
+        "weight": 30
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:carp",
+        "weight": 30
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:minnow",
+        "weight": 50
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:muskellunge",
         "weight": 10
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:perch",
+        "weight": 50
       }
     ],
     "water_creature": []

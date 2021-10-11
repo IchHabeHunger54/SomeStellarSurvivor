@@ -120,34 +120,22 @@
     ],
     "water_ambient": [
       {
-        "maxCount": 6,
+        "maxCount": 3,
         "minCount": 1,
-        "type": "aquaculture:atlantic_herring",
-        "weight": 20
-      },
-      {
-        "maxCount": 2,
-        "minCount": 1,
-        "type": "aquaculture:red_grouper",
-        "weight": 6
+        "type": "aquaculture:jellyfish",
+        "weight": 30
       },
       {
         "maxCount": 3,
         "minCount": 1,
-        "type": "aquaculture:jellyfish",
-        "weight": 10
+        "type": "aquaculture:red_grouper",
+        "weight": 20
       },
       {
-        "maxCount": 1,
-        "minCount": 1,
-        "type": "aquaculture:atlantic_halibut",
-        "weight": 2
-      },
-      {
-        "maxCount": 1,
+        "maxCount": 3,
         "minCount": 1,
         "type": "aquaculture:tuna",
-        "weight": 1
+        "weight": 10
       },
       {
         "maxCount": 5,

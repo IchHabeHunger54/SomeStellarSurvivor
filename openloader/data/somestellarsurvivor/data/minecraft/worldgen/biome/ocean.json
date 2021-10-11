@@ -109,9 +109,27 @@
     ],
     "water_ambient": [
       {
-        "maxCount": 6,
-        "minCount": 3,
+        "maxCount": 3,
+        "minCount": 1,
         "type": "minecraft:cod",
+        "weight": 60
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:jellyfish",
+        "weight": 30
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:red_grouper",
+        "weight": 20
+      },
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "aquaculture:tuna",
         "weight": 10
       },
       {
@@ -156,7 +174,7 @@
         "maxCount": 2,
         "minCount": 1,
         "type": "minecraft:dolphin",
-        "weight": 1
+        "weight": 2
       },
       {
         "maxCount": 2,
