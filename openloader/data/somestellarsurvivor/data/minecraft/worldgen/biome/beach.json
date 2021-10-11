@@ -85,6 +85,12 @@
     "ambient": [],
     "creature": [
       {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "quark:crab",
+        "weight": 4
+      },
+      {
         "maxCount": 5,
         "minCount": 2,
         "type": "minecraft:turtle",
@@ -101,12 +107,6 @@
         "minCount": 3,
         "type": "alexsmobs:seagull",
         "weight": 20
-      },
-      {
-        "maxCount": 3,
-        "minCount": 1,
-        "type": "quark:crab",
-        "weight": 4
       }
     ],
     "misc": [],

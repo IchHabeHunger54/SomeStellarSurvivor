@@ -90,7 +90,14 @@
   "spawn_costs": {},
   "spawners": {
     "ambient": [],
-    "creature": [],
+    "creature": [
+      {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "quark:crab",
+        "weight": 4
+      }
+    ],
     "misc": [],
     "monster": [
       {

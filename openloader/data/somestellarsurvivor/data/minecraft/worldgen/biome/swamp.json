@@ -136,6 +136,12 @@
         "weight": 8
       },
       {
+        "maxCount": 3,
+        "minCount": 1,
+        "type": "quark:frog",
+        "weight": 40
+      },
+      {
         "maxCount": 2,
         "minCount": 1,
         "type": "alexsmobs:crocodile",
@@ -152,12 +158,6 @@
         "minCount": 1,
         "type": "alexsmobs:alligator_snapping_turtle",
         "weight": 20
-      },
-      {
-        "maxCount": 3,
-        "minCount": 1,
-        "type": "quark:frog",
-        "weight": 40
       }
     ],
     "misc": [],
