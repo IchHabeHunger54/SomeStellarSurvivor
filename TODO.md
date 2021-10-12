@@ -3,7 +3,6 @@
 Finished stuff will be removed from this list.
 
 - Work over biome colors
-- (?) Rework biomes entirely
 - Work over Minecolonies schematics
 - Work over TiC books
 - Work over translations
@@ -13,7 +12,6 @@ Finished stuff will be removed from this list.
 - Configure Property Modifier
 - Set food values
 - Set fuel values
-- Fix stronghold issue
 - Tooltip Removal
 - Tempban feature
 

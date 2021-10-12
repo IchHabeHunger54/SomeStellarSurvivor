@@ -1,0 +1,10 @@
+{
+  "type": "tree",
+  "name": "terraforged:red_mushroom",
+  "paths": [
+    "terraforged:mushrooms/red"
+  ],
+  "config": {
+    "check_bounds": true
+  }
+}
