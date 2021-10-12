@@ -16,7 +16,7 @@
     ],
     "foliage_placer": {
       "crown_height": {
-        "base": 13,
+        "base": 11,
         "spread": 4
       },
       "offset": 0,

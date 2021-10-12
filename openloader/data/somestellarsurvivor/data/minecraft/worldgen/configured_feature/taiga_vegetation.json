@@ -28,7 +28,7 @@
             "default": "minecraft:spruce",
             "features": [
               {
-                "chance": 0.33333334,
+                "chance": 0.3,
                 "feature": "minecraft:pine"
               }
             ]

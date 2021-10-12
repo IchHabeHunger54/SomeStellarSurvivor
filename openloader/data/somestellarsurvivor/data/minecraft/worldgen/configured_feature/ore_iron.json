@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 20
+        "count": 10
       },
       "type": "minecraft:count"
     },
@@ -24,7 +24,7 @@
             },
             "feature": {
               "config": {
-                "size": 9,
+                "size": 10,
                 "state": {
                   "Name": "minecraft:iron_ore"
                 },

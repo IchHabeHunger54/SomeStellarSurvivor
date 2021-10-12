@@ -28,15 +28,15 @@
             "default": "minecraft:spruce",
             "features": [
               {
-                "chance": 0.025641026,
+                "chance": 0.025,
                 "feature": "minecraft:mega_spruce"
               },
               {
-                "chance": 0.30769232,
+                "chance": 0.3,
                 "feature": "minecraft:mega_pine"
               },
               {
-                "chance": 0.33333334,
+                "chance": 0.3,
                 "feature": "minecraft:pine"
               }
             ]

@@ -17,7 +17,7 @@
             "feature": "minecraft:huge_red_mushroom"
           },
           {
-            "chance": 0.6666667,
+            "chance": 0.625,
             "feature": "minecraft:dark_oak"
           },
           {

@@ -1,15 +1,1 @@
-{
-  "config": {
-    "decorator": {
-      "config": {
-        "count": 10
-      },
-      "type": "minecraft:glowstone"
-    },
-    "feature": {
-      "config": {},
-      "type": "minecraft:glowstone_blob"
-    }
-  },
-  "type": "minecraft:decorated"
-}
+{}

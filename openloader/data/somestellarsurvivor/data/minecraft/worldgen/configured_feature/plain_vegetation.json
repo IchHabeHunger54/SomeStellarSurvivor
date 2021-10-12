@@ -28,7 +28,7 @@
             "default": "minecraft:oak_bees_005",
             "features": [
               {
-                "chance": 0.33333334,
+                "chance": 0.3,
                 "feature": "minecraft:fancy_oak_bees_005"
               }
             ]

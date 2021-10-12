@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 10
+        "count": 16
       },
       "type": "minecraft:count"
     },
@@ -24,7 +24,7 @@
             },
             "feature": {
               "config": {
-                "size": 33,
+                "size": 32,
                 "state": {
                   "Name": "minecraft:dirt"
                 },

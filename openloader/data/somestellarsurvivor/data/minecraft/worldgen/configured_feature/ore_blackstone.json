@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 2
+        "count": 24
       },
       "type": "minecraft:count"
     },
@@ -16,15 +16,15 @@
           "config": {
             "decorator": {
               "config": {
-                "bottom_offset": 5,
-                "maximum": 37,
-                "top_offset": 10
+                "bottom_offset": 0,
+                "maximum": 24,
+                "top_offset": 0
               },
               "type": "minecraft:range"
             },
             "feature": {
               "config": {
-                "size": 33,
+                "size": 24,
                 "state": {
                   "Name": "minecraft:blackstone"
                 },

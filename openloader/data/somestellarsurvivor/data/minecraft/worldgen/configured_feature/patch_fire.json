@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 10
+        "count": 8
       },
       "type": "minecraft:fire"
     },
@@ -35,9 +35,9 @@
             "Name": "minecraft:netherrack"
           }
         ],
-        "xspread": 7,
-        "yspread": 3,
-        "zspread": 7
+        "xspread": 8,
+        "yspread": 4,
+        "zspread": 8
       },
       "type": "minecraft:random_patch"
     }

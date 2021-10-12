@@ -4,7 +4,7 @@
       "config": {
         "count": {
           "base": 0,
-          "spread": 19
+          "spread": 20
         }
       },
       "type": "minecraft:count"
@@ -19,7 +19,7 @@
           "config": {
             "decorator": {
               "config": {
-                "bottom_offset": 30,
+                "bottom_offset": 32,
                 "maximum": 64,
                 "top_offset": 32
               },

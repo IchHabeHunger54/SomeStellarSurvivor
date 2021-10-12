@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 40
+        "count": 32
       },
       "type": "minecraft:count"
     },
@@ -26,7 +26,7 @@
               "config": {
                 "hole_count": 1,
                 "requires_block_below": true,
-                "rock_count": 4,
+                "rock_count": 3,
                 "state": {
                   "Name": "minecraft:lava",
                   "Properties": {
@@ -37,7 +37,11 @@
                   "minecraft:stone",
                   "minecraft:granite",
                   "minecraft:diorite",
-                  "minecraft:andesite"
+                  "minecraft:andesite",
+                  "quark:jasper",
+                  "quark:limestone",
+                  "quark:marble",
+                  "quark:slate"
                 ]
               },
               "type": "minecraft:spring_feature"

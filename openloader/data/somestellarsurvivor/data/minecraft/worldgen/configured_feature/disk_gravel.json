@@ -18,7 +18,7 @@
         "half_height": 2,
         "radius": {
           "base": 2,
-          "spread": 3
+          "spread": 4
         },
         "state": {
           "Name": "minecraft:gravel"
