@@ -9,12 +9,12 @@
   "depth": 0.1,
   "downfall": 0.0,
   "effects": {
-    "fog_color": 12638463,
+    "fog_color": 12574719,
     "foliage_color": 10452815,
     "grass_color": 9404239,
     "sky_color": 7254527,
     "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_fog_color": 460607
   },
   "features": [
     [
