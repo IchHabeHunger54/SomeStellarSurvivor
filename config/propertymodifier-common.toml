@@ -7,13 +7,13 @@
 #NBT is currently not supported in any way.
 [logging]
 	#Whether to log successful operations or not.
-	log_successful = true
+	log_successful = false
 	#Whether to log failed operations or not.
 	log_errors = true
 
 [item_groups]
 	#Define new item groups. Format is "id;icon", with icon being an item id. Will run before the below stuff, allowing you to use these groups below. Note that you need to set a translation using a resource pack, otherwise an itemGroup.<id> translation key will appear. Also, do not use "none" as a name, as this is the key used to remove an item from any group.
-	item_group = []
+	item_group = ["group;minecraft:stone"]
 	#Removes item groups that have no items, including empty ones created by this mod. Runs after the below stuff, clearing up any empty groups left from moving all items out of them.
 	remove_empty_item_groups = true
 
@@ -38,11 +38,11 @@
 	#Dump enchantments BEFORE applying the changes.
 	dump_enchantments = false
 	#Dump enchantments AFTER applying the changes.
-	dump_enchantments_after = false
+	dump_enchantments_after = true
 	#Dump item groups BEFORE applying the changes.
 	dump_groups = false
 	#Dump item groups AFTER applying the changes.
-	dump_groups_after = false
+	dump_groups_after = true
 	#The default enchantability of items. Change this if you have a mod installed that makes every item enchantable (and thus have a different enchantability). If you're unsure, leave this unchanged and run the item dumping. You will see if you need to change it or not.
 	#Range: > -2147483648
 	default_enchantability = 0
@@ -62,11 +62,11 @@
 	#The light level emitted by this block. Not recommended for blocks with blockstate-dependant light level (e. g. furnaces). Default value: 0
 	light_level = []
 	#How slippery the block is. Default value: 0.6
-	slipperiness = []
+	slipperiness = ["any;0.6", "minecraft:ice;0.9", "minecraft:packed_ice;0.9", "minecraft:blue_ice;0.9", "minecraft:frosted_ice;0.9"]
 	#Accelerates (if > 1) or slows down (if between 0 and 1) entities that walk upon this block. Default value: 1
-	speed_factor = []
+	speed_factor = ["any;1", "minecraft:honey_block;0.5"]
 	#Allows entities on this block to jump higher (if > 1) or lower (if between 0 and 1). Default value: 1
-	jump_factor = []
+	jump_factor = ["any;1", "minecraft:honey_block;0.5"]
 	#The sound type the block has. Currently, only vanilla sound types are supported. Default value: stone. Vanilla sound types are:
 	#wood, ground, plant, lily_pads, stone, metal, glass, cloth, sand, snow, ladder, anvil, slime, honey, wet_grass, coral, bamboo, bamboo_sapling, scaffolding, sweet_berry_bush, crop, stem, vine, nether_wart, lantern, hyphae, nylium, fungus, root, shroomlight, nether_vine, nether_vine_lower_pitch, soul_sand, soul_soil, basalt, wart, netherrack, nether_brick, nether_sprout, nether_ore, bone, netherite, ancient_debris, lodestone, chain, nether_gold, gilded_blackstone
 	sound_type = []
@@ -82,7 +82,7 @@
 	#Whether the item should have the fire and lava shielding properties of netherite or not. Default value: false
 	is_immune_to_fire = []
 	#Sets the item rarity (aka text color). Must be one of common (white), uncommon (yellow), rare (aqua) and epic (light purple). Default value: common
-	rarity = []
+	rarity = ["any;common"]
 	#Sets the enchantability of the item. Default value: 0
 	enchantability = []
 	#Sets the repair material of the item. Tags (e.g. #minecraft:planks) are also allowed.
@@ -95,7 +95,7 @@
 		#Sets the armor toughness value. Default value: 0
 		toughness = []
 		#Sets the knockback resistance. Default value: 0
-		knockback_resistance = []
+		knockback_resistance = ["any;0"]
 
 	#Settings related to tools. Only tool, sword and trident items can be affected, anything else will be skipped.
 	[items.tools]
@@ -111,7 +111,7 @@
 #Settings related to enchantments. Format is "enchantment;value", unless stated otherwise.
 [enchantments]
 	#The enchantment rarity of this enchantment. Must be one of common (10), uncommon (5), rare (2) and very_rare (1).
-	rarity = []
+	rarity = ["any;common"]
 	#The item group this enchantment type's enchanted books are in. As soon as you add one for an item group, you need to re-add every enchantment type for that group as well.
 	group = []
 	#Remove enchantment books from creative tabs. Runs before group, so re-adding is possible.
