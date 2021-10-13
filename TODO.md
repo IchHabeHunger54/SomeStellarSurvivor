@@ -10,7 +10,6 @@ Finished stuff will be removed from this list.
 - Configure BetterF3
 - Configure Property Modifier
 - Set food values
-- Set fuel values
 - Tooltip Removal
 - Tempban feature
 
