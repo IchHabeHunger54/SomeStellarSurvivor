@@ -1,1 +1,1 @@
-{"key":{"B":{"item":"minecraft:bread"},"K":{"item":"alexsmobs:cooked_kangaroo_meat"}},"pattern":["B","K","B"],"result":{"item":"alexsmobs:kangaroo_burger"},"type":"minecraft:crafting_shaped"}
+{"ingredients":[{"tag":"forge:tool_skillet"},{"item":"pamhc2foodcore:groundbeefitem"},{"tag":"forge:condiments"},{"tag":"forge:bread"}],"result":{"item":"alexsmobs:kangaroo_burger"},"type":"minecraft:crafting_shapeless"}

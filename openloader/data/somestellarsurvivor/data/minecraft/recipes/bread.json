@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:dough"},{"tag":"forge:grain"}],"result":{"item":"minecolonies:bread_dough"},"type":"minecraft:crafting_shapeless"}
+{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:dough"},{"tag":"forge:grain"}],"result":{"item":"minecraft:bread"},"type":"minecraft:crafting_shapeless"}

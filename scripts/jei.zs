@@ -5,6 +5,7 @@ JEI.hideCategory("minecraft:brewing");
 JEI.hideCategory("minecraft:campfire");
 JEI.hideCategory("minecraft:smithing");
 JEI.hideCategory("jei:information");
+JEI.hideCategory("minecolonies:cook/smelting");
 JEI.hideCategory("minecolonies:dyer/smelting");
 JEI.hideCategory("minecolonies:glassblower/smelting");
 JEI.hideCategory("minecolonies:stonesmeltery/smelting");
@@ -445,6 +446,9 @@ var hide = [
     <item:minecolonies:blockhutsifter>,
     <item:minecolonies:blockhutsmeltery>,
     <item:minecolonies:blockhutstonesmeltery>,
+    <item:minecolonies:bread_dough>,
+    <item:minecolonies:cake_batter>,
+    <item:minecolonies:cookie_dough>,
     <item:minecolonies:chorus_bread>,
     <item:minecolonies:golden_bread>,
     <item:minecolonies:mercegg>,
@@ -456,6 +460,7 @@ var hide = [
     <item:minecolonies:piratearcheregg>,
     <item:minecolonies:piratecaptainegg>,
     <item:minecolonies:pirateegg>,
+    <item:minecolonies:raw_pumpkin_pie>,
     <item:minecolonies:scepterpermission>,
     <item:minecolonies:shieldmaidenegg>,
     <item:minecolonies:sifter_mesh_diamond>,
