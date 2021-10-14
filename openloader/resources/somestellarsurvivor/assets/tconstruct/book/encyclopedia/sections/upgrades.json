@@ -17,27 +17,11 @@
     "type": "modifier"
   },
   {
-    "data": "upgrades/general/experienced.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/general/netherite.json",
-    "type": "modifier"
-  },
-  {
     "data": "upgrades/general/offhanded.json",
     "type": "modifier"
   },
   {
-    "data": "upgrades/general/overforced.json",
-    "type": "modifier"
-  },
-  {
     "data": "upgrades/general/reinforced.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/general/soulbound.json",
     "type": "modifier"
   },
   {
@@ -58,10 +42,6 @@
     "type": "modifier"
   },
   {
-    "data": "upgrades/harvest/hydraulic.json",
-    "type": "modifier"
-  },
-  {
     "data": "upgrades/harvest/lightspeed.json",
     "type": "modifier"
   },
@@ -79,18 +59,6 @@
     "type": "modifier"
   },
   {
-    "data": "upgrades/weapon/bane_of_sssss.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/weapon/cooling.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/weapon/fiery.json",
-    "type": "modifier"
-  },
-  {
     "data": "upgrades/weapon/knockback.json",
     "type": "modifier"
   },
@@ -100,10 +68,6 @@
   },
   {
     "data": "upgrades/weapon/piercing.json",
-    "type": "modifier"
-  },
-  {
-    "data": "upgrades/weapon/severing.json",
     "type": "modifier"
   },
   {

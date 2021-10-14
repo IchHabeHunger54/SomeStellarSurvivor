@@ -1,8 +1,6 @@
 [
   {
-    "data": "movingfluids/thruul.json",
-    "name": "thruul",
-    "type": "imageText2"
+    "type": "blank"
   },
   {
     "data": "movingfluids/intro.json",

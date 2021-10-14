@@ -9,10 +9,6 @@
     "type": "modifier"
   },
   {
-    "data": "abilities/general/draconic.json",
-    "type": "modifier"
-  },
-  {
     "data": "abilities/general/gilded.json",
     "type": "modifier"
   },
@@ -47,10 +43,6 @@
   },
   {
     "data": "abilities/harvest/reach.json",
-    "type": "modifier"
-  },
-  {
-    "data": "abilities/harvest/silky.json",
     "type": "modifier"
   },
   {

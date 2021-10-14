@@ -1,5 +1,8 @@
 [
   {
+    "type": "blank"
+  },
+  {
     "data": "tools/sword.json",
     "name": "sword",
     "type": "tool"

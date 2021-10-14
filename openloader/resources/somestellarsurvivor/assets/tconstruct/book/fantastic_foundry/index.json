@@ -1,14 +1,5 @@
 [
   {
-    "data": "sections/intro.json",
-    "icon": {
-      "item": {
-        "id": "tconstruct:ichor_slime_ball"
-      }
-    },
-    "name": "intro"
-  },
-  {
     "data": "sections/alloyer.json",
     "icon": {
       "item": {
@@ -25,15 +16,6 @@
       }
     },
     "name": "foundry"
-  },
-  {
-    "data": "sections/blazing_blood.json",
-    "icon": {
-      "item": {
-        "id": "tconstruct:blazing_blood_bucket"
-      }
-    },
-    "name": "blazing_blood"
   },
   {
     "icon": {

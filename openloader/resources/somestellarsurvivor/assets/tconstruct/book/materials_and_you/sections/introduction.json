@@ -1,10 +1,5 @@
 [
   {
-    "data": "intro/advertisements.json",
-    "name": "advertisements",
-    "type": "text"
-  },
-  {
     "data": "intro/welcome.json",
     "name": "introduction",
     "type": "text"
@@ -40,6 +35,9 @@
     "type": "crafting"
   },
   {
+    "type": "blank"
+  },
+  {
     "data": "intro/storage.json",
     "name": "storage",
     "type": "text"
@@ -47,11 +45,6 @@
   {
     "data": "intro/partchest_craft.json",
     "name": "partchest_craft",
-    "type": "crafting"
-  },
-  {
-    "data": "intro/modifierchest_craft.json",
-    "name": "modifierchest_craft",
     "type": "crafting"
   }
 ]

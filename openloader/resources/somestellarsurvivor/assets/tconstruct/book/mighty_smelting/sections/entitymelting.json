@@ -8,10 +8,5 @@
     "data": "entitymelting/entitymelting.json",
     "name": "entitymelting",
     "type": "text"
-  },
-  {
-    "data": "entitymelting/notable.json",
-    "name": "noteableentities",
-    "type": "text"
   }
 ]

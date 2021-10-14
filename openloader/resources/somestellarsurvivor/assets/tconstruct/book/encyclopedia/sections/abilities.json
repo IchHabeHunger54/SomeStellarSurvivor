@@ -38,10 +38,6 @@
     "type": "modifier"
   },
   {
-    "data": "abilities/harvest/silky.json",
-    "type": "modifier"
-  },
-  {
     "data": "abilities/weapon.json",
     "name": "weapon",
     "type": "tinkers_text"

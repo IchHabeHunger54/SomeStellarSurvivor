@@ -1,37 +1,8 @@
 [
   {
-    "data": "slotless/slotless.json",
-    "name": "slotless",
-    "type": "tinkers_text"
-  },
-  {
-    "data": "slotless/general/overslime.json",
-    "type": "modifier"
-  },
-  {
-    "data": "slotless/general/shiny.json",
-    "type": "modifier"
-  },
-  {
-    "data": "slotless/general/worldbound.json",
-    "type": "modifier"
-  },
-  {
     "data": "slotless/bonus_upgrades.json",
     "name": "bonus_upgrades",
     "type": "tinkers_text"
-  },
-  {
-    "data": "slotless/bonus/harmonious.json",
-    "type": "modifier"
-  },
-  {
-    "data": "slotless/bonus/recapitated.json",
-    "type": "modifier"
-  },
-  {
-    "data": "slotless/bonus/resurrected.json",
-    "type": "modifier"
   },
   {
     "data": "slotless/bonus/writable.json",

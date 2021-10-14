@@ -33,8 +33,6 @@
     "type": "imageText2"
   },
   {
-    "data": "casting/othercast.json",
-    "name": "other_cast",
-    "type": "imageText2"
+    "type": "blank"
   }
 ]
