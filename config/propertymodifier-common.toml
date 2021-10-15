@@ -93,7 +93,7 @@
 		#Sets the armor value.
 		armor = []
 		#Sets the armor toughness value. Default value: 0
-		toughness = []
+		toughness = ["any;0"]
 		#Sets the knockback resistance. Default value: 0
 		knockback_resistance = ["any;0"]
 
