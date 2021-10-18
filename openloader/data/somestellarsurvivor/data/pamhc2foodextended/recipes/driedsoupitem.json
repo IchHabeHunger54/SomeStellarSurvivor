@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:stock"}],"result":{"item":"pamhc2foodextended:driedsoupitem"},"type":"minecraft:crafting_shapeless"}
+{"cookingtime":100,"ingredient":{"tag":"forge:stock"},"result":"pamhc2foodextended:driedsoupitem","type":"minecraft:smoking"}

@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:sausage"}],"result":{"item":"pamhc2foodextended:batteredsausageitem"},"type":"minecraft:crafting_shapeless"}
+{"cookingtime":100,"ingredient":{"tag":"forge:sausage"},"result":"pamhc2foodextended:batteredsausageitem","type":"minecraft:smoking"}

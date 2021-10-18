@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:cornmeal"}],"result":{"item":"pamhc2foodextended:cornbreaditem"},"type":"minecraft:crafting_shapeless"}
+{"cookingtime":100,"ingredient":{"tag":"forge:cornmeal"},"result":"pamhc2foodextended:cornbreaditem","type":"minecraft:smoking"}

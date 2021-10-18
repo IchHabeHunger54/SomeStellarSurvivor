@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_bakeware"},{"item":"minecraft:cactus"}],"result":{"item":"pamhc2foodextended:bakedcactusitem"},"type":"minecraft:crafting_shapeless"}
+{"cookingtime":100,"ingredient":{"item":"minecraft:cactus"},"result":"pamhc2foodextended:bakedcactusitem","type":"minecraft:smoking"}

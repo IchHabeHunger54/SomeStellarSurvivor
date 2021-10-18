@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_pot"},{"tag":"forge:water"}],"result":{"item":"pamhc2foodcore:saltitem"},"type":"minecraft:crafting_shapeless"}
+{"cookingtime":100,"ingredient":{"tag":"forge:water"},"result":"pamhc2foodcore:saltitem","type":"minecraft:smoking"}

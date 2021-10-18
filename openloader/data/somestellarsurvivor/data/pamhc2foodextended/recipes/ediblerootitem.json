@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"tag":"forge:crops/spiceleaf"}],"result":{"item":"pamhc2foodextended:ediblerootitem"},"type":"minecraft:crafting_shapeless"}
+{"ingredients":[{"tag":"forge:tool_cuttingboard"},{"item":"quark:root_item"}],"result":{"item":"pamhc2foodextended:ediblerootitem"},"type":"minecraft:crafting_shapeless"}

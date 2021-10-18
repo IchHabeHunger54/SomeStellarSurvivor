@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:crops/vanillabean"}],"result":{"item":"pamhc2foodextended:vanillaitem"},"type":"minecraft:crafting_shapeless"}
+{"cookingtime":100,"ingredient":{"tag":"forge:crops/vanillabean"},"result":"pamhc2foodextended:vanillaitem","type":"minecraft:smoking"}

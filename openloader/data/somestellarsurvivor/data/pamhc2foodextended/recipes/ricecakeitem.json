@@ -1,1 +1,1 @@
-{"ingredients":[{"tag":"forge:tool_bakeware"},{"tag":"forge:crops/rice"}],"result":{"item":"pamhc2foodextended:ricecakeitem"},"type":"minecraft:crafting_shapeless"}
+{"cookingtime":100,"ingredient":{"tag":"forge:crops/rice"},"result":"pamhc2foodextended:ricecakeitem","type":"minecraft:smoking"}
