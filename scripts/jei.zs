@@ -1029,6 +1029,9 @@ var hide = [
     <item:tconstruct:pig_iron_ingot>,
     <item:tconstruct:pig_iron_nugget>,
     <item:tconstruct:piggy_backpack>,
+    <item:tconstruct:plate_cast>,
+    <item:tconstruct:plate_red_sand_cast>,
+    <item:tconstruct:plate_sand_cast>,
     <item:tconstruct:queens_slime_block>,
     <item:tconstruct:queens_slime_ingot>,
     <item:tconstruct:queens_slime_nugget>,
@@ -1084,6 +1087,7 @@ var hide = [
     <item:tconstruct:stripped_skyroot_wood>,
     <item:tconstruct:terracube_spawn_egg>,
     <item:tconstruct:tinkers_gadgetry>,
+    <item:tconstruct:venom_bucket>,
     <item:waddles:adelie_penguin_spawn_egg>
 ] as IItemStack[];
 for item in hide {

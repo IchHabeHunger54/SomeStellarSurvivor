@@ -698,7 +698,7 @@ setFood(<item:pamhc2foodextended:baconpancakesitem>, 13, 1);
 setFood(<item:pamhc2foodextended:baconwrappedchiliitem>, 7, 1);
 setFood(<item:pamhc2foodextended:baconwrappeddatesitem>, 8, 1);
 setFood(<item:pamhc2foodextended:bakedalaskaitem>, 19, 1);
-setFood(<item:pamhc2foodextended:bakedbeansitem>, 9, 1);u
+setFood(<item:pamhc2foodextended:bakedbeansitem>, 9, 1);
 setFood(<item:pamhc2foodextended:bakedcactusitem>, 5, 1);
 setFood(<item:pamhc2foodextended:bakedhamitem>, 8, 1);
 setFood(<item:pamhc2foodextended:baklavaitem>, 11, 1);

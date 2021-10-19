@@ -1,1 +1,1 @@
-{"amount_per_item":1,"input":{"item":"minecraft:lava_bucket"},"max_level":5,"needed_per_level":1,"result":{"level":1,"name":"tconstruct:fiery"},"tools":{"tag":"tconstruct:modifiable/melee"},"type":"tconstruct:incremental_modifier","upgrade_slots":1}
+{"amount_per_item":1,"input":{"item":"tconstruct:lavawood"},"max_level":5,"needed_per_level":64,"result":{"level":1,"name":"tconstruct:fiery"},"tools":{"tag":"tconstruct:modifiable/melee"},"type":"tconstruct:incremental_modifier","upgrade_slots":1}
