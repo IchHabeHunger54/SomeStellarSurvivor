@@ -8,7 +8,6 @@ Finished stuff will be removed from this list.
 - Finish keybind sorting mod
 - Configure BetterF3
 - Configure Property Modifier
-- Set food values
 - Tooltip Removal
 - Tempban feature
 
