@@ -1,6 +1,5 @@
 {
   "reauth.gui.auth.checkbox": "Save Password to Config (WARNING: SECURITY RISK!)",
-  "reauth.gui.auth.config": "Config (NYI)",
   "reauth.gui.auth.confirm.none": "Login",
   "reauth.gui.auth.confirm.offline": "Play Offline",
   "reauth.gui.auth.confirm.online": "Login",
