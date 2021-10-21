@@ -1,0 +1,43 @@
+{
+  "config": {
+    "decorator": {
+      "config": {
+        "count": 0,
+        "extra_chance": 0.05,
+        "extra_count": 1
+      },
+      "type": "minecraft:count_extra"
+    },
+    "feature": {
+      "config": {
+        "decorator": {
+          "config": {
+            "inner": {
+              "config": {},
+              "type": "minecraft:heightmap"
+            },
+            "outer": {
+              "config": {},
+              "type": "minecraft:square"
+            }
+          },
+          "type": "minecraft:decorated"
+        },
+        "feature": {
+          "config": {
+            "default": "minecraft:oak_bees_005",
+            "features": [
+              {
+                "chance": 0.3,
+                "feature": "minecraft:fancy_oak_bees_005"
+              }
+            ]
+          },
+          "type": "minecraft:random_selector"
+        }
+      },
+      "type": "minecraft:decorated"
+    }
+  },
+  "type": "minecraft:decorated"
+}

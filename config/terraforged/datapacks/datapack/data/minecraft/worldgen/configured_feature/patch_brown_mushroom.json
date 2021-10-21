@@ -1,0 +1,23 @@
+{
+  "config": {
+    "blacklist": [],
+    "block_placer": {
+      "type": "minecraft:simple_block_placer"
+    },
+    "can_replace": false,
+    "need_water": false,
+    "project": false,
+    "state_provider": {
+      "state": {
+        "Name": "minecraft:brown_mushroom"
+      },
+      "type": "minecraft:simple_state_provider"
+    },
+    "tries": 64,
+    "whitelist": [],
+    "xspread": 8,
+    "yspread": 4,
+    "zspread": 8
+  },
+  "type": "minecraft:random_patch"
+}
