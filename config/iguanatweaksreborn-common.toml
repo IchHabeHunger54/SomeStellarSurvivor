@@ -59,6 +59,15 @@
 		"Spawnable mobs multiplier" = 1.0
 		#If true, the spawner will drop more experience when broken based of distance from spawn. +100% every 1024 blocks from spawn. The multiplier from 'Experience From Blocks' Feature still applies.
 		"Bonus experience the farther from spawn" = false
+		#The minimum amount of spawnable mobs (when the spawner is basically in the same position as the world spawn. The amount of spawnable mobs before deactivating is equal to the distance divided by 8 (plus this value). E.g. At 160 blocks from spawn the max spawnable mobs will be 160 / 8 + 25 = 20 + 25 = 55
+		#Range: > 0
+		"Minimum Spawnable Mobs" = 24
+
+		#A list of mobs (and optionally dimensions) that shouldn't have their spawner disabled. Each entry has an entity or entity tag and optionally a dimension. E.g. ["minecraft:zombie", "minecraft:blaze,minecraft:the_nether"]
+		[Miscellaneous."Temporary Spawners"."Entity Blacklist"]
+			Blacklist = []
+			#If true the list will be treated as a whitelist instead of blacklist
+			"List as Whitelist" = false
 
 ["Sleep & Respawn"]
 	#Prevents the player from sleeping if has not enough Hunger and gives him effects on wake up
@@ -364,7 +373,7 @@
 	"Enable Nerfed Bonemeal" = true
 	#Slower Crops growing based off various factors
 	"Enable Crops Growth" = true
-	#Slower Plants growing
+	#Slower Plants (non-crops) growing
 	"Enable Plants Growth" = false
 	#Slower Hoes and more fragile
 	"Enable Hoes Nerfs" = false
@@ -448,7 +457,7 @@
 		#Range: 0 ~ 15
 		"Min Sunlight" = 7
 
-	#Slower Plants growing
+	#Slower Plants (non-crops) growing
 	[Farming."Plants Growth"]
 		#A list of blocks that will take more time to grow and the multiplier that increases the time to grow. Format is 'modid:blockid,multiplier' or '#modid:blocktag,multiplier'.
 		"Plants Growth Multiplier" = []
