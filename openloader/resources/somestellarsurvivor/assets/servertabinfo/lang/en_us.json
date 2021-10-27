@@ -7,11 +7,9 @@
   "servertabinfo.gui.unknown": "Unknown",
   "servertabinfo.keys.category": "Server Tab Info",
   "servertabinfo.keys.show": "Show TPS list",
-  "servertabinfo.lostcities:lostcities": "The Lost Cities",
   "servertabinfo.minecraft:overworld": "Overworld",
   "servertabinfo.minecraft:the_end": "The End",
   "servertabinfo.minecraft:the_nether": "The Nether",
-  "servertabinfo.msg.not_allowed": "You do not have permission to see tps information",
-  "servertabinfo.servertabinfo:overall": "Overall",
-  "servertabinfo.twilightforest:twilight_forest": "The Twilight Forest"
+  "servertabinfo.msg.not_allowed": "You don't have permission to see tps information",
+  "servertabinfo.servertabinfo:overall": "Overall"
 }

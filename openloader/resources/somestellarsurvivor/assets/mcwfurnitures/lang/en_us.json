@@ -439,8 +439,8 @@
   "block.mcwfurnitures.warped_pult_4": "Warped Drawer Counter",
   "block.mcwfurnitures.warped_stool_chair": "Warped Stool Chair",
   "block.mcwfurnitures.warped_striped_chair": "Warped Striped Chair",
-  "container.example_chest": "Furniture Inventory",
-  "container.storage_chest": "Furniture Inventory",
+  "container.example_chest": "Chest",
+  "container.storage_chest": "Chest",
   "item.mcwfurnitures.acacia_plate": "Acacia Plate",
   "item.mcwfurnitures.birch_plate": "Birch Plate",
   "item.mcwfurnitures.cabinet_door": "Cabinet Door",
@@ -453,5 +453,5 @@
   "item.mcwfurnitures.warped_plate": "Warped Plate",
   "itemGroup.furnitures": "Macaw's Furniture",
   "itemGroup.furniturespecial": "Macaw's Special Furniture",
-  "mcfurnitures.container.example_chest": "Furniture Inventory"
+  "mcfurnitures.container.example_chest": "Chest"
 }

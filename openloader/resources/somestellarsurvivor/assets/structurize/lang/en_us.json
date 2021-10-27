@@ -1,5 +1,4 @@
 {
-  "AUTO-GENERATED TRANSLATION OBJECT": "Coder, leave those keys alone! *TOUCH THEM AT YOUR PERIL* (use the data generator)!",
   "block.structurize.acacia_blockpaperwall": "Acacia Paper Wall",
   "block.structurize.beige_brick_slab": "Beige Brick Slab",
   "block.structurize.beige_brick_stairs": "Beige Brick Stairs",
@@ -42,7 +41,7 @@
   "block.structurize.blockcactustrapdoor": "Cactus Trapdoor",
   "block.structurize.blockfluidsubstitution": "Fluid Placeholder",
   "block.structurize.blocksolidsubstitution": "Solid Placeholder",
-  "block.structurize.blocksubstitution": "Placeholder Block",
+  "block.structurize.blocksubstitution": "Placeholder",
   "block.structurize.blue_clay_acacia_shingle": "Blue Clay Acacia Shingle",
   "block.structurize.blue_clay_birch_shingle": "Blue Clay Birch Shingle",
   "block.structurize.blue_clay_cactus_shingle": "Blue Clay Cactus Shingle",

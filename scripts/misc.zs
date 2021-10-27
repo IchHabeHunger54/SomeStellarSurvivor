@@ -1,3 +1,3 @@
 for item in game.items {
-	item.anyDamage().removeTooltip("You shouldn't see this");
+	item.anyDamage().removeTooltip("disabled_tooltip");
 }

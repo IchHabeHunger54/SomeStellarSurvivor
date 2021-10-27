@@ -5,6 +5,6 @@
   "key.narrator": "Toggle Narrator",
   "key.pause": "Pause",
   "key.secondarySprint": "Sprint (Secondary)",
-  "selectWorld.dataFixerUpperDisabled": "Worlds last played on an older or newer version of Minecraft cannot be loaded when DataFixerUpper is disabled by RandomPatches.",
+  "selectWorld.dataFixerUpperDisabled": "Worlds last played on a different version of Minecraft can't be loaded when DataFixerUpper is disabled by RandomPatches.",
   "selectWorld.unableToLoad": "Unable to load world"
 }
