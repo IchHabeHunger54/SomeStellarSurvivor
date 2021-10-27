@@ -4,9 +4,6 @@ Finished stuff will be removed from this list.
 
 - Work over Minecolonies schematics
 - Work over translations
-- Finish debug keybind mod
-- Finish keybind sorting mod
-- Configure BetterF3
 - Configure Property Modifier
 - Tooltip Removal
 - Tempban feature

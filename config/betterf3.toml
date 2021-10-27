@@ -1,0 +1,107 @@
+
+[general]
+	disable_mod = false
+	space_modules = false
+	shadow_text = true
+	animations = true
+	animationSpeed = 1.0
+	background_color = 2135904079
+
+[[modules_left]]
+	name = "minecraft"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		minecraft = true
+
+[[modules_left]]
+	name = "fps"
+	color_high = 5635925
+	color_med = 16777045
+	color_low = 16733525
+	enabled = true
+
+	[modules_left.lines]
+		fps = true
+
+[[modules_left]]
+	name = "graphics"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		render_distance = true
+		graphics = true
+		clouds = true
+		biome_blend_radius = true
+		shader = true
+
+[[modules_left]]
+	name = "server"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		server_tick = true
+		packets_sent = true
+		packets_received = true
+
+[[modules_left]]
+	name = "sound"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		sounds = true
+		ambient_sounds = true
+
+[[modules_left]]
+	name = "help"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		pie_graph = true
+		fps_tps = true
+		help = true
+
+[[modules_left]]
+	name = "miscleft"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		misc_left = true
+
+[[modules_right]]
+	name = "system"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_right.lines]
+		java_version = true
+		memory_usage = true
+		allocated_memory = true
+		cpu = true
+		display = true
+		gpu = true
+		opengl_version = true
+		gpu_driver = true
+
+[[modules_right]]
+	name = "miscright"
+	name_color = 16755200
+	value_color = 5636095
+	enabled = true
+
+	[modules_right.lines]
+		misc_right = true
+
