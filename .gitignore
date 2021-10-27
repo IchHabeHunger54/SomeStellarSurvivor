@@ -13,3 +13,5 @@
 /reauth.toml
 /usercache.json
 /usernamecache.json
+/servers.dat
+/servers.dat_old
