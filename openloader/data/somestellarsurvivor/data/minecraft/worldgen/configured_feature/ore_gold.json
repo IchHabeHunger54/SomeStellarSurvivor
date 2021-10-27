@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 6
+        "count": 4
       },
       "type": "minecraft:count"
     },
@@ -24,7 +24,7 @@
             },
             "feature": {
               "config": {
-                "size": 6,
+                "size": 8,
                 "state": {
                   "Name": "minecraft:gold_ore"
                 },

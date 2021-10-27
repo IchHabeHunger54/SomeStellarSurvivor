@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 4
+        "count": 2
       },
       "type": "minecraft:count"
     },
@@ -17,14 +17,14 @@
             "decorator": {
               "config": {
                 "bottom_offset": 0,
-                "maximum": 40,
+                "maximum": 32,
                 "top_offset": 0
               },
               "type": "minecraft:range"
             },
             "feature": {
               "config": {
-                "size": 4,
+                "size": 8,
                 "state": {
                   "Name": "minecraft:diamond_ore"
                 },

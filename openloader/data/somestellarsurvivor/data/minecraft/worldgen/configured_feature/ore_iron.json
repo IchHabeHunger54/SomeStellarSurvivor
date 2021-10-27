@@ -2,7 +2,7 @@
   "config": {
     "decorator": {
       "config": {
-        "count": 10
+        "count": 8
       },
       "type": "minecraft:count"
     },
@@ -17,14 +17,14 @@
             "decorator": {
               "config": {
                 "bottom_offset": 0,
-                "maximum": 64,
+                "maximum": 80,
                 "top_offset": 0
               },
               "type": "minecraft:range"
             },
             "feature": {
               "config": {
-                "size": 10,
+                "size": 8,
                 "state": {
                   "Name": "minecraft:iron_ore"
                 },

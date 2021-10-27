@@ -120,7 +120,7 @@ craftingTable.addShapeless("cream_brick_slab_revert", <item:structurize:cream_br
 craftingTable.addShapeless("brown_stone_brick_slab_revert", <item:structurize:brown_stone_bricks>, [<item:structurize:brown_stone_brick_slab>, <item:structurize:brown_stone_brick_slab>]);
 craftingTable.addShapeless("beige_stone_brick_slab_revert", <item:structurize:beige_stone_bricks>, [<item:structurize:beige_stone_brick_slab>, <item:structurize:beige_stone_brick_slab>]);
 craftingTable.addShapeless("cream_stone_brick_slab_revert", <item:structurize:cream_stone_bricks>, [<item:structurize:cream_stone_brick_slab>, <item:structurize:cream_stone_brick_slab>]);
-craftingTable.addShapeless("mud_bricks_slab_revert", <item:tconstruct:mud_bricks>, [<item:tconstruct:mud_bricks_slab>, <item:tconstruct:mud_bricks>]);
+craftingTable.addShapeless("mud_bricks_slab_revert", <item:tconstruct:mud_bricks>, [<item:tconstruct:mud_bricks_slab>, <item:tconstruct:mud_bricks_slab>]);
 craftingTable.addShapeless("lavawood_slab_revert", <item:tconstruct:lavawood>, [<item:tconstruct:lavawood_slab>, <item:tconstruct:lavawood>]);
 craftingTable.addShapeless("blazewood_slab_revert", <item:tconstruct:blazewood>, [<item:tconstruct:blazewood_slab>, <item:tconstruct:blazewood>]);
 craftingTable.addShapeless("seared_stone_slab_revert", <item:tconstruct:seared_stone>, [<item:tconstruct:seared_stone_slab>, <item:tconstruct:seared_stone>]);

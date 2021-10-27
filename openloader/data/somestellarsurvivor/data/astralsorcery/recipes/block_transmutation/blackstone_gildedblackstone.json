@@ -1,1 +1,1 @@
-{"display":{"item":"minecraft:gilded_blackstone"},"input":[{"block":"minecraft:blackstone","display":{"item":"minecraft:blackstone"}}],"output":{"block":"minecraft:gilded_blackstone"},"starlight":800,"type":"astralsorcery:block_transmutation"}
+{"display":{"item":"minecraft:gilded_blackstone"},"input":[{"block":"minecraft:blackstone","display":{"item":"minecraft:blackstone"}}],"output":{"block":"minecraft:gilded_blackstone"},"starlight":400,"type":"astralsorcery:block_transmutation"}
