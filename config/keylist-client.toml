@@ -1,0 +1,13 @@
+#A list of "key;category" entries that change in which category in the Controls menu the key will appear. New categories will be created if necessary.
+#To get the name of a key, use the print_keys option and find the one you want.
+#If you use a custom category, you should translate it using a resource pack.
+key_categories = ["key.forward;key.categories.gameplay", "key.left;key.categories.gameplay", "key.back;key.categories.gameplay", "key.right;key.categories.gameplay", "key.jump;key.categories.gameplay", "key.sneak;key.categories.gameplay", "key.sprint;key.categories.gameplay", "key.secondarySprint;key.categories.gameplay", "key.clienttweaks.disableStepAssist;key.categories.gameplay", "quark.keybind.autorun;key.categories.gameplay", "quark.keybind.lock_rotation;key.categories.gameplay", "key.clienttweaks.hideOffhandItem;key.categories.inventory", "key.curios.open.desc;key.categories.inventory", "key.diet.open.desc;key.categories.inventory", "key.findme.search;key.categories.inventory", "quark.keybind.change_hotbar;key.categories.inventory", "quark.keybind.transfer_insert;key.categories.inventory", "quark.keybind.transfer_extract;key.categories.inventory", "quark.keybind.shift_lock;key.categories.inventory", "quark.keybind.sort_player;key.categories.inventory", "quark.keybind.sort_container;key.categories.inventory", "key.pickup.item;key.categories.misc", "servertabinfo.keys.show;key.categories.multiplayer", "key.chat;key.categories.misc", "key.command;key.categories.misc", "key.astralsorcery.disable_perk_abilities;key.categories.misc", "Options Gui;key.categories.misc", "quark.keybind.back;key.categories.misc", "quark.keybind.camera_mode;key.categories.misc", "key.toastcontrol.clear;key.categories.misc"]
+#A list of "category;index" entries that define the category order in the Controls menu. Vanilla defaults:
+#"key.categories.movement;1", "key.categories.gameplay;2", "key.categories.inventory;3", "key.categories.creative;4", "key.categories.multiplayer;5", "key.categories.ui;6", "key.categories.misc;7".
+#If you use a custom category, you should translate it using a resource pack.
+category_order = []
+#Prints all keys into the logs.
+print_keys = true
+#Prints all categories into the logs.
+print_categories = false
+
