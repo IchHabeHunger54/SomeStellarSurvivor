@@ -7,7 +7,7 @@ key_categories = ["key.forward;key.categories.gameplay", "key.left;key.categorie
 #If you use a custom category, you should translate it using a resource pack.
 category_order = []
 #Prints all keys into the logs.
-print_keys = true
+print_keys = false
 #Prints all categories into the logs.
 print_categories = false
 
