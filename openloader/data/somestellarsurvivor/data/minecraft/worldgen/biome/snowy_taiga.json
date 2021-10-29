@@ -79,21 +79,6 @@
     ],
     [
       "minecraft:freeze_top_layer",
-      {
-        "config": {
-          "decorator": {
-            "config": {
-            },
-            "type": "minecraft:nope"
-          },
-          "feature": {
-            "config": {
-            },
-            "type": "minecraft:snow_under_trees"
-          }
-        },
-        "type": "minecraft:decorated"
-      },
       "quark:deferred_feature_top_layer_modification"
     ]
   ],

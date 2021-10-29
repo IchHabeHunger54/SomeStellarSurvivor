@@ -82,7 +82,6 @@
     ],
     [
       "minecraft:freeze_top_layer",
-      "minecraft:snow_under_trees",
       "quark:deferred_feature_top_layer_modification"
     ]
   ],
