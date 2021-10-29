@@ -1,1 +1,1 @@
-{"ingredients":[{"item":"minecraft:bowl"},{"item":"minecraft:baked_potato"},{"item":"minecraft:baked_potato"},{"tag":"forge:mushrooms"}],"result":{"item":"inspirations:potato_soup"},"type":"minecraft:crafting_shapeless"}
+{"conditions":[{"type":"forge:false"}]}

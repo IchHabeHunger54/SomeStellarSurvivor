@@ -13,7 +13,7 @@
 
 [item_groups]
 	#Define new item groups. Format is "id;icon", with icon being an item id. Will run before the below stuff, allowing you to use these groups below. Note that you need to set a translation using a resource pack, otherwise an itemGroup.<id> translation key will appear. Do not use "none" as a name, as this is the key used to remove an item from any group.
-	item_group = []
+	item_group = ["sss;minecraft:stone"]
 	#Removes item groups that have no items, including empty ones created by this mod. Runs after the below stuff, clearing up any empty groups left from moving all items out of them.
 	remove_empty_item_groups = true
 
@@ -38,11 +38,11 @@
 	#Dump enchantments BEFORE applying the changes.
 	dump_enchantments = false
 	#Dump enchantments AFTER applying the changes.
-	dump_enchantments_after = true
+	dump_enchantments_after = false
 	#Dump item groups BEFORE applying the changes.
 	dump_groups = false
 	#Dump item groups AFTER applying the changes.
-	dump_groups_after = true
+	dump_groups_after = false
 	#The default enchantability of items. Change this if you have a mod installed that makes every item enchantable. If you're unsure, leave this unchanged and run the item dumping. You'll see if you need to change it or not.
 	#Range: > 0
 	default_enchantability = 0
@@ -66,59 +66,59 @@
 #Settings related to blocks. Format is "blockid;value", unless stated otherwise.
 [blocks]
 	#How long the block takes to break. 0.5 is dirt, 1.5 is stone, 50 is obsidian. -1 makes the block unbreakable. Not recommended for blocks with blockstate-dependent hardness that may be added by other mods. Default value: 0
-	hardness = []
+	hardness = ["buzzier_bees:.*_beehive;1", "quark:.*_ladder;0.5", "minecraft:beehive;1", "minecraft:ladder;0.5", "minecraft:bee_nest;1", "minecraft:.*sandstone.*;0.8", "quark:.*sandstone.*;0.8", "minecraft:stone_brick_slab;1.5", "quark:obsidian_pressure_plate;50", "tconstruct:obisidan_pane;50", ".*:.*blackstone.*;1.5", "minecraft:polished_blackstone_button;0.5", "minecraft:polished_blackstone_pressure_plate;0.5", "tconstruct:seared_.*;3", "tconstruct:.*scorched_.*;3", "tconstruct:seared_stone_fluid;100", "tconstruct:scorched_stone_fluid;100", "tconstruct:scorched_anvil;5", "quark:magma_bricks.*;2", "minecraft:purpur_slab;1.5", "quark:purpur_vertical_slab;1.5", "minecraft:jukebox;0.8", "astralsorcery:rock_crystal_ore;3", "astralsorcery:starmetal_ore;3", "astralsorcery:starmetal;5", "minecraft:gold_block;5", "minecraft:lapis_block;5", "minecraft:quartz_slab;0.8", "minecraft:smooth_quartz.*;0.8", "quark:.*quartz_vertical_slab;0.8", "alexsmobs:leafcutter_ant_chamber;2.5", "minecraft:grass_path;0.5", "minecraft:mycelium;0.5", "minecraft:grass_block;0.5", "quark:stone_vertical_slab;1.5", "minecraft:stone_slab;1.5", "quark:bonded_ravager_hide;0.4", "minecraft:gravel;0.5", "tconstruct:foundry_controller;3", "tconstruct:smeltery_controller;3", "tconstruct:cobalt_ore;3", "ceramics:kiln;3.5", "minecraft:observer;3.5", "minecraft:ender_chest;25", "minecraft:hopper;3.5", "quark:ender_watcher;5", "toughasnails:rain_collector;2.5", "aquaculture:tackle_box;3.5", "minecolonies:blockhutfield;5", "minecolonies:blockminecoloniesgrave;5", "quark:sturdy_stone;3", "minecraft:ancient_debris;50", "astralsorcery:chalice;3", "astralsorcery:fountain;3", "astralsorcery:illuminator;3", "astralsorcery:refraction_table;3", "astralsorcery:spectral_relay;3", "astralsorcery:telescope;3", "astralsorcery:tree_beacon;3"]
 	#How blast-resistant the block is. 0.5 is dirt, 6 is stone and cobblestone, 1200 is obsidian. 3600000 or more makes the block unbreakable. Default value: 0
-	resistance = []
+	resistance = ["buzzier_bees:.*_beehive;1", "quark:.*_ladder;0.5", "minecraft:beehive;1", "minecraft:ladder;0.5", "minecraft:bee_nest;1", "structurize:blockcactusstair;3", "astralsorcery:infused_wood.*;5", "ceramics:.*_porcelain;2.5", "ceramics:.*_cistern;2.5", "ceramics:clay_cistern;0.6", "ceramics:unfired_cistern;0.6", "ceramics:terracotta_channel;2.5", "ceramics:terracotta_faucet;2.5", "ceramics:porcelain_channel;2.5", "ceramics:porcelain_faucet;2.5", "minecraft:.*terracotta;2.5", "minecraft:.*glazed_terracotta;1.4", "quark:.*shingles.*;2.5", "quark:.*framed_glass.*;9", "minecraft:.*sandstone.*;0.8", "quark:.*sandstone.*;0.8", "tconstruct:obisidan_pane;1200", "tconstruct:blazewood.*;6", "tconstruct:lavawood.*;6", "tconstruct:seared_.*;9", "tconstruct:.*scorched_.*;9", "tconstruct:seared_stone_fluid;100", "tconstruct:scorched_stone_fluid;100", "quark:magma_bricks.*;6", "minecraft:basalt;2.5", "minecraft:polished_basalt;2.5", "quark:smooth_basalt.*;2.5", "quark:vanilla_basalt_bricks.*;2.5", "minecraft:jukebox;0.8", "minecraft:bell;1200", "astralsorcery:rock_crystal_ore;3", "astralsorcery:starmetal_ore;3", "astralsorcery:starmetal;6", "minecraft:lapis_block;6", "tconstruct:copper_block;6", "tconstruct:hepatizon_block;6", "tconstruct:knightslime_block;6", "tconstruct:manyullyn_block;6", "tconstruct:pig_iron_block;6", "tconstruct:queens_slime_block;6", "tconstruct:rose_gold_block;6", "tconstruct:silky_jewel_block;6", "tconstruct:slimesteel_block;6", "tconstruct:soulsteel_block;6", "tconstruct:tinkers_bronze_block;6", "minecraft:quartz_slab;0.8", "minecraft:smooth_quartz.*;0.8", "quark:.*quartz_vertical_slab;0.8", "alexsmobs:leafcutter_ant_chamber;2.5", "minecraft:grass_path;0.5", "minecraft:mycelium;0.5", "minecraft:grass_block;0.5", "minecraft:dried_kelp_block;0.5", "inspirations:pipe;9", "quark:pipe;9", "quark:bonded_ravager_hide;0.4", "minecraft:gravel;0.5", "quark:iron_rod;6", "tconstruct:foundry_controller;9", "tconstruct:smeltery_controller;9", "tconstruct:cobalt_block;6", "tconstruct:cobalt_ore;3", "ceramics:kiln;3.5", "minecraft:observer;3.5", "minecraft:hopper;3.5", "quark:charcoal_block;6", "quark:ender_watcher;6", "quark:grate;6", "toughasnails:rain_collector;2.5", "aquaculture:neptunes_bounty;3.5", "aquaculture:tackle_box;3.5", "minecolonies:blockhutfield;1", "minecolonies:blockminecoloniesgrave;1", "astralsorcery:translucent_block;3600000", "quark:sturdy_stone;9", "minecraft:cocoa;0.2", "buzzier_bees:honey_pot;2.5", "astralsorcery:chalice;5", "astralsorcery:fountain;5", "astralsorcery:observatory;5", "astralsorcery:refraction_table;5", "astralsorcery:telescope;5", "astralsorcery:tree_beacon;5"]
 	#The block's harvest level. -1 is any harvest level. Default value: -1
-	harvest_level = []
+	harvest_level = [".*;0", "minecraft:crying_obsidian;3", "minecraft:obsidian;3", "astralsorcery:rock_crystal_ore;2", "minecraft:diamond_block;2", "minecraft:diamond_ore;2", "minecraft:emerald_block;2", "minecraft:emerald_ore;2", "minecraft:gold_block;2", "minecraft:gold_ore;2", "astralsorcery:starmetal;1", "astralsorcery:starmetal_ore;1", "minecraft:iron_block;1", "minecraft:iron_ore;1", "tconstruct:copper_block;1", "tconstruct:copper_ore;1"]
 	#The block's harvest tool. Must be one of axe, hoe, pickaxe, shovel or none.
-	harvest_tool = []
+	harvest_tool = ["buzzier_bees:.*_beehive;axe", "quark:.*_bookshelf;axe", "quark:.*_chest;axe", "quark:.*_hedge;axe", "quark:.*_leaf_carpet;axe", "quark:.*_post;axe", "quark:acacia_vertical_slab;axe", "quark:birch_vertical_slab;axe", "quark:crimson_vertical_slab;axe", "quark:dark_oak_vertical_slab;axe", "quark:jungle_vertical_slab;axe", "quark:oak_vertical_slab;axe", "quark:spruce_vertical_slab;axe", "quark:warped_vertical_slab;axe", "structurize:blockcactus.*;axe", "structurize:beige.*;pickaxe", "structurize:cream.*;pickaxe", "structurize:brown_brick.*;pickaxe", "structurize:brown_stone.*;pickaxe", "ceramics:.*_porcelain;pickaxe", "ceramics:.*_cistern;pickaxe", "ceramics:clay_cistern;shovel", "ceramics:unfired_cistern;shovel", "inspirations:.*_carpeted_.*;axe", "minecraft:.*terracotta;pickaxe", "minecraft:.*concrete;pickaxe", "quark:.*shingles.*;pickaxe", "minecolonies:colony_banner;axe", "minecolonies:colony_wall_banner;axe", "minecraft:.*sandstone.*;pickaxe", "quark:.*sandstone.*;pickaxe", "minecraft:andesite_.*;pickaxe", "minecraft:diorite_.*;pickaxe", "minecraft:granite_.*;pickaxe", "minecraft:polished_.*;pickaxe", "quark:.*andesite_vertical_slab;pickaxe", "quark:.*diorite_vertical_slab;pickaxe", "quark:.*granite_vertical_slab;pickaxe", "quark:.*_speleothem;pickaxe", "quark:.*cobblestone_bricks.*;pickaxe", "quark:.*deepslate.*;pickaxe", "quark:stone_lamp;pickaxe", "quark:stone_brick_lamp;pickaxe", "minecraft:chiseled_stone_bricks;pickaxe", "minecraft:cracked_stone_bricks;pickaxe", "minecraft:mossy_stone_brick.*;pickaxe", "minecraft:stone_brick.*;pickaxe", ".*:.*blackstone.*;pickaxe", "ceramics:.*_bricks.*;pickaxe", "minecraft:nether_brick.*;pickaxe", "minecraft:red_nether_brick.*;pickaxe", "minecraft:brick.*;pickaxe", "quark:brick_vertical_slab;pickaxe", "quark:magma_bricks.*;pickaxe", "quark:mossy_stone_brick_vertical_slab;pickaxe", "quark:stone_brick_vertical_slab;pickaxe", "quark:nether_brick_vertical_slab;pickaxe", "quark:red_nether_brick_vertical_slab;pickaxe", "minecraft:purpur_.*;pickaxe", "quark:purpur_vertical_slab;pickaxe", "minecraft:nether_quartz_ore;pickaxe", "minecraft:frosted_ice;pickaxe", "minecraft:bamboo_sapling;axe", "ceramics:unfired_porcelain_block;shovel", "minecraft:coal_block;pickaxe", "minecraft:quartz_.*;pickaxe", "minecraft:smooth_quartz_stairs;pickaxe", "quark:.*quartz_vertical_slab;pickaxe", "aquaculture:farmland;shovel", "quark:shallow_dirt;shovel", "aquaculture:worm_farm;axe", "minecraft:end_stone_brick.*;pickaxe", "minecraft:cobblestone.*;pickaxe", "minecraft:mossy_cobblestone.*;pickaxe", "quark:stone_vertical_slab;pickaxe", "quark:smooth_stone_vertical_slab;pickaxe", "minecraft:stone_stairs;pickaxe", "minecraft:end_stone;pickaxe", "minecraft:furnace;pickaxe", "minecraft:blast_furnace;pickaxe", "minecraft:smoker;pickaxe", "minecraft:crafting_table;axe"]
 	#Whether you need a corresponding tool, as set by the harvest tool, at least of the harvest level to get block drops (e.g. stone) or if the harvest tool type only speeds up the breaking speed (e.g. dirt). Default value: false
-	requires_tool = []
+	requires_tool = ["ceramics:.*_rainbow_porcelain;true", "minecraft:polished_blackstone_pressure_plate;false", "minecraft:stone_pressure_plate;false", "ceramics:.*_bricks.*;true", "buzzier_bees:chiseled_honeycomb_bricks;true", "astralsorcery:rock_crystal_ore;true", "astralsorcery:starmetal_ore;true", "minecraft:spawner;false", "inspirations:collector;true"]
 	#The light level emitted by this block. Not recommended for blocks with blockstate-dependant light level (e. g. furnaces). Default value: 0
-	light_level = []
+	light_level = ["quark:.*_candle;15", "tconstruct:liquid_soul_fluid;0", "tconstruct:molten_.*;7", "tconstruct:scorched_stone_fluid;7", "tconstruct:seared_stone_fluid;7", "quark:myalite_crystal;0", "minecraft:crying_obsidian;7", "minecraft:brown_mushroom;0", "quark:glowshroom.*;7", "minecraft:end_portal_frame;0", "tconstruct:glow;15", "inspirations:redstone_charge;1", "minecraft:torch;15", "minecraft:wall_torch;15", "inspirations:torch_lever;15", "inspirations:wall_torch_lever;15", "astralsorcery:glow_flower;7", "minecraft:sea_pickle;7", "alexsmobs:capsid;3", "minecraft:dragon_egg;0", "astralsorcery:celestial_gateway;11", "astralsorcery:illuminator;11", "astralsorcery:spectral_relay;3", "astralsorcery:translucent_block;15", "astralsorcery:tree_beacon;7", "astralsorcery:tree_beacon_component;15"]
 	#How slippery the block is. Default value: 0.6
-	slipperiness = []
+	slipperiness = ["minecraft:blue_ice;0.98", "tconstruct:grout;0.6", "tconstruct:nether_grout;0.6"]
 	#Accelerates (if > 1) or slows down (if between 0 and 1) entities that walk upon this block. Default value: 1
-	speed_factor = []
+	speed_factor = ["minecraft:honey_block;0.5", "minecraft:soul_sand;1"]
 	#Allows entities on this block to jump higher (if > 1) or lower (if between 0 and 1). Default value: 1
 	jump_factor = []
 	#The sound type the block has. Only vanilla sound types are supported. Default value: stone. Vanilla sound types are:
 	#wood, ground, plant, lily_pads, stone, metal, glass, cloth, sand, snow, ladder, anvil, slime, honey, wet_grass, coral, bamboo, bamboo_sapling, scaffolding, sweet_berry_bush, crop, stem, vine, nether_wart, lantern, hyphae, nylium, fungus, root, shroomlight, nether_vine, nether_vine_lower_pitch, soul_sand, soul_soil, basalt, wart, netherrack, nether_brick, nether_sprout, nether_ore, bone, netherite, ancient_debris, lodestone, chain, nether_gold, gilded_blackstone
-	sound_type = []
+	sound_type = ["minecraft:jukebox;wood", "tconstruct:nether_grout;sand", "quark:iron_ladder;metal", "tconstruct:foundry_controller;metal", "tconstruct:cobalt_ore;stone"]
 
 #Settings related to items. Format is "item;value", unless stated otherwise.
 [items]
 	#The max durability an item has. Can only be set on damageable items. Default value: 0
-	max_damage = []
+	max_damage = ["aquaculture:.*_fishing_rod;1", "aquaculture:.*_fillet_knife;1", "aquaculture:wooden_fillet_knife;32", "aquaculture:stone_fillet_knife;64", "aquaculture:iron_fillet_knife;128", "aquaculture:neptunium.*;1", "minecraft:iron_.*;1", "minecraft:golden_.*;1", "minecraft:diamond_.*;1", "minecraft:netherite_.*;1", "minecraft:stone_.*;1", "minecraft:wooden_.*;1", "quark:forgotten_hat;80", "astralsorcery:mantle;500", "minecraft:crossbow;384", "minecolonies:chiefsword;1500", "minecolonies:plate_armor_.*;300", "minecraft:chainmail_.*;200", "minecraft:leather_.*;80", "minecraft:shears;256", "minecraft:shield;320", "alexsmobs:spiked_turtle_shell;375", "minecolonies:pirate_cap;225", "minecolonies:pirate_chest;225", "minecolonies:pirate_legs;225", "minecolonies:pirate_shoes;225", "minecolonies:pirate_hat;450", "minecolonies:pirate_top;450", "minecolonies:pirate_leggins;450", "minecolonies:pirate_boots;450", "alexsmobs:sombrero;150", "alexsmobs:crocodile_chestplate;350", "alexsmobs:emu_leggings;140", "alexsmobs:frontier_cap;180", "alexsmobs:moose_headgear;200", "alexsmobs:roadrunner_boots;250"]
 	#The max stack size an item has. Can't be set on damageable items. Default value: 64 (1 for damageable items)
-	max_stack_size = []
+	max_stack_size = [".*;64"]
 	#The item group (= creative tab) of an item. Use "none" to remove the item from any item group. Default value: none
-	group = []
+	group = [".*;sss"]
 	#Whether the item should have the fire and lava shielding properties of netherite or not. Default value: false
-	is_immune_to_fire = []
+	is_immune_to_fire = [".*;false"]
 	#Sets the item rarity (currently only affects text color). Must be one of common (white), uncommon (yellow), rare (aqua) and epic (light purple). Default value: common
-	rarity = []
+	rarity = [".*;common"]
 	#Sets the enchantability of the item. Default value: the default enchantability defined above
-	enchantability = []
+	enchantability = ["(aquaculture|ceramics|minecraft):.*_boots;1", "(aquaculture|ceramics|minecraft):.*_chestplate;1", "(aquaculture|ceramics|minecraft):.*_helmet;1", "(aquaculture|ceramics|minecraft):.*_leggings;1", "(aquaculture|astralsorcery|minecraft):.*_axe;1", "(aquaculture|astralsorcery|minecraft):.*_pickaxe;1", "(aquaculture|astralsorcery|minecraft):.*_shovel;1", "(aquaculture|astralsorcery|minecraft):.*_sword;1", "(aquaculture|minecraft):.*_hoe;1", "aquaculture:.*_fishing_rod;1", "aquaculture:.*_fillet_knife;1", "minecolonies:pirate_.*;1", "minecolonies:plate_armor_.*;1", "quark:backpack;1", "quark:forgotten_hat;1", "alexsmobs:centipede_leggings;1", "alexsmobs:crocodile_chestplate;1", "alexsmobs:emu_leggings;1", "alexsmobs:fedora;1", "alexsmobs:frontier_cap;1", "alexsmobs:moose_headgear;1", "alexsmobs:roadrunner_boots;1", "alexsmobs:sombrero;1", "alexsmobs:spiked_turtle_shell;1", "alexsmobs:tarantula_hawk_elytra;1", "astralsorcery:mantle;1", "cfm:spatula;1", "minecolonies:chiefsword;1", "minecolonies:iron_scimitar;1", "minecolonies:santa_hat;1"]
 	#Sets the repair material of the item. Tags (e.g. #minecraft:planks) are also allowed.
 	repair_material = []
 
 	#Settings related to armor. Only armor items (excluding the elytra) can be affected, anything else will be skipped.
 	[items.armor]
 		#Sets the armor value.
-		armor = []
+		armor = ["minecraft:iron_.*;1", "minecraft:golden_.*;1", "minecraft:diamond_.*;1", "minecraft:netherite_.*;1", "ceramics:clay_chestplate;2", "minecraft:leather_leggings;3"]
 		#Sets the armor toughness value. Default value: 0
-		toughness = []
+		toughness = [".*;0"]
 		#Sets the knockback resistance. Default value: 0
-		knockback_resistance = []
+		knockback_resistance = [".*;0"]
 
 	#Settings related to tools. Only tool, sword and trident items can be affected, anything else will be skipped.
 	[items.tools]
 		#Sets the attack damage.
-		attack_damage = []
+		attack_damage = ["minecolonies:chiefsword;8", "minecraft:wooden_axe;6", "minecraft:golden_axe;6", "minecraft:stone_axe;7", "minecraft:iron_axe;8"]
 		#Sets the attack speed.
-		attack_speed = []
+		attack_speed = ["minecraft:iron_axe;1", "minecraft:stone_axe;1", "minecraft:wooden_axe;1"]
 		#Sets the tool harvest level. Does not work for swords and tridents.
 		harvest_level = []
 		#Sets the efficiency. Does not work for swords and tridents.
@@ -127,18 +127,18 @@
 #Settings related to enchantments. Format is "enchantment;value", unless stated otherwise.
 [enchantments]
 	#The enchantment rarity of this enchantment. Must be one of common (10), uncommon (5), rare (2) and very_rare (1).
-	rarity = []
+	rarity = [".*;common"]
 	#The item group this enchantment type's enchanted books are in. As soon as you add one for an item group, you need to re-add every enchantment type for that group as well. Enchantment types are:
 	#vanishable, breakable, wearable, armor, armor_chest, armor_feet, armor_head, armor_legs, weapon, digger, bow, crossbow, fishing_rod, trident
-	group = []
+	group = [".*;sss", ";tools", ";combat"]
 	#Remove enchantment books from creative tabs. Runs before group, so re-adding is possible.
 	remove_item_groups = false
 
 [composter]
 	#Define additional composter inputs. Format is "itemid;chance", with chance being a percentage between 0.0 and 1.0.
-	inputs = []
+	inputs = ["pamhc2crops:((?!roasted|baked|hot).)*item;0.6", "pamhc2crops:.*seeditem;0.3", "pamhc2trees:((?!roasted).)*item;0.6", "pamhc2trees:.*_sapling;0.3", "(minecraft|quark):.*_sapling;0.3", "(minecraft|quark):.*_leaves;0.3", "quark:.*_leaf_carpet;0.3", "minecraft:beetroot_seeds;0.3", "minecraft:wheat_seeds;0.3", "minecraft:poisonous_potato;0.3", "minecraft:kelp;0.3", "minecraft:beetroot;0.6", "minecraft:wheat;0.6", "minecraft:potato;0.6", "minecraft:carrot;0.6", "minecraft:melon_seeds;0.3", "minecraft:melon_slice;0.6", "minecraft:pumpkin_seeds;0.3", "minecraft:pumpkin;0.6", "minecraft:carved_pumpkin;0.6", "minecraft:jack_o_lantern;0.6", "minecraft:(red|brown)_mushroom;0.3", "minecraft:(red|brown)_mushroom_block;0.6", "minecraft:mushroom_stem;0.6", "quark:glowshroom;0.3", "quark:glowshroom_block;0.6", "quark:glowshroom_stem;0.6", "minecraft:apple;0.6", "alexsmobs:banana_peel;0.3", "minecraft:nether_wart_block;0.3", "minecraft:warped_wart_block;0.3", "minecraft:fern;0.3", "minecraft:large_fern;0.6", "minecraft:grass;0.3", "minecraft:tall_grass;0.6", "berry_good:sweet_berry_pips;0.3", "minecraft:sweet_berries;0.6", "buzzier_bees:buttercup;0.8", "buzzier_bees:pink_clover;0.8", "buzzier_bees:white_clover;0.8", "inspirations:cyan_flower;0.8", "inspirations:paeonia;0.8", "inspirations:rose;0.8", "inspirations:syringa;0.8", "minecraft:allium;0.8", "minecraft:azure_bluet;0.8", "minecraft:blue_orchid;0.8", "minecraft:cornflower;0.8", "minecraft:dandelion;0.8", "minecraft:lily_of_the_valley;0.8", "minecraft:orange_tulip;0.8", "minecraft:oxeye_daisy;0.8", "minecraft:pink_tulip;0.8", "minecraft:poppy;0.8", "minecraft:red_tulip;0.8", "minecraft:white_tulip;0.8", "minecraft:lilac;0.9", "minecraft:peony;0.9", "minecraft:rose_bush;0.9", "minecraft:sunflower;0.9", "alexsmobs:acacia_blossom;0.4", "alexsmobs:gongylidia;0.4", "inspirations:vine;0.4", "quark:root;0.4", "quark:root_item;0.4", "minecraft:cactus;0.4", "minecraft:cocoa_beans;0.4", "minecraft:lily_pad;0.4", "minecraft:sea_pickle;0.4", "minecraft:seagrass;0.4", "minecraft:shroomlight;0.4", "minecraft:sugar_cane;0.4", "minecraft:tall_seagrass;0.4", "minecraft:vine;0.4"]
 	#Whether to clear the default composter inputs and have the composter inputs only contain the stuff defined here.
-	clear = false
+	clear = true
 
 [stripping]
 	#Define additional stripping transitions. Format is "fromid;toid", with both of them being in the modid:blockid format.
@@ -148,15 +148,15 @@
 
 [pathing]
 	#Define additional pathing transitions. Format is "fromid;toid", with both of them being in the modid:blockid format.
-	transitions = []
+	transitions = ["minecraft:coarse_dirt;minecraft:dirt", "minecraft:dirt;minecraft:grass_path", "minecraft:grass_block;minecraft:grass_path"]
 	#Whether to clear the default pathing transitions and have the pathing transitions only contain the stuff defined here.
-	clear = false
+	clear = true
 
 [tilling]
 	#Define additional tilling transitions. Format is "fromid;toid", with both of them being in the modid:blockid format.
-	transitions = []
+	transitions = ["minecraft:coarse_dirt;minecraft:dirt", "minecraft:dirt;minecraft:farmland", "minecraft:grass_block;minecraft:farmland"]
 	#Whether to clear the default tilling transitions and have the tilling transitions only contain the stuff defined here.
-	clear = false
+	clear = true
 
 [entities]
 	#Apply entity attribute modifiers on spawning. To get the default value of an attribute, make a superflat world without mob spawning, spawn the desired mob, and run "/attribute @e[type=<entityid>,limit=1] <attributeid> get". Format is "entity;attribute;amount;operation":

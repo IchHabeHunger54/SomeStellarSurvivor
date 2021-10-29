@@ -4,7 +4,6 @@ Finished stuff will be removed from this list.
 
 - Work over Minecolonies schematics
 - Work over translations
-- Configure Property Modifier
 - Tooltip Removal
 - Tempban feature
 
