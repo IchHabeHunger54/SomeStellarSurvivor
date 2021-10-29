@@ -401,6 +401,5 @@
   "item.minecraft.tipped_arrow.effect.soulsteal": "Arrow of Soulsteal",
   "item.minecraft.tipped_arrow.effect.speed_iii": "Arrow of Swiftness",
   "item.minecraft.tipped_arrow.effect.strong_knockback_resistance": "Arrow of Knockback Resistance",
-  "item.minecraft.tipped_arrow.effect.strong_soulsteal": "Arrow of Soulsteal",
-  "itemGroup.alexsmobs": "Alex's Mobs"
+  "item.minecraft.tipped_arrow.effect.strong_soulsteal": "Arrow of Soulsteal"
 }

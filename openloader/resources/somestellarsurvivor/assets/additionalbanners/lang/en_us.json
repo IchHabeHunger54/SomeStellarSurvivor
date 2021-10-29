@@ -358,6 +358,5 @@
   "item.additionalbanners.sword": "Sword Banner Pattern",
   "item.additionalbanners.sword.desc": "disabled_tooltip",
   "item.additionalbanners.trident": "Trident Banner Pattern",
-  "item.additionalbanners.trident.desc": "disabled_tooltip",
-  "itemGroup.additionalbanners": "Additional Banners"
+  "item.additionalbanners.trident.desc": "disabled_tooltip"
 }

@@ -484,6 +484,5 @@
   "gui.tag_filter.cfm.outdoors": "Outdoors",
   "gui.tag_filter.cfm.storage": "Storage",
   "item.cfm.spatula": "Spatula",
-  "itemGroup.cfm": "Furniture",
   "message.cfm.mail_queue_full": "This player's mail queue is full. Try again later!"
 }

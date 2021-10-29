@@ -1747,7 +1747,6 @@
   "item.supplycampdeployer.invalid.water_block_needed": "Placing a Supply Ship requires water under the ship. These blocks must be water: %s.",
   "item.supplychestdeployer.invalid": "You must place it in a fitting ocean or river.",
   "item.supplychestdeployer.missing": "Are you trying to trick me by picking up that Supply Ship (or Camp) again?",
-  "itemGroup.minecolonies": "MineColonies",
   "minecolonies.scroll.failed1": "The unstable magic of the scroll backfired!",
   "minecolonies.scroll.failed10": "Maybe try some ladders instead?",
   "minecolonies.scroll.failed2": "Whoops, what happened?!",

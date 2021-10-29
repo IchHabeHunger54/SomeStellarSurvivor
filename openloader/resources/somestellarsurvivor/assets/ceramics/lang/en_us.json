@@ -144,7 +144,6 @@
   "item.ceramics.unfired_clay_bucket": "Clay Bucket",
   "item.ceramics.unfired_clay_plate": "Clay Plate",
   "item.ceramics.unfired_porcelain": "Unfired Porcelain",
-  "itemGroup.ceramics": "Ceramics",
   "jei.ceramics.clay_repair": "",
   "tooltip.ceramics.cracked": "Cracked: %s / %s"
 }

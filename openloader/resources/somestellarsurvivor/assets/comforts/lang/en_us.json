@@ -38,6 +38,5 @@
   "block.comforts.sleeping_bag_red": "Red Sleeping Bag",
   "block.comforts.sleeping_bag_white": "White Sleeping Bag",
   "block.comforts.sleeping_bag_yellow": "Yellow Sleeping Bag",
-  "capability.comforts.not_sleepy": "You cannot rest now, you don't feel sleepy yet",
-  "itemGroup.comforts": "Comforts"
+  "capability.comforts.not_sleepy": "You cannot rest now, you don't feel sleepy yet"
 }
