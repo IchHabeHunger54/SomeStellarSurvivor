@@ -40,11 +40,6 @@
   },
   "armor.heavy_run": {
     "category": "footsteps",
-    "credits": [
-      "\u00c2\u00a7aClanking Armor",
-      "LordSane",
-      "Attribution"
-    ],
     "sounds": [
       "mobeffects:footsteps/armor/heavy_run1",
       "mobeffects:footsteps/armor/heavy_run2",
@@ -59,11 +54,6 @@
   },
   "armor.heavy_walk": {
     "category": "footsteps",
-    "credits": [
-      "\u00c2\u00a7aClanking Armor",
-      "LordSane",
-      "Attribution"
-    ],
     "sounds": [
       "mobeffects:footsteps/armor/heavy_walk1",
       "mobeffects:footsteps/armor/heavy_walk2",
@@ -75,10 +65,6 @@
   },
   "armor.light_run": {
     "category": "footsteps",
-    "credits": [
-      "\u00c2\u00a7aFoley",
-      "Samulis"
-    ],
     "sounds": [
       "mobeffects:footsteps/armor/light_1",
       "mobeffects:footsteps/armor/light_2",
@@ -87,10 +73,6 @@
   },
   "armor.light_walk": {
     "category": "footsteps",
-    "credits": [
-      "\u00c2\u00a7aFoley",
-      "Samulis"
-    ],
     "sounds": [
       "mobeffects:footsteps/armor/light_1",
       "mobeffects:footsteps/armor/light_2",
@@ -115,14 +97,6 @@
   },
   "armor.medium_walk": {
     "category": "footsteps",
-    "credits": [
-      "\u00c2\u00a7aFoley",
-      "Samulis",
-      "",
-      "\u00c2\u00a7achain drop",
-      "satanicupsman",
-      "Creative Commons 0"
-    ],
     "sounds": [
       "mobeffects:footsteps/armor/medium_walk1",
       "mobeffects:footsteps/armor/medium_walk2",

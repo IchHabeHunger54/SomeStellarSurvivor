@@ -1,11 +1,6 @@
 {
   "arctic.wind": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aHowling Wind Ambience",
-      "DBlover",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/arctic_wind"
@@ -14,11 +9,6 @@
   },
   "beach": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aFiji Beach (Stereo)128kbps.mp3",
-      "c97059890",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/beach",
@@ -37,15 +27,6 @@
   },
   "bigrockfall": {
     "category": "spot",
-    "credits": [
-      "\u00c2\u00a7aRockfall in mine.wav",
-      "Benboncan",
-      "Attribution",
-      "",
-      "\u00c2\u00a7aRocks.wav",
-      "adamgryu",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/underground/bigslide1",
@@ -74,11 +55,6 @@
   },
   "bog": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7arbh Mpls Bog birds.wav",
-      "RHumphries",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/bog",
@@ -138,11 +114,6 @@
   },
   "bullfrog": {
     "category": "spot",
-    "credits": [
-      "\u00c2\u00a7aNight Crickets & Bullfrogs.wav",
-      "sunsinger",
-      "Creative Commons Attributions 3.0 Unported"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/frog/bullfrog1"
@@ -160,11 +131,6 @@
   },
   "coyote": {
     "category": "spot",
-    "credits": [
-      "\u00c2\u00a7acoyote barks and howls",
-      "dkaufman",
-      "Creative Commons 0"
-    ],
     "sounds": [
       "environs:ambient/coyote/coyote1",
       "environs:ambient/coyote/coyote2",
@@ -176,11 +142,6 @@
   },
   "crickets": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aSoft, Chilled Crickets Field Recording",
-      "rayjensen",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/crickets",
@@ -190,11 +151,6 @@
   },
   "crow": {
     "category": "spot",
-    "credits": [
-      "\u00c2\u00a7aANML_M_Ext_Crow_Calls_Single1.wav",
-      "conleec",
-      "Creative Commons 0"
-    ],
     "sounds": [
       "environs:ambient/birds/crow1",
       "environs:ambient/birds/crow2",
@@ -228,11 +184,6 @@
   },
   "desert.wind": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7adesertwind1FINAL.wav",
-      "nageor",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/desert_wind"
@@ -241,11 +192,6 @@
   },
   "dimension.nether": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aCreepy Dungeon Ambiance",
-      "DrMinky",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/dimension/nether",
@@ -256,11 +202,6 @@
   },
   "forest": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7a001_forrest.wav",
-      "joepsporck",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/forest",
@@ -382,11 +323,6 @@
   },
   "ocean": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aocean waves surround me.wav",
-      "bohitomi",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/ocean",
@@ -430,11 +366,6 @@
   },
   "plains": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aCalm Morning Outdoor Ambiance",
-      "blouhond",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/plains",
@@ -461,11 +392,6 @@
   },
   "river": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aunderwater ambience.wav",
-      "AlienXXX",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/river",
@@ -475,15 +401,6 @@
   },
   "rockfall": {
     "category": "spot",
-    "credits": [
-      "\u00c2\u00a7aRocks falling over rocks, over a steep hill, like a cliff.flac",
-      "gfrog",
-      "Creative Commons 0",
-      "",
-      "\u00c2\u00a7aRocks.wav",
-      "adamgryu",
-      "Creative Commons 0"
-    ],
     "sounds": [
       "environs:ambient/underground/smallslide1",
       "environs:ambient/underground/smallslide2",
@@ -492,11 +409,6 @@
   },
   "savanna.day": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aMerlothPark_morning_ambiance.wav",
-      "reinsamba",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/savanna_day",
@@ -506,11 +418,6 @@
   },
   "savanna.night": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aMerlothPark_crickets2.WAV",
-      "reinsamba",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/savanna_night",
@@ -574,11 +481,6 @@
   },
   "underdeepocean": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aunderwater ambience.wav",
-      "AlienXXX",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/underwater/deepocean",
@@ -598,11 +500,6 @@
   },
   "underocean": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aunderwater ambience.wav",
-      "AlienXXX",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/underwater/ocean",
@@ -621,11 +518,6 @@
   },
   "underwater": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aUnderwaterDrowning01.wav",
-      "Abolla",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/underwater/water",
@@ -635,11 +527,6 @@
   },
   "village.anvil": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aAnvil",
-      "MrAuralization",
-      "Attribution"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/village/anvil1"
@@ -651,11 +538,6 @@
   },
   "village.dogbark": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aDogs Barking",
-      "darranambler",
-      "Creative Commons 0"
-    ],
     "sounds": [
       "environs:ambient/village/dogbark1",
       "environs:ambient/village/dogbark2",
@@ -667,11 +549,6 @@
   },
   "village.rooster": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aVillage ambience rooster and light birds with wind .wav",
-      "Ramston",
-      "Creative Commons 0"
-    ],
     "sounds": [
       "environs:ambient/village/rooster1",
       "environs:ambient/village/rooster2",
@@ -680,11 +557,6 @@
   },
   "waterdrips": {
     "category": "spot",
-    "credits": [
-      "\u00c2\u00a7aDripping, Very Fast, A.wav",
-      "InspectorJ",
-      "Attribution"
-    ],
     "sounds": [
       "environs:ambient/droplets/drop1",
       "environs:ambient/droplets/drop2",
@@ -702,11 +574,6 @@
   },
   "waterfall.0": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aWaterfall Winspit Dorset.wav",
-      "genghis attenborough",
-      "Attribution Noncommercial"
-    ],
     "sounds": [
       {
         "attenuation_distance": 22,
@@ -717,11 +584,6 @@
   },
   "waterfall.1": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aRunning-water-mountain-stream.mp3",
-      "Alexander",
-      "Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
-    ],
     "sounds": [
       {
         "attenuation_distance": 22,
@@ -732,11 +594,6 @@
   },
   "waterfall.2": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aWaterfall",
-      "Orpheuz",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "attenuation_distance": 22,
@@ -747,11 +604,6 @@
   },
   "waterfall.3": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aSmall Waterfall at the Mill",
-      "willstepp",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "attenuation_distance": 22,
@@ -762,11 +614,6 @@
   },
   "waterfall.4": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aWaterfall, Large, A.wav",
-      "InspectorJ",
-      "Attribution"
-    ],
     "sounds": [
       {
         "attenuation_distance": 22,
@@ -777,11 +624,6 @@
   },
   "waterfall.5": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aWaterfall, Small, B.wav",
-      "InspectorJ",
-      "Attribution"
-    ],
     "sounds": [
       {
         "attenuation_distance": 22,
@@ -817,11 +659,6 @@
   },
   "wind": {
     "category": "biomes",
-    "credits": [
-      "\u00c2\u00a7aWind blowing into some cactus spine, on the top of the mountain, in the desert of Atacama (Chile).",
-      "felix.blume",
-      "Creative Commons 0"
-    ],
     "sounds": [
       {
         "name": "environs:ambient/outside/wind",
