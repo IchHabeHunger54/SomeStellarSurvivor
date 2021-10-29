@@ -1280,7 +1280,7 @@
   "multiblock.tconstruct.generic.no_attempt": "Structure detection has not yet run, this is normally a bug with the mod",
   "multiblock.tconstruct.generic.not_loaded": "Structure is outside the loaded area, this is normally a bug with the mod",
   "multiblock.tconstruct.generic.too_high": "Structure requires blocks above the top of the world",
-  "multiblock.tconstruct.generic.too_large": "Structure inside is too large: currently %s %s, max %s %s, ",
+  "multiblock.tconstruct.generic.too_large": "Structure inside is too large: currently %s %s, max %s %s",
   "multiblock.tconstruct.tiny.no_fuel_tank": "Must be placed above a fuel tank or a heater to function",
   "pattern.tconstruct.bow_limb": "Bow Limb",
   "pattern.tconstruct.broad_axe_head": "Broad Axe Head",
