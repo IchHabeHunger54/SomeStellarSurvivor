@@ -1,57 +1,79 @@
 {
   "ambient.chatter": {
-    "category": "records",
+    "category": "record",
     "sounds": [
-      "quark:ambient/chatter"
+      {
+        "name": "quark:ambient/chatter",
+        "stream": true
+      }
     ]
   },
   "ambient.clock": {
-    "category": "records",
+    "category": "record",
     "sounds": [
-      "quark:ambient/clock"
+      {
+        "name": "quark:ambient/clock",
+        "stream": true
+      }
     ]
   },
   "ambient.crickets": {
-    "category": "records",
+    "category": "record",
     "sounds": [
-      "quark:ambient/crickets"
+      {
+        "name": "quark:ambient/crickets",
+        "stream": true
+      }
     ]
   },
   "ambient.drips": {
-    "category": "records",
+    "category": "record",
     "sounds": [
-      "quark:ambient/drips"
+      {
+        "name": "quark:ambient/drips",
+        "stream": true
+      }
     ]
   },
   "ambient.fire": {
-    "category": "records",
+    "category": "record",
     "sounds": [
-      "quark:ambient/fire"
+      {
+        "name": "quark:ambient/fire",
+        "stream": true
+      }
     ]
   },
   "ambient.ocean": {
-    "category": "records",
+    "category": "record",
     "sounds": [
-      "quark:ambient/ocean"
+      {
+        "name": "quark:ambient/ocean",
+        "stream": true
+      }
     ]
   },
   "ambient.rain": {
-    "category": "records",
+    "category": "record",
     "sounds": [
-      "quark:ambient/rain"
+      {
+        "name": "quark:ambient/rain",
+        "stream": true
+      }
     ]
   },
   "ambient.wind": {
-    "category": "records",
+    "category": "record",
     "sounds": [
-      "quark:ambient/wind"
+      {
+        "name": "quark:ambient/wind",
+        "stream": true
+      }
     ]
   },
   "block.monster_box.growl": {
     "category": "blocks",
-    "sounds": [
-      "quark:block/monster_box"
-    ]
+    "sounds": []
   },
   "block.pipe.pickup": {
     "category": "blocks",
@@ -168,7 +190,7 @@
     ]
   },
   "entity.pickarang.clank": {
-    "category": "players",
+    "category": "player",
     "sounds": [
       {
         "name": "minecraft:random/anvil_land",
@@ -178,7 +200,7 @@
     ]
   },
   "entity.pickarang.pickup": {
-    "category": "players",
+    "category": "player",
     "sounds": [
       {
         "name": "minecraft:random/pop",
@@ -194,16 +216,11 @@
         "name": "minecraft:random/pop",
         "pitch": 0.875,
         "volume": 0.5
-      },
-      {
-        "name": "minecraft:random/pop",
-        "pitch": 0.75,
-        "volume": 0.5
       }
     ]
   },
   "entity.pickarang.spark": {
-    "category": "players",
+    "category": "player",
     "sounds": [
       {
         "name": "minecraft:random/fizz",
@@ -213,7 +230,7 @@
     ]
   },
   "entity.pickarang.throw": {
-    "category": "players",
+    "category": "player",
     "sounds": [
       {
         "name": "quark:entity/pickarang/throw",
@@ -300,15 +317,13 @@
     ]
   },
   "item.camera.shutter": {
-    "category": "players",
+    "category": "player",
     "sounds": [
       "quark:item/camera"
     ]
   },
   "item.soul_powder.spawn": {
-    "category": "players",
-    "sounds": [
-      "quark:item/soulpowder_scream"
-    ]
+    "category": "player",
+    "sounds": []
   }
 }

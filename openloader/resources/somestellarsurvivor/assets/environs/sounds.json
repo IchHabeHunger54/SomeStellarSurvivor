@@ -2,9 +2,7 @@
   "arctic.wind": {
     "category": "biomes",
     "sounds": [
-      {
-        "name": "environs:ambient/outside/arctic_wind"
-      }
+      "environs:ambient/outside/arctic_wind"
     ]
   },
   "beach": {
@@ -115,18 +113,10 @@
   "bullfrog": {
     "category": "spot",
     "sounds": [
-      {
-        "name": "environs:ambient/frog/bullfrog1"
-      },
-      {
-        "name": "environs:ambient/frog/bullfrog2"
-      },
-      {
-        "name": "environs:ambient/frog/bullfrog3"
-      },
-      {
-        "name": "environs:ambient/frog/bullfrog4"
-      }
+      "environs:ambient/frog/bullfrog1",
+      "environs:ambient/frog/bullfrog2",
+      "environs:ambient/frog/bullfrog3",
+      "environs:ambient/frog/bullfrog4"
     ]
   },
   "coyote": {
@@ -151,18 +141,7 @@
   },
   "crow": {
     "category": "spot",
-    "sounds": [
-      "environs:ambient/birds/crow1",
-      "environs:ambient/birds/crow2",
-      "environs:ambient/birds/crow3",
-      "environs:ambient/birds/crow4",
-      "environs:ambient/birds/crow5",
-      "environs:ambient/birds/crow6",
-      "environs:ambient/birds/crow7",
-      "environs:ambient/birds/crow8",
-      "environs:ambient/birds/crow9",
-      "environs:ambient/birds/crow10"
-    ]
+    "sounds": []
   },
   "deep_crickets": {
     "category": "biomes",
@@ -185,20 +164,12 @@
   "desert.wind": {
     "category": "biomes",
     "sounds": [
-      {
-        "name": "environs:ambient/outside/desert_wind"
-      }
+      "environs:ambient/outside/desert_wind"
     ]
   },
   "dimension.nether": {
     "category": "biomes",
-    "sounds": [
-      {
-        "name": "environs:ambient/dimension/nether",
-        "stream": true,
-        "volume": 0.3
-      }
-    ]
+    "sounds": []
   },
   "forest": {
     "category": "biomes",
@@ -211,20 +182,7 @@
   },
   "frog": {
     "category": "spot",
-    "sounds": [
-      {
-        "name": "environs:ambient/frog/croak1",
-        "volume": 0.4
-      },
-      {
-        "name": "environs:ambient/frog/croak2",
-        "volume": 0.4
-      },
-      {
-        "name": "environs:ambient/frog/croak3",
-        "volume": 0.4
-      }
-    ]
+    "sounds": []
   },
   "heartbeat": {
     "category": "player",
@@ -280,12 +238,8 @@
   "loon": {
     "category": "spot",
     "sounds": [
-      {
-        "name": "environs:ambient/birds/loon1"
-      },
-      {
-        "name": "environs:ambient/birds/loon2"
-      }
+      "environs:ambient/birds/loon1",
+      "environs:ambient/birds/loon2"
     ]
   },
   "monstergrowl": {
@@ -307,18 +261,10 @@
   "nightingale": {
     "category": "spot",
     "sounds": [
-      {
-        "name": "environs:ambient/birds/nightingale1"
-      },
-      {
-        "name": "environs:ambient/birds/nightingale2"
-      },
-      {
-        "name": "environs:ambient/birds/nightingale3"
-      },
-      {
-        "name": "environs:ambient/birds/nightingale4"
-      }
+      "environs:ambient/birds/nightingale1",
+      "environs:ambient/birds/nightingale2",
+      "environs:ambient/birds/nightingale3",
+      "environs:ambient/birds/nightingale4"
     ]
   },
   "ocean": {
@@ -375,20 +321,7 @@
   },
   "raptor": {
     "category": "spot",
-    "sounds": [
-      {
-        "name": "environs:ambient/birds/bald_eagle_chirp",
-        "weight": 2
-      },
-      {
-        "name": "environs:ambient/birds/red_tailed_hawk",
-        "weight": 1
-      },
-      {
-        "name": "environs:ambient/birds/red_shouldered_hawk",
-        "weight": 2
-      }
-    ]
+    "sounds": []
   },
   "river": {
     "category": "biomes",
@@ -427,16 +360,7 @@
   },
   "seagulls": {
     "category": "spot",
-    "sounds": [
-      {
-        "name": "environs:ambient/seagulls/seagulls1",
-        "volume": 0.3
-      },
-      {
-        "name": "environs:ambient/seagulls/seagulls2",
-        "volume": 0.3
-      }
-    ]
+    "sounds": []
   },
   "silence": {
     "category": "ambient",
@@ -446,30 +370,11 @@
   },
   "soulsand": {
     "category": "spot",
-    "sounds": [
-      {
-        "name": "environs:ambient/soulsand/soulsand1",
-        "volume": 0.2
-      },
-      {
-        "name": "environs:ambient/soulsand/soulsand2",
-        "volume": 0.2
-      },
-      {
-        "name": "environs:ambient/soulsand/soulsand3",
-        "volume": 0.2
-      }
-    ]
+    "sounds": []
   },
   "theend": {
     "category": "biomes",
-    "sounds": [
-      {
-        "name": "environs:ambient/end/end",
-        "stream": true,
-        "volume": 0.2
-      }
-    ]
+    "sounds": []
   },
   "tummy": {
     "category": "player",
@@ -527,33 +432,15 @@
   },
   "village.anvil": {
     "category": "biomes",
-    "sounds": [
-      {
-        "name": "environs:ambient/village/anvil1"
-      },
-      {
-        "name": "environs:ambient/village/anvil2"
-      }
-    ]
+    "sounds": []
   },
   "village.dogbark": {
     "category": "biomes",
-    "sounds": [
-      "environs:ambient/village/dogbark1",
-      "environs:ambient/village/dogbark2",
-      "environs:ambient/village/dogbark3",
-      "environs:ambient/village/dogbark4",
-      "environs:ambient/village/dogbark5",
-      "environs:ambient/village/dogbark6"
-    ]
+    "sounds": []
   },
   "village.rooster": {
     "category": "biomes",
-    "sounds": [
-      "environs:ambient/village/rooster1",
-      "environs:ambient/village/rooster2",
-      "environs:ambient/village/rooster3"
-    ]
+    "sounds": []
   },
   "waterdrips": {
     "category": "spot",
@@ -576,7 +463,7 @@
     "category": "biomes",
     "sounds": [
       {
-        "attenuation_distance": 22,
+        "attenuation_distance": 24,
         "name": "environs:ambient/stream/waterfall0",
         "preload": true
       }
@@ -586,7 +473,7 @@
     "category": "biomes",
     "sounds": [
       {
-        "attenuation_distance": 22,
+        "attenuation_distance": 24,
         "name": "environs:ambient/stream/waterfall1",
         "preload": true
       }
@@ -596,7 +483,7 @@
     "category": "biomes",
     "sounds": [
       {
-        "attenuation_distance": 22,
+        "attenuation_distance": 24,
         "name": "environs:ambient/stream/waterfall2",
         "preload": true
       }
@@ -606,7 +493,7 @@
     "category": "biomes",
     "sounds": [
       {
-        "attenuation_distance": 22,
+        "attenuation_distance": 24,
         "name": "environs:ambient/stream/waterfall3",
         "preload": true
       }
@@ -616,7 +503,7 @@
     "category": "biomes",
     "sounds": [
       {
-        "attenuation_distance": 22,
+        "attenuation_distance": 24,
         "name": "environs:ambient/stream/waterfall4",
         "preload": true
       }
@@ -626,7 +513,7 @@
     "category": "biomes",
     "sounds": [
       {
-        "attenuation_distance": 22,
+        "attenuation_distance": 24,
         "name": "environs:ambient/stream/waterfall5",
         "preload": true
       }
@@ -668,24 +555,7 @@
   },
   "wolf": {
     "category": "spot",
-    "sounds": [
-      {
-        "name": "environs:ambient/wolf/wolf1",
-        "volume": 0.3
-      },
-      {
-        "name": "environs:ambient/wolf/wolf2",
-        "volume": 0.3
-      },
-      {
-        "name": "environs:ambient/wolf/wolf3",
-        "volume": 0.3
-      },
-      {
-        "name": "environs:ambient/wolf/wolf4",
-        "volume": 0.3
-      }
-    ]
+    "sounds": []
   },
   "woodpecker": {
     "category": "spot",

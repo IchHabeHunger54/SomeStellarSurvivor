@@ -1,6 +1,6 @@
 {
   "heartbeatin": {
-    "category": "master",
+    "category": "player",
     "sounds": [
       {
         "name": "enhancedvisuals:heartbeatin"
@@ -8,7 +8,7 @@
     ]
   },
   "heartbeatout": {
-    "category": "master",
+    "category": "player",
     "sounds": [
       {
         "name": "enhancedvisuals:heartbeatout"
@@ -16,7 +16,7 @@
     ]
   },
   "ringing": {
-    "category": "master",
+    "category": "player",
     "sounds": [
       {
         "name": "enhancedvisuals:ringing"
@@ -24,7 +24,7 @@
     ]
   },
   "ringing-short": {
-    "category": "master",
+    "category": "player",
     "sounds": [
       {
         "name": "enhancedvisuals:ringing-short"
