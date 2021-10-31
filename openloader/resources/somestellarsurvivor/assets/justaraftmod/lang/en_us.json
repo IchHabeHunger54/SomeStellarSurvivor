@@ -1,9 +1,1 @@
-{
-  "entity.justaraftmod.raft": "Raft",
-  "item.justaraftmod.acacia_raft": "Acacia Raft",
-  "item.justaraftmod.birch_raft": "Birch Raft",
-  "item.justaraftmod.dark_oak_raft": "Dark Oak Raft",
-  "item.justaraftmod.jungle_raft": "Jungle Raft",
-  "item.justaraftmod.oak_raft": "Oak Raft",
-  "item.justaraftmod.spruce_raft": "Spruce Raft"
-}
+{"entity.justaraftmod.raft":"Raft","item.justaraftmod.acacia_raft":"Acacia Raft","item.justaraftmod.birch_raft":"Birch Raft","item.justaraftmod.dark_oak_raft":"Dark Oak Raft","item.justaraftmod.jungle_raft":"Jungle Raft","item.justaraftmod.oak_raft":"Oak Raft","item.justaraftmod.spruce_raft":"Spruce Raft"}

@@ -1,8 +1,1 @@
-{
-  "biomes": [
-    {
-      "aurora": true,
-      "conditions": "TRUE"
-    }
-  ]
-}
+{"biomes":[{"aurora":true,"conditions":"TRUE"}]}

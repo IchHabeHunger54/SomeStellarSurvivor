@@ -1,7 +1,1 @@
-{
-  "abnormals_core.message.redirect": "Redirecting",
-  "abnormals_core.screen.slabfish_settings": "Slabfish Hat Settings",
-  "abnormals_core.screen.slabfish_settings.title": "Slabfish Hat Settings",
-  "abnormals_core.screen.slabfish_settings.tooltip": "Settings for the Team Abnormals patron slabfish hat. Become a patron at %s.",
-  "entity.abnormals_core.boat": "Boat"
-}
+{"abnormals_core.message.redirect":"Redirecting","abnormals_core.screen.slabfish_settings":"Slabfish Hat Settings","abnormals_core.screen.slabfish_settings.title":"Slabfish Hat Settings","abnormals_core.screen.slabfish_settings.tooltip":"Settings for the Team Abnormals patron slabfish hat. Become a patron at %s.","entity.abnormals_core.boat":"Boat"}

@@ -1,8 +1,1 @@
-{
-  "chat.clienttweaks.lastTorch": "Out of torches",
-  "chat.clienttweaks.off": "OFF",
-  "chat.clienttweaks.on": "ON",
-  "key.categories.clienttweaks": "Client Tweaks",
-  "key.clienttweaks.disableStepAssist": "Enable/Disable Step Assist",
-  "key.clienttweaks.hideOffhandItem": "Show/Hide Offhand Item"
-}
+{"chat.clienttweaks.lastTorch":"Out of torches","chat.clienttweaks.off":"OFF","chat.clienttweaks.on":"ON","key.categories.clienttweaks":"Client Tweaks","key.clienttweaks.disableStepAssist":"Enable/Disable Step Assist","key.clienttweaks.hideOffhandItem":"Show/Hide Offhand Item"}

@@ -1,8 +1,1 @@
-{
-  "biomes": [
-    {
-      "conditions": "TRUE",
-      "dust": false
-    }
-  ]
-}
+{"biomes":[{"conditions":"TRUE","dust":false}]}

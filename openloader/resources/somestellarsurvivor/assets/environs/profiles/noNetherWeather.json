@@ -1,10 +1,1 @@
-{
-  "dimensions": [
-    {
-      "dimId": -1,
-      "fog": false,
-      "haze": false,
-      "weather": false
-    }
-  ]
-}
+{"dimensions":[{"dimId":-1,"fog":false,"haze":false,"weather":false}]}

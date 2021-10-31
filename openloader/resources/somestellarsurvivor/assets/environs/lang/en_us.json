@@ -1,7 +1,1 @@
-{
-  "environs.modname": "Environs",
-  "environs.modname.tooltip": "Adds biome sounds and block effects to the Minecraft environment.",
-  "environs.soundcategory.biomes": "Biomes",
-  "environs.soundcategory.spotsounds": "Spot Sounds",
-  "environs.soundcategory.waterfall": "Waterfalls"
-}
+{"environs.modname":"Environs","environs.modname.tooltip":"Adds biome sounds and block effects to the Minecraft environment.","environs.soundcategory.biomes":"Biomes","environs.soundcategory.spotsounds":"Spot Sounds","environs.soundcategory.waterfall":"Waterfalls"}
