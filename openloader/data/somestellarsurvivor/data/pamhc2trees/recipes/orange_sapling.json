@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/orange"}],"result":{"item":"pamhc2trees:orange_sapling"},"type":"minecraft:crafting_shapeless"}

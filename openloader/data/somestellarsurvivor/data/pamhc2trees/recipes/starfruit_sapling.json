@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/starfruit"}],"result":{"item":"pamhc2trees:starfruit_sapling"},"type":"minecraft:crafting_shapeless"}

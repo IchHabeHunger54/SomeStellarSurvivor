@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/maple"}],"result":{"item":"pamhc2trees:maple_sapling"},"type":"minecraft:crafting_shapeless"}

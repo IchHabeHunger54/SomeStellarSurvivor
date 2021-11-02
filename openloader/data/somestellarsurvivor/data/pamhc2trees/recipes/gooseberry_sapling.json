@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/gooseberry"}],"result":{"item":"pamhc2trees:gooseberry_sapling"},"type":"minecraft:crafting_shapeless"}

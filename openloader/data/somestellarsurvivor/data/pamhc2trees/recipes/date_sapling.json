@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/date"}],"result":{"item":"pamhc2trees:date_sapling"},"type":"minecraft:crafting_shapeless"}

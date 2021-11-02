@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/banana"}],"result":{"item":"pamhc2trees:banana_sapling"},"type":"minecraft:crafting_shapeless"}

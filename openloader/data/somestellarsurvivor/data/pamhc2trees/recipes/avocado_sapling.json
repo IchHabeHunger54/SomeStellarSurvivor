@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/avocado"}],"result":{"item":"pamhc2trees:avocado_sapling"},"type":"minecraft:crafting_shapeless"}

@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/vanillabean"}],"result":{"item":"pamhc2trees:vanillabean_sapling"},"type":"minecraft:crafting_shapeless"}

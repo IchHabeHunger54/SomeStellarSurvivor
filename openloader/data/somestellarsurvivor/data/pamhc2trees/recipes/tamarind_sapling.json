@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/tamarind"}],"result":{"item":"pamhc2trees:tamarind_sapling"},"type":"minecraft:crafting_shapeless"}

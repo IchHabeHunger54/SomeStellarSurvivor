@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"ingredients":[{"tag":"forge:crops/olive"}],"result":{"item":"pamhc2trees:olive_sapling"},"type":"minecraft:crafting_shapeless"}
