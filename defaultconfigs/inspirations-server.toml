@@ -162,12 +162,12 @@
 
 		[tweaks.seeds.blockCrops]
 			#If true, adds seeds for cactus and sugar cane, useful for recipes for the crops
-			enable = true
+			enable = false
 			#If true, cactus and sugar cane will grow in 2 pixel increments using the block crops
-			smoothGrowth = true
+			smoothGrowth = false
 			#If true, allows bonemeal to be used to speed block crop growth
-			bonemeal = true
+			bonemeal = false
 			#If false, cactus seeds planted on cactus have fewer restrictions.
 			#Setting to true means cactus seeds are broken by neighboring blocks, meaning classic cactus farms will drop cactus seeds instead of full cactus.
-			nerfCactusFarms = true
+			nerfCactusFarms = false
 
