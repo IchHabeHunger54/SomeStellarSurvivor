@@ -27,7 +27,7 @@
 [search]
 	#Search mode for Mod Names (prefix: @)
 	#Allowed Values: ENABLED, REQUIRE_PREFIX, DISABLED
-	ModNameSearchMode = "DISABLED"
+	ModNameSearchMode = "REQUIRE_PREFIX"
 	#Search mode for Tooltips (prefix: #)
 	#Allowed Values: ENABLED, REQUIRE_PREFIX, DISABLED
 	TooltipSearchMode = "REQUIRE_PREFIX"

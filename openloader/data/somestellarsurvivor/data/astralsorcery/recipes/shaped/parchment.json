@@ -1,1 +1,1 @@
-{"key":{"A":{"item":"astralsorcery:aquamarine"},"P":{"item":"minecraft:paper"}},"pattern":["PPP","PAP"," PP"],"result":{"count":8,"item":"astralsorcery:parchment"},"type":"minecraft:crafting_shaped"}
+{"key":{"A":{"item":"astralsorcery:aquamarine"},"P":{"item":"minecraft:paper"}},"pattern":["PPP","PAP","PPP"],"result":{"count":8,"item":"astralsorcery:parchment"},"type":"minecraft:crafting_shaped"}
