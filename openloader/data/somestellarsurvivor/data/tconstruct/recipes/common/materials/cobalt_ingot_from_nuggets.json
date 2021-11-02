@@ -1,1 +1,1 @@
-{"key":{"#":{"tag":"forge:nuggets/cobalt"}},"pattern":["###","###","###"],"result":{"item":"tconstruct:cobalt_ingot"},"type":"minecraft:crafting_shaped"}
+{"key":{"#":{"item":"tconstruct:cobalt_nugget"}},"pattern":["###","###","###"],"result":{"item":"tconstruct:cobalt_ingot"},"type":"minecraft:crafting_shaped"}

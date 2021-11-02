@@ -1,1 +1,1 @@
-{"ingredient":{"tag":"forge:nuggets/iron"},"material":"tconstruct:iron","needed":9,"type":"tconstruct:material","value":1}
+{"ingredient":{"item":"minecraft:iron_nugget"},"material":"tconstruct:iron","needed":9,"type":"tconstruct:material","value":1}

@@ -1,1 +1,1 @@
-{"key":{"#":{"tag":"forge:nuggets/copper"}},"pattern":["###","###","###"],"result":{"item":"tconstruct:copper_ingot"},"type":"minecraft:crafting_shaped"}
+{"key":{"#":{"item":"tconstruct:copper_nugget"}},"pattern":["###","###","###"],"result":{"item":"tconstruct:copper_ingot"},"type":"minecraft:crafting_shaped"}
