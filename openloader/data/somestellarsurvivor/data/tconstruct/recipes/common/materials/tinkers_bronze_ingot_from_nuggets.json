@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"key":{"#":{"tag":"forge:nuggets/silicon_bronze"}},"pattern":["###","###","###"],"result":{"item":"tconstruct:tinkers_bronze_ingot"},"type":"minecraft:crafting_shaped"}

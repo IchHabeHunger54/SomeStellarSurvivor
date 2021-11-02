@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"key":{"#":{"item":"tconstruct:tinkers_bronze_ingot"}},"pattern":["###","###","###"],"result":{"item":"tconstruct:tinkers_bronze_block"},"type":"minecraft:crafting_shaped"}

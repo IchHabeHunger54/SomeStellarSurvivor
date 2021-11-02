@@ -1,1 +1,1 @@
-{"conditions":[{"type":"forge:false"}]}
+{"key":{"#":{"tag":"forge:nuggets/rose_gold"}},"pattern":["###","###","###"],"result":{"item":"tconstruct:rose_gold_ingot"},"type":"minecraft:crafting_shaped"}
