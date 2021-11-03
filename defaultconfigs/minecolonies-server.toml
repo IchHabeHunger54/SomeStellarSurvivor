@@ -31,10 +31,6 @@
 	#Max citizens in one colony. [Default: 250, min: 4, max: 500]
 	#Range: 4 ~ 500
 	maxcitizenpercolony = 200
-	#Should the Builder and Miner build without resources? (This also turns off what the Miner produces.) [Default: false]
-	builderinfiniteresources = false
-	#Should there be a max of 1 warehouse per colony? [Default: false]
-	limittoonewarehousepercolony = false
 	#Delay after each block placement (increasing it increases the delay). [Default: 15, min: 1, max: 500]
 	#Range: 1 ~ 500
 	builderbuildblockdelay = 15
@@ -45,9 +41,6 @@
 	enableindevelopmentfeatures = false
 	#Should citizen name tags be rendered? [Default: true]
 	alwaysrendernametag = true
-	#Child growth modifier. On average children take about 60min to grow at 1.0x modifier (the default). 5 = 5x as fast. [Default: 1,000000, min: 1,000000, max: 100,000000]
-	#Range: 1.0 ~ 100.0
-	growthmodifier = 1.0
 	#Should workers work during the rain? [Default: false]
 	workersalwaysworkinrain = false
 	#Should players be sent entering/leaving colony notifications? [Default: true]
@@ -66,8 +59,6 @@
 	#Chance for the Miner to get an ore when mining cobblestone or stone (by default, can be expanded with datapacks to other materials). This is a percentage. (To change which ores the Miner can find, see "List of Lucky Ores".) [Default: 1, min: 0, max: 100]
 	#Range: 0 ~ 100
 	luckyblockchance = 1
-	#Automatically fix orphaned chunks which were caused by chunk loading and saving issues. [Default: false]
-	fixorphanedchunks = false
 	#Should the Builder be slower when working underground? [Default: true]
 	restrictbuilderunderground = true
 	#Chance to get a sponge from the Fisher (starting at hut level 4). [Default: 0,100000, min: 0,000000, max: 100,000000]
@@ -100,6 +91,8 @@
 	#Max log count in one tree for the Forester to check during their tree search. [Default: 400, min: 1, max: 1000]
 	#Range: 1 ~ 1000
 	maxtreesize = 400
+	#minecolonies.config.nosupplyplacementrestrictions.comment [Default: false]
+	nosupplyplacementrestrictions = false
 
 #All configurations related to the research system
 [research]
