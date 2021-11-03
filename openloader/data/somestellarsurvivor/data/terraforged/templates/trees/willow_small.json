@@ -1,11 +1,1 @@
-{
-  "type": "tree",
-  "name": "terraforged:willow_small",
-  "paths": [
-    "terraforged:trees/willow/small"
-  ],
-  "config": {
-    "extend_base": 3,
-    "check_bounds": true
-  }
-}
+{"config":{"check_bounds":true,"extend_base":3},"name":"terraforged:willow_small","paths":["terraforged:trees/willow/small"],"type":"tree"}

@@ -1,6 +1,1 @@
-{
-  "config": {
-    "probability": 0.2
-  },
-  "type": "minecraft:cave"
-}
+{"config":{"probability":0.2},"type":"minecraft:cave"}

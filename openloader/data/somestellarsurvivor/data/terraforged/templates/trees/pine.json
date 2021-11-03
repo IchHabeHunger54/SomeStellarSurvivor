@@ -1,11 +1,1 @@
-{
-  "type": "tree",
-  "name": "terraforged:pine",
-  "paths": [
-    "terraforged:trees/pine"
-  ],
-  "config": {
-    "extend_base": 2,
-    "check_bounds": true
-  }
-}
+{"config":{"check_bounds":true,"extend_base":2},"name":"terraforged:pine","paths":["terraforged:trees/pine"],"type":"tree"}

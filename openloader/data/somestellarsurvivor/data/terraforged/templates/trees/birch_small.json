@@ -1,11 +1,1 @@
-{
-  "type": "tree",
-  "name": "terraforged:birch_small",
-  "paths": [
-    "terraforged:trees/birch/small"
-  ],
-  "config": {
-    "extend_base": 2,
-    "check_bounds": true
-  }
-}
+{"config":{"check_bounds":true,"extend_base":2},"name":"terraforged:birch_small","paths":["terraforged:trees/birch/small"],"type":"tree"}
