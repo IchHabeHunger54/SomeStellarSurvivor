@@ -92,7 +92,7 @@
 	#Range: 1 ~ 1000
 	maxtreesize = 400
 	#minecolonies.config.nosupplyplacementrestrictions.comment [Default: false]
-	nosupplyplacementrestrictions = false
+	nosupplyplacementrestrictions = true
 
 #All configurations related to the research system
 [research]
