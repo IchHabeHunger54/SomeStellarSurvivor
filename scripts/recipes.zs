@@ -123,9 +123,9 @@ craftingTable.addShapeless("cream_stone_brick_slab_revert", <item:structurize:cr
 craftingTable.addShapeless("mud_bricks_slab_revert", <item:tconstruct:mud_bricks>, [<item:tconstruct:mud_bricks_slab>, <item:tconstruct:mud_bricks_slab>]);
 craftingTable.addShapeless("lavawood_slab_revert", <item:tconstruct:lavawood>, [<item:tconstruct:lavawood_slab>, <item:tconstruct:lavawood>]);
 craftingTable.addShapeless("blazewood_slab_revert", <item:tconstruct:blazewood>, [<item:tconstruct:blazewood_slab>, <item:tconstruct:blazewood>]);
-craftingTable.addShapeless("seared_stone_slab_revert", <item:tconstruct:seared_stone>, [<item:tconstruct:seared_stone_slab>, <item:tconstruct:seared_stone>]);
-craftingTable.addShapeless("seared_cobble_slab_revert", <item:tconstruct:seared_cobble>, [<item:tconstruct:seared_cobble_slab>, <item:tconstruct:seared_cobble>]);
-craftingTable.addShapeless("seared_paver_slab_revert", <item:tconstruct:seared_paver>, [<item:tconstruct:seared_paver_slab>, <item:tconstruct:seared_paver>]);
-craftingTable.addShapeless("seared_bricks_slab_revert", <item:tconstruct:seared_bricks>, [<item:tconstruct:seared_bricks_slab>, <item:tconstruct:seared_bricks>]);
-craftingTable.addShapeless("scorched_bricks_slab_revert", <item:tconstruct:scorched_bricks>, [<item:tconstruct:scorched_bricks_slab>, <item:tconstruct:scorched_bricks>]);
-craftingTable.addShapeless("scorched_road_slab_revert", <item:tconstruct:scorched_road>, [<item:tconstruct:scorched_road_slab>, <item:tconstruct:scorched_road>]);
+craftingTable.addShapeless("seared_stone_slab_revert", <item:tconstruct:seared_stone>, [<item:tconstruct:seared_stone_slab>, <item:tconstruct:seared_stone_slab>]);
+craftingTable.addShapeless("seared_cobble_slab_revert", <item:tconstruct:seared_cobble>, [<item:tconstruct:seared_cobble_slab>, <item:tconstruct:seared_cobble_slab>]);
+craftingTable.addShapeless("seared_paver_slab_revert", <item:tconstruct:seared_paver>, [<item:tconstruct:seared_paver_slab>, <item:tconstruct:seared_paver_slab>]);
+craftingTable.addShapeless("seared_bricks_slab_revert", <item:tconstruct:seared_bricks>, [<item:tconstruct:seared_bricks_slab>, <item:tconstruct:seared_bricks_slab>]);
+craftingTable.addShapeless("scorched_bricks_slab_revert", <item:tconstruct:scorched_bricks>, [<item:tconstruct:scorched_bricks_slab>, <item:tconstruct:scorched_bricks_slab>]);
+craftingTable.addShapeless("scorched_road_slab_revert", <item:tconstruct:scorched_road>, [<item:tconstruct:scorched_road_slab>, <item:tconstruct:scorched_road_slab>]);
