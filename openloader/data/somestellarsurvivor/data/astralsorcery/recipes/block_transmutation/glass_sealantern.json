@@ -1,1 +1,1 @@
-{"display":{"item":"minecraft:sea_lantern"},"input":[{"block":"minecraft:glass","display":{"item":"minecraft:glass"}}],"output":{"block":"minecraft:sea_lantern"},"starlight":800,"type":"astralsorcery:block_transmutation"}
+{"display":{"item":"minecraft:sea_lantern"},"input":[{"block":"minecraft:glass","display":{"item":"minecraft:glass"}}],"output":{"block":"minecraft:sea_lantern"},"starlight":400,"type":"astralsorcery:block_transmutation"}

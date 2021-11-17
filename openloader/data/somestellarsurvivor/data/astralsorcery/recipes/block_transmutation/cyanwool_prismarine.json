@@ -1,1 +1,1 @@
-{"display":{"item":"minecraft:prismarine"},"input":[{"block":"minecraft:cyan_wool","display":{"item":"minecraft:cyan_wool"}}],"output":{"block":"minecraft:prismarine"},"starlight":800,"type":"astralsorcery:block_transmutation"}
+{"display":{"item":"minecraft:prismarine"},"input":[{"block":"minecraft:cyan_wool","display":{"item":"minecraft:cyan_wool"}}],"output":{"block":"minecraft:prismarine"},"starlight":400,"type":"astralsorcery:block_transmutation"}

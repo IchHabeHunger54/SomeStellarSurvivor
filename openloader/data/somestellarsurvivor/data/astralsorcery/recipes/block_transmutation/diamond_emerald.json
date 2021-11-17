@@ -1,1 +1,1 @@
-{"display":{"item":"minecraft:emerald_ore"},"input":[{"block":"minecraft:diamond_ore","display":{"item":"minecraft:diamond_ore"}}],"output":{"block":"minecraft:emerald_ore"},"starlight":800,"type":"astralsorcery:block_transmutation"}
+{"display":{"item":"minecraft:emerald_ore"},"input":[{"block":"minecraft:diamond_ore","display":{"item":"minecraft:diamond_ore"}}],"output":{"block":"minecraft:emerald_ore"},"starlight":400,"type":"astralsorcery:block_transmutation"}
